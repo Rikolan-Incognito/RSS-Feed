@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+	<channel>
+		<title>Sissejuhatus</title>
+		<description>Piibliõppesarjas &quot;Piibel kaanest kaaneni&quot; loeb ja seletab õpetaja Aare Kimmel (EELK) salm-salmi kaupa ära terve Piibli, nii Vana kui Uue Testamendi raamatud, sidudes loetut tänapäevaga.</description>
+		<link>http://www.pereraadio.ee</link>
+		<language>es</language>
+		<image>
+			<url>https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/Sissejuhatus.png</url>
+			<title>Piibel kaanest kaaneni</title>
+			<link>http://www.pereraadio.ee</link>
+		</image>
+		<itunes:type>episodic</itunes:type>
+		<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+		<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/Sissejuhatus.png"/>
+		<itunes:category text="Education">
+		</itunes:category>
+
+		<item>
+			<title>Raamatute raamat</title>
+			<description>Sissejuhatus, Raamatute raamat</description>
+			<pubDate>Fri, 09 Mar 2001 09:57:20 GMT</pubDate>
+			<itunes:title>Raamatute raamat</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/Sissejuhatus.png"/>
+			<itunes:duration>1731</itunes:duration>
+			<guid>1</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/00_Piibli_sissejuhatus/PKK_0001_020106.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Piibel - Jumala ilmutus</title>
+			<description>Sissejuhatus, Piibel - Jumala ilmutus</description>
+			<pubDate>Sat, 10 Mar 2001 09:57:20 GMT</pubDate>
+			<itunes:title>Piibel - Jumala ilmutus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>2</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/Sissejuhatus.png"/>
+			<itunes:duration>1760</itunes:duration>
+			<guid>2</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/00_Piibli_sissejuhatus/PKK_0002_030106.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Piibli usaldusväärsus</title>
+			<description>Sissejuhatus, Piibli usaldusväärsus</description>
+			<pubDate>Sun, 11 Mar 2001 09:57:20 GMT</pubDate>
+			<itunes:title>Piibli usaldusväärsus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>3</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/Sissejuhatus.png"/>
+			<itunes:duration>1762</itunes:duration>
+			<guid>3</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/00_Piibli_sissejuhatus/PKK_0003_040106.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Kuidas uurida piiblit</title>
+			<description>Sissejuhatus, Kuidas uurida piiblit</description>
+			<pubDate>Mon, 12 Mar 2001 09:57:20 GMT</pubDate>
+			<itunes:title>Kuidas uurida piiblit</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>4</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/Sissejuhatus.png"/>
+			<itunes:duration>1735</itunes:duration>
+			<guid>4</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/00_Piibli_sissejuhatus/PKK_0004_050106.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Kuidas lugeda piiblit</title>
+			<description>Sissejuhatus, Kuidas lugeda piiblit</description>
+			<pubDate>Tue, 13 Mar 2001 09:57:20 GMT</pubDate>
+			<itunes:title>Kuidas lugeda piiblit</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>5</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/Sissejuhatus.png"/>
+			<itunes:duration>1652</itunes:duration>
+			<guid>5</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/00_Piibli_sissejuhatus/PKK_0005_060106.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+	</channel>
+</rss>
