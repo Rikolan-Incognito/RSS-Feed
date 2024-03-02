@@ -1,0 +1,737 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+
+    @media only screen and (orientation: landscape) {
+      body {
+        font-family: Arial, sans-serif;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+        background-color: #fff1d3;
+        height:fit-content;
+      }
+
+      #customNotification {
+      display: none;
+      position: fixed;
+      top: 10px;
+      left: 50%;
+      transform: translateX(-50%);
+      background-color: #4CAF50;
+      color: white;
+      padding: 15px;
+      border-radius: 10px;
+      text-align: center;
+      font-size: 16px;
+      font-weight: bold;
+      z-index: 1;
+      }
+
+      #container {
+        position: relative;
+        text-align: center;
+        align-content: center;
+        width: 450px;
+        font-size: 16px;
+        font-weight: bold;
+      }
+
+      .hide {
+        display: none;
+      }
+
+      #coverImage img {
+        width: 220px; /* Set the width of your image */
+        height: 220px; /* Set the height of your image */
+        object-fit: cover;
+        border-radius: 15px;
+        margin-bottom: 15px;
+        margin-top: 120px;
+      }
+
+      #contentList {
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 300px;
+      }
+
+      #description {
+        display: flex;
+        flex-direction: row;
+        font-size: 20px;
+        background-color: transparent;
+        color: #000000;
+        border: none;
+        border-radius: 10px;
+        margin-top: 21px;
+        font-weight:bolder;
+        width: 450px;
+        height: 50px;
+        align-items: center;
+        justify-content: center;
+      }
+
+      #content {
+        display: flex;
+        flex-direction: row;
+        font-size: 16px;
+        cursor: pointer;
+        background-color: #291c0042;
+        color: #291c00;
+        border: none;
+        border-radius: 10px;
+        transition: background-color 0.3s ease;
+        margin-top: 7px;
+        font-weight:bolder;
+        width: 450px;
+        height: 70px;
+        align-items: center;
+        text-align: left;
+      }
+
+      #thumbnail {
+        margin-right: 20px;
+        margin-left: 5px;
+        width: 50px; /* Set the width of your image */
+        height: 50px; /* Set the height of your image */
+        border-radius: 5px;
+      }
+
+      #content:hover {
+        background-color: #291c00;
+        color: #fff1d3;
+      }
+    }
+
+    @media only screen and (orientation: portrait) {
+      body {
+        font-family: Arial, sans-serif;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        background-color: #fff1d3;
+        height:fit-content;
+      }
+
+      #customNotification {
+      display: none;
+      position: fixed;
+      top: 10px;
+      left: 50%;
+      transform: translateX(-50%);
+      background-color: #4CAF50;
+      color: white;
+      padding: 15px;
+      border-radius: 10px;
+      text-align: center;
+      font-size: 16px;
+      font-weight: bold;
+      z-index: 1;
+      }
+
+      #container {
+        position: relative;
+        text-align: center;
+        align-content: center;
+        width: 97%;
+        font-size: 16px;
+        font-weight: bold;
+      }
+
+      .hide {
+        display: none;
+      }
+
+      #coverImage img {
+        width: 80%; /* Set the width of your image */
+        height: 80%; /* Set the height of your image */
+        object-fit: cover;
+        border-radius: 15px;
+        margin-bottom: 15px;
+        margin-top: 20%;
+      }
+
+      #contentList {
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 10%;
+      }
+
+      #description {
+        display: flex;
+        flex-direction: row;
+        font-size: 20px;
+        background-color: transparent;
+        color: #000000;
+        border: none;
+        margin-top: 21px;
+        font-weight:bolder;
+        width: 100%;
+        height: 50px;
+        align-items: center;
+        justify-content: center;
+      }
+
+      #content {
+        display: flex;
+        flex-direction: row;
+        font-size: 16px;
+        cursor: pointer;
+        background-color: #291c0042;
+        color: #291c00;
+        border: none;
+        border-radius: 10px;
+        transition: background-color 0.3s ease;
+        margin-top: 14px;
+        font-weight:bolder;
+        width: 100%;
+        height: 70px;
+        align-items: center;
+        text-align: left;
+      }
+
+      #thumbnail {
+        margin-right: 20px;
+        margin-left: 5px;
+        width: 50px; /* Set the width of your image */
+        height: 50px; /* Set the height of your image */
+        border-radius: 5px;
+      }
+
+      #content:hover {
+        background-color: #291c00;
+        color: #fff1d3;
+      }
+    }
+
+
+  </style>
+</head>
+<body>
+
+  <div id="customNotification">Link sai kopeeritud!</div>
+
+  <div id="container">
+
+    <div id="coverImage">
+      <img src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/pkk.png" alt="Image with rounded corners">
+      <p> Tegemist on ebaametliku "Piibel kaanest kaaneni" RSS-feed podcastiga. RSS-feed formaat võimaldab saadet lisada eelistatud programmi, milleks võib olla "Overcast", "Apple Podcasts" ja muud. Saadete allikaks on www.pereraadio.ee</p>
+    </div>
+
+
+    <div id="contentList">
+
+      <div>
+        <button id="description">
+          <p>- Terve Piibel -</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/pkk.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/pkk.png">
+          <p>Terve Piibel</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="description">
+          <p>- Sissejuhatus -</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Sissejuhatus.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Sissejuhatus.png">
+          <p>Sissejuhatus</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="description">
+          <p>- Vana Testament -</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Esimene_Moosese_raamat.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esimene_Moosese_raamat.png">
+          <p>Esimene Moosese raamat</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Teine_Moosese_raamat.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Moosese_raamat.png">
+          <p>Teine Moosese raamat</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Kolmas_Moosese_raamat.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kolmas_Moosese_raamat.png">
+          <p>Kolmas Moosese raamat</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Neljas_Moosese_raamat.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Neljas_Moosese_raamat.png">
+          <p>Neljas Moosese raamat</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Viies_Moosese_raamat.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Viies_Moosese_raamat.png">
+          <p>Viies Moosese raamat</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Joosua.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Joosua.png">
+          <p>Joosua</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Kohtumõistjate_raamat.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kohtumõistjate_raamat.png">
+          <p>Kohtumõistjate raamat</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Rutt.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Rutt.png">
+          <p>Rutt</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Esimene_Saamueli_raamat.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esimene_Saamueli_raamat.png">
+          <p>Esimene Saamueli raamat</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Teine_Saamueli_raamat.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Saamueli_raamat.png">
+          <p>Teine Saamueli raamat</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Esimene_Kuningate_raamat.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esimene_Kuningate_raamat.png">
+          <p>Esimene Kuningate raamat</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Teine_Kuningate_raamat.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Kuningate_raamat.png">
+          <p>Teine Kuningate raamat</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Esimene_ajaraamat.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esimene_ajaraamat.png">
+          <p>Esimene ajaraamat</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Teine_ajaraamat.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_ajaraamat.png">
+          <p>Teine ajaraamat</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Esra.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esra.png">
+          <p>Esra</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Nehemja.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Nehemja.png">
+          <p>Nehemja</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Ester.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Ester.png">
+          <p>Ester</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Iiob.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Iiob.png">
+          <p>Iiob</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Psalmid_(Laulud).xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png">
+          <p>Psalmid (Laulud)</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Õpetussõnad.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Õpetussõnad.png">
+          <p>Õpetussõnad</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Koguja.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Koguja.png">
+          <p>Koguja</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Ülemlaul.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Ülemlaul.png">
+          <p>Ülemlaul</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Jesaja.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jesaja.png">
+          <p>Jesaja</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Jeremija.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jeremija.png">
+          <p>Jeremija</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Nutulaulud.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Nutulaulud.png">
+          <p>Nutulaulud</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Hesekiel.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Hesekiel.png">
+          <p>Hesekiel</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Taaniel.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Taaniel.png">
+          <p>Taaniel</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Hoosea.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Hoosea.png">
+          <p>Hoosea</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Joel.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Joel.png">
+          <p>Joel</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Aamos.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Aamos.png">
+          <p>Aamos</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Obadja.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Obadja.png">
+          <p>Obadja</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Joona.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Joona.png">
+          <p>Joona</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Miika.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Miika.png">
+          <p>Miika</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Nahum.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Nahum.png">
+          <p>Nahum</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Habakuk.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Habakuk.png">
+          <p>Habakuk</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Sefanja.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Sefanja.png">
+          <p>Sefanja</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Haggai.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Haggai.png">
+          <p>Haggai</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Sakarja.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Sakarja.png">
+          <p>Sakarja</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Malaki.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Malaki.png">
+          <p>Malaki</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="description">
+          <p>- Uus Testament -</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Matteuse_evangeelium.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png">
+          <p>Matteuse evangeelium</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Markuse_evangeelium.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Markuse_evangeelium.png">
+          <p>Markuse evangeelium</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Luuka_evangeelium.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Luuka_evangeelium.png">
+          <p>Luuka evangeelium</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Johannese_evangeelium.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_evangeelium.png">
+          <p>Johannese evangeelium</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Apostlite_teod.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Apostlite_teod.png">
+          <p>Apostlite teod</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Pauluse_kiri_roomlastele.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_roomlastele.png">
+          <p>Pauluse kiri roomlastele</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Pauluse_esimene_kiri_korintlastele.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_esimene_kiri_korintlastele.png">
+          <p>Pauluse esimene kiri korintlastele</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Pauluse_teine_kiri_korintlastele.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_teine_kiri_korintlastele.png">
+          <p>Pauluse teine kiri korintlastele</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Pauluse_kiri_galaatlastele.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_galaatlastele.png">
+          <p>Pauluse kiri galaatlastele</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Pauluse_kiri_efeslastele.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_efeslastele.png">
+          <p>Pauluse kiri efeslastele</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Pauluse_kiri_filiplastele.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_filiplastele.png">
+          <p>Pauluse kiri filiplastele</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Pauluse_kiri_koloslastele.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_koloslastele.png">
+          <p>Pauluse kiri koloslastele</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Pauluse_esimene_kiri_tessalooniklastele.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_esimene_kiri_tessalooniklastele.png">
+          <p>Pauluse esimene kiri tessalooniklastele</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Pauluse_teine_kiri_tessalooniklastele.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_teine_kiri_tessalooniklastele.png">
+          <p>Pauluse teine kiri tessalooniklastele</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Pauluse_esimene_kiri_Timoteosele.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_esimene_kiri_Timoteosele.png">
+          <p>Pauluse esimene kiri Timoteosele</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Pauluse_teine_kiri_Timoteosele.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_teine_kiri_Timoteosele.png">
+          <p>Pauluse teine kiri Timoteosele</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Pauluse_kiri_Tiitusele.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_Tiitusele.png">
+          <p>Pauluse kiri Tiitusele</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Pauluse_kiri_Fileemonile.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_Fileemonile.png">
+          <p>Pauluse kiri Fileemonile</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Kiri_heebrealastele.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kiri_heebrealastele.png">
+          <p>Kiri heebrealastele</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Jaakobuse_kiri.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jaakobuse_kiri.png">
+          <p>Jaakobuse kiri</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Peetruse_esimene_kiri.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Peetruse_esimene_kiri.png">
+          <p>Peetruse esimene kiri</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Peetruse_teine_kiri.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Peetruse_teine_kiri.png">
+          <p>Peetruse teine kiri</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Johannese_esimene_kiri.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_esimene_kiri.png">
+          <p>Johannese esimene kiri</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Johannese_teine_kiri.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_teine_kiri.png">
+          <p>Johannese teine kiri</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Johannese_kolmas_kiri.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_kolmas_kiri.png">
+          <p>Johannese kolmas kiri</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Juuda_kiri.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Juuda_kiri.png">
+          <p>Juuda kiri</p>
+        </button>
+      </div>
+
+      <div>
+        <button id="content" onclick="copyToClipboard('https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/raamatud/Johannese_ilmutus.xml')">
+          <img id="thumbnail" src="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_ilmutus.png">
+          <p>Johannese ilmutus</p>
+        </button>
+      </div>
+        
+    </div>
+  </div>
+
+
+  <script src="script.js"></script>
+</body>
+</html>
