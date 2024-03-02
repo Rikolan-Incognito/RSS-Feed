@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+	<channel>
+		<title>Viies Moosese raamat</title>
+		<description>Piibliõppesarjas &quot;Piibel kaanest kaaneni&quot; loeb ja seletab õpetaja Aare Kimmel (EELK) salm-salmi kaupa ära terve Piibli, nii Vana kui Uue Testamendi raamatud, sidudes loetut tänapäevaga.</description>
+		<link>http://www.pereraadio.ee</link>
+		<language>es</language>
+		<image>
+			<url>https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Viies_Moosese_raamat.png</url>
+			<title>Piibel kaanest kaaneni</title>
+			<link>http://www.pereraadio.ee</link>
+		</image>
+		<itunes:type>episodic</itunes:type>
+		<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+		<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Viies_Moosese_raamat.png"/>
+		<itunes:category text="Education">
+		</itunes:category>
+
+		<item>
+			<title>5Ms 1:1-46 - Raamat armastusest</title>
+			<description>Vana Testament, Viies Moosese raamat, 1:1-46 salm</description>
+			<pubDate>Thu, 30 Aug 2001 10:29:47 GMT</pubDate>
+			<itunes:title>5Ms 1:1-46 - Raamat armastusest</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>175</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Viies_Moosese_raamat.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>175</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/05_5Ms/PKK_0364_240507.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>5Ms 2:1-3:20 - Meenuta ja õpi</title>
+			<description>Vana Testament, Viies Moosese raamat, 2:1-3:20 salm</description>
+			<pubDate>Fri, 31 Aug 2001 10:29:47 GMT</pubDate>
+			<itunes:title>5Ms 2:1-3:20 - Meenuta ja õpi</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>176</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Viies_Moosese_raamat.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>176</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/05_5Ms/PKK_0365_250507.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>5Ms 3:23-4:31 - Jumal armastab sind</title>
+			<description>Vana Testament, Viies Moosese raamat, 3:23-4:31 salm</description>
+			<pubDate>Sat, 01 Sep 2001 10:29:47 GMT</pubDate>
+			<itunes:title>5Ms 3:23-4:31 - Jumal armastab sind</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>177</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Viies_Moosese_raamat.png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>177</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/05_5Ms/PKK_0366_280507.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>5Ms 4:32-5:11 - Kas armastad käske</title>
+			<description>Vana Testament, Viies Moosese raamat, 4:32-5:11 salm</description>
+			<pubDate>Sun, 02 Sep 2001 10:29:47 GMT</pubDate>
+			<itunes:title>5Ms 4:32-5:11 - Kas armastad käske</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>178</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Viies_Moosese_raamat.png"/>
+			<itunes:duration>1773</itunes:duration>
+			<guid>178</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/05_5Ms/PKK_0367_290507.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>5Ms 5:12-21 - Käskude kordamine</title>
+			<description>Vana Testament, Viies Moosese raamat, 5:12-21 salm</description>
+			<pubDate>Mon, 03 Sep 2001 10:29:47 GMT</pubDate>
+			<itunes:title>5Ms 5:12-21 - Käskude kordamine</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>179</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Viies_Moosese_raamat.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>179</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/05_5Ms/PKK_0368_300507.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>5Ms 5:22-6:9 - Võta Sõna südamesse</title>
+			<description>Vana Testament, Viies Moosese raamat, 5:22-6:9 salm</description>
+			<pubDate>Tue, 04 Sep 2001 10:29:47 GMT</pubDate>
+			<itunes:title>5Ms 5:22-6:9 - Võta Sõna südamesse</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>180</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Viies_Moosese_raamat.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>180</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/05_5Ms/PKK_0369_310507.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>5Ms 6:10-7:26 - Hoidu ebajumalatest</title>
+			<description>Vana Testament, Viies Moosese raamat, 6:10-7:26 salm</description>
+			<pubDate>Wed, 05 Sep 2001 10:29:47 GMT</pubDate>
+			<itunes:title>5Ms 6:10-7:26 - Hoidu ebajumalatest</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>181</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Viies_Moosese_raamat.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>181</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/05_5Ms/PKK_0370_010607.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>5Ms 8:1-9:6 - Ära vaata endale</title>
+			<description>Vana Testament, Viies Moosese raamat, 8:1-9:6 salm</description>
+			<pubDate>Thu, 06 Sep 2001 10:29:47 GMT</pubDate>
+			<itunes:title>5Ms 8:1-9:6 - Ära vaata endale</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>182</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Viies_Moosese_raamat.png"/>
+			<itunes:duration>1767</itunes:duration>
+			<guid>182</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/05_5Ms/PKK_0371_040607.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>5Ms 9:7-10:16 - Südagi tuleb ümber lõigata</title>
+			<description>Vana Testament, Viies Moosese raamat, 9:7-10:16 salm</description>
+			<pubDate>Fri, 07 Sep 2001 10:29:47 GMT</pubDate>
+			<itunes:title>5Ms 9:7-10:16 - Südagi tuleb ümber lõigata</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>183</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Viies_Moosese_raamat.png"/>
+			<itunes:duration>1776</itunes:duration>
+			<guid>183</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/05_5Ms/PKK_0372_050607.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>5Ms 10:17-12:31 - Õnnistus ja needus</title>
+			<description>Vana Testament, Viies Moosese raamat, 10:17-12:31 salm</description>
+			<pubDate>Sat, 08 Sep 2001 10:29:47 GMT</pubDate>
+			<itunes:title>5Ms 10:17-12:31 - Õnnistus ja needus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>184</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Viies_Moosese_raamat.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>184</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/05_5Ms/PKK_0373_060607.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>5Ms 13:1-14:21 - Hoidu valeprohveteist</title>
+			<description>Vana Testament, Viies Moosese raamat, 13:1-14:21 salm</description>
+			<pubDate>Sun, 09 Sep 2001 10:29:47 GMT</pubDate>
+			<itunes:title>5Ms 13:1-14:21 - Hoidu valeprohveteist</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>185</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Viies_Moosese_raamat.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>185</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/05_5Ms/PKK_0374_070607.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>5Ms 14:22-16:20 - Kas mõtled vaestele</title>
+			<description>Vana Testament, Viies Moosese raamat, 14:22-16:20 salm</description>
+			<pubDate>Mon, 10 Sep 2001 10:29:47 GMT</pubDate>
+			<itunes:title>5Ms 14:22-16:20 - Kas mõtled vaestele</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>186</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Viies_Moosese_raamat.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>186</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/05_5Ms/PKK_0375_080607.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>5Ms 16:21-18:14 - Ega ohver ei lonka</title>
+			<description>Vana Testament, Viies Moosese raamat, 16:21-18:14 salm</description>
+			<pubDate>Tue, 11 Sep 2001 10:29:47 GMT</pubDate>
+			<itunes:title>5Ms 16:21-18:14 - Ega ohver ei lonka</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>187</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Viies_Moosese_raamat.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>187</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/05_5Ms/PKK_0376_110607.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>5Ms 18:15-19:21 - Prohvetluse proovikivid</title>
+			<description>Vana Testament, Viies Moosese raamat, 18:15-19:21 salm</description>
+			<pubDate>Wed, 12 Sep 2001 10:29:47 GMT</pubDate>
+			<itunes:title>5Ms 18:15-19:21 - Prohvetluse proovikivid</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>188</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Viies_Moosese_raamat.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>188</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/05_5Ms/PKK_0377_120607.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>5Ms 20:1-21:23 - Sõtta sobimatud</title>
+			<description>Vana Testament, Viies Moosese raamat, 20:1-21:23 salm</description>
+			<pubDate>Thu, 13 Sep 2001 10:29:47 GMT</pubDate>
+			<itunes:title>5Ms 20:1-21:23 - Sõtta sobimatud</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>189</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Viies_Moosese_raamat.png"/>
+			<itunes:duration>1794</itunes:duration>
+			<guid>189</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/05_5Ms/PKK_0378_130607.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>5Ms 22:1-23:2 - Aita abivajajat</title>
+			<description>Vana Testament, Viies Moosese raamat, 22:1-23:2 salm</description>
+			<pubDate>Fri, 14 Sep 2001 10:29:47 GMT</pubDate>
+			<itunes:title>5Ms 22:1-23:2 - Aita abivajajat</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>190</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Viies_Moosese_raamat.png"/>
+			<itunes:duration>1797</itunes:duration>
+			<guid>190</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/05_5Ms/PKK_0379_140607.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>5Ms 23:3-24:22 - Jäta vihk põllule</title>
+			<description>Vana Testament, Viies Moosese raamat, 23:3-24:22 salm</description>
+			<pubDate>Sat, 15 Sep 2001 10:29:47 GMT</pubDate>
+			<itunes:title>5Ms 23:3-24:22 - Jäta vihk põllule</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>191</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Viies_Moosese_raamat.png"/>
+			<itunes:duration>1792</itunes:duration>
+			<guid>191</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/05_5Ms/PKK_0380_150607.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>5Ms 25:1-26:19 - Pettus on kurjast</title>
+			<description>Vana Testament, Viies Moosese raamat, 25:1-26:19 salm</description>
+			<pubDate>Sun, 16 Sep 2001 10:29:47 GMT</pubDate>
+			<itunes:title>5Ms 25:1-26:19 - Pettus on kurjast</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>192</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Viies_Moosese_raamat.png"/>
+			<itunes:duration>1774</itunes:duration>
+			<guid>192</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/05_5Ms/PKK_0381_180607.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>5Ms 27:1-28:68 - Kaks tulevikku</title>
+			<description>Vana Testament, Viies Moosese raamat, 27:1-28:68 salm</description>
+			<pubDate>Mon, 17 Sep 2001 10:29:47 GMT</pubDate>
+			<itunes:title>5Ms 27:1-28:68 - Kaks tulevikku</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>193</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Viies_Moosese_raamat.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>193</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/05_5Ms/PKK_0382_190607.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>5Ms 28:69-30:10 - Leping annab elu</title>
+			<description>Vana Testament, Viies Moosese raamat, 28:69-30:10 salm</description>
+			<pubDate>Tue, 18 Sep 2001 10:29:47 GMT</pubDate>
+			<itunes:title>5Ms 28:69-30:10 - Leping annab elu</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>194</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Viies_Moosese_raamat.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>194</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/05_5Ms/PKK_0383_200607.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>5Ms 30:11-31:18 - Surm või elu</title>
+			<description>Vana Testament, Viies Moosese raamat, 30:11-31:18 salm</description>
+			<pubDate>Wed, 19 Sep 2001 10:29:47 GMT</pubDate>
+			<itunes:title>5Ms 30:11-31:18 - Surm või elu</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>195</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Viies_Moosese_raamat.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>195</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/05_5Ms/PKK_0384_210607.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>5Ms 31:19-32:31 - Moosese laul</title>
+			<description>Vana Testament, Viies Moosese raamat, 31:19-32:31 salm</description>
+			<pubDate>Thu, 20 Sep 2001 10:29:47 GMT</pubDate>
+			<itunes:title>5Ms 31:19-32:31 - Moosese laul</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>196</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Viies_Moosese_raamat.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>196</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/05_5Ms/PKK_0385_220607.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>5Ms 32:32-34:12 - Mooses sureb</title>
+			<description>Vana Testament, Viies Moosese raamat, 32:32-34:12 salm</description>
+			<pubDate>Fri, 21 Sep 2001 10:29:47 GMT</pubDate>
+			<itunes:title>5Ms 32:32-34:12 - Mooses sureb</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>197</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Viies_Moosese_raamat.png"/>
+			<itunes:duration>1787</itunes:duration>
+			<guid>197</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/05_5Ms/PKK_0386_250607.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+	</channel>
+</rss>

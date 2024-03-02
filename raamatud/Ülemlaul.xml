@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+	<channel>
+		<title>Ülemlaul</title>
+		<description>Piibliõppesarjas &quot;Piibel kaanest kaaneni&quot; loeb ja seletab õpetaja Aare Kimmel (EELK) salm-salmi kaupa ära terve Piibli, nii Vana kui Uue Testamendi raamatud, sidudes loetut tänapäevaga.</description>
+		<link>http://www.pereraadio.ee</link>
+		<language>es</language>
+		<image>
+			<url>https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Ülemlaul.png</url>
+			<title>Piibel kaanest kaaneni</title>
+			<link>http://www.pereraadio.ee</link>
+		</image>
+		<itunes:type>episodic</itunes:type>
+		<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+		<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Ülemlaul.png"/>
+		<itunes:category text="Education">
+		</itunes:category>
+
+		<item>
+			<title>Sissejuhatus Ülemlaulu</title>
+			<description>Vana Testament, Ülemlaul, Ülemlaulu salm</description>
+			<pubDate>Mon, 22 Jul 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Sissejuhatus Ülemlaulu</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>501</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Ülemlaul.png"/>
+			<itunes:duration>1802</itunes:duration>
+			<guid>501</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/22_Yl/PKK_0878_230909.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ül 1:1-3 - Nimeks võideõli</title>
+			<description>Vana Testament, Ülemlaul, 1:1-3 salm</description>
+			<pubDate>Tue, 23 Jul 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ül 1:1-3 - Nimeks võideõli</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>502</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Ülemlaul.png"/>
+			<itunes:duration>1802</itunes:duration>
+			<guid>502</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/22_Yl/PKK_0879_240909.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ül 1:4-6 - Inetu: kuid ilus</title>
+			<description>Vana Testament, Ülemlaul, 1:4-6 salm</description>
+			<pubDate>Wed, 24 Jul 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ül 1:4-6 - Inetu: kuid ilus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>503</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Ülemlaul.png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>503</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/22_Yl/PKK_0880_250909.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ül 1:7-12 - Kas nardiõli lõhnab</title>
+			<description>Vana Testament, Ülemlaul, 1:7-12 salm</description>
+			<pubDate>Thu, 25 Jul 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ül 1:7-12 - Kas nardiõli lõhnab</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>504</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Ülemlaul.png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>504</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/22_Yl/PKK_0881_280909.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ül 1:13-17 - Mürr ja henna</title>
+			<description>Vana Testament, Ülemlaul, 1:13-17 salm</description>
+			<pubDate>Fri, 26 Jul 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ül 1:13-17 - Mürr ja henna</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>505</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Ülemlaul.png"/>
+			<itunes:duration>1802</itunes:duration>
+			<guid>505</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/22_Yl/PKK_0882_290909.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ül 2:1-7 - Liilia ohakate hulgas</title>
+			<description>Vana Testament, Ülemlaul, 2:1-7 salm</description>
+			<pubDate>Sat, 27 Jul 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ül 2:1-7 - Liilia ohakate hulgas</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>506</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Ülemlaul.png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>506</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/22_Yl/PKK_0883_300909.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ül 2:8-17 - Väikesed rebased</title>
+			<description>Vana Testament, Ülemlaul, 2:8-17 salm</description>
+			<pubDate>Sun, 28 Jul 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ül 2:8-17 - Väikesed rebased</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>507</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Ülemlaul.png"/>
+			<itunes:duration>1802</itunes:duration>
+			<guid>507</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/22_Yl/PKK_0884_011009.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ül 3:1-11 - Leidmised</title>
+			<description>Vana Testament, Ülemlaul, 3:1-11 salm</description>
+			<pubDate>Mon, 29 Jul 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ül 3:1-11 - Leidmised</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>508</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Ülemlaul.png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>508</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/22_Yl/PKK_0885_021009.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ül 4:1-5:1 - Naudi oma aia vilja</title>
+			<description>Vana Testament, Ülemlaul, 4:1-5:1 salm</description>
+			<pubDate>Tue, 30 Jul 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ül 4:1-5:1 - Naudi oma aia vilja</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>509</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Ülemlaul.png"/>
+			<itunes:duration>1803</itunes:duration>
+			<guid>509</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/22_Yl/PKK_0886_051009.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ül 5:2-16 - Armastan siiski</title>
+			<description>Vana Testament, Ülemlaul, 5:2-16 salm</description>
+			<pubDate>Wed, 31 Jul 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ül 5:2-16 - Armastan siiski</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>510</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Ülemlaul.png"/>
+			<itunes:duration>1802</itunes:duration>
+			<guid>510</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/22_Yl/PKK_0887_061009.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ül 6:1-7:1 - Kaunis kui kuu</title>
+			<description>Vana Testament, Ülemlaul, 6:1-7:1 salm</description>
+			<pubDate>Thu, 01 Aug 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ül 6:1-7:1 - Kaunis kui kuu</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>511</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Ülemlaul.png"/>
+			<itunes:duration>1803</itunes:duration>
+			<guid>511</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/22_Yl/PKK_0888_071009.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ül 7:2-8:5 - Kallima imetlemine ei tüüta</title>
+			<description>Vana Testament, Ülemlaul, 7:2-8:5 salm</description>
+			<pubDate>Fri, 02 Aug 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ül 7:2-8:5 - Kallima imetlemine ei tüüta</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>512</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Ülemlaul.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>512</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/22_Yl/PKK_0889_081009.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ül 8:6-14 - Tugev nagu surm</title>
+			<description>Vana Testament, Ülemlaul, 8:6-14 salm</description>
+			<pubDate>Sat, 03 Aug 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ül 8:6-14 - Tugev nagu surm</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>513</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Ülemlaul.png"/>
+			<itunes:duration>1802</itunes:duration>
+			<guid>513</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/22_Yl/PKK_0890_091009.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+	</channel>
+</rss>

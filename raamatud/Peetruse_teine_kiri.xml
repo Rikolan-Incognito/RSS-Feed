@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+	<channel>
+		<title>Peetruse teine kiri</title>
+		<description>Piibliõppesarjas &quot;Piibel kaanest kaaneni&quot; loeb ja seletab õpetaja Aare Kimmel (EELK) salm-salmi kaupa ära terve Piibli, nii Vana kui Uue Testamendi raamatud, sidudes loetut tänapäevaga.</description>
+		<link>http://www.pereraadio.ee</link>
+		<language>es</language>
+		<image>
+			<url>https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Peetruse_teine_kiri.png</url>
+			<title>Piibel kaanest kaaneni</title>
+			<link>http://www.pereraadio.ee</link>
+		</image>
+		<itunes:type>episodic</itunes:type>
+		<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+		<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Peetruse_teine_kiri.png"/>
+		<itunes:category text="Education">
+		</itunes:category>
+
+		<item>
+			<title>2Pt 1:1 - Sissejuhatus 2. Peetruse kirja</title>
+			<description>Uus Testament, Peetruse teine kiri, 1:1 salm</description>
+			<pubDate>Mon, 11 Oct 2004 10:29:47 GMT</pubDate>
+			<itunes:title>2Pt 1:1 - Sissejuhatus 2. Peetruse kirja</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1314</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Peetruse_teine_kiri.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1314</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/61_2Pt/PKK_1214_290311.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Pt 1:2-4 - Kas tead või tunned Kristust?</title>
+			<description>Uus Testament, Peetruse teine kiri, 1:2-4 salm</description>
+			<pubDate>Tue, 12 Oct 2004 10:29:47 GMT</pubDate>
+			<itunes:title>2Pt 1:2-4 - Kas tead või tunned Kristust?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1315</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Peetruse_teine_kiri.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>1315</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/61_2Pt/PKK_1215_300311.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Pt 1:5-7 - 7-astmeline kasvutrepp</title>
+			<description>Uus Testament, Peetruse teine kiri, 1:5-7 salm</description>
+			<pubDate>Wed, 13 Oct 2004 10:29:47 GMT</pubDate>
+			<itunes:title>2Pt 1:5-7 - 7-astmeline kasvutrepp</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1316</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Peetruse_teine_kiri.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1316</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/61_2Pt/PKK_1216_310311.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Pt 1:8-15 - Ära jää laisaks</title>
+			<description>Uus Testament, Peetruse teine kiri, 1:8-15 salm</description>
+			<pubDate>Thu, 14 Oct 2004 10:29:47 GMT</pubDate>
+			<itunes:title>2Pt 1:8-15 - Ära jää laisaks</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1317</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Peetruse_teine_kiri.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1317</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/61_2Pt/PKK_1217_010411.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Pt 1:16-21 - Jumal ei räägi muistendeid</title>
+			<description>Uus Testament, Peetruse teine kiri, 1:16-21 salm</description>
+			<pubDate>Fri, 15 Oct 2004 10:29:47 GMT</pubDate>
+			<itunes:title>2Pt 1:16-21 - Jumal ei räägi muistendeid</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1318</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Peetruse_teine_kiri.png"/>
+			<itunes:duration>1797</itunes:duration>
+			<guid>1318</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/61_2Pt/PKK_1218_040411.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Pt 2:1-3 - Kas oleme nagu plastiliin?</title>
+			<description>Uus Testament, Peetruse teine kiri, 2:1-3 salm</description>
+			<pubDate>Sat, 16 Oct 2004 10:29:47 GMT</pubDate>
+			<itunes:title>2Pt 2:1-3 - Kas oleme nagu plastiliin?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1319</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Peetruse_teine_kiri.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1319</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/61_2Pt/PKK_1219_050411.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Pt 2:4-8 - Õiglaste hinge piin ja usk</title>
+			<description>Uus Testament, Peetruse teine kiri, 2:4-8 salm</description>
+			<pubDate>Sun, 17 Oct 2004 10:29:47 GMT</pubDate>
+			<itunes:title>2Pt 2:4-8 - Õiglaste hinge piin ja usk</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1320</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Peetruse_teine_kiri.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1320</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/61_2Pt/PKK_1220_060411.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Pt 2:9-16 - Kui inglidki kohkuvad</title>
+			<description>Uus Testament, Peetruse teine kiri, 2:9-16 salm</description>
+			<pubDate>Mon, 18 Oct 2004 10:29:47 GMT</pubDate>
+			<itunes:title>2Pt 2:9-16 - Kui inglidki kohkuvad</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1321</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Peetruse_teine_kiri.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1321</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/61_2Pt/PKK_1221_070411.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Pt 2:17-22 - Lubab elu: aga toob surma</title>
+			<description>Uus Testament, Peetruse teine kiri, 2:17-22 salm</description>
+			<pubDate>Tue, 19 Oct 2004 10:29:47 GMT</pubDate>
+			<itunes:title>2Pt 2:17-22 - Lubab elu: aga toob surma</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1322</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Peetruse_teine_kiri.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1322</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/61_2Pt/PKK_1222_080411.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Pt 3:1-9 - Kui tõotus viibib</title>
+			<description>Uus Testament, Peetruse teine kiri, 3:1-9 salm</description>
+			<pubDate>Wed, 20 Oct 2004 10:29:47 GMT</pubDate>
+			<itunes:title>2Pt 3:1-9 - Kui tõotus viibib</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1323</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Peetruse_teine_kiri.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1323</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/61_2Pt/PKK_1223_110411.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Pt 3:10-13 - Issanda päeva tulek</title>
+			<description>Uus Testament, Peetruse teine kiri, 3:10-13 salm</description>
+			<pubDate>Thu, 21 Oct 2004 10:29:47 GMT</pubDate>
+			<itunes:title>2Pt 3:10-13 - Issanda päeva tulek</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1324</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Peetruse_teine_kiri.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>1324</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/61_2Pt/PKK_1224_120411.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Pt 3:14-18 - Jumal on kannatlik</title>
+			<description>Uus Testament, Peetruse teine kiri, 3:14-18 salm</description>
+			<pubDate>Fri, 22 Oct 2004 10:29:47 GMT</pubDate>
+			<itunes:title>2Pt 3:14-18 - Jumal on kannatlik</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1325</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Peetruse_teine_kiri.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>1325</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/61_2Pt/PKK_1225_130411.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+	</channel>
+</rss>

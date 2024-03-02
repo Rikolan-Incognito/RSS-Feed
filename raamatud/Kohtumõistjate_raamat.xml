@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+	<channel>
+		<title>Kohtumõistjate raamat</title>
+		<description>Piibliõppesarjas &quot;Piibel kaanest kaaneni&quot; loeb ja seletab õpetaja Aare Kimmel (EELK) salm-salmi kaupa ära terve Piibli, nii Vana kui Uue Testamendi raamatud, sidudes loetut tänapäevaga.</description>
+		<link>http://www.pereraadio.ee</link>
+		<language>es</language>
+		<image>
+			<url>https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kohtumõistjate_raamat.png</url>
+			<title>Piibel kaanest kaaneni</title>
+			<link>http://www.pereraadio.ee</link>
+		</image>
+		<itunes:type>episodic</itunes:type>
+		<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+		<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kohtumõistjate_raamat.png"/>
+		<itunes:category text="Education">
+		</itunes:category>
+
+		<item>
+			<title>Km 1:1-8 - Kes olid kohtumõistjad</title>
+			<description>Vana Testament, Kohtumõistjate raamat, 1:1-8 salm</description>
+			<pubDate>Wed, 03 Oct 2001 10:29:47 GMT</pubDate>
+			<itunes:title>Km 1:1-8 - Kes olid kohtumõistjad</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>209</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kohtumõistjate_raamat.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>209</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/07_Km/PKK_0398_160807.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Km 1:9-3:6 - Kaotustespiraal algab</title>
+			<description>Vana Testament, Kohtumõistjate raamat, 1:9-3:6 salm</description>
+			<pubDate>Thu, 04 Oct 2001 10:29:47 GMT</pubDate>
+			<itunes:title>Km 1:9-3:6 - Kaotustespiraal algab</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>210</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kohtumõistjate_raamat.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>210</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/07_Km/PKK_0399_170807.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Km 3:7-31 - Jumala vitsad</title>
+			<description>Vana Testament, Kohtumõistjate raamat, 3:7-31 salm</description>
+			<pubDate>Fri, 05 Oct 2001 10:29:47 GMT</pubDate>
+			<itunes:title>Km 3:7-31 - Jumala vitsad</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>211</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kohtumõistjate_raamat.png"/>
+			<itunes:duration>1774</itunes:duration>
+			<guid>211</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/07_Km/PKK_0400_200807.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Km 4:1-5:31 - Debora</title>
+			<description>Vana Testament, Kohtumõistjate raamat, 4:1-5:31 salm</description>
+			<pubDate>Sat, 06 Oct 2001 10:29:47 GMT</pubDate>
+			<itunes:title>Km 4:1-5:31 - Debora</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>212</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kohtumõistjate_raamat.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>212</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/07_Km/PKK_0401_210807.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Km 6:1-32 - Jumal julgustab kartlikku</title>
+			<description>Vana Testament, Kohtumõistjate raamat, 6:1-32 salm</description>
+			<pubDate>Sun, 07 Oct 2001 10:29:47 GMT</pubDate>
+			<itunes:title>Km 6:1-32 - Jumal julgustab kartlikku</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>213</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kohtumõistjate_raamat.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>213</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/07_Km/PKK_0402_220807.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Km 6:33-8:3 - Kruus, sarv ja tõrvik</title>
+			<description>Vana Testament, Kohtumõistjate raamat, 6:33-8:3 salm</description>
+			<pubDate>Mon, 08 Oct 2001 10:29:47 GMT</pubDate>
+			<itunes:title>Km 6:33-8:3 - Kruus, sarv ja tõrvik</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>214</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kohtumõistjate_raamat.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>214</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/07_Km/PKK_0403_230807.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Km 8:4-9:15 - Orjavitsa kaitse all</title>
+			<description>Vana Testament, Kohtumõistjate raamat, 8:4-9:15 salm</description>
+			<pubDate>Tue, 09 Oct 2001 10:29:47 GMT</pubDate>
+			<itunes:title>Km 8:4-9:15 - Orjavitsa kaitse all</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>215</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kohtumõistjate_raamat.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>215</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/07_Km/PKK_0404_240807.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Km 9:22-10:16 - Tappev võimuiha</title>
+			<description>Vana Testament, Kohtumõistjate raamat, 9:22-10:16 salm</description>
+			<pubDate>Wed, 10 Oct 2001 10:29:47 GMT</pubDate>
+			<itunes:title>Km 9:22-10:16 - Tappev võimuiha</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>216</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kohtumõistjate_raamat.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>216</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/07_Km/PKK_0405_270807.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Km 10:17-11:40 - Jefta mõtlematu lubadus</title>
+			<description>Vana Testament, Kohtumõistjate raamat, 10:17-11:40 salm</description>
+			<pubDate>Thu, 11 Oct 2001 10:29:47 GMT</pubDate>
+			<itunes:title>Km 10:17-11:40 - Jefta mõtlematu lubadus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>217</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kohtumõistjate_raamat.png"/>
+			<itunes:duration>1774</itunes:duration>
+			<guid>217</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/07_Km/PKK_0406_280807.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Km 12:1-13:25 - Ajab marru: millised me oleme</title>
+			<description>Vana Testament, Kohtumõistjate raamat, 12:1-13:25 salm</description>
+			<pubDate>Fri, 12 Oct 2001 10:29:47 GMT</pubDate>
+			<itunes:title>Km 12:1-13:25 - Ajab marru: millised me oleme</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>218</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kohtumõistjate_raamat.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>218</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/07_Km/PKK_0407_290807.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Km 14:1-15:20 - Meeldivad vaenlased</title>
+			<description>Vana Testament, Kohtumõistjate raamat, 14:1-15:20 salm</description>
+			<pubDate>Sat, 13 Oct 2001 10:29:47 GMT</pubDate>
+			<itunes:title>Km 14:1-15:20 - Meeldivad vaenlased</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>219</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kohtumõistjate_raamat.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>219</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/07_Km/PKK_0408_300807.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Km 16:1:31 - Hirmu ahelad</title>
+			<description>Vana Testament, Kohtumõistjate raamat, 16:1:31 salm</description>
+			<pubDate>Sun, 14 Oct 2001 10:29:47 GMT</pubDate>
+			<itunes:title>Km 16:1:31 - Hirmu ahelad</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>220</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kohtumõistjate_raamat.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>220</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/07_Km/PKK_0409_310807.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Km 17:1-18:31 - Omatehtud jumalateenistus</title>
+			<description>Vana Testament, Kohtumõistjate raamat, 17:1-18:31 salm</description>
+			<pubDate>Mon, 15 Oct 2001 10:29:47 GMT</pubDate>
+			<itunes:title>Km 17:1-18:31 - Omatehtud jumalateenistus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>221</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kohtumõistjate_raamat.png"/>
+			<itunes:duration>1779</itunes:duration>
+			<guid>221</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/07_Km/PKK_0410_030907.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Km 19:1-21:25 - Keset segadust</title>
+			<description>Vana Testament, Kohtumõistjate raamat, 19:1-21:25 salm</description>
+			<pubDate>Tue, 16 Oct 2001 10:29:47 GMT</pubDate>
+			<itunes:title>Km 19:1-21:25 - Keset segadust</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>222</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kohtumõistjate_raamat.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>222</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/07_Km/PKK_0411_040907.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+	</channel>
+</rss>

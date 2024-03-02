@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+	<channel>
+		<title>Habakuk</title>
+		<description>Piibliõppesarjas &quot;Piibel kaanest kaaneni&quot; loeb ja seletab õpetaja Aare Kimmel (EELK) salm-salmi kaupa ära terve Piibli, nii Vana kui Uue Testamendi raamatud, sidudes loetut tänapäevaga.</description>
+		<link>http://www.pereraadio.ee</link>
+		<language>es</language>
+		<image>
+			<url>https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Habakuk.png</url>
+			<title>Piibel kaanest kaaneni</title>
+			<link>http://www.pereraadio.ee</link>
+		</image>
+		<itunes:type>episodic</itunes:type>
+		<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+		<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Habakuk.png"/>
+		<itunes:category text="Education">
+		</itunes:category>
+
+		<item>
+			<title>Ha 1:1-2 - Sissejuhatus Habakuki raamatusse</title>
+			<description>Vana Testament, Habakuk, 1:1-2 salm</description>
+			<pubDate>Sun, 16 Mar 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ha 1:1-2 - Sissejuhatus Habakuki raamatusse</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>739</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Habakuk.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>739</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/35_Ha/PKK_1291_080911.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ha 1:3-11 - Kas Jumal ei tee midagi?</title>
+			<description>Vana Testament, Habakuk, 1:3-11 salm</description>
+			<pubDate>Mon, 17 Mar 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ha 1:3-11 - Kas Jumal ei tee midagi?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>740</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Habakuk.png"/>
+			<itunes:duration>1782</itunes:duration>
+			<guid>740</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/35_Ha/PKK_1292_090911.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ha 1:12-17 - Jumal teab: mis Ta teeb</title>
+			<description>Vana Testament, Habakuk, 1:12-17 salm</description>
+			<pubDate>Tue, 18 Mar 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ha 1:12-17 - Jumal teab: mis Ta teeb</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>741</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Habakuk.png"/>
+			<itunes:duration>1797</itunes:duration>
+			<guid>741</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/35_Ha/PKK_1293_120911.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ha 2:1-4 - Kirjuta selgelt</title>
+			<description>Vana Testament, Habakuk, 2:1-4 salm</description>
+			<pubDate>Wed, 19 Mar 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ha 2:1-4 - Kirjuta selgelt</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>742</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Habakuk.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>742</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/35_Ha/PKK_1294_130911.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ha 2:4 - Usu ja sa elad</title>
+			<description>Vana Testament, Habakuk, 2:4 salm</description>
+			<pubDate>Thu, 20 Mar 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ha 2:4 - Usu ja sa elad</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>743</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Habakuk.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>743</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/35_Ha/PKK_1295_140911.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ha 2:5-20 - Häda Baabülonile</title>
+			<description>Vana Testament, Habakuk, 2:5-20 salm</description>
+			<pubDate>Fri, 21 Mar 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ha 2:5-20 - Häda Baabülonile</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>744</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Habakuk.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>744</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/35_Ha/PKK_1296_150911.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ha 3:1-7 - Habakuki laul</title>
+			<description>Vana Testament, Habakuk, 3:1-7 salm</description>
+			<pubDate>Sat, 22 Mar 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ha 3:1-7 - Habakuki laul</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>745</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Habakuk.png"/>
+			<itunes:duration>1779</itunes:duration>
+			<guid>745</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/35_Ha/PKK_1297_160911.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ha 3:8-19 - Omadega mäel</title>
+			<description>Vana Testament, Habakuk, 3:8-19 salm</description>
+			<pubDate>Sun, 23 Mar 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ha 3:8-19 - Omadega mäel</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>746</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Habakuk.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>746</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/35_Ha/PKK_1298_190911.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+	</channel>
+</rss>

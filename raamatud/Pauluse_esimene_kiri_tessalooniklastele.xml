@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+	<channel>
+		<title>Pauluse esimene kiri tessalooniklastele</title>
+		<description>Piibliõppesarjas &quot;Piibel kaanest kaaneni&quot; loeb ja seletab õpetaja Aare Kimmel (EELK) salm-salmi kaupa ära terve Piibli, nii Vana kui Uue Testamendi raamatud, sidudes loetut tänapäevaga.</description>
+		<link>http://www.pereraadio.ee</link>
+		<language>es</language>
+		<image>
+			<url>https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_esimene_kiri_tessalooniklastele.png</url>
+			<title>Piibel kaanest kaaneni</title>
+			<link>http://www.pereraadio.ee</link>
+		</image>
+		<itunes:type>episodic</itunes:type>
+		<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+		<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_esimene_kiri_tessalooniklastele.png"/>
+		<itunes:category text="Education">
+		</itunes:category>
+
+		<item>
+			<title>1Ts 1:1 - Sissejuhatus 1. Tessalooniklaste kirja</title>
+			<description>Uus Testament, Pauluse esimene kiri tessalooniklastele, 1:1 salm</description>
+			<pubDate>Sun, 13 Jun 2004 10:29:47 GMT</pubDate>
+			<itunes:title>1Ts 1:1 - Sissejuhatus 1. Tessalooniklaste kirja</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1194</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_esimene_kiri_tessalooniklastele.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>1194</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/52_1Ts/PKK_0962_020210.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Ts 1:2-5 - Armastus jalad maas</title>
+			<description>Uus Testament, Pauluse esimene kiri tessalooniklastele, 1:2-5 salm</description>
+			<pubDate>Mon, 14 Jun 2004 10:29:47 GMT</pubDate>
+			<itunes:title>1Ts 1:2-5 - Armastus jalad maas</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1195</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_esimene_kiri_tessalooniklastele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1195</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/52_1Ts/PKK_0963_030210.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Ts 1:6-2:1 - Rõõm keset vaenu</title>
+			<description>Uus Testament, Pauluse esimene kiri tessalooniklastele, 1:6-2:1 salm</description>
+			<pubDate>Tue, 15 Jun 2004 10:29:47 GMT</pubDate>
+			<itunes:title>1Ts 1:6-2:1 - Rõõm keset vaenu</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1196</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_esimene_kiri_tessalooniklastele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1196</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/52_1Ts/PKK_0964_040210.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Ts 2:2-7a - Kuulutajate motiivid</title>
+			<description>Uus Testament, Pauluse esimene kiri tessalooniklastele, 2:2-7a salm</description>
+			<pubDate>Wed, 16 Jun 2004 10:29:47 GMT</pubDate>
+			<itunes:title>1Ts 2:2-7a - Kuulutajate motiivid</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1197</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_esimene_kiri_tessalooniklastele.png"/>
+			<itunes:duration>1776</itunes:duration>
+			<guid>1197</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/52_1Ts/PKK_0965_050210.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Ts 2:7-13 - Nagu ema ja isa</title>
+			<description>Uus Testament, Pauluse esimene kiri tessalooniklastele, 2:7-13 salm</description>
+			<pubDate>Thu, 17 Jun 2004 10:29:47 GMT</pubDate>
+			<itunes:title>1Ts 2:7-13 - Nagu ema ja isa</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1198</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_esimene_kiri_tessalooniklastele.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>1198</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/52_1Ts/PKK_0966_080210.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Ts 2:14-18 - Inimeste vaenlased</title>
+			<description>Uus Testament, Pauluse esimene kiri tessalooniklastele, 2:14-18 salm</description>
+			<pubDate>Fri, 18 Jun 2004 10:29:47 GMT</pubDate>
+			<itunes:title>1Ts 2:14-18 - Inimeste vaenlased</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1199</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_esimene_kiri_tessalooniklastele.png"/>
+			<itunes:duration>1786</itunes:duration>
+			<guid>1199</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/52_1Ts/PKK_0967_090210.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Ts 2:19-3:8 - Kas tuled mu kõrval</title>
+			<description>Uus Testament, Pauluse esimene kiri tessalooniklastele, 2:19-3:8 salm</description>
+			<pubDate>Sat, 19 Jun 2004 10:29:47 GMT</pubDate>
+			<itunes:title>1Ts 2:19-3:8 - Kas tuled mu kõrval</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1200</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_esimene_kiri_tessalooniklastele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1200</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/52_1Ts/PKK_0968_100210.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Ts 3:9-4:3 - Pühitsus toob rõõmu</title>
+			<description>Uus Testament, Pauluse esimene kiri tessalooniklastele, 3:9-4:3 salm</description>
+			<pubDate>Sun, 20 Jun 2004 10:29:47 GMT</pubDate>
+			<itunes:title>1Ts 3:9-4:3 - Pühitsus toob rõõmu</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1201</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_esimene_kiri_tessalooniklastele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1201</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/52_1Ts/PKK_0969_110210.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Ts 4:3-13 - Hoidu hooruse eest</title>
+			<description>Uus Testament, Pauluse esimene kiri tessalooniklastele, 4:3-13 salm</description>
+			<pubDate>Mon, 21 Jun 2004 10:29:47 GMT</pubDate>
+			<itunes:title>1Ts 4:3-13 - Hoidu hooruse eest</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1202</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_esimene_kiri_tessalooniklastele.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>1202</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/52_1Ts/PKK_0970_120210.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Ts 4:14-5:3 - Nagu varas öösel</title>
+			<description>Uus Testament, Pauluse esimene kiri tessalooniklastele, 4:14-5:3 salm</description>
+			<pubDate>Tue, 22 Jun 2004 10:29:47 GMT</pubDate>
+			<itunes:title>1Ts 4:14-5:3 - Nagu varas öösel</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1203</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_esimene_kiri_tessalooniklastele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1203</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/52_1Ts/PKK_0971_150210.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Ts 5:4-13 - Ole valvel</title>
+			<description>Uus Testament, Pauluse esimene kiri tessalooniklastele, 5:4-13 salm</description>
+			<pubDate>Wed, 23 Jun 2004 10:29:47 GMT</pubDate>
+			<itunes:title>1Ts 5:4-13 - Ole valvel</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1204</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_esimene_kiri_tessalooniklastele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1204</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/52_1Ts/PKK_0972_160210.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Ts 5:14-28 - Rõõmustage ja palvetage</title>
+			<description>Uus Testament, Pauluse esimene kiri tessalooniklastele, 5:14-28 salm</description>
+			<pubDate>Thu, 24 Jun 2004 10:29:47 GMT</pubDate>
+			<itunes:title>1Ts 5:14-28 - Rõõmustage ja palvetage</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1205</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_esimene_kiri_tessalooniklastele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1205</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/52_1Ts/PKK_0973_170210.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+	</channel>
+</rss>

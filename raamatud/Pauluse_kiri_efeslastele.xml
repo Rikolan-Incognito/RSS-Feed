@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+	<channel>
+		<title>Pauluse kiri efeslastele</title>
+		<description>Piibliõppesarjas &quot;Piibel kaanest kaaneni&quot; loeb ja seletab õpetaja Aare Kimmel (EELK) salm-salmi kaupa ära terve Piibli, nii Vana kui Uue Testamendi raamatud, sidudes loetut tänapäevaga.</description>
+		<link>http://www.pereraadio.ee</link>
+		<language>es</language>
+		<image>
+			<url>https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_efeslastele.png</url>
+			<title>Piibel kaanest kaaneni</title>
+			<link>http://www.pereraadio.ee</link>
+		</image>
+		<itunes:type>episodic</itunes:type>
+		<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+		<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_efeslastele.png"/>
+		<itunes:category text="Education">
+		</itunes:category>
+
+		<item>
+			<title>Milline on Efesos</title>
+			<description>Uus Testament, Pauluse kiri efeslastele, on salm</description>
+			<pubDate>Sat, 17 Apr 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Milline on Efesos</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1137</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_efeslastele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1137</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/49_Ef/PKK_0787_230309.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ef 1:1-2 - Kas mina olen püha</title>
+			<description>Uus Testament, Pauluse kiri efeslastele, 1:1-2 salm</description>
+			<pubDate>Sun, 18 Apr 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Ef 1:1-2 - Kas mina olen püha</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1138</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_efeslastele.png"/>
+			<itunes:duration>1802</itunes:duration>
+			<guid>1138</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/49_Ef/PKK_0788_240309.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ef 1:1-4 - Taevased õnnistused</title>
+			<description>Uus Testament, Pauluse kiri efeslastele, 1:1-4 salm</description>
+			<pubDate>Mon, 19 Apr 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Ef 1:1-4 - Taevased õnnistused</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1139</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_efeslastele.png"/>
+			<itunes:duration>1784</itunes:duration>
+			<guid>1139</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/49_Ef/PKK_0789_250309.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ef 1:5-9 - Lunastatud eluks</title>
+			<description>Uus Testament, Pauluse kiri efeslastele, 1:5-9 salm</description>
+			<pubDate>Tue, 20 Apr 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Ef 1:5-9 - Lunastatud eluks</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1140</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_efeslastele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1140</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/49_Ef/PKK_0790_260309.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ef 1:9-14 - Kristus ühendab kõik</title>
+			<description>Uus Testament, Pauluse kiri efeslastele, 1:9-14 salm</description>
+			<pubDate>Wed, 21 Apr 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Ef 1:9-14 - Kristus ühendab kõik</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1141</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_efeslastele.png"/>
+			<itunes:duration>1802</itunes:duration>
+			<guid>1141</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/49_Ef/PKK_0791_270309.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ef 1:15-18 - Lootus on kindlus</title>
+			<description>Uus Testament, Pauluse kiri efeslastele, 1:15-18 salm</description>
+			<pubDate>Thu, 22 Apr 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Ef 1:15-18 - Lootus on kindlus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1142</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_efeslastele.png"/>
+			<itunes:duration>1802</itunes:duration>
+			<guid>1142</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/49_Ef/PKK_0792_300309.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ef 1:19-2:3 - Jeesus Kristus on suurim</title>
+			<description>Uus Testament, Pauluse kiri efeslastele, 1:19-2:3 salm</description>
+			<pubDate>Fri, 23 Apr 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Ef 1:19-2:3 - Jeesus Kristus on suurim</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1143</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_efeslastele.png"/>
+			<itunes:duration>1802</itunes:duration>
+			<guid>1143</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/49_Ef/PKK_0793_310309.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ef 2:4-10 - Arm on suurem kui meri</title>
+			<description>Uus Testament, Pauluse kiri efeslastele, 2:4-10 salm</description>
+			<pubDate>Sat, 24 Apr 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Ef 2:4-10 - Arm on suurem kui meri</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1144</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_efeslastele.png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>1144</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/49_Ef/PKK_0794_010409.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ef 2:11-17 - Kõigest hoolimata üks</title>
+			<description>Uus Testament, Pauluse kiri efeslastele, 2:11-17 salm</description>
+			<pubDate>Sun, 25 Apr 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Ef 2:11-17 - Kõigest hoolimata üks</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1145</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_efeslastele.png"/>
+			<itunes:duration>1793</itunes:duration>
+			<guid>1145</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/49_Ef/PKK_0795_020409.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ef 2:18-22 - Kivid ja nurgakivi</title>
+			<description>Uus Testament, Pauluse kiri efeslastele, 2:18-22 salm</description>
+			<pubDate>Mon, 26 Apr 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Ef 2:18-22 - Kivid ja nurgakivi</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1146</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_efeslastele.png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>1146</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/49_Ef/PKK_0796_030409.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ef 3:1-9 - Armu saladus</title>
+			<description>Uus Testament, Pauluse kiri efeslastele, 3:1-9 salm</description>
+			<pubDate>Tue, 27 Apr 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Ef 3:1-9 - Armu saladus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1147</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_efeslastele.png"/>
+			<itunes:duration>1791</itunes:duration>
+			<guid>1147</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/49_Ef/PKK_0797_060409.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ef 3:10-21 - Inglidki imetlevad</title>
+			<description>Uus Testament, Pauluse kiri efeslastele, 3:10-21 salm</description>
+			<pubDate>Wed, 28 Apr 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Ef 3:10-21 - Inglidki imetlevad</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1148</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_efeslastele.png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>1148</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/49_Ef/PKK_0798_070409.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ef 4:1-4 - Tagasi argipäeva</title>
+			<description>Uus Testament, Pauluse kiri efeslastele, 4:1-4 salm</description>
+			<pubDate>Thu, 29 Apr 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Ef 4:1-4 - Tagasi argipäeva</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1149</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_efeslastele.png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>1149</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/49_Ef/PKK_0799_080409.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ef 4:5-12 - Mina ja kingitus</title>
+			<description>Uus Testament, Pauluse kiri efeslastele, 4:5-12 salm</description>
+			<pubDate>Fri, 30 Apr 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Ef 4:5-12 - Mina ja kingitus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1150</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_efeslastele.png"/>
+			<itunes:duration>1782</itunes:duration>
+			<guid>1150</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/49_Ef/PKK_0800_090409.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ef 4:11-16 - Kutsutud kasvama</title>
+			<description>Uus Testament, Pauluse kiri efeslastele, 4:11-16 salm</description>
+			<pubDate>Sat, 01 May 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Ef 4:11-16 - Kutsutud kasvama</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1151</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_efeslastele.png"/>
+			<itunes:duration>1802</itunes:duration>
+			<guid>1151</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/49_Ef/PKK_0801_100409.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ef 4:17-24 - Vaheta riided</title>
+			<description>Uus Testament, Pauluse kiri efeslastele, 4:17-24 salm</description>
+			<pubDate>Sun, 02 May 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Ef 4:17-24 - Vaheta riided</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1152</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_efeslastele.png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>1152</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/49_Ef/PKK_0802_130409.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ef 4:25-32 - Kasvuraskused</title>
+			<description>Uus Testament, Pauluse kiri efeslastele, 4:25-32 salm</description>
+			<pubDate>Mon, 03 May 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Ef 4:25-32 - Kasvuraskused</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1153</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_efeslastele.png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>1153</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/49_Ef/PKK_0803_140409.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ef 5:1-14 - Jumal eeskujuks</title>
+			<description>Uus Testament, Pauluse kiri efeslastele, 5:1-14 salm</description>
+			<pubDate>Tue, 04 May 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Ef 5:1-14 - Jumal eeskujuks</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1154</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_efeslastele.png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>1154</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/49_Ef/PKK_0804_150409.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ef 5:15-21 - Mitte nii vaid nõnda</title>
+			<description>Uus Testament, Pauluse kiri efeslastele, 5:15-21 salm</description>
+			<pubDate>Wed, 05 May 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Ef 5:15-21 - Mitte nii vaid nõnda</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1155</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_efeslastele.png"/>
+			<itunes:duration>1794</itunes:duration>
+			<guid>1155</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/49_Ef/PKK_0805_160409.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ef 5:21-33 - Ah alistuma peaks</title>
+			<description>Uus Testament, Pauluse kiri efeslastele, 5:21-33 salm</description>
+			<pubDate>Thu, 06 May 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Ef 5:21-33 - Ah alistuma peaks</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1156</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_efeslastele.png"/>
+			<itunes:duration>1802</itunes:duration>
+			<guid>1156</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/49_Ef/PKK_0806_170409.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ef 6:1-9 - Kas perekond on parim</title>
+			<description>Uus Testament, Pauluse kiri efeslastele, 6:1-9 salm</description>
+			<pubDate>Fri, 07 May 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Ef 6:1-9 - Kas perekond on parim</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1157</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_efeslastele.png"/>
+			<itunes:duration>1802</itunes:duration>
+			<guid>1157</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/49_Ef/PKK_0807_200409.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ef 6:10-12 - Kas oled võitluseks valmis</title>
+			<description>Uus Testament, Pauluse kiri efeslastele, 6:10-12 salm</description>
+			<pubDate>Sat, 08 May 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Ef 6:10-12 - Kas oled võitluseks valmis</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1158</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_efeslastele.png"/>
+			<itunes:duration>1796</itunes:duration>
+			<guid>1158</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/49_Ef/PKK_0808_210409.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ef 6:13-14 - Tõde hirmutab</title>
+			<description>Uus Testament, Pauluse kiri efeslastele, 6:13-14 salm</description>
+			<pubDate>Sun, 09 May 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Ef 6:13-14 - Tõde hirmutab</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1159</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_efeslastele.png"/>
+			<itunes:duration>1787</itunes:duration>
+			<guid>1159</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/49_Ef/PKK_0809_220409.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ef 6:15-24 - Sõduri varustus</title>
+			<description>Uus Testament, Pauluse kiri efeslastele, 6:15-24 salm</description>
+			<pubDate>Mon, 10 May 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Ef 6:15-24 - Sõduri varustus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1160</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_efeslastele.png"/>
+			<itunes:duration>1783</itunes:duration>
+			<guid>1160</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/49_Ef/PKK_0810_230409.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+	</channel>
+</rss>

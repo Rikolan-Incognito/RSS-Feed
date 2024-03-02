@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+	<channel>
+		<title>Teine Kuningate raamat</title>
+		<description>Piibliõppesarjas &quot;Piibel kaanest kaaneni&quot; loeb ja seletab õpetaja Aare Kimmel (EELK) salm-salmi kaupa ära terve Piibli, nii Vana kui Uue Testamendi raamatud, sidudes loetut tänapäevaga.</description>
+		<link>http://www.pereraadio.ee</link>
+		<language>es</language>
+		<image>
+			<url>https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Kuningate_raamat.png</url>
+			<title>Piibel kaanest kaaneni</title>
+			<link>http://www.pereraadio.ee</link>
+		</image>
+		<itunes:type>episodic</itunes:type>
+		<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+		<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Kuningate_raamat.png"/>
+		<itunes:category text="Education">
+		</itunes:category>
+
+		<item>
+			<title>2Kn 1:1-2:22 - Eliisa Eelija asemel</title>
+			<description>Vana Testament, Teine Kuningate raamat, 1:1-2:22 salm</description>
+			<pubDate>Wed, 12 Dec 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Kn 1:1-2:22 - Eliisa Eelija asemel</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>279</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Kuningate_raamat.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>279</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/12_2Kn/PKK_0503_100108.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Kn 2:23-4:37 - Eliisa hämmastab</title>
+			<description>Vana Testament, Teine Kuningate raamat, 2:23-4:37 salm</description>
+			<pubDate>Thu, 13 Dec 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Kn 2:23-4:37 - Eliisa hämmastab</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>280</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Kuningate_raamat.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>280</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/12_2Kn/PKK_0504_110108.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Kn 4:38-5:27 - Usu sõna ja saa puhtaks</title>
+			<description>Vana Testament, Teine Kuningate raamat, 4:38-5:27 salm</description>
+			<pubDate>Fri, 14 Dec 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Kn 4:38-5:27 - Usu sõna ja saa puhtaks</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>281</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Kuningate_raamat.png"/>
+			<itunes:duration>1782</itunes:duration>
+			<guid>281</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/12_2Kn/PKK_0505_140108.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Kn 6:1-31 - Mida meie silmad näevad</title>
+			<description>Vana Testament, Teine Kuningate raamat, 6:1-31 salm</description>
+			<pubDate>Sat, 15 Dec 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Kn 6:1-31 - Mida meie silmad näevad</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>282</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Kuningate_raamat.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>282</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/12_2Kn/PKK_0506_150108.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Kn 6:32-8:15 - Pidalitõbised elu toomas</title>
+			<description>Vana Testament, Teine Kuningate raamat, 6:32-8:15 salm</description>
+			<pubDate>Sun, 16 Dec 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Kn 6:32-8:15 - Pidalitõbised elu toomas</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>283</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Kuningate_raamat.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>283</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/12_2Kn/PKK_0507_160108.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Kn 8:16-10:36 - On alles Jehu</title>
+			<description>Vana Testament, Teine Kuningate raamat, 8:16-10:36 salm</description>
+			<pubDate>Mon, 17 Dec 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Kn 8:16-10:36 - On alles Jehu</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>284</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Kuningate_raamat.png"/>
+			<itunes:duration>1788</itunes:duration>
+			<guid>284</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/12_2Kn/PKK_0508_170108.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Kn 11:1-12:22 - Uued tuuled</title>
+			<description>Vana Testament, Teine Kuningate raamat, 11:1-12:22 salm</description>
+			<pubDate>Tue, 18 Dec 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Kn 11:1-12:22 - Uued tuuled</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>285</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Kuningate_raamat.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>285</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/12_2Kn/PKK_0509_180108.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Kn 13:1-14:22 - Surnu toob elu</title>
+			<description>Vana Testament, Teine Kuningate raamat, 13:1-14:22 salm</description>
+			<pubDate>Wed, 19 Dec 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Kn 13:1-14:22 - Surnu toob elu</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>286</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Kuningate_raamat.png"/>
+			<itunes:duration>1775</itunes:duration>
+			<guid>286</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/12_2Kn/PKK_0510_210108.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Kn 14:23-16:4 - Lõpu kuum hingus</title>
+			<description>Vana Testament, Teine Kuningate raamat, 14:23-16:4 salm</description>
+			<pubDate>Thu, 20 Dec 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Kn 14:23-16:4 - Lõpu kuum hingus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>287</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Kuningate_raamat.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>287</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/12_2Kn/PKK_0511_220108.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Kn 16:5-17:18 - Iisraeli häving</title>
+			<description>Vana Testament, Teine Kuningate raamat, 16:5-17:18 salm</description>
+			<pubDate>Fri, 21 Dec 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Kn 16:5-17:18 - Iisraeli häving</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>288</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Kuningate_raamat.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>288</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/12_2Kn/PKK_0512_230108.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Kn 17:19-18:22 - Samaaria uuselanikud</title>
+			<description>Vana Testament, Teine Kuningate raamat, 17:19-18:22 salm</description>
+			<pubDate>Sat, 22 Dec 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Kn 17:19-18:22 - Samaaria uuselanikud</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>289</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Kuningate_raamat.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>289</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/12_2Kn/PKK_0513_240108.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Kn 18:23-19:28 - Psühholoogiline sõda</title>
+			<description>Vana Testament, Teine Kuningate raamat, 18:23-19:28 salm</description>
+			<pubDate>Sun, 23 Dec 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Kn 18:23-19:28 - Psühholoogiline sõda</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>290</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Kuningate_raamat.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>290</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/12_2Kn/PKK_0514_250108.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Kn 19:29-20:21 - Elule aastaid juurde aga...</title>
+			<description>Vana Testament, Teine Kuningate raamat, 19:29-20:21 salm</description>
+			<pubDate>Mon, 24 Dec 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Kn 19:29-20:21 - Elule aastaid juurde aga...</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>291</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Kuningate_raamat.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>291</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/12_2Kn/PKK_0515_280108.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Kn 21:1-22:11 - Tagasipöördumine paganlusse</title>
+			<description>Vana Testament, Teine Kuningate raamat, 21:1-22:11 salm</description>
+			<pubDate>Tue, 25 Dec 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Kn 21:1-22:11 - Tagasipöördumine paganlusse</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>292</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Kuningate_raamat.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>292</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/12_2Kn/PKK_0516_290108.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Kn 22:12-23:24 - Aeg puhastada usk</title>
+			<description>Vana Testament, Teine Kuningate raamat, 22:12-23:24 salm</description>
+			<pubDate>Wed, 26 Dec 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Kn 22:12-23:24 - Aeg puhastada usk</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>293</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Kuningate_raamat.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>293</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/12_2Kn/PKK_0517_300108.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Kn 23:25-25:30 - Juuda riigi hukkumine</title>
+			<description>Vana Testament, Teine Kuningate raamat, 23:25-25:30 salm</description>
+			<pubDate>Thu, 27 Dec 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Kn 23:25-25:30 - Juuda riigi hukkumine</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>294</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Kuningate_raamat.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>294</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/12_2Kn/PKK_0518_310108.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+	</channel>
+</rss>

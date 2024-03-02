@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+	<channel>
+		<title>Esra</title>
+		<description>Piibliõppesarjas &quot;Piibel kaanest kaaneni&quot; loeb ja seletab õpetaja Aare Kimmel (EELK) salm-salmi kaupa ära terve Piibli, nii Vana kui Uue Testamendi raamatud, sidudes loetut tänapäevaga.</description>
+		<link>http://www.pereraadio.ee</link>
+		<language>es</language>
+		<image>
+			<url>https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esra.png</url>
+			<title>Piibel kaanest kaaneni</title>
+			<link>http://www.pereraadio.ee</link>
+		</image>
+		<itunes:type>episodic</itunes:type>
+		<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+		<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esra.png"/>
+		<itunes:category text="Education">
+		</itunes:category>
+
+		<item>
+			<title>Esr 1:1 - Kas Esrat tead?</title>
+			<description>Vana Testament, Esra, 1:1 salm</description>
+			<pubDate>Wed, 30 Jan 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Esr 1:1 - Kas Esrat tead?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>328</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esra.png"/>
+			<itunes:duration>1802</itunes:duration>
+			<guid>328</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/15_Esr/PKK_0618_190608.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Esr 1:2-11 - Koores on valitu</title>
+			<description>Vana Testament, Esra, 1:2-11 salm</description>
+			<pubDate>Thu, 31 Jan 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Esr 1:2-11 - Koores on valitu</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>329</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esra.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>329</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/15_Esr/PKK_0619_200608.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Esr 2:1-3:6 - Pea meeles oma päritolu</title>
+			<description>Vana Testament, Esra, 2:1-3:6 salm</description>
+			<pubDate>Fri, 01 Feb 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Esr 2:1-3:6 - Pea meeles oma päritolu</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>330</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esra.png"/>
+			<itunes:duration>1791</itunes:duration>
+			<guid>330</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/15_Esr/PKK_0620_230608.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Esr 3:7-4:24 - Kurjuse jõud ei maga</title>
+			<description>Vana Testament, Esra, 3:7-4:24 salm</description>
+			<pubDate>Sat, 02 Feb 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Esr 3:7-4:24 - Kurjuse jõud ei maga</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>331</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esra.png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>331</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/15_Esr/PKK_0621_240608.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Esr 5:1-6:22 - Jumal avab umbsõlme</title>
+			<description>Vana Testament, Esra, 5:1-6:22 salm</description>
+			<pubDate>Sun, 03 Feb 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Esr 5:1-6:22 - Jumal avab umbsõlme</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>332</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esra.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>332</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/15_Esr/PKK_0622_250608.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Esr 7:1-8:36 - Esra astub lavale</title>
+			<description>Vana Testament, Esra, 7:1-8:36 salm</description>
+			<pubDate>Mon, 04 Feb 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Esr 7:1-8:36 - Esra astub lavale</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>333</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esra.png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>333</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/15_Esr/PKK_0623_260608.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Esr 9:1-15 - Palve: mida kuuldakse</title>
+			<description>Vana Testament, Esra, 9:1-15 salm</description>
+			<pubDate>Tue, 05 Feb 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Esr 9:1-15 - Palve: mida kuuldakse</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>334</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esra.png"/>
+			<itunes:duration>1788</itunes:duration>
+			<guid>334</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/15_Esr/PKK_0624_270608.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Esr 10:1-44 - Operatsioon on valus</title>
+			<description>Vana Testament, Esra, 10:1-44 salm</description>
+			<pubDate>Wed, 06 Feb 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Esr 10:1-44 - Operatsioon on valus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>335</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esra.png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>335</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/15_Esr/PKK_0625_300608.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+	</channel>
+</rss>

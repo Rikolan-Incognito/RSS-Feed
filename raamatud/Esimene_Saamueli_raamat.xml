@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+	<channel>
+		<title>Esimene Saamueli raamat</title>
+		<description>Piibliõppesarjas &quot;Piibel kaanest kaaneni&quot; loeb ja seletab õpetaja Aare Kimmel (EELK) salm-salmi kaupa ära terve Piibli, nii Vana kui Uue Testamendi raamatud, sidudes loetut tänapäevaga.</description>
+		<link>http://www.pereraadio.ee</link>
+		<language>es</language>
+		<image>
+			<url>https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esimene_Saamueli_raamat.png</url>
+			<title>Piibel kaanest kaaneni</title>
+			<link>http://www.pereraadio.ee</link>
+		</image>
+		<itunes:type>episodic</itunes:type>
+		<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+		<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esimene_Saamueli_raamat.png"/>
+		<itunes:category text="Education">
+		</itunes:category>
+
+		<item>
+			<title>1Sm 1:1-18 - Lastetu kannatused</title>
+			<description>Vana Testament, Esimene Saamueli raamat, 1:1-18 salm</description>
+			<pubDate>Wed, 24 Oct 2001 10:29:47 GMT</pubDate>
+			<itunes:title>1Sm 1:1-18 - Lastetu kannatused</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>230</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esimene_Saamueli_raamat.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>230</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/09_1Sm/PKK_0454_021107.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Sm 1:19-2:17 - Loobumise rõõm</title>
+			<description>Vana Testament, Esimene Saamueli raamat, 1:19-2:17 salm</description>
+			<pubDate>Thu, 25 Oct 2001 10:29:47 GMT</pubDate>
+			<itunes:title>1Sm 1:19-2:17 - Loobumise rõõm</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>231</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esimene_Saamueli_raamat.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>231</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/09_1Sm/PKK_0455_051107.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Sm 2:18-3:21 - Issand kutsub Saamueli</title>
+			<description>Vana Testament, Esimene Saamueli raamat, 2:18-3:21 salm</description>
+			<pubDate>Fri, 26 Oct 2001 10:29:47 GMT</pubDate>
+			<itunes:title>1Sm 2:18-3:21 - Issand kutsub Saamueli</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>232</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esimene_Saamueli_raamat.png"/>
+			<itunes:duration>1780</itunes:duration>
+			<guid>232</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/09_1Sm/PKK_0456_061107.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Sm 4:1-7:1 - Seaduselaeka kaotamine</title>
+			<description>Vana Testament, Esimene Saamueli raamat, 4:1-7:1 salm</description>
+			<pubDate>Sat, 27 Oct 2001 10:29:47 GMT</pubDate>
+			<itunes:title>1Sm 4:1-7:1 - Seaduselaeka kaotamine</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>233</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esimene_Saamueli_raamat.png"/>
+			<itunes:duration>1793</itunes:duration>
+			<guid>233</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/09_1Sm/PKK_0457_071107.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Sm 7:2-9:10 - Lõpuks ometi võit</title>
+			<description>Vana Testament, Esimene Saamueli raamat, 7:2-9:10 salm</description>
+			<pubDate>Sun, 28 Oct 2001 10:29:47 GMT</pubDate>
+			<itunes:title>1Sm 7:2-9:10 - Lõpuks ometi võit</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>234</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esimene_Saamueli_raamat.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>234</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/09_1Sm/PKK_0458_081107.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Sm 9:11-10:27 - Kuningas Iisraelile</title>
+			<description>Vana Testament, Esimene Saamueli raamat, 9:11-10:27 salm</description>
+			<pubDate>Mon, 29 Oct 2001 10:29:47 GMT</pubDate>
+			<itunes:title>1Sm 9:11-10:27 - Kuningas Iisraelile</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>235</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esimene_Saamueli_raamat.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>235</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/09_1Sm/PKK_0459_091107.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Sm 11:1-12:25 - Olemat ei aita</title>
+			<description>Vana Testament, Esimene Saamueli raamat, 11:1-12:25 salm</description>
+			<pubDate>Tue, 30 Oct 2001 10:29:47 GMT</pubDate>
+			<itunes:title>1Sm 11:1-12:25 - Olemat ei aita</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>236</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esimene_Saamueli_raamat.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>236</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/09_1Sm/PKK_0460_121107.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Sm 13:1-14:23 - Oi: Saul: mis sa tegid</title>
+			<description>Vana Testament, Esimene Saamueli raamat, 13:1-14:23 salm</description>
+			<pubDate>Wed, 31 Oct 2001 10:29:47 GMT</pubDate>
+			<itunes:title>1Sm 13:1-14:23 - Oi: Saul: mis sa tegid</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>237</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esimene_Saamueli_raamat.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>237</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/09_1Sm/PKK_0461_131107.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Sm 14:24-15:35 - Ohvrid või kuulekus</title>
+			<description>Vana Testament, Esimene Saamueli raamat, 14:24-15:35 salm</description>
+			<pubDate>Thu, 01 Nov 2001 10:29:47 GMT</pubDate>
+			<itunes:title>1Sm 14:24-15:35 - Ohvrid või kuulekus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>238</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esimene_Saamueli_raamat.png"/>
+			<itunes:duration>1774</itunes:duration>
+			<guid>238</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/09_1Sm/PKK_0462_141107.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Sm 16:1-17:32 - Taavet</title>
+			<description>Vana Testament, Esimene Saamueli raamat, 16:1-17:32 salm</description>
+			<pubDate>Fri, 02 Nov 2001 10:29:47 GMT</pubDate>
+			<itunes:title>1Sm 16:1-17:32 - Taavet</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>239</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esimene_Saamueli_raamat.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>239</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/09_1Sm/PKK_0463_151107.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Sm 17:33-18:30 - Koljat langeb</title>
+			<description>Vana Testament, Esimene Saamueli raamat, 17:33-18:30 salm</description>
+			<pubDate>Sat, 03 Nov 2001 10:29:47 GMT</pubDate>
+			<itunes:title>1Sm 17:33-18:30 - Koljat langeb</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>240</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esimene_Saamueli_raamat.png"/>
+			<itunes:duration>1774</itunes:duration>
+			<guid>240</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/09_1Sm/PKK_0464_161107.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Sm 19:1-20:42 - Joonatan - tõeline sõber</title>
+			<description>Vana Testament, Esimene Saamueli raamat, 19:1-20:42 salm</description>
+			<pubDate>Sun, 04 Nov 2001 10:29:47 GMT</pubDate>
+			<itunes:title>1Sm 19:1-20:42 - Joonatan - tõeline sõber</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>241</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esimene_Saamueli_raamat.png"/>
+			<itunes:duration>1774</itunes:duration>
+			<guid>241</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/09_1Sm/PKK_0465_191107.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Sm 21:1-22:23 - Kust leida varjupaika</title>
+			<description>Vana Testament, Esimene Saamueli raamat, 21:1-22:23 salm</description>
+			<pubDate>Mon, 05 Nov 2001 10:29:47 GMT</pubDate>
+			<itunes:title>1Sm 21:1-22:23 - Kust leida varjupaika</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>242</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esimene_Saamueli_raamat.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>242</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/09_1Sm/PKK_0466_201107.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Sm 23:1-24:23 - Austa oma isa</title>
+			<description>Vana Testament, Esimene Saamueli raamat, 23:1-24:23 salm</description>
+			<pubDate>Tue, 06 Nov 2001 10:29:47 GMT</pubDate>
+			<itunes:title>1Sm 23:1-24:23 - Austa oma isa</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>243</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esimene_Saamueli_raamat.png"/>
+			<itunes:duration>1782</itunes:duration>
+			<guid>243</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/09_1Sm/PKK_0467_211107.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Sm 25:1-44 - Kas keegi astub su teele</title>
+			<description>Vana Testament, Esimene Saamueli raamat, 25:1-44 salm</description>
+			<pubDate>Wed, 07 Nov 2001 10:29:47 GMT</pubDate>
+			<itunes:title>1Sm 25:1-44 - Kas keegi astub su teele</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>244</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esimene_Saamueli_raamat.png"/>
+			<itunes:duration>1728</itunes:duration>
+			<guid>244</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/09_1Sm/PKK_0468_221107.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Sm 26:1-28:6 - Pimedas orus</title>
+			<description>Vana Testament, Esimene Saamueli raamat, 26:1-28:6 salm</description>
+			<pubDate>Thu, 08 Nov 2001 10:29:47 GMT</pubDate>
+			<itunes:title>1Sm 26:1-28:6 - Pimedas orus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>245</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esimene_Saamueli_raamat.png"/>
+			<itunes:duration>1776</itunes:duration>
+			<guid>245</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/09_1Sm/PKK_0469_231107.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Sm 28:7-30:5 - Saul nõia juures</title>
+			<description>Vana Testament, Esimene Saamueli raamat, 28:7-30:5 salm</description>
+			<pubDate>Fri, 09 Nov 2001 10:29:47 GMT</pubDate>
+			<itunes:title>1Sm 28:7-30:5 - Saul nõia juures</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>246</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esimene_Saamueli_raamat.png"/>
+			<itunes:duration>1779</itunes:duration>
+			<guid>246</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/09_1Sm/PKK_0470_261107.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Sm 30:6-31:13 - Sauli surm</title>
+			<description>Vana Testament, Esimene Saamueli raamat, 30:6-31:13 salm</description>
+			<pubDate>Sat, 10 Nov 2001 10:29:47 GMT</pubDate>
+			<itunes:title>1Sm 30:6-31:13 - Sauli surm</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>247</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esimene_Saamueli_raamat.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>247</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/09_1Sm/PKK_0471_271107.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+	</channel>
+</rss>

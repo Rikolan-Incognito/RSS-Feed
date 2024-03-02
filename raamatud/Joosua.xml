@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+	<channel>
+		<title>Joosua</title>
+		<description>Piibliõppesarjas &quot;Piibel kaanest kaaneni&quot; loeb ja seletab õpetaja Aare Kimmel (EELK) salm-salmi kaupa ära terve Piibli, nii Vana kui Uue Testamendi raamatud, sidudes loetut tänapäevaga.</description>
+		<link>http://www.pereraadio.ee</link>
+		<language>es</language>
+		<image>
+			<url>https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Joosua.png</url>
+			<title>Piibel kaanest kaaneni</title>
+			<link>http://www.pereraadio.ee</link>
+		</image>
+		<itunes:type>episodic</itunes:type>
+		<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+		<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Joosua.png"/>
+		<itunes:category text="Education">
+		</itunes:category>
+
+		<item>
+			<title>Jos 1:1-18 - Joosua rmt. iseloomustus</title>
+			<description>Vana Testament, Joosua, 1:1-18 salm</description>
+			<pubDate>Sat, 22 Sep 2001 10:29:47 GMT</pubDate>
+			<itunes:title>Jos 1:1-18 - Joosua rmt. iseloomustus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>198</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Joosua.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>198</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/06_Jos/PKK_0387_010807.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jos 2:1-3:17 - Rahabi usk</title>
+			<description>Vana Testament, Joosua, 2:1-3:17 salm</description>
+			<pubDate>Sun, 23 Sep 2001 10:29:47 GMT</pubDate>
+			<itunes:title>Jos 2:1-3:17 - Rahabi usk</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>199</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Joosua.png"/>
+			<itunes:duration>1777</itunes:duration>
+			<guid>199</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/06_Jos/PKK_0388_020807.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jos 4:1-6:5 - Tõeline pealik</title>
+			<description>Vana Testament, Joosua, 4:1-6:5 salm</description>
+			<pubDate>Mon, 24 Sep 2001 10:29:47 GMT</pubDate>
+			<itunes:title>Jos 4:1-6:5 - Tõeline pealik</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>200</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Joosua.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>200</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/06_Jos/PKK_0389_030807.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jos 6:6-7:5 - Mu vaenlased: maailm ja mina</title>
+			<description>Vana Testament, Joosua, 6:6-7:5 salm</description>
+			<pubDate>Tue, 25 Sep 2001 10:29:47 GMT</pubDate>
+			<itunes:title>Jos 6:6-7:5 - Mu vaenlased: maailm ja mina</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>201</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Joosua.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>201</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/06_Jos/PKK_0390_060807.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jos 7:6-8:35 - Kaotusest võidule</title>
+			<description>Vana Testament, Joosua, 7:6-8:35 salm</description>
+			<pubDate>Wed, 26 Sep 2001 10:29:47 GMT</pubDate>
+			<itunes:title>Jos 7:6-8:35 - Kaotusest võidule</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>202</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Joosua.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>202</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/06_Jos/PKK_0391_070807.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jos 9:1-10:10 - Pettus</title>
+			<description>Vana Testament, Joosua, 9:1-10:10 salm</description>
+			<pubDate>Thu, 27 Sep 2001 10:29:47 GMT</pubDate>
+			<itunes:title>Jos 9:1-10:10 - Pettus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>203</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Joosua.png"/>
+			<itunes:duration>1776</itunes:duration>
+			<guid>203</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/06_Jos/PKK_0392_080807.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jos 10:11-12:24 - Võidukas Joosua</title>
+			<description>Vana Testament, Joosua, 10:11-12:24 salm</description>
+			<pubDate>Fri, 28 Sep 2001 10:29:47 GMT</pubDate>
+			<itunes:title>Jos 10:11-12:24 - Võidukas Joosua</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>204</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Joosua.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>204</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/06_Jos/PKK_0393_090807.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jos 13:1-15:19 - Kaaleb usaldas Jumalat</title>
+			<description>Vana Testament, Joosua, 13:1-15:19 salm</description>
+			<pubDate>Sat, 29 Sep 2001 10:29:47 GMT</pubDate>
+			<itunes:title>Jos 13:1-15:19 - Kaaleb usaldas Jumalat</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>205</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Joosua.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>205</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/06_Jos/PKK_0394_100807.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jos 16:1-19:51 - Kas tunned oma maad</title>
+			<description>Vana Testament, Joosua, 16:1-19:51 salm</description>
+			<pubDate>Sun, 30 Sep 2001 10:29:47 GMT</pubDate>
+			<itunes:title>Jos 16:1-19:51 - Kas tunned oma maad</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>206</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Joosua.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>206</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/06_Jos/PKK_0395_130807.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jos 20:1-22:34 - Kas uurid või materdad</title>
+			<description>Vana Testament, Joosua, 20:1-22:34 salm</description>
+			<pubDate>Mon, 01 Oct 2001 10:29:47 GMT</pubDate>
+			<itunes:title>Jos 20:1-22:34 - Kas uurid või materdad</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>207</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Joosua.png"/>
+			<itunes:duration>1794</itunes:duration>
+			<guid>207</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/06_Jos/PKK_0396_140807.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jos 23:1-24:33 - Joosua jätab hüvasti</title>
+			<description>Vana Testament, Joosua, 23:1-24:33 salm</description>
+			<pubDate>Tue, 02 Oct 2001 10:29:47 GMT</pubDate>
+			<itunes:title>Jos 23:1-24:33 - Joosua jätab hüvasti</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>208</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Joosua.png"/>
+			<itunes:duration>1780</itunes:duration>
+			<guid>208</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/06_Jos/PKK_0397_150807.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+	</channel>
+</rss>

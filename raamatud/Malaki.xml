@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+	<channel>
+		<title>Malaki</title>
+		<description>Piibliõppesarjas &quot;Piibel kaanest kaaneni&quot; loeb ja seletab õpetaja Aare Kimmel (EELK) salm-salmi kaupa ära terve Piibli, nii Vana kui Uue Testamendi raamatud, sidudes loetut tänapäevaga.</description>
+		<link>http://www.pereraadio.ee</link>
+		<language>es</language>
+		<image>
+			<url>https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Malaki.png</url>
+			<title>Piibel kaanest kaaneni</title>
+			<link>http://www.pereraadio.ee</link>
+		</image>
+		<itunes:type>episodic</itunes:type>
+		<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+		<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Malaki.png"/>
+		<itunes:category text="Education">
+		</itunes:category>
+
+		<item>
+			<title>Ml 1:1 - Sissejuhatus Malaki raamatusse</title>
+			<description>Vana Testament, Malaki, 1:1 salm</description>
+			<pubDate>Tue, 06 May 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ml 1:1 - Sissejuhatus Malaki raamatusse</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>790</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Malaki.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>790</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/39_Ml/PKK_1352_021211.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ml 1:1-3 - Armastuse valik</title>
+			<description>Vana Testament, Malaki, 1:1-3 salm</description>
+			<pubDate>Wed, 07 May 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ml 1:1-3 - Armastuse valik</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>791</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Malaki.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>791</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/39_Ml/PKK_1353_051211.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ml 1:2-7 - Milles armastus väljendub?</title>
+			<description>Vana Testament, Malaki, 1:2-7 salm</description>
+			<pubDate>Thu, 08 May 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ml 1:2-7 - Milles armastus väljendub?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>792</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Malaki.png"/>
+			<itunes:duration>1785</itunes:duration>
+			<guid>792</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/39_Ml/PKK_1354_061211.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ml 1:8-13 - Kas su ohver lonkab?</title>
+			<description>Vana Testament, Malaki, 1:8-13 salm</description>
+			<pubDate>Fri, 09 May 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ml 1:8-13 - Kas su ohver lonkab?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>793</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Malaki.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>793</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/39_Ml/PKK_1355_071211.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ml 1:14-2:6 - Kas preestrid sõnnikuhunnikusse?</title>
+			<description>Vana Testament, Malaki, 1:14-2:6 salm</description>
+			<pubDate>Sat, 10 May 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ml 1:14-2:6 - Kas preestrid sõnnikuhunnikusse?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>794</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Malaki.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>794</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/39_Ml/PKK_1356_081211.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ml 2:7-12 - Kuidas ingel räägib?</title>
+			<description>Vana Testament, Malaki, 2:7-12 salm</description>
+			<pubDate>Sun, 11 May 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ml 2:7-12 - Kuidas ingel räägib?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>795</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Malaki.png"/>
+			<itunes:duration>1797</itunes:duration>
+			<guid>795</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/39_Ml/PKK_1357_091211.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ml 2:13-16 - Jumal vihkab lahutust</title>
+			<description>Vana Testament, Malaki, 2:13-16 salm</description>
+			<pubDate>Mon, 12 May 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ml 2:13-16 - Jumal vihkab lahutust</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>796</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Malaki.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>796</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/39_Ml/PKK_1358_121211.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ml 2:17-3:4 - Puhastamine on valus</title>
+			<description>Vana Testament, Malaki, 2:17-3:4 salm</description>
+			<pubDate>Tue, 13 May 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ml 2:17-3:4 - Puhastamine on valus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>797</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Malaki.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>797</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/39_Ml/PKK_1359_131211.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ml 3:5-7 - Meie- ja patused</title>
+			<description>Vana Testament, Malaki, 3:5-7 salm</description>
+			<pubDate>Wed, 14 May 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ml 3:5-7 - Meie- ja patused</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>798</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Malaki.png"/>
+			<itunes:duration>1778</itunes:duration>
+			<guid>798</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/39_Ml/PKK_1360_141211.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ml 3:8 - Kas röövime Jumalat?</title>
+			<description>Vana Testament, Malaki, 3:8 salm</description>
+			<pubDate>Thu, 15 May 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ml 3:8 - Kas röövime Jumalat?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>799</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Malaki.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>799</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/39_Ml/PKK_1361_151211.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ml 3:9-16 - Kas toidan küünilisuse rästikut?</title>
+			<description>Vana Testament, Malaki, 3:9-16 salm</description>
+			<pubDate>Fri, 16 May 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ml 3:9-16 - Kas toidan küünilisuse rästikut?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>800</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Malaki.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>800</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/39_Ml/PKK_1362_161211.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ml 3:17-24 - Pilk tulevikku</title>
+			<description>Vana Testament, Malaki, 3:17-24 salm</description>
+			<pubDate>Sat, 17 May 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ml 3:17-24 - Pilk tulevikku</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>801</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Malaki.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>801</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/39_Ml/PKK_1363_191211.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+	</channel>
+</rss>

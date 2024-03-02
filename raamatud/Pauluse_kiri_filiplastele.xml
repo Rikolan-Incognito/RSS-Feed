@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+	<channel>
+		<title>Pauluse kiri filiplastele</title>
+		<description>Piibliõppesarjas &quot;Piibel kaanest kaaneni&quot; loeb ja seletab õpetaja Aare Kimmel (EELK) salm-salmi kaupa ära terve Piibli, nii Vana kui Uue Testamendi raamatud, sidudes loetut tänapäevaga.</description>
+		<link>http://www.pereraadio.ee</link>
+		<language>es</language>
+		<image>
+			<url>https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_filiplastele.png</url>
+			<title>Piibel kaanest kaaneni</title>
+			<link>http://www.pereraadio.ee</link>
+		</image>
+		<itunes:type>episodic</itunes:type>
+		<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+		<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_filiplastele.png"/>
+		<itunes:category text="Education">
+		</itunes:category>
+
+		<item>
+			<title>Fl 1:1 - Milline on Filipi kogudus</title>
+			<description>Uus Testament, Pauluse kiri filiplastele, 1:1 salm</description>
+			<pubDate>Tue, 11 May 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Fl 1:1 - Milline on Filipi kogudus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1161</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_filiplastele.png"/>
+			<itunes:duration>1802</itunes:duration>
+			<guid>1161</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/50_Fl/PKK_0846_100809.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Fl 1:2-7 - Armu osalised</title>
+			<description>Uus Testament, Pauluse kiri filiplastele, 1:2-7 salm</description>
+			<pubDate>Wed, 12 May 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Fl 1:2-7 - Armu osalised</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1162</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_filiplastele.png"/>
+			<itunes:duration>1803</itunes:duration>
+			<guid>1162</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/50_Fl/PKK_0847_110809.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Fl 1:8-11 - Armastus ei ole pime</title>
+			<description>Uus Testament, Pauluse kiri filiplastele, 1:8-11 salm</description>
+			<pubDate>Thu, 13 May 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Fl 1:8-11 - Armastus ei ole pime</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1163</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_filiplastele.png"/>
+			<itunes:duration>1802</itunes:duration>
+			<guid>1163</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/50_Fl/PKK_0848_120809.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Fl 1:12-18 - Tähtsaim on kuulutada Kristust</title>
+			<description>Uus Testament, Pauluse kiri filiplastele, 1:12-18 salm</description>
+			<pubDate>Fri, 14 May 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Fl 1:12-18 - Tähtsaim on kuulutada Kristust</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1164</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_filiplastele.png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>1164</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/50_Fl/PKK_0849_130809.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Fl 1:19-26 - Kui surm on kasu</title>
+			<description>Uus Testament, Pauluse kiri filiplastele, 1:19-26 salm</description>
+			<pubDate>Sat, 15 May 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Fl 1:19-26 - Kui surm on kasu</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1165</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_filiplastele.png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>1165</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/50_Fl/PKK_0850_140809.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Fl 1:27-2:3 - Kas olen auahne</title>
+			<description>Uus Testament, Pauluse kiri filiplastele, 1:27-2:3 salm</description>
+			<pubDate>Sun, 16 May 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Fl 1:27-2:3 - Kas olen auahne</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1166</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_filiplastele.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>1166</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/50_Fl/PKK_0851_170809.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Fl 2:4-7 - Teised on tähtsad</title>
+			<description>Uus Testament, Pauluse kiri filiplastele, 2:4-7 salm</description>
+			<pubDate>Mon, 17 May 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Fl 2:4-7 - Teised on tähtsad</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1167</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_filiplastele.png"/>
+			<itunes:duration>1802</itunes:duration>
+			<guid>1167</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/50_Fl/PKK_0852_180809.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Fl 2:8-11 - Jeesus Kristus on Issand</title>
+			<description>Uus Testament, Pauluse kiri filiplastele, 2:8-11 salm</description>
+			<pubDate>Tue, 18 May 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Fl 2:8-11 - Jeesus Kristus on Issand</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1168</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_filiplastele.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>1168</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/50_Fl/PKK_0853_190809.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Fl 2:12-18 - Mina ja valguse vahendaja</title>
+			<description>Uus Testament, Pauluse kiri filiplastele, 2:12-18 salm</description>
+			<pubDate>Wed, 19 May 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Fl 2:12-18 - Mina ja valguse vahendaja</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1169</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_filiplastele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1169</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/50_Fl/PKK_0854_200809.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Fl 2:19-30 - Kristuse meelsust õppimas</title>
+			<description>Uus Testament, Pauluse kiri filiplastele, 2:19-30 salm</description>
+			<pubDate>Thu, 20 May 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Fl 2:19-30 - Kristuse meelsust õppimas</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1170</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_filiplastele.png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>1170</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/50_Fl/PKK_0855_210809.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Fl 3:1-4 - Hoidke koerte eest</title>
+			<description>Uus Testament, Pauluse kiri filiplastele, 3:1-4 salm</description>
+			<pubDate>Fri, 21 May 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Fl 3:1-4 - Hoidke koerte eest</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1171</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_filiplastele.png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>1171</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/50_Fl/PKK_0856_240809.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Fl 3:5-9 - Kas kingituseks must pesu</title>
+			<description>Uus Testament, Pauluse kiri filiplastele, 3:5-9 salm</description>
+			<pubDate>Sat, 22 May 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Fl 3:5-9 - Kas kingituseks must pesu</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1172</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_filiplastele.png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>1172</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/50_Fl/PKK_0857_250809.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Fl 3:10-14 - Me pole veel valmis</title>
+			<description>Uus Testament, Pauluse kiri filiplastele, 3:10-14 salm</description>
+			<pubDate>Sun, 23 May 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Fl 3:10-14 - Me pole veel valmis</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1173</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_filiplastele.png"/>
+			<itunes:duration>1802</itunes:duration>
+			<guid>1173</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/50_Fl/PKK_0858_260809.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Fl 3:15-19 - Risti vaenlased</title>
+			<description>Uus Testament, Pauluse kiri filiplastele, 3:15-19 salm</description>
+			<pubDate>Mon, 24 May 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Fl 3:15-19 - Risti vaenlased</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1174</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_filiplastele.png"/>
+			<itunes:duration>1804</itunes:duration>
+			<guid>1174</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/50_Fl/PKK_0859_270809.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Fl 3:20-4:3 - Rõõmutse pääste üle</title>
+			<description>Uus Testament, Pauluse kiri filiplastele, 3:20-4:3 salm</description>
+			<pubDate>Tue, 25 May 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Fl 3:20-4:3 - Rõõmutse pääste üle</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1175</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_filiplastele.png"/>
+			<itunes:duration>1808</itunes:duration>
+			<guid>1175</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/50_Fl/PKK_0860_280809.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Fl 4:4-7 - Rõõm ja rahu</title>
+			<description>Uus Testament, Pauluse kiri filiplastele, 4:4-7 salm</description>
+			<pubDate>Wed, 26 May 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Fl 4:4-7 - Rõõm ja rahu</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1176</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_filiplastele.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>1176</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/50_Fl/PKK_0861_310809.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Fl 4:8-12 - Abi vajab igaüks</title>
+			<description>Uus Testament, Pauluse kiri filiplastele, 4:8-12 salm</description>
+			<pubDate>Thu, 27 May 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Fl 4:8-12 - Abi vajab igaüks</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1177</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_filiplastele.png"/>
+			<itunes:duration>1802</itunes:duration>
+			<guid>1177</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/50_Fl/PKK_0862_010909.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Fl 4:15-23 - Saaja allkiri</title>
+			<description>Uus Testament, Pauluse kiri filiplastele, 4:15-23 salm</description>
+			<pubDate>Fri, 28 May 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Fl 4:15-23 - Saaja allkiri</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1178</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_filiplastele.png"/>
+			<itunes:duration>1802</itunes:duration>
+			<guid>1178</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/50_Fl/PKK_0863_020909.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+	</channel>
+</rss>

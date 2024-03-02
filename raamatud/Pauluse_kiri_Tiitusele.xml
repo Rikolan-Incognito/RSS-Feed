@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+	<channel>
+		<title>Pauluse kiri Tiitusele</title>
+		<description>Piibliõppesarjas &quot;Piibel kaanest kaaneni&quot; loeb ja seletab õpetaja Aare Kimmel (EELK) salm-salmi kaupa ära terve Piibli, nii Vana kui Uue Testamendi raamatud, sidudes loetut tänapäevaga.</description>
+		<link>http://www.pereraadio.ee</link>
+		<language>es</language>
+		<image>
+			<url>https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_Tiitusele.png</url>
+			<title>Piibel kaanest kaaneni</title>
+			<link>http://www.pereraadio.ee</link>
+		</image>
+		<itunes:type>episodic</itunes:type>
+		<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+		<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_Tiitusele.png"/>
+		<itunes:category text="Education">
+		</itunes:category>
+
+		<item>
+			<title>Tt 1:1-4 - Kes oli Tiitus?</title>
+			<description>Uus Testament, Pauluse kiri Tiitusele, 1:1-4 salm</description>
+			<pubDate>Sat, 24 Jul 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Tt 1:1-4 - Kes oli Tiitus?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1235</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_Tiitusele.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>1235</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/56_Tt/PKK_1069_300810.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Tt 1:5-9 - Kreetal tööd jätkub</title>
+			<description>Uus Testament, Pauluse kiri Tiitusele, 1:5-9 salm</description>
+			<pubDate>Sun, 25 Jul 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Tt 1:5-9 - Kreetal tööd jätkub</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1236</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_Tiitusele.png"/>
+			<itunes:duration>1778</itunes:duration>
+			<guid>1236</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/56_Tt/PKK_1070_310810.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Tt 1:10-16 - Kes võib head teha?</title>
+			<description>Uus Testament, Pauluse kiri Tiitusele, 1:10-16 salm</description>
+			<pubDate>Mon, 26 Jul 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Tt 1:10-16 - Kes võib head teha?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1237</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_Tiitusele.png"/>
+			<itunes:duration>1787</itunes:duration>
+			<guid>1237</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/56_Tt/PKK_1071_010910.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Tt 2 - Kristlane tee head!</title>
+			<description>Uus Testament, Pauluse kiri Tiitusele, 2 salm</description>
+			<pubDate>Tue, 27 Jul 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Tt 2 - Kristlane tee head!</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1238</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_Tiitusele.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>1238</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/56_Tt/PKK_1072_020910.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Tt 3 - Armust päästetud</title>
+			<description>Uus Testament, Pauluse kiri Tiitusele, 3 salm</description>
+			<pubDate>Wed, 28 Jul 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Tt 3 - Armust päästetud</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1239</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_Tiitusele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1239</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/56_Tt/PKK_1073_030910.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+	</channel>
+</rss>

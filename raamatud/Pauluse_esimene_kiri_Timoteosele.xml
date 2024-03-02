@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+	<channel>
+		<title>Pauluse esimene kiri Timoteosele</title>
+		<description>Piibliõppesarjas &quot;Piibel kaanest kaaneni&quot; loeb ja seletab õpetaja Aare Kimmel (EELK) salm-salmi kaupa ära terve Piibli, nii Vana kui Uue Testamendi raamatud, sidudes loetut tänapäevaga.</description>
+		<link>http://www.pereraadio.ee</link>
+		<language>es</language>
+		<image>
+			<url>https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_esimene_kiri_Timoteosele.png</url>
+			<title>Piibel kaanest kaaneni</title>
+			<link>http://www.pereraadio.ee</link>
+		</image>
+		<itunes:type>episodic</itunes:type>
+		<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+		<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_esimene_kiri_Timoteosele.png"/>
+		<itunes:category text="Education">
+		</itunes:category>
+
+		<item>
+			<title>Sissejuhatus esimesse kirja Timoteosele</title>
+			<description>Uus Testament, Pauluse esimene kiri Timoteosele, esimesse salm</description>
+			<pubDate>Thu, 01 Jul 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Sissejuhatus esimesse kirja Timoteosele</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1212</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_esimene_kiri_Timoteosele.png"/>
+			<itunes:duration>1777</itunes:duration>
+			<guid>1212</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/54_1Tm/PKK_1013_140410.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Tm 1:1-3 -Aeg astuda lahingusse</title>
+			<description>Uus Testament, Pauluse esimene kiri Timoteosele, 1:1-3 salm</description>
+			<pubDate>Fri, 02 Jul 2004 10:29:47 GMT</pubDate>
+			<itunes:title>1Tm 1:1-3 -Aeg astuda lahingusse</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1213</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_esimene_kiri_Timoteosele.png"/>
+			<itunes:duration>1792</itunes:duration>
+			<guid>1213</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/54_1Tm/PKK_1014_150410.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Tm 1:3-11 - Seadust tuleb kasutada õieti</title>
+			<description>Uus Testament, Pauluse esimene kiri Timoteosele, 1:3-11 salm</description>
+			<pubDate>Sat, 03 Jul 2004 10:29:47 GMT</pubDate>
+			<itunes:title>1Tm 1:3-11 - Seadust tuleb kasutada õieti</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1214</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_esimene_kiri_Timoteosele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1214</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/54_1Tm/PKK_1015_160410.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Tm 1:12-20 - Käskki julgustab</title>
+			<description>Uus Testament, Pauluse esimene kiri Timoteosele, 1:12-20 salm</description>
+			<pubDate>Sun, 04 Jul 2004 10:29:47 GMT</pubDate>
+			<itunes:title>1Tm 1:12-20 - Käskki julgustab</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1215</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_esimene_kiri_Timoteosele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1215</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/54_1Tm/PKK_1016_190410.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Tm 2:1-7 - Palveta parlamendi eest</title>
+			<description>Uus Testament, Pauluse esimene kiri Timoteosele, 2:1-7 salm</description>
+			<pubDate>Mon, 05 Jul 2004 10:29:47 GMT</pubDate>
+			<itunes:title>1Tm 2:1-7 - Palveta parlamendi eest</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1216</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_esimene_kiri_Timoteosele.png"/>
+			<itunes:duration>1802</itunes:duration>
+			<guid>1216</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/54_1Tm/PKK_1017_200410.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Tm 2:8-15 - Mehed ja naised koguduses</title>
+			<description>Uus Testament, Pauluse esimene kiri Timoteosele, 2:8-15 salm</description>
+			<pubDate>Tue, 06 Jul 2004 10:29:47 GMT</pubDate>
+			<itunes:title>1Tm 2:8-15 - Mehed ja naised koguduses</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1217</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_esimene_kiri_Timoteosele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1217</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/54_1Tm/PKK_1018_210410.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Tm 3:1-7 - Koguduse ülevaataja</title>
+			<description>Uus Testament, Pauluse esimene kiri Timoteosele, 3:1-7 salm</description>
+			<pubDate>Wed, 07 Jul 2004 10:29:47 GMT</pubDate>
+			<itunes:title>1Tm 3:1-7 - Koguduse ülevaataja</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1218</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_esimene_kiri_Timoteosele.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>1218</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/54_1Tm/PKK_1019_220410.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Tm 3:8-16 - Saladuse kuulutajad</title>
+			<description>Uus Testament, Pauluse esimene kiri Timoteosele, 3:8-16 salm</description>
+			<pubDate>Thu, 08 Jul 2004 10:29:47 GMT</pubDate>
+			<itunes:title>1Tm 3:8-16 - Saladuse kuulutajad</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1219</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_esimene_kiri_Timoteosele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1219</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/54_1Tm/PKK_1020_230410.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Tm 4:1-5 - Kurjade vaimude õpetus</title>
+			<description>Uus Testament, Pauluse esimene kiri Timoteosele, 4:1-5 salm</description>
+			<pubDate>Fri, 09 Jul 2004 10:29:47 GMT</pubDate>
+			<itunes:title>1Tm 4:1-5 - Kurjade vaimude õpetus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1220</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_esimene_kiri_Timoteosele.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>1220</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/54_1Tm/PKK_1021_260410.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Tm 4:6-16 - Pane ennast tähele</title>
+			<description>Uus Testament, Pauluse esimene kiri Timoteosele, 4:6-16 salm</description>
+			<pubDate>Sat, 10 Jul 2004 10:29:47 GMT</pubDate>
+			<itunes:title>1Tm 4:6-16 - Pane ennast tähele</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1221</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_esimene_kiri_Timoteosele.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>1221</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/54_1Tm/PKK_1022_270410.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Tm 5:1-10 - Lesed koguduses</title>
+			<description>Uus Testament, Pauluse esimene kiri Timoteosele, 5:1-10 salm</description>
+			<pubDate>Sun, 11 Jul 2004 10:29:47 GMT</pubDate>
+			<itunes:title>1Tm 5:1-10 - Lesed koguduses</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1222</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_esimene_kiri_Timoteosele.png"/>
+			<itunes:duration>1786</itunes:duration>
+			<guid>1222</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/54_1Tm/PKK_1023_280410.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Tm 5:11-21 - Distsipliin koguduses</title>
+			<description>Uus Testament, Pauluse esimene kiri Timoteosele, 5:11-21 salm</description>
+			<pubDate>Mon, 12 Jul 2004 10:29:47 GMT</pubDate>
+			<itunes:title>1Tm 5:11-21 - Distsipliin koguduses</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1223</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_esimene_kiri_Timoteosele.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>1223</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/54_1Tm/PKK_1024_290410.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Tm 5:22-6:8 - Ära hinda kiirustades</title>
+			<description>Uus Testament, Pauluse esimene kiri Timoteosele, 5:22-6:8 salm</description>
+			<pubDate>Tue, 13 Jul 2004 10:29:47 GMT</pubDate>
+			<itunes:title>1Tm 5:22-6:8 - Ära hinda kiirustades</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1224</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_esimene_kiri_Timoteosele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1224</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/54_1Tm/PKK_1025_300410.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Tm 6:9-11 - Rahaahnus on kurja juur</title>
+			<description>Uus Testament, Pauluse esimene kiri Timoteosele, 6:9-11 salm</description>
+			<pubDate>Wed, 14 Jul 2004 10:29:47 GMT</pubDate>
+			<itunes:title>1Tm 6:9-11 - Rahaahnus on kurja juur</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1225</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_esimene_kiri_Timoteosele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1225</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/54_1Tm/PKK_1026_030510.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Tm 6:12-21 - Hea usuvõitlus</title>
+			<description>Uus Testament, Pauluse esimene kiri Timoteosele, 6:12-21 salm</description>
+			<pubDate>Thu, 15 Jul 2004 10:29:47 GMT</pubDate>
+			<itunes:title>1Tm 6:12-21 - Hea usuvõitlus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1226</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_esimene_kiri_Timoteosele.png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>1226</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/54_1Tm/PKK_1027_040510.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+	</channel>
+</rss>

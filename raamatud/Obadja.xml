@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+	<channel>
+		<title>Obadja</title>
+		<description>Piibliõppesarjas &quot;Piibel kaanest kaaneni&quot; loeb ja seletab õpetaja Aare Kimmel (EELK) salm-salmi kaupa ära terve Piibli, nii Vana kui Uue Testamendi raamatud, sidudes loetut tänapäevaga.</description>
+		<link>http://www.pereraadio.ee</link>
+		<language>es</language>
+		<image>
+			<url>https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Obadja.png</url>
+			<title>Piibel kaanest kaaneni</title>
+			<link>http://www.pereraadio.ee</link>
+		</image>
+		<itunes:type>episodic</itunes:type>
+		<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+		<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Obadja.png"/>
+		<itunes:category text="Education">
+		</itunes:category>
+
+		<item>
+			<title>Ob 1:1 - Sissejuhatus Obadja raamatusse</title>
+			<description>Vana Testament, Obadja, 1:1 salm</description>
+			<pubDate>Sat, 08 Feb 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ob 1:1 - Sissejuhatus Obadja raamatusse</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>703</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Obadja.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>703</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/31_Ob/PKK_1226_140411.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ob 1:1-3 - Kas olen ennasttäis?</title>
+			<description>Vana Testament, Obadja, 1:1-3 salm</description>
+			<pubDate>Sun, 09 Feb 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ob 1:1-3 - Kas olen ennasttäis?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>704</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Obadja.png"/>
+			<itunes:duration>1793</itunes:duration>
+			<guid>704</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/31_Ob/PKK_1227_150411.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ob 1:4-9 - Kas oled õieti tark?</title>
+			<description>Vana Testament, Obadja, 1:4-9 salm</description>
+			<pubDate>Mon, 10 Feb 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ob 1:4-9 - Kas oled õieti tark?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>705</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Obadja.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>705</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/31_Ob/PKK_1228_180411.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ob 1:10-14 - Kõrkus väljendub tegudes</title>
+			<description>Vana Testament, Obadja, 1:10-14 salm</description>
+			<pubDate>Tue, 11 Feb 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ob 1:10-14 - Kõrkus väljendub tegudes</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>706</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Obadja.png"/>
+			<itunes:duration>1782</itunes:duration>
+			<guid>706</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/31_Ob/PKK_1229_190411.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ob 1:15-21 - Trööstiv sõnum</title>
+			<description>Vana Testament, Obadja, 1:15-21 salm</description>
+			<pubDate>Wed, 12 Feb 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ob 1:15-21 - Trööstiv sõnum</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>707</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Obadja.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>707</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/31_Ob/PKK_1230_200411.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+	</channel>
+</rss>

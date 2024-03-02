@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+	<channel>
+		<title>Õpetussõnad</title>
+		<description>Piibliõppesarjas &quot;Piibel kaanest kaaneni&quot; loeb ja seletab õpetaja Aare Kimmel (EELK) salm-salmi kaupa ära terve Piibli, nii Vana kui Uue Testamendi raamatud, sidudes loetut tänapäevaga.</description>
+		<link>http://www.pereraadio.ee</link>
+		<language>es</language>
+		<image>
+			<url>https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Õpetussõnad.png</url>
+			<title>Piibel kaanest kaaneni</title>
+			<link>http://www.pereraadio.ee</link>
+		</image>
+		<itunes:type>episodic</itunes:type>
+		<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+		<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Õpetussõnad.png"/>
+		<itunes:category text="Education">
+		</itunes:category>
+
+		<item>
+			<title>Õp 1:1-4 - Argielutarkused</title>
+			<description>Vana Testament, Õpetussõnad, 1:1-4 salm</description>
+			<pubDate>Mon, 03 Jun 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Õp 1:1-4 - Argielutarkused</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>452</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Õpetussõnad.png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>452</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/20_Op/PKK_0811_240409.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Õp 1:5-33 - Küsimus on valikutes</title>
+			<description>Vana Testament, Õpetussõnad, 1:5-33 salm</description>
+			<pubDate>Tue, 04 Jun 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Õp 1:5-33 - Küsimus on valikutes</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>453</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Õpetussõnad.png"/>
+			<itunes:duration>1802</itunes:duration>
+			<guid>453</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/20_Op/PKK_0812_270409.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Õp 2:1-22 - Kas mängin surmaga</title>
+			<description>Vana Testament, Õpetussõnad, 2:1-22 salm</description>
+			<pubDate>Wed, 05 Jun 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Õp 2:1-22 - Kas mängin surmaga</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>454</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Õpetussõnad.png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>454</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/20_Op/PKK_0813_280409.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Õp 3:1-26 - Karistus teeb haiget</title>
+			<description>Vana Testament, Õpetussõnad, 3:1-26 salm</description>
+			<pubDate>Thu, 06 Jun 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Õp 3:1-26 - Karistus teeb haiget</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>455</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Õpetussõnad.png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>455</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/20_Op/PKK_0814_290409.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Õp 3:27-4:19 - Abivajaja ei tunne homset</title>
+			<description>Vana Testament, Õpetussõnad, 3:27-4:19 salm</description>
+			<pubDate>Fri, 07 Jun 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Õp 3:27-4:19 - Abivajaja ei tunne homset</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>456</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Õpetussõnad.png"/>
+			<itunes:duration>1784</itunes:duration>
+			<guid>456</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/20_Op/PKK_0815_300409.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Õp 4:20-6:5 - Hoia oma südant</title>
+			<description>Vana Testament, Õpetussõnad, 4:20-6:5 salm</description>
+			<pubDate>Sat, 08 Jun 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Õp 4:20-6:5 - Hoia oma südant</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>457</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Õpetussõnad.png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>457</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/20_Op/PKK_0816_010509.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Õp 6:6-19 - Mida Jumal vihkab</title>
+			<description>Vana Testament, Õpetussõnad, 6:6-19 salm</description>
+			<pubDate>Sun, 09 Jun 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Õp 6:6-19 - Mida Jumal vihkab</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>458</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Õpetussõnad.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>458</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/20_Op/PKK_0817_040509.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Õp 6:20-7:27 - Abielurikkumine ei tasu ära</title>
+			<description>Vana Testament, Õpetussõnad, 6:20-7:27 salm</description>
+			<pubDate>Mon, 10 Jun 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Õp 6:20-7:27 - Abielurikkumine ei tasu ära</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>459</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Õpetussõnad.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>459</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/20_Op/PKK_0818_050509.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Õp 8:1-21 - Tarkuse kutse</title>
+			<description>Vana Testament, Õpetussõnad, 8:1-21 salm</description>
+			<pubDate>Tue, 11 Jun 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Õp 8:1-21 - Tarkuse kutse</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>460</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Õpetussõnad.png"/>
+			<itunes:duration>1802</itunes:duration>
+			<guid>460</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/20_Op/PKK_0819_060509.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Õp 8:22-9:18 - Millisesse kooli astud</title>
+			<description>Vana Testament, Õpetussõnad, 8:22-9:18 salm</description>
+			<pubDate>Wed, 12 Jun 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Õp 8:22-9:18 - Millisesse kooli astud</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>461</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Õpetussõnad.png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>461</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/20_Op/PKK_0820_070509.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Õp 10:1-17 - Targad ja meeletud</title>
+			<description>Vana Testament, Õpetussõnad, 10:1-17 salm</description>
+			<pubDate>Thu, 13 Jun 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Õp 10:1-17 - Targad ja meeletud</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>462</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Õpetussõnad.png"/>
+			<itunes:duration>1766</itunes:duration>
+			<guid>462</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/20_Op/PKK_0821_080509.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Õp 10:18-11:15 - Kas jagan mürki või tarkust</title>
+			<description>Vana Testament, Õpetussõnad, 10:18-11:15 salm</description>
+			<pubDate>Fri, 14 Jun 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Õp 10:18-11:15 - Kas jagan mürki või tarkust</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>463</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Õpetussõnad.png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>463</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/20_Op/PKK_0822_110509.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Õp 11:16-12:7 - Elu või surm</title>
+			<description>Vana Testament, Õpetussõnad, 11:16-12:7 salm</description>
+			<pubDate>Sat, 15 Jun 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Õp 11:16-12:7 - Elu või surm</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>464</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Õpetussõnad.png"/>
+			<itunes:duration>1732</itunes:duration>
+			<guid>464</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/20_Op/PKK_0823_120509.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Õp 12:8-13:10 -Tark ei hoople</title>
+			<description>Vana Testament, Õpetussõnad, 12:8-13:10 salm</description>
+			<pubDate>Sun, 16 Jun 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Õp 12:8-13:10 -Tark ei hoople</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>465</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Õpetussõnad.png"/>
+			<itunes:duration>1740</itunes:duration>
+			<guid>465</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/20_Op/PKK_0824_130509.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Õp 13:11-14:4 - Milleks on vaja härga</title>
+			<description>Vana Testament, Õpetussõnad, 13:11-14:4 salm</description>
+			<pubDate>Mon, 17 Jun 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Õp 13:11-14:4 - Milleks on vaja härga</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>466</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Õpetussõnad.png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>466</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/20_Op/PKK_0825_140509.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Õp 14:5-27 - Mis on su tee lõpus</title>
+			<description>Vana Testament, Õpetussõnad, 14:5-27 salm</description>
+			<pubDate>Tue, 18 Jun 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Õp 14:5-27 - Mis on su tee lõpus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>467</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Õpetussõnad.png"/>
+			<itunes:duration>1802</itunes:duration>
+			<guid>467</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/20_Op/PKK_0826_150509.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Õp 14:28-15:10 - Kas halvustad noomitusi</title>
+			<description>Vana Testament, Õpetussõnad, 14:28-15:10 salm</description>
+			<pubDate>Wed, 19 Jun 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Õp 14:28-15:10 - Kas halvustad noomitusi</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>468</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Õpetussõnad.png"/>
+			<itunes:duration>1733</itunes:duration>
+			<guid>468</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/20_Op/PKK_0827_180509.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Õp 15:11-33 - Kas mu pilk rõõmustab</title>
+			<description>Vana Testament, Õpetussõnad, 15:11-33 salm</description>
+			<pubDate>Thu, 20 Jun 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Õp 15:11-33 - Kas mu pilk rõõmustab</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>469</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Õpetussõnad.png"/>
+			<itunes:duration>1787</itunes:duration>
+			<guid>469</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/20_Op/PKK_0828_190509.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Õp 16:1-17 - Mida näitab Jumala kaal</title>
+			<description>Vana Testament, Õpetussõnad, 16:1-17 salm</description>
+			<pubDate>Fri, 21 Jun 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Õp 16:1-17 - Mida näitab Jumala kaal</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>470</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Õpetussõnad.png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>470</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/20_Op/PKK_0829_200509.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Õp 16:18-17:10 - Ära tuhni minevikus</title>
+			<description>Vana Testament, Õpetussõnad, 16:18-17:10 salm</description>
+			<pubDate>Sat, 22 Jun 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Õp 16:18-17:10 - Ära tuhni minevikus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>471</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Õpetussõnad.png"/>
+			<itunes:duration>1802</itunes:duration>
+			<guid>471</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/20_Op/PKK_0830_210509.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Õp 17:11-18:10 - Tervendav rõõm</title>
+			<description>Vana Testament, Õpetussõnad, 17:11-18:10 salm</description>
+			<pubDate>Sun, 23 Jun 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Õp 17:11-18:10 - Tervendav rõõm</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>472</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Õpetussõnad.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>472</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/20_Op/PKK_0831_220509.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Õp 18:11-19:4 - Rikas või vaene</title>
+			<description>Vana Testament, Õpetussõnad, 18:11-19:4 salm</description>
+			<pubDate>Mon, 24 Jun 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Õp 18:11-19:4 - Rikas või vaene</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>473</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Õpetussõnad.png"/>
+			<itunes:duration>1802</itunes:duration>
+			<guid>473</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/20_Op/PKK_0832_250509.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Õp 19:5-29 - Ära tunnista valet</title>
+			<description>Vana Testament, Õpetussõnad, 19:5-29 salm</description>
+			<pubDate>Tue, 25 Jun 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Õp 19:5-29 - Ära tunnista valet</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>474</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Õpetussõnad.png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>474</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/20_Op/PKK_0833_260509.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Õp 20:1-30 - Halb ütleb ostja</title>
+			<description>Vana Testament, Õpetussõnad, 20:1-30 salm</description>
+			<pubDate>Wed, 26 Jun 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Õp 20:1-30 - Halb ütleb ostja</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>475</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Õpetussõnad.png"/>
+			<itunes:duration>1803</itunes:duration>
+			<guid>475</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/20_Op/PKK_0834_230709.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Õp 21:1-25 - Kas su latern põleb</title>
+			<description>Vana Testament, Õpetussõnad, 21:1-25 salm</description>
+			<pubDate>Thu, 27 Jun 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Õp 21:1-25 - Kas su latern põleb</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>476</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Õpetussõnad.png"/>
+			<itunes:duration>1805</itunes:duration>
+			<guid>476</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/20_Op/PKK_0835_240709.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Õp 21:25-22:16 - Head nime mäletatakse</title>
+			<description>Vana Testament, Õpetussõnad, 21:25-22:16 salm</description>
+			<pubDate>Fri, 28 Jun 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Õp 21:25-22:16 - Head nime mäletatakse</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>477</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Õpetussõnad.png"/>
+			<itunes:duration>1802</itunes:duration>
+			<guid>477</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/20_Op/PKK_0836_270709.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Õp 22:17-23:35 - Ära nihuta piirimärki</title>
+			<description>Vana Testament, Õpetussõnad, 22:17-23:35 salm</description>
+			<pubDate>Sat, 29 Jun 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Õp 22:17-23:35 - Ära nihuta piirimärki</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>478</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Õpetussõnad.png"/>
+			<itunes:duration>1802</itunes:duration>
+			<guid>478</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/20_Op/PKK_0837_280709.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Õp 24:1-34 - Kas elad vaimulikus hurtsikus</title>
+			<description>Vana Testament, Õpetussõnad, 24:1-34 salm</description>
+			<pubDate>Sun, 30 Jun 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Õp 24:1-34 - Kas elad vaimulikus hurtsikus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>479</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Õpetussõnad.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>479</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/20_Op/PKK_0838_290709.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Õp 25:1-28 - Kas saab kuldõunu</title>
+			<description>Vana Testament, Õpetussõnad, 25:1-28 salm</description>
+			<pubDate>Mon, 01 Jul 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Õp 25:1-28 - Kas saab kuldõunu</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>480</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Õpetussõnad.png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>480</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/20_Op/PKK_0839_300709.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Õp 26:1-27:2 - Hõbedaga vaabatud saviastja</title>
+			<description>Vana Testament, Õpetussõnad, 26:1-27:2 salm</description>
+			<pubDate>Tue, 02 Jul 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Õp 26:1-27:2 - Hõbedaga vaabatud saviastja</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>481</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Õpetussõnad.png"/>
+			<itunes:duration>1804</itunes:duration>
+			<guid>481</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/20_Op/PKK_0840_310709.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Õp 27:3-27 - Kiitus ja laitus mõõdupuuks</title>
+			<description>Vana Testament, Õpetussõnad, 27:3-27 salm</description>
+			<pubDate>Wed, 03 Jul 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Õp 27:3-27 - Kiitus ja laitus mõõdupuuks</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>482</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Õpetussõnad.png"/>
+			<itunes:duration>1802</itunes:duration>
+			<guid>482</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/20_Op/PKK_0841_030809.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Õp 28:1-19 - Kas varjan oma üleastumisi</title>
+			<description>Vana Testament, Õpetussõnad, 28:1-19 salm</description>
+			<pubDate>Thu, 04 Jul 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Õp 28:1-19 - Kas varjan oma üleastumisi</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>483</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Õpetussõnad.png"/>
+			<itunes:duration>1802</itunes:duration>
+			<guid>483</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/20_Op/PKK_0842_040809.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Õp 28:20-29:27 - Kas õukonnas on lurjuseid?</title>
+			<description>Vana Testament, Õpetussõnad, 28:20-29:27 salm</description>
+			<pubDate>Fri, 05 Jul 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Õp 28:20-29:27 - Kas õukonnas on lurjuseid?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>484</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Õpetussõnad.png"/>
+			<itunes:duration>1802</itunes:duration>
+			<guid>484</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/20_Op/PKK_0843_050809.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Õp 30:1-33 - Tagasihoidlik tarkus</title>
+			<description>Vana Testament, Õpetussõnad, 30:1-33 salm</description>
+			<pubDate>Sat, 06 Jul 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Õp 30:1-33 - Tagasihoidlik tarkus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>485</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Õpetussõnad.png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>485</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/20_Op/PKK_0844_060809.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Õp 31:1-31 - Kallim kui pärlid</title>
+			<description>Vana Testament, Õpetussõnad, 31:1-31 salm</description>
+			<pubDate>Sun, 07 Jul 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Õp 31:1-31 - Kallim kui pärlid</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>486</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Õpetussõnad.png"/>
+			<itunes:duration>1803</itunes:duration>
+			<guid>486</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/20_Op/PKK_0845_070809.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+	</channel>
+</rss>

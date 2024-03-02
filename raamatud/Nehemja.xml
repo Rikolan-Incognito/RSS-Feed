@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+	<channel>
+		<title>Nehemja</title>
+		<description>Piibliõppesarjas &quot;Piibel kaanest kaaneni&quot; loeb ja seletab õpetaja Aare Kimmel (EELK) salm-salmi kaupa ära terve Piibli, nii Vana kui Uue Testamendi raamatud, sidudes loetut tänapäevaga.</description>
+		<link>http://www.pereraadio.ee</link>
+		<language>es</language>
+		<image>
+			<url>https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Nehemja.png</url>
+			<title>Piibel kaanest kaaneni</title>
+			<link>http://www.pereraadio.ee</link>
+		</image>
+		<itunes:type>episodic</itunes:type>
+		<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+		<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Nehemja.png"/>
+		<itunes:category text="Education">
+		</itunes:category>
+
+		<item>
+			<title>Ne 1:1-2:8 - Nehemja - tegude mees</title>
+			<description>Vana Testament, Nehemja, 1:1-2:8 salm</description>
+			<pubDate>Thu, 07 Feb 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ne 1:1-2:8 - Nehemja - tegude mees</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>336</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Nehemja.png"/>
+			<itunes:duration>1780</itunes:duration>
+			<guid>336</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/16_Ne/PKK_0626_010808.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ne 2:9-20 - Kõikvõimalik vastuseis</title>
+			<description>Vana Testament, Nehemja, 2:9-20 salm</description>
+			<pubDate>Fri, 08 Feb 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ne 2:9-20 - Kõikvõimalik vastuseis</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>337</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Nehemja.png"/>
+			<itunes:duration>1802</itunes:duration>
+			<guid>337</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/16_Ne/PKK_0627_040808.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ne 3:1-12 - Kõik ehitama</title>
+			<description>Vana Testament, Nehemja, 3:1-12 salm</description>
+			<pubDate>Sat, 09 Feb 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ne 3:1-12 - Kõik ehitama</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>338</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Nehemja.png"/>
+			<itunes:duration>1784</itunes:duration>
+			<guid>338</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/16_Ne/PKK_0628_050808.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ne 3:13-27 - Lase lõvi lahti</title>
+			<description>Vana Testament, Nehemja, 3:13-27 salm</description>
+			<pubDate>Sun, 10 Feb 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ne 3:13-27 - Lase lõvi lahti</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>339</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Nehemja.png"/>
+			<itunes:duration>1767</itunes:duration>
+			<guid>339</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/16_Ne/PKK_0629_060808.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ne 3:28-32 - Lambaväravast Lambaväravani</title>
+			<description>Vana Testament, Nehemja, 3:28-32 salm</description>
+			<pubDate>Mon, 11 Feb 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ne 3:28-32 - Lambaväravast Lambaväravani</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>340</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Nehemja.png"/>
+			<itunes:duration>1779</itunes:duration>
+			<guid>340</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/16_Ne/PKK_0630_070808.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ne 3:33-4:12 - Pilkamine pole meeldiv</title>
+			<description>Vana Testament, Nehemja, 3:33-4:12 salm</description>
+			<pubDate>Tue, 12 Feb 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ne 3:33-4:12 - Pilkamine pole meeldiv</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>341</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Nehemja.png"/>
+			<itunes:duration>1773</itunes:duration>
+			<guid>341</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/16_Ne/PKK_0631_080808.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ne 4:13-5:13 - Ära unusta sarve puhuda</title>
+			<description>Vana Testament, Nehemja, 4:13-5:13 salm</description>
+			<pubDate>Wed, 13 Feb 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ne 4:13-5:13 - Ära unusta sarve puhuda</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>342</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Nehemja.png"/>
+			<itunes:duration>1802</itunes:duration>
+			<guid>342</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/16_Ne/PKK_0632_110808.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ne 15:14-6:19 - Balansseerimine noateral</title>
+			<description>Vana Testament, Nehemja, 15:14-6:19 salm</description>
+			<pubDate>Thu, 14 Feb 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ne 15:14-6:19 - Balansseerimine noateral</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>343</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Nehemja.png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>343</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/16_Ne/PKK_0633_120808.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ne 7:1-72 - Kas olen usaldusväärne</title>
+			<description>Vana Testament, Nehemja, 7:1-72 salm</description>
+			<pubDate>Fri, 15 Feb 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ne 7:1-72 - Kas olen usaldusväärne</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>344</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Nehemja.png"/>
+			<itunes:duration>1802</itunes:duration>
+			<guid>344</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/16_Ne/PKK_0634_130808.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ne 8:1-16 - Sõna toob rõõmu</title>
+			<description>Vana Testament, Nehemja, 8:1-16 salm</description>
+			<pubDate>Sat, 16 Feb 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ne 8:1-16 - Sõna toob rõõmu</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>345</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Nehemja.png"/>
+			<itunes:duration>1773</itunes:duration>
+			<guid>345</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/16_Ne/PKK_0635_140808.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ne 8:17-9:31 - Kahetsusest ülistusse</title>
+			<description>Vana Testament, Nehemja, 8:17-9:31 salm</description>
+			<pubDate>Sun, 17 Feb 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ne 8:17-9:31 - Kahetsusest ülistusse</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>346</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Nehemja.png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>346</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/16_Ne/PKK_0636_150808.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ne 9:32-10:40 - Rahvas uuendab lepingu</title>
+			<description>Vana Testament, Nehemja, 9:32-10:40 salm</description>
+			<pubDate>Mon, 18 Feb 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ne 9:32-10:40 - Rahvas uuendab lepingu</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>347</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Nehemja.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>347</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/16_Ne/PKK_0637_180808.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ne 11:1-36 - Tihti on küsimus rahas</title>
+			<description>Vana Testament, Nehemja, 11:1-36 salm</description>
+			<pubDate>Tue, 19 Feb 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ne 11:1-36 - Tihti on küsimus rahas</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>348</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Nehemja.png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>348</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/16_Ne/PKK_0638_190808.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ne 12:1-13:31 - Ära unusta mu Jumal</title>
+			<description>Vana Testament, Nehemja, 12:1-13:31 salm</description>
+			<pubDate>Wed, 20 Feb 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ne 12:1-13:31 - Ära unusta mu Jumal</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>349</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Nehemja.png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>349</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/16_Ne/PKK_0639_200808.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+	</channel>
+</rss>

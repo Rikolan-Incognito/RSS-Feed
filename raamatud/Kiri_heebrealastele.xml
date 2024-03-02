@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+	<channel>
+		<title>Kiri heebrealastele</title>
+		<description>Piibliõppesarjas &quot;Piibel kaanest kaaneni&quot; loeb ja seletab õpetaja Aare Kimmel (EELK) salm-salmi kaupa ära terve Piibli, nii Vana kui Uue Testamendi raamatud, sidudes loetut tänapäevaga.</description>
+		<link>http://www.pereraadio.ee</link>
+		<language>es</language>
+		<image>
+			<url>https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kiri_heebrealastele.png</url>
+			<title>Piibel kaanest kaaneni</title>
+			<link>http://www.pereraadio.ee</link>
+		</image>
+		<itunes:type>episodic</itunes:type>
+		<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+		<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kiri_heebrealastele.png"/>
+		<itunes:category text="Education">
+		</itunes:category>
+
+		<item>
+			<title>Hb 1:1 - Sissejuhatus Heebrea kirja</title>
+			<description>Uus Testament, Kiri heebrealastele, 1:1 salm</description>
+			<pubDate>Fri, 30 Jul 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Hb 1:1 - Sissejuhatus Heebrea kirja</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1241</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kiri_heebrealastele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1241</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/58_Hb/PKK_1103_151010.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hb 1:1-3 - Kristus on suurem</title>
+			<description>Uus Testament, Kiri heebrealastele, 1:1-3 salm</description>
+			<pubDate>Sat, 31 Jul 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Hb 1:1-3 - Kristus on suurem</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1242</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kiri_heebrealastele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1242</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/58_Hb/PKK_1104_181010.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hb 1:3-5 - Suurem kui inglid</title>
+			<description>Uus Testament, Kiri heebrealastele, 1:3-5 salm</description>
+			<pubDate>Sun, 01 Aug 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Hb 1:3-5 - Suurem kui inglid</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1243</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kiri_heebrealastele.png"/>
+			<itunes:duration>1785</itunes:duration>
+			<guid>1243</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/58_Hb/PKK_1105_191010.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hb 1:6-14 - Jeesus on Jumal</title>
+			<description>Uus Testament, Kiri heebrealastele, 1:6-14 salm</description>
+			<pubDate>Mon, 02 Aug 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Hb 1:6-14 - Jeesus on Jumal</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1244</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kiri_heebrealastele.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>1244</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/58_Hb/PKK_1106_201010.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hb 2:1-10 - Pärivoolu või vastuvoolu</title>
+			<description>Uus Testament, Kiri heebrealastele, 2:1-10 salm</description>
+			<pubDate>Tue, 03 Aug 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Hb 2:1-10 - Pärivoolu või vastuvoolu</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1245</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kiri_heebrealastele.png"/>
+			<itunes:duration>1795</itunes:duration>
+			<guid>1245</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/58_Hb/PKK_1107_211010.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hb 2:11-15 - Jõuluevangeelium</title>
+			<description>Uus Testament, Kiri heebrealastele, 2:11-15 salm</description>
+			<pubDate>Wed, 04 Aug 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Hb 2:11-15 - Jõuluevangeelium</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1246</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kiri_heebrealastele.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>1246</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/58_Hb/PKK_1108_221010.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hb 2:16-3:6 - Jeesus oskab trööstida</title>
+			<description>Uus Testament, Kiri heebrealastele, 2:16-3:6 salm</description>
+			<pubDate>Thu, 05 Aug 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Hb 2:16-3:6 - Jeesus oskab trööstida</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1247</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kiri_heebrealastele.png"/>
+			<itunes:duration>1757</itunes:duration>
+			<guid>1247</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/58_Hb/PKK_1109_251010.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hb 3:7-14 - Vaata: et sa Jumalast ei tagane!</title>
+			<description>Uus Testament, Kiri heebrealastele, 3:7-14 salm</description>
+			<pubDate>Fri, 06 Aug 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Hb 3:7-14 - Vaata: et sa Jumalast ei tagane!</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1248</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kiri_heebrealastele.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>1248</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/58_Hb/PKK_1110_261010.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hb 3:15-4:1 - Mis takistab pärale jõudmist?</title>
+			<description>Uus Testament, Kiri heebrealastele, 3:15-4:1 salm</description>
+			<pubDate>Sat, 07 Aug 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Hb 3:15-4:1 - Mis takistab pärale jõudmist?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1249</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kiri_heebrealastele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1249</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/58_Hb/PKK_1111_271010.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hb 4:2-12 - Pidu on alles ees</title>
+			<description>Uus Testament, Kiri heebrealastele, 4:2-12 salm</description>
+			<pubDate>Sun, 08 Aug 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Hb 4:2-12 - Pidu on alles ees</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1250</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kiri_heebrealastele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1250</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/58_Hb/PKK_1112_281010.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hb 4:12-13 - Jumala Sõna elab ja toimib</title>
+			<description>Uus Testament, Kiri heebrealastele, 4:12-13 salm</description>
+			<pubDate>Mon, 09 Aug 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Hb 4:12-13 - Jumala Sõna elab ja toimib</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1251</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kiri_heebrealastele.png"/>
+			<itunes:duration>1766</itunes:duration>
+			<guid>1251</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/58_Hb/PKK_1113_291010.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hb 4:14-5:1 - Julgesti armu saama</title>
+			<description>Uus Testament, Kiri heebrealastele, 4:14-5:1 salm</description>
+			<pubDate>Tue, 10 Aug 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Hb 4:14-5:1 - Julgesti armu saama</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1252</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kiri_heebrealastele.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>1252</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/58_Hb/PKK_1114_011110.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hb 5:2-10 - Jeesus on ülempreester</title>
+			<description>Uus Testament, Kiri heebrealastele, 5:2-10 salm</description>
+			<pubDate>Wed, 11 Aug 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Hb 5:2-10 - Jeesus on ülempreester</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1253</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kiri_heebrealastele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1253</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/58_Hb/PKK_1115_021110.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hb 5:11-6:3 - Tuimad kuulma</title>
+			<description>Uus Testament, Kiri heebrealastele, 5:11-6:3 salm</description>
+			<pubDate>Thu, 12 Aug 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Hb 5:11-6:3 - Tuimad kuulma</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1254</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kiri_heebrealastele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1254</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/58_Hb/PKK_1116_031110.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hb 6:4-12 - Kas löön Kristuse risti?</title>
+			<description>Uus Testament, Kiri heebrealastele, 6:4-12 salm</description>
+			<pubDate>Fri, 13 Aug 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Hb 6:4-12 - Kas löön Kristuse risti?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1255</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kiri_heebrealastele.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>1255</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/58_Hb/PKK_1117_041110.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hb 6:13-7:1 - Miks Jumal vandus?</title>
+			<description>Uus Testament, Kiri heebrealastele, 6:13-7:1 salm</description>
+			<pubDate>Sat, 14 Aug 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Hb 6:13-7:1 - Miks Jumal vandus?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1256</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kiri_heebrealastele.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>1256</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/58_Hb/PKK_1118_051110.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hb 7:2-14 - Iseäralik Melkisedek</title>
+			<description>Uus Testament, Kiri heebrealastele, 7:2-14 salm</description>
+			<pubDate>Sun, 15 Aug 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Hb 7:2-14 - Iseäralik Melkisedek</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1257</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kiri_heebrealastele.png"/>
+			<itunes:duration>1772</itunes:duration>
+			<guid>1257</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/58_Hb/PKK_1119_081110.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hb 7:15-28 - Jeesus on oivaline käemees</title>
+			<description>Uus Testament, Kiri heebrealastele, 7:15-28 salm</description>
+			<pubDate>Mon, 16 Aug 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Hb 7:15-28 - Jeesus on oivaline käemees</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1258</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kiri_heebrealastele.png"/>
+			<itunes:duration>1764</itunes:duration>
+			<guid>1258</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/58_Hb/PKK_1120_091110.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hb 8:1-12 - Mida Jumal ei mäleta?</title>
+			<description>Uus Testament, Kiri heebrealastele, 8:1-12 salm</description>
+			<pubDate>Tue, 17 Aug 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Hb 8:1-12 - Mida Jumal ei mäleta?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1259</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kiri_heebrealastele.png"/>
+			<itunes:duration>1797</itunes:duration>
+			<guid>1259</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/58_Hb/PKK_1121_101110.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hb 8:13-9:10 - Vana asemele uus</title>
+			<description>Uus Testament, Kiri heebrealastele, 8:13-9:10 salm</description>
+			<pubDate>Wed, 18 Aug 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Hb 8:13-9:10 - Vana asemele uus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1260</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kiri_heebrealastele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1260</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/58_Hb/PKK_1122_111010.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hb 9:11-15 - Tehtud kord ja alatiseks</title>
+			<description>Uus Testament, Kiri heebrealastele, 9:11-15 salm</description>
+			<pubDate>Thu, 19 Aug 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Hb 9:11-15 - Tehtud kord ja alatiseks</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1261</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kiri_heebrealastele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1261</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/58_Hb/PKK_1123_121110.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hb 9:16-28 - Tegemist on testamendiga</title>
+			<description>Uus Testament, Kiri heebrealastele, 9:16-28 salm</description>
+			<pubDate>Fri, 20 Aug 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Hb 9:16-28 - Tegemist on testamendiga</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1262</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kiri_heebrealastele.png"/>
+			<itunes:duration>1767</itunes:duration>
+			<guid>1262</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/58_Hb/PKK_1124_151110.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hb 10:1-14 - Jeesuse ohver on piisav</title>
+			<description>Uus Testament, Kiri heebrealastele, 10:1-14 salm</description>
+			<pubDate>Sat, 21 Aug 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Hb 10:1-14 - Jeesuse ohver on piisav</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1263</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kiri_heebrealastele.png"/>
+			<itunes:duration>1797</itunes:duration>
+			<guid>1263</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/58_Hb/PKK_1125_161110.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hb 10:15-22 - Astu eluteele!</title>
+			<description>Uus Testament, Kiri heebrealastele, 10:15-22 salm</description>
+			<pubDate>Sun, 22 Aug 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Hb 10:15-22 - Astu eluteele!</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1264</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kiri_heebrealastele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1264</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/58_Hb/PKK_1126_171110.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hb 10:23-27 - Kas vajad ärkamiseks torget?</title>
+			<description>Uus Testament, Kiri heebrealastele, 10:23-27 salm</description>
+			<pubDate>Mon, 23 Aug 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Hb 10:23-27 - Kas vajad ärkamiseks torget?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1265</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kiri_heebrealastele.png"/>
+			<itunes:duration>1794</itunes:duration>
+			<guid>1265</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/58_Hb/PKK_1127_181110.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hb 10:28-39 - Ära tagane elust</title>
+			<description>Uus Testament, Kiri heebrealastele, 10:28-39 salm</description>
+			<pubDate>Tue, 24 Aug 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Hb 10:28-39 - Ära tagane elust</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1266</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kiri_heebrealastele.png"/>
+			<itunes:duration>1794</itunes:duration>
+			<guid>1266</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/58_Hb/PKK_1128_191110.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hb 11:1-4 - Usk kinnitub tõelisusesse</title>
+			<description>Uus Testament, Kiri heebrealastele, 11:1-4 salm</description>
+			<pubDate>Wed, 25 Aug 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Hb 11:1-4 - Usk kinnitub tõelisusesse</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1267</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kiri_heebrealastele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1267</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/58_Hb/PKK_1129_221110.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hb 11:4-7 - Eenok ja Noa</title>
+			<description>Uus Testament, Kiri heebrealastele, 11:4-7 salm</description>
+			<pubDate>Thu, 26 Aug 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Hb 11:4-7 - Eenok ja Noa</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1268</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kiri_heebrealastele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1268</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/58_Hb/PKK_1130_231110.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hb 11:8-16 - Usk toob elu</title>
+			<description>Uus Testament, Kiri heebrealastele, 11:8-16 salm</description>
+			<pubDate>Fri, 27 Aug 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Hb 11:8-16 - Usk toob elu</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1269</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kiri_heebrealastele.png"/>
+			<itunes:duration>1795</itunes:duration>
+			<guid>1269</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/58_Hb/PKK_1131_241110.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hb 11:17-29 - Kannatusedki kuuluvad usu juurde</title>
+			<description>Uus Testament, Kiri heebrealastele, 11:17-29 salm</description>
+			<pubDate>Sat, 28 Aug 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Hb 11:17-29 - Kannatusedki kuuluvad usu juurde</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1270</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kiri_heebrealastele.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>1270</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/58_Hb/PKK_1132_251110.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hb 11:30-37 - Usk on ka võitlus</title>
+			<description>Uus Testament, Kiri heebrealastele, 11:30-37 salm</description>
+			<pubDate>Sun, 29 Aug 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Hb 11:30-37 - Usk on ka võitlus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1271</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kiri_heebrealastele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1271</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/58_Hb/PKK_1133_261110.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hb 11:38-12:3 - Julgustavad tunnistajad</title>
+			<description>Uus Testament, Kiri heebrealastele, 11:38-12:3 salm</description>
+			<pubDate>Mon, 30 Aug 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Hb 11:38-12:3 - Julgustavad tunnistajad</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1272</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kiri_heebrealastele.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>1272</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/58_Hb/PKK_1134_291110.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hb 12:4-13 - Jumal on hea kasvataja</title>
+			<description>Uus Testament, Kiri heebrealastele, 12:4-13 salm</description>
+			<pubDate>Tue, 31 Aug 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Hb 12:4-13 - Jumal on hea kasvataja</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1273</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kiri_heebrealastele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1273</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/58_Hb/PKK_1135_301110.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hb 12:14-17 - Taotle pühitsust</title>
+			<description>Uus Testament, Kiri heebrealastele, 12:14-17 salm</description>
+			<pubDate>Wed, 01 Sep 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Hb 12:14-17 - Taotle pühitsust</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1274</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kiri_heebrealastele.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>1274</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/58_Hb/PKK_1136_011210.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hb 12:18-25 - Siinai või Siion</title>
+			<description>Uus Testament, Kiri heebrealastele, 12:18-25 salm</description>
+			<pubDate>Thu, 02 Sep 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Hb 12:18-25 - Siinai või Siion</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1275</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kiri_heebrealastele.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>1275</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/58_Hb/PKK_1137_021210.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hb 12:26-13:4 - Püsi selles: mis püsib</title>
+			<description>Uus Testament, Kiri heebrealastele, 12:26-13:4 salm</description>
+			<pubDate>Fri, 03 Sep 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Hb 12:26-13:4 - Püsi selles: mis püsib</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1276</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kiri_heebrealastele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1276</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/58_Hb/PKK_1138_031210.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hb 13:5-9 - Ära satu segadusse</title>
+			<description>Uus Testament, Kiri heebrealastele, 13:5-9 salm</description>
+			<pubDate>Sat, 04 Sep 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Hb 13:5-9 - Ära satu segadusse</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1277</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kiri_heebrealastele.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>1277</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/58_Hb/PKK_1139_061210.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hb 13:10-17 - Väljaspoole leeri</title>
+			<description>Uus Testament, Kiri heebrealastele, 13:10-17 salm</description>
+			<pubDate>Sun, 05 Sep 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Hb 13:10-17 - Väljaspoole leeri</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1278</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kiri_heebrealastele.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>1278</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/58_Hb/PKK_1140_071210.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hb 13:18-25 - Asi on armus</title>
+			<description>Uus Testament, Kiri heebrealastele, 13:18-25 salm</description>
+			<pubDate>Mon, 06 Sep 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Hb 13:18-25 - Asi on armus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1279</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kiri_heebrealastele.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>1279</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/58_Hb/PKK_1141_081210.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+	</channel>
+</rss>

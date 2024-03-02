@@ -1,0 +1,1085 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+	<channel>
+		<title>Matteuse evangeelium</title>
+		<description>Piibliõppesarjas &quot;Piibel kaanest kaaneni&quot; loeb ja seletab õpetaja Aare Kimmel (EELK) salm-salmi kaupa ära terve Piibli, nii Vana kui Uue Testamendi raamatud, sidudes loetut tänapäevaga.</description>
+		<link>http://www.pereraadio.ee</link>
+		<language>es</language>
+		<image>
+			<url>https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png</url>
+			<title>Piibel kaanest kaaneni</title>
+			<link>http://www.pereraadio.ee</link>
+		</image>
+		<itunes:type>episodic</itunes:type>
+		<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+		<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+		<itunes:category text="Education">
+		</itunes:category>
+
+		<item>
+			<title>Sissejuhatus Matteuse evangeeliumi</title>
+			<description>Uus Testament, Matteuse evangeelium, Matteuse salm</description>
+			<pubDate>Sun, 18 May 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Sissejuhatus Matteuse evangeeliumi</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>802</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>802</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0072_110406.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 1:1-16 - Surma ja elu sugupuud</title>
+			<description>Uus Testament, Matteuse evangeelium, 1:1-16 salm</description>
+			<pubDate>Mon, 19 May 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 1:1-16 - Surma ja elu sugupuud</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>803</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1788</itunes:duration>
+			<guid>803</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0073_120406.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 1:17-25 - Neitsi lapseootel</title>
+			<description>Uus Testament, Matteuse evangeelium, 1:17-25 salm</description>
+			<pubDate>Tue, 20 May 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 1:17-25 - Neitsi lapseootel</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>804</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>804</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0074_130406.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 2:1-12 - Targad leiavad Jeesuse</title>
+			<description>Uus Testament, Matteuse evangeelium, 2:1-12 salm</description>
+			<pubDate>Wed, 21 May 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 2:1-12 - Targad leiavad Jeesuse</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>805</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1787</itunes:duration>
+			<guid>805</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0075_140406.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 2:13-23 - Põgenemine Egiptusse</title>
+			<description>Uus Testament, Matteuse evangeelium, 2:13-23 salm</description>
+			<pubDate>Thu, 22 May 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 2:13-23 - Põgenemine Egiptusse</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>806</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>806</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0076_170406.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 3:1-10 - Johannes teevalmistajana</title>
+			<description>Uus Testament, Matteuse evangeelium, 3:1-10 salm</description>
+			<pubDate>Fri, 23 May 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 3:1-10 - Johannes teevalmistajana</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>807</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>807</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0077_180406.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 3:11-17 - Jeesuse ristimised</title>
+			<description>Uus Testament, Matteuse evangeelium, 3:11-17 salm</description>
+			<pubDate>Sat, 24 May 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 3:11-17 - Jeesuse ristimised</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>808</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1778</itunes:duration>
+			<guid>808</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0078_190406.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 4:1-11 - Jeesus saatana kiusata</title>
+			<description>Uus Testament, Matteuse evangeelium, 4:1-11 salm</description>
+			<pubDate>Sun, 25 May 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 4:1-11 - Jeesus saatana kiusata</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>809</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>809</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0079_200406.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 4:12-25 - Avaliku tegevuse algus</title>
+			<description>Uus Testament, Matteuse evangeelium, 4:12-25 salm</description>
+			<pubDate>Mon, 26 May 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 4:12-25 - Avaliku tegevuse algus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>810</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>810</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0080_210406.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 5:1-2 - Sissejuhatus mäejutlusse</title>
+			<description>Uus Testament, Matteuse evangeelium, 5:1-2 salm</description>
+			<pubDate>Tue, 27 May 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 5:1-2 - Sissejuhatus mäejutlusse</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>811</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>811</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0081_240406.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 5:3-10 - Õndsad</title>
+			<description>Uus Testament, Matteuse evangeelium, 5:3-10 salm</description>
+			<pubDate>Wed, 28 May 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 5:3-10 - Õndsad</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>812</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1796</itunes:duration>
+			<guid>812</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0082_250406.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 5:11-20 - Tõesti: ma ütlen teile</title>
+			<description>Uus Testament, Matteuse evangeelium, 5:11-20 salm</description>
+			<pubDate>Thu, 29 May 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 5:11-20 - Tõesti: ma ütlen teile</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>813</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1789</itunes:duration>
+			<guid>813</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0083_260406.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 5:21-42 - Seaduse sisu</title>
+			<description>Uus Testament, Matteuse evangeelium, 5:21-42 salm</description>
+			<pubDate>Fri, 30 May 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 5:21-42 - Seaduse sisu</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>814</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>814</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0084_270406.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 5:43-6:6 - Ära näitle</title>
+			<description>Uus Testament, Matteuse evangeelium, 5:43-6:6 salm</description>
+			<pubDate>Sat, 31 May 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 5:43-6:6 - Ära näitle</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>815</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1790</itunes:duration>
+			<guid>815</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0085_280406.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 6:7-10 - Palve paljastab</title>
+			<description>Uus Testament, Matteuse evangeelium, 6:7-10 salm</description>
+			<pubDate>Sun, 01 Jun 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 6:7-10 - Palve paljastab</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>816</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>816</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0086_010506.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 6:11-13 - Andeksandmise raskus</title>
+			<description>Uus Testament, Matteuse evangeelium, 6:11-13 salm</description>
+			<pubDate>Mon, 02 Jun 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 6:11-13 - Andeksandmise raskus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>817</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1770</itunes:duration>
+			<guid>817</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0087_020506.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 6:14-34 - Ärge muretsege!</title>
+			<description>Uus Testament, Matteuse evangeelium, 6:14-34 salm</description>
+			<pubDate>Tue, 03 Jun 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 6:14-34 - Ärge muretsege!</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>818</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>818</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0088_030506.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 7:1-12 - Kuldne reegel</title>
+			<description>Uus Testament, Matteuse evangeelium, 7:1-12 salm</description>
+			<pubDate>Wed, 04 Jun 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 7:1-12 - Kuldne reegel</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>819</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>819</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0089_040506.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 7:13-29 - Kaks ehitajat</title>
+			<description>Uus Testament, Matteuse evangeelium, 7:13-29 salm</description>
+			<pubDate>Thu, 05 Jun 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 7:13-29 - Kaks ehitajat</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>820</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>820</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0090_050506.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 8:1-4 - Sõnadelt tegudele</title>
+			<description>Uus Testament, Matteuse evangeelium, 8:1-4 salm</description>
+			<pubDate>Fri, 06 Jun 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 8:1-4 - Sõnadelt tegudele</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>821</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>821</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0091_080506.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 8:5-17 - Tunnustähed kinnitavad õpetust</title>
+			<description>Uus Testament, Matteuse evangeelium, 8:5-17 salm</description>
+			<pubDate>Sat, 07 Jun 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 8:5-17 - Tunnustähed kinnitavad õpetust</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>822</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1699</itunes:duration>
+			<guid>822</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0092_090506.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 8:18-27 - Kes ta selline on?</title>
+			<description>Uus Testament, Matteuse evangeelium, 8:18-27 salm</description>
+			<pubDate>Sun, 08 Jun 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 8:18-27 - Kes ta selline on?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>823</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1761</itunes:duration>
+			<guid>823</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0093_100506.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 8:28-9:2 - Kurjuse väed võidetud</title>
+			<description>Uus Testament, Matteuse evangeelium, 8:28-9:2 salm</description>
+			<pubDate>Mon, 09 Jun 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 8:28-9:2 - Kurjuse väed võidetud</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>824</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>824</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0094_110506.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 9:3-17 - Jeesus ei mahu raamidesse</title>
+			<description>Uus Testament, Matteuse evangeelium, 9:3-17 salm</description>
+			<pubDate>Tue, 10 Jun 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 9:3-17 - Jeesus ei mahu raamidesse</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>825</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>825</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0095_120506.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 9:18-38 - Surnu ärkab ellu</title>
+			<description>Uus Testament, Matteuse evangeelium, 9:18-38 salm</description>
+			<pubDate>Wed, 11 Jun 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 9:18-38 - Surnu ärkab ellu</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>826</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1771</itunes:duration>
+			<guid>826</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0096_150506.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 10:1-15 - Matkavarustus</title>
+			<description>Uus Testament, Matteuse evangeelium, 10:1-15 salm</description>
+			<pubDate>Thu, 12 Jun 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 10:1-15 - Matkavarustus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>827</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>827</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0097_160506.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 10:16-23 - Lambad ja hundid</title>
+			<description>Uus Testament, Matteuse evangeelium, 10:16-23 salm</description>
+			<pubDate>Fri, 13 Jun 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 10:16-23 - Lambad ja hundid</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>828</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>828</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0098_170506.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 10:24-36 - Kartus või armastus</title>
+			<description>Uus Testament, Matteuse evangeelium, 10:24-36 salm</description>
+			<pubDate>Sat, 14 Jun 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 10:24-36 - Kartus või armastus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>829</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1784</itunes:duration>
+			<guid>829</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0099_180506.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 10:37-11:6 - Rist on hukkamisvahend</title>
+			<description>Uus Testament, Matteuse evangeelium, 10:37-11:6 salm</description>
+			<pubDate>Sun, 15 Jun 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 10:37-11:6 - Rist on hukkamisvahend</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>830</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>830</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0100_190506.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 11:7-19 - Pulmad või matused</title>
+			<description>Uus Testament, Matteuse evangeelium, 11:7-19 salm</description>
+			<pubDate>Mon, 16 Jun 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 11:7-19 - Pulmad või matused</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>831</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1784</itunes:duration>
+			<guid>831</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0101_220506.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 11:20-30 - Pääste ja hukatuse piiril</title>
+			<description>Uus Testament, Matteuse evangeelium, 11:20-30 salm</description>
+			<pubDate>Tue, 17 Jun 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 11:20-30 - Pääste ja hukatuse piiril</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>832</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>832</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0102_230506.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 12:1-14 - Kas tohib: peab: võib?</title>
+			<description>Uus Testament, Matteuse evangeelium, 12:1-14 salm</description>
+			<pubDate>Wed, 18 Jun 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 12:1-14 - Kas tohib: peab: võib?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>833</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>833</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0103_240506.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 12:15-30 - Rudjutut ei murta</title>
+			<description>Uus Testament, Matteuse evangeelium, 12:15-30 salm</description>
+			<pubDate>Thu, 19 Jun 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 12:15-30 - Rudjutut ei murta</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>834</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>834</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0104_250506.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 12:31-42 - Püha Vaimu teotamine</title>
+			<description>Uus Testament, Matteuse evangeelium, 12:31-42 salm</description>
+			<pubDate>Fri, 20 Jun 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 12:31-42 - Püha Vaimu teotamine</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>835</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1793</itunes:duration>
+			<guid>835</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0105_260506.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 12:43-13:8 - Mõistupildi mõistatus</title>
+			<description>Uus Testament, Matteuse evangeelium, 12:43-13:8 salm</description>
+			<pubDate>Sat, 21 Jun 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 12:43-13:8 - Mõistupildi mõistatus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>836</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1784</itunes:duration>
+			<guid>836</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0106_290506.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 13:9-23 - Hea maa ime</title>
+			<description>Uus Testament, Matteuse evangeelium, 13:9-23 salm</description>
+			<pubDate>Sun, 22 Jun 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 13:9-23 - Hea maa ime</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>837</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1768</itunes:duration>
+			<guid>837</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0107_300506.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 13:24-36 - Umbrohu kitkujad</title>
+			<description>Uus Testament, Matteuse evangeelium, 13:24-36 salm</description>
+			<pubDate>Mon, 23 Jun 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 13:24-36 - Umbrohu kitkujad</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>838</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1795</itunes:duration>
+			<guid>838</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0108_310506.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 13:44-58 - Kas ma olen pärl</title>
+			<description>Uus Testament, Matteuse evangeelium, 13:44-58 salm</description>
+			<pubDate>Tue, 24 Jun 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 13:44-58 - Kas ma olen pärl</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>839</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>839</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0109_010606.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 14:1-17 - Tähtsaim on olla vait</title>
+			<description>Uus Testament, Matteuse evangeelium, 14:1-17 salm</description>
+			<pubDate>Wed, 25 Jun 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 14:1-17 - Tähtsaim on olla vait</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>840</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1757</itunes:duration>
+			<guid>840</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0110_020606.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 14:18-36 - Õnnistatud leivast piisab</title>
+			<description>Uus Testament, Matteuse evangeelium, 14:18-36 salm</description>
+			<pubDate>Thu, 26 Jun 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 14:18-36 - Õnnistatud leivast piisab</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>841</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>841</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0111_050606.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 15:1-20 - Otsustav on südamehoiak</title>
+			<description>Uus Testament, Matteuse evangeelium, 15:1-20 salm</description>
+			<pubDate>Fri, 27 Jun 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 15:1-20 - Otsustav on südamehoiak</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>842</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>842</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0112_060606.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 15:21-39 - Ema kindel usk</title>
+			<description>Uus Testament, Matteuse evangeelium, 15:21-39 salm</description>
+			<pubDate>Sat, 28 Jun 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 15:21-39 - Ema kindel usk</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>843</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>843</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0113_070606.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 16:1-20 - Usu sünd on ime</title>
+			<description>Uus Testament, Matteuse evangeelium, 16:1-20 salm</description>
+			<pubDate>Sun, 29 Jun 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 16:1-20 - Usu sünd on ime</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>844</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1786</itunes:duration>
+			<guid>844</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0114_080606.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 16:21-28 - Kas tunned ennast</title>
+			<description>Uus Testament, Matteuse evangeelium, 16:21-28 salm</description>
+			<pubDate>Mon, 30 Jun 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 16:21-28 - Kas tunned ennast</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>845</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1774</itunes:duration>
+			<guid>845</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0115_090606.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 17:1-13 - Kirgastusmäel</title>
+			<description>Uus Testament, Matteuse evangeelium, 17:1-13 salm</description>
+			<pubDate>Tue, 01 Jul 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 17:1-13 - Kirgastusmäel</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>846</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>846</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0116_120606.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 17:14-27 - Tagasi keset argipäeva</title>
+			<description>Uus Testament, Matteuse evangeelium, 17:14-27 salm</description>
+			<pubDate>Wed, 02 Jul 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 17:14-27 - Tagasi keset argipäeva</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>847</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1797</itunes:duration>
+			<guid>847</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0117_130606.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 18:1-10 - Kas juhi koht on vaba</title>
+			<description>Uus Testament, Matteuse evangeelium, 18:1-10 salm</description>
+			<pubDate>Thu, 03 Jul 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 18:1-10 - Kas juhi koht on vaba</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>848</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1750</itunes:duration>
+			<guid>848</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0118_140606.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 18:11-20 - Kuidas kohelda eksinut</title>
+			<description>Uus Testament, Matteuse evangeelium, 18:11-20 salm</description>
+			<pubDate>Fri, 04 Jul 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 18:11-20 - Kuidas kohelda eksinut</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>849</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1778</itunes:duration>
+			<guid>849</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0119_150606.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 18:21-35 - Armutu või armuline</title>
+			<description>Uus Testament, Matteuse evangeelium, 18:21-35 salm</description>
+			<pubDate>Sat, 05 Jul 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 18:21-35 - Armutu või armuline</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>850</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1751</itunes:duration>
+			<guid>850</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0120_160606.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 19:1-12 - Abielulahutuse küsimus</title>
+			<description>Uus Testament, Matteuse evangeelium, 19:1-12 salm</description>
+			<pubDate>Sun, 06 Jul 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 19:1-12 - Abielulahutuse küsimus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>851</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>851</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0121_190606.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 19:13-26 - Kaamel on suur loom</title>
+			<description>Uus Testament, Matteuse evangeelium, 19:13-26 salm</description>
+			<pubDate>Mon, 07 Jul 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 19:13-26 - Kaamel on suur loom</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>852</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1794</itunes:duration>
+			<guid>852</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0122_200606.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 19:27-20:19 - Kummaline palgamaksmine</title>
+			<description>Uus Testament, Matteuse evangeelium, 19:27-20:19 salm</description>
+			<pubDate>Tue, 08 Jul 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 19:27-20:19 - Kummaline palgamaksmine</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>853</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>853</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0123_210606.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 20:20-34 - Isekus ajab vihale</title>
+			<description>Uus Testament, Matteuse evangeelium, 20:20-34 salm</description>
+			<pubDate>Wed, 09 Jul 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 20:20-34 - Isekus ajab vihale</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>854</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1764</itunes:duration>
+			<guid>854</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0124_220606.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 21:1-14 - Eesel on väike loom</title>
+			<description>Uus Testament, Matteuse evangeelium, 21:1-14 salm</description>
+			<pubDate>Thu, 10 Jul 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 21:1-14 - Eesel on väike loom</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>855</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1725</itunes:duration>
+			<guid>855</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0125_230606.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 21:15-27 - Viigilehe rüü</title>
+			<description>Uus Testament, Matteuse evangeelium, 21:15-27 salm</description>
+			<pubDate>Fri, 11 Jul 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 21:15-27 - Viigilehe rüü</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>856</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1794</itunes:duration>
+			<guid>856</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0126_260606.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 21:28-46 - Nurgakivi komistuskiviks</title>
+			<description>Uus Testament, Matteuse evangeelium, 21:28-46 salm</description>
+			<pubDate>Sat, 12 Jul 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 21:28-46 - Nurgakivi komistuskiviks</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>857</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1768</itunes:duration>
+			<guid>857</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0127_270606.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 22:1-14 - Pulmapidu ja külalised</title>
+			<description>Uus Testament, Matteuse evangeelium, 22:1-14 salm</description>
+			<pubDate>Sun, 13 Jul 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 22:1-14 - Pulmapidu ja külalised</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>858</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>858</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0128_280606.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 22:15-46 - Eksamid Jeesusele</title>
+			<description>Uus Testament, Matteuse evangeelium, 22:15-46 salm</description>
+			<pubDate>Mon, 14 Jul 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 22:15-46 - Eksamid Jeesusele</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>859</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1776</itunes:duration>
+			<guid>859</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0129_290606.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 23:1-22 - Jeesus on karm</title>
+			<description>Uus Testament, Matteuse evangeelium, 23:1-22 salm</description>
+			<pubDate>Tue, 15 Jul 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 23:1-22 - Jeesus on karm</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>860</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>860</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0130_300606.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 23:23-36 - Pimedad teejuhid</title>
+			<description>Uus Testament, Matteuse evangeelium, 23:23-36 salm</description>
+			<pubDate>Wed, 16 Jul 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 23:23-36 - Pimedad teejuhid</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>861</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>861</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0131_030706.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 23:37-24:8 - Kanaema ja pojad</title>
+			<description>Uus Testament, Matteuse evangeelium, 23:37-24:8 salm</description>
+			<pubDate>Thu, 17 Jul 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 23:37-24:8 - Kanaema ja pojad</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>862</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1795</itunes:duration>
+			<guid>862</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0132_040706.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 24:9-22 - Hävituse koletis</title>
+			<description>Uus Testament, Matteuse evangeelium, 24:9-22 salm</description>
+			<pubDate>Fri, 18 Jul 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 24:9-22 - Hävituse koletis</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>863</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1687</itunes:duration>
+			<guid>863</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0133_050706.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 24:23-35 - Välk paistab kaugele</title>
+			<description>Uus Testament, Matteuse evangeelium, 24:23-35 salm</description>
+			<pubDate>Sat, 19 Jul 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 24:23-35 - Välk paistab kaugele</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>864</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>864</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0134_060706.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 24:36-51 - Valvake!</title>
+			<description>Uus Testament, Matteuse evangeelium, 24:36-51 salm</description>
+			<pubDate>Sun, 20 Jul 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 24:36-51 - Valvake!</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>865</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>865</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0135_070706.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 25:1-30 - Käestlastud võimalused</title>
+			<description>Uus Testament, Matteuse evangeelium, 25:1-30 salm</description>
+			<pubDate>Mon, 21 Jul 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 25:1-30 - Käestlastud võimalused</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>866</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>866</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0136_100706.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 25:31-46 - Paljastav kohtuotsus</title>
+			<description>Uus Testament, Matteuse evangeelium, 25:31-46 salm</description>
+			<pubDate>Tue, 22 Jul 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 25:31-46 - Paljastav kohtuotsus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>867</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1794</itunes:duration>
+			<guid>867</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0137_110706.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 26:1-16 - Salvi imeline lõhn</title>
+			<description>Uus Testament, Matteuse evangeelium, 26:1-16 salm</description>
+			<pubDate>Wed, 23 Jul 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 26:1-16 - Salvi imeline lõhn</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>868</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>868</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0138_120706.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 26:17-29 - Õhtusöömaaja seadmine</title>
+			<description>Uus Testament, Matteuse evangeelium, 26:17-29 salm</description>
+			<pubDate>Thu, 24 Jul 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 26:17-29 - Õhtusöömaaja seadmine</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>869</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>869</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0139_130706.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 26:31-46 - Ahistus õlipressis</title>
+			<description>Uus Testament, Matteuse evangeelium, 26:31-46 salm</description>
+			<pubDate>Fri, 25 Jul 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 26:31-46 - Ahistus õlipressis</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>870</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>870</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0140_140706.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 26:47-68 - Kes on kohtu all</title>
+			<description>Uus Testament, Matteuse evangeelium, 26:47-68 salm</description>
+			<pubDate>Sat, 26 Jul 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 26:47-68 - Kes on kohtu all</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>871</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1704</itunes:duration>
+			<guid>871</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0141_170706.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 26:69-27:10 - Peetrus ja Juudas</title>
+			<description>Uus Testament, Matteuse evangeelium, 26:69-27:10 salm</description>
+			<pubDate>Sun, 27 Jul 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 26:69-27:10 - Peetrus ja Juudas</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>872</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>872</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0142_180706.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 27:11-26 - Kohus Jeesuse üle</title>
+			<description>Uus Testament, Matteuse evangeelium, 27:11-26 salm</description>
+			<pubDate>Mon, 28 Jul 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 27:11-26 - Kohus Jeesuse üle</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>873</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>873</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0143_190706.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 27:27-44 - Vaevarikas ristitee</title>
+			<description>Uus Testament, Matteuse evangeelium, 27:27-44 salm</description>
+			<pubDate>Tue, 29 Jul 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 27:27-44 - Vaevarikas ristitee</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>874</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1785</itunes:duration>
+			<guid>874</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0144_200706.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 27:45-56 - Jumala Poja surm</title>
+			<description>Uus Testament, Matteuse evangeelium, 27:45-56 salm</description>
+			<pubDate>Wed, 30 Jul 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 27:45-56 - Jumala Poja surm</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>875</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1775</itunes:duration>
+			<guid>875</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0145_210706.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 27:57-28:7 - Ingel on inimeste jaoks</title>
+			<description>Uus Testament, Matteuse evangeelium, 27:57-28:7 salm</description>
+			<pubDate>Thu, 31 Jul 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 27:57-28:7 - Ingel on inimeste jaoks</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>876</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1690</itunes:duration>
+			<guid>876</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0146_240706.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mt 28:8-20 - Jeesus on kõikvõimas</title>
+			<description>Uus Testament, Matteuse evangeelium, 28:8-20 salm</description>
+			<pubDate>Fri, 01 Aug 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mt 28:8-20 - Jeesus on kõikvõimas</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>877</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Matteuse_evangeelium.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>877</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/40_Mt/PKK_0147_250706.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+	</channel>
+</rss>

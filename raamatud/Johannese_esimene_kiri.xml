@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+	<channel>
+		<title>Johannese esimene kiri</title>
+		<description>Piibliõppesarjas &quot;Piibel kaanest kaaneni&quot; loeb ja seletab õpetaja Aare Kimmel (EELK) salm-salmi kaupa ära terve Piibli, nii Vana kui Uue Testamendi raamatud, sidudes loetut tänapäevaga.</description>
+		<link>http://www.pereraadio.ee</link>
+		<language>es</language>
+		<image>
+			<url>https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_esimene_kiri.png</url>
+			<title>Piibel kaanest kaaneni</title>
+			<link>http://www.pereraadio.ee</link>
+		</image>
+		<itunes:type>episodic</itunes:type>
+		<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+		<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_esimene_kiri.png"/>
+		<itunes:category text="Education">
+		</itunes:category>
+
+		<item>
+			<title>Sissejuhatus 1. Johannese kirja</title>
+			<description>Uus Testament, Johannese esimene kiri, 1. salm</description>
+			<pubDate>Sat, 23 Oct 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Sissejuhatus 1. Johannese kirja</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1326</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_esimene_kiri.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>1326</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/62_1Jh/PKK_1241_050511.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Jh 1:1-3 - Apostlid tunnistasid kogetust</title>
+			<description>Uus Testament, Johannese esimene kiri, 1:1-3 salm</description>
+			<pubDate>Sun, 24 Oct 2004 10:29:47 GMT</pubDate>
+			<itunes:title>1Jh 1:1-3 - Apostlid tunnistasid kogetust</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1327</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_esimene_kiri.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1327</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/62_1Jh/PKK_1242_060511.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Jh 1:4-8 - Käi valguses</title>
+			<description>Uus Testament, Johannese esimene kiri, 1:4-8 salm</description>
+			<pubDate>Mon, 25 Oct 2004 10:29:47 GMT</pubDate>
+			<itunes:title>1Jh 1:4-8 - Käi valguses</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1328</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_esimene_kiri.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1328</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/62_1Jh/PKK_1243_090511.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Jh 1:9-2:1 - Rõõmusta oma eestkostja üle</title>
+			<description>Uus Testament, Johannese esimene kiri, 1:9-2:1 salm</description>
+			<pubDate>Tue, 26 Oct 2004 10:29:47 GMT</pubDate>
+			<itunes:title>1Jh 1:9-2:1 - Rõõmusta oma eestkostja üle</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1329</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_esimene_kiri.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1329</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/62_1Jh/PKK_1244_100511.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Jh 2:1-6 - Armastus paljastab pettuse</title>
+			<description>Uus Testament, Johannese esimene kiri, 2:1-6 salm</description>
+			<pubDate>Wed, 27 Oct 2004 10:29:47 GMT</pubDate>
+			<itunes:title>1Jh 2:1-6 - Armastus paljastab pettuse</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1330</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_esimene_kiri.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>1330</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/62_1Jh/PKK_1245_110511.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Jh 2:7-11 - Paljastav uus vana käsk</title>
+			<description>Uus Testament, Johannese esimene kiri, 2:7-11 salm</description>
+			<pubDate>Thu, 28 Oct 2004 10:29:47 GMT</pubDate>
+			<itunes:title>1Jh 2:7-11 - Paljastav uus vana käsk</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1331</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_esimene_kiri.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>1331</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/62_1Jh/PKK_1246_120511.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Jh 2:12-15 - Isad: noored ja lapsed</title>
+			<description>Uus Testament, Johannese esimene kiri, 2:12-15 salm</description>
+			<pubDate>Fri, 29 Oct 2004 10:29:47 GMT</pubDate>
+			<itunes:title>1Jh 2:12-15 - Isad: noored ja lapsed</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1333</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_esimene_kiri.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1333</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/62_1Jh/PKK_1247_130511.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Jh 2:16-19 - Kas pääsen kindlasti?</title>
+			<description>Uus Testament, Johannese esimene kiri, 2:16-19 salm</description>
+			<pubDate>Sat, 30 Oct 2004 10:29:47 GMT</pubDate>
+			<itunes:title>1Jh 2:16-19 - Kas pääsen kindlasti?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1334</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_esimene_kiri.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1334</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/62_1Jh/PKK_1248_160511.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Jh 2:20-26 - Kas mu hinges roostetab?</title>
+			<description>Uus Testament, Johannese esimene kiri, 2:20-26 salm</description>
+			<pubDate>Sun, 31 Oct 2004 10:29:47 GMT</pubDate>
+			<itunes:title>1Jh 2:20-26 - Kas mu hinges roostetab?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1335</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_esimene_kiri.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1335</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/62_1Jh/PKK_1249_170511.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Jh 2:27-3:3 - Kelleks me kord saame?</title>
+			<description>Uus Testament, Johannese esimene kiri, 2:27-3:3 salm</description>
+			<pubDate>Mon, 01 Nov 2004 10:29:47 GMT</pubDate>
+			<itunes:title>1Jh 2:27-3:3 - Kelleks me kord saame?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1336</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_esimene_kiri.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1336</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/62_1Jh/PKK_1250_180511.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Jh 3:4-8 - Skylla ja Kharubdis</title>
+			<description>Uus Testament, Johannese esimene kiri, 3:4-8 salm</description>
+			<pubDate>Tue, 02 Nov 2004 10:29:47 GMT</pubDate>
+			<itunes:title>1Jh 3:4-8 - Skylla ja Kharubdis</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1337</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_esimene_kiri.png"/>
+			<itunes:duration>1796</itunes:duration>
+			<guid>1337</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/62_1Jh/PKK_1251_190511.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Jh 3:9-10 - Kuidas vili maitseb?</title>
+			<description>Uus Testament, Johannese esimene kiri, 3:9-10 salm</description>
+			<pubDate>Wed, 03 Nov 2004 10:29:47 GMT</pubDate>
+			<itunes:title>1Jh 3:9-10 - Kuidas vili maitseb?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1338</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_esimene_kiri.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1338</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/62_1Jh/PKK_1252_200511.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Jh 3:11-15 - Armastus või kadedus</title>
+			<description>Uus Testament, Johannese esimene kiri, 3:11-15 salm</description>
+			<pubDate>Thu, 04 Nov 2004 10:29:47 GMT</pubDate>
+			<itunes:title>1Jh 3:11-15 - Armastus või kadedus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1339</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_esimene_kiri.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1339</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/62_1Jh/PKK_1253_230511.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Jh 3:16-20 - Suurem kui meie süda</title>
+			<description>Uus Testament, Johannese esimene kiri, 3:16-20 salm</description>
+			<pubDate>Fri, 05 Nov 2004 10:29:47 GMT</pubDate>
+			<itunes:title>1Jh 3:16-20 - Suurem kui meie süda</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1340</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_esimene_kiri.png"/>
+			<itunes:duration>1776</itunes:duration>
+			<guid>1340</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/62_1Jh/PKK_1254_240511.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Jh 3:21-4:1 - Ligine Jumalale julgesti</title>
+			<description>Uus Testament, Johannese esimene kiri, 3:21-4:1 salm</description>
+			<pubDate>Sat, 06 Nov 2004 10:29:47 GMT</pubDate>
+			<itunes:title>1Jh 3:21-4:1 - Ligine Jumalale julgesti</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1341</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_esimene_kiri.png"/>
+			<itunes:duration>1784</itunes:duration>
+			<guid>1341</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/62_1Jh/PKK_1255_250511.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Jh 4:2-6 - Tõde ja eksitus</title>
+			<description>Uus Testament, Johannese esimene kiri, 4:2-6 salm</description>
+			<pubDate>Sun, 07 Nov 2004 10:29:47 GMT</pubDate>
+			<itunes:title>1Jh 4:2-6 - Tõde ja eksitus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1342</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_esimene_kiri.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1342</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/62_1Jh/PKK_1256_260511.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Jh 4:7-11 - Armastus on Jumalast</title>
+			<description>Uus Testament, Johannese esimene kiri, 4:7-11 salm</description>
+			<pubDate>Mon, 08 Nov 2004 10:29:47 GMT</pubDate>
+			<itunes:title>1Jh 4:7-11 - Armastus on Jumalast</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1343</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_esimene_kiri.png"/>
+			<itunes:duration>1756</itunes:duration>
+			<guid>1343</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/62_1Jh/PKK_1257_270511.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Jh 4:12-14 - Armastuse eesmärk</title>
+			<description>Uus Testament, Johannese esimene kiri, 4:12-14 salm</description>
+			<pubDate>Tue, 09 Nov 2004 10:29:47 GMT</pubDate>
+			<itunes:title>1Jh 4:12-14 - Armastuse eesmärk</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1344</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_esimene_kiri.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1344</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/62_1Jh/PKK_1258_300511.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Jh 4:15-21 - Armastuses ei ole kartust</title>
+			<description>Uus Testament, Johannese esimene kiri, 4:15-21 salm</description>
+			<pubDate>Wed, 10 Nov 2004 10:29:47 GMT</pubDate>
+			<itunes:title>1Jh 4:15-21 - Armastuses ei ole kartust</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1345</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_esimene_kiri.png"/>
+			<itunes:duration>1792</itunes:duration>
+			<guid>1345</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/62_1Jh/PKK_1259_310511.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Jh 5:1-4 - Maailma võitja</title>
+			<description>Uus Testament, Johannese esimene kiri, 5:1-4 salm</description>
+			<pubDate>Thu, 11 Nov 2004 10:29:47 GMT</pubDate>
+			<itunes:title>1Jh 5:1-4 - Maailma võitja</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1346</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_esimene_kiri.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>1346</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/62_1Jh/PKK_1260_010611.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Jh 5:4-8 - Kolm ühtset tunnistust</title>
+			<description>Uus Testament, Johannese esimene kiri, 5:4-8 salm</description>
+			<pubDate>Fri, 12 Nov 2004 10:29:47 GMT</pubDate>
+			<itunes:title>1Jh 5:4-8 - Kolm ühtset tunnistust</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1347</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_esimene_kiri.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1347</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/62_1Jh/PKK_1261_020611.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Jh 5:9-15 - Ära arva: vaid tea</title>
+			<description>Uus Testament, Johannese esimene kiri, 5:9-15 salm</description>
+			<pubDate>Sat, 13 Nov 2004 10:29:47 GMT</pubDate>
+			<itunes:title>1Jh 5:9-15 - Ära arva: vaid tea</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1348</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_esimene_kiri.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1348</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/62_1Jh/PKK_1262_030611.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Jh 5:16-21 - Püsi Kristuses ja sa elad</title>
+			<description>Uus Testament, Johannese esimene kiri, 5:16-21 salm</description>
+			<pubDate>Sun, 14 Nov 2004 10:29:47 GMT</pubDate>
+			<itunes:title>1Jh 5:16-21 - Püsi Kristuses ja sa elad</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1349</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_esimene_kiri.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>1349</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/62_1Jh/PKK_1263_060611.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+	</channel>
+</rss>

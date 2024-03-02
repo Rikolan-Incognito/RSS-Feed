@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+	<channel>
+		<title>Johannese evangeelium</title>
+		<description>Piibliõppesarjas &quot;Piibel kaanest kaaneni&quot; loeb ja seletab õpetaja Aare Kimmel (EELK) salm-salmi kaupa ära terve Piibli, nii Vana kui Uue Testamendi raamatud, sidudes loetut tänapäevaga.</description>
+		<link>http://www.pereraadio.ee</link>
+		<language>es</language>
+		<image>
+			<url>https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_evangeelium.png</url>
+			<title>Piibel kaanest kaaneni</title>
+			<link>http://www.pereraadio.ee</link>
+		</image>
+		<itunes:type>episodic</itunes:type>
+		<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+		<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_evangeelium.png"/>
+		<itunes:category text="Education">
+		</itunes:category>
+
+		<item>
+			<title>Sissejuhatus Johannese evangeeliumisse</title>
+			<description>Uus Testament, Johannese evangeelium, Johannese salm</description>
+			<pubDate>Mon, 13 Oct 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Sissejuhatus Johannese evangeeliumisse</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>950</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_evangeelium.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>950</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/43_Jh/PKK_0323_280307.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jh 1:1-18 - Jumal saab ilmsiks</title>
+			<description>Uus Testament, Johannese evangeelium, 1:1-18 salm</description>
+			<pubDate>Tue, 14 Oct 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Jh 1:1-18 - Jumal saab ilmsiks</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>951</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_evangeelium.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>951</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/43_Jh/PKK_0324_290307.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jh 1:2-17 - Elu ja valgus</title>
+			<description>Uus Testament, Johannese evangeelium, 1:2-17 salm</description>
+			<pubDate>Wed, 15 Oct 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Jh 1:2-17 - Elu ja valgus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>952</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_evangeelium.png"/>
+			<itunes:duration>1797</itunes:duration>
+			<guid>952</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/43_Jh/PKK_0325_300307.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jh 1:19-34 - Sõna ja hääl</title>
+			<description>Uus Testament, Johannese evangeelium, 1:19-34 salm</description>
+			<pubDate>Thu, 16 Oct 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Jh 1:19-34 - Sõna ja hääl</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>953</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_evangeelium.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>953</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/43_Jh/PKK_0326_020407.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jh 1:35-51 - Mida sa soovid</title>
+			<description>Uus Testament, Johannese evangeelium, 1:35-51 salm</description>
+			<pubDate>Fri, 17 Oct 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Jh 1:35-51 - Mida sa soovid</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>954</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_evangeelium.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>954</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/43_Jh/PKK_0327_030407.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jh 2:1-25 - Endine ei kõlba</title>
+			<description>Uus Testament, Johannese evangeelium, 2:1-25 salm</description>
+			<pubDate>Sat, 18 Oct 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Jh 2:1-25 - Endine ei kõlba</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>955</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_evangeelium.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>955</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/43_Jh/PKK_0328_040407.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jh 3:1-13 - Tuul: vesi ja Vaim</title>
+			<description>Uus Testament, Johannese evangeelium, 3:1-13 salm</description>
+			<pubDate>Sun, 19 Oct 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Jh 3:1-13 - Tuul: vesi ja Vaim</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>956</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_evangeelium.png"/>
+			<itunes:duration>1774</itunes:duration>
+			<guid>956</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/43_Jh/PKK_0329_050407.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jh 3:14-36 - Põrm maast või elu</title>
+			<description>Uus Testament, Johannese evangeelium, 3:14-36 salm</description>
+			<pubDate>Mon, 20 Oct 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Jh 3:14-36 - Põrm maast või elu</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>957</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_evangeelium.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>957</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/43_Jh/PKK_0330_060407.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jh 4:1-26 - Katkine inimene ja Jeesus</title>
+			<description>Uus Testament, Johannese evangeelium, 4:1-26 salm</description>
+			<pubDate>Tue, 21 Oct 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Jh 4:1-26 - Katkine inimene ja Jeesus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>958</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_evangeelium.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>958</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/43_Jh/PKK_0331_090407.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jh 4:27-54 - Veekruusi ime</title>
+			<description>Uus Testament, Johannese evangeelium, 4:27-54 salm</description>
+			<pubDate>Wed, 22 Oct 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Jh 4:27-54 - Veekruusi ime</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>959</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_evangeelium.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>959</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/43_Jh/PKK_0332_100407.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jh 5:1-24 - Jeesus annab elu</title>
+			<description>Uus Testament, Johannese evangeelium, 5:1-24 salm</description>
+			<pubDate>Thu, 23 Oct 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Jh 5:1-24 - Jeesus annab elu</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>960</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_evangeelium.png"/>
+			<itunes:duration>1761</itunes:duration>
+			<guid>960</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/43_Jh/PKK_0333_110407.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jh 5:25-47 - Mooses: Johannes: Jeesus ja Isa</title>
+			<description>Uus Testament, Johannese evangeelium, 5:25-47 salm</description>
+			<pubDate>Fri, 24 Oct 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Jh 5:25-47 - Mooses: Johannes: Jeesus ja Isa</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>961</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_evangeelium.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>961</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/43_Jh/PKK_0334_120407.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jh 6:1-27 - Jogurtitops või igavene elu</title>
+			<description>Uus Testament, Johannese evangeelium, 6:1-27 salm</description>
+			<pubDate>Sat, 25 Oct 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Jh 6:1-27 - Jogurtitops või igavene elu</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>962</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_evangeelium.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>962</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/43_Jh/PKK_0335_130407.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jh 6:28-52 - Usk on Jumala tegu</title>
+			<description>Uus Testament, Johannese evangeelium, 6:28-52 salm</description>
+			<pubDate>Sun, 26 Oct 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Jh 6:28-52 - Usk on Jumala tegu</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>963</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_evangeelium.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>963</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/43_Jh/PKK_0336_160407.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jh 6:53-7:13 - Kelle juurde me läheme</title>
+			<description>Uus Testament, Johannese evangeelium, 6:53-7:13 salm</description>
+			<pubDate>Mon, 27 Oct 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Jh 6:53-7:13 - Kelle juurde me läheme</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>964</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_evangeelium.png"/>
+			<itunes:duration>1753</itunes:duration>
+			<guid>964</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/43_Jh/PKK_0337_170407.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jh 7:14-52 - Jeesus ei jäta külmaks</title>
+			<description>Uus Testament, Johannese evangeelium, 7:14-52 salm</description>
+			<pubDate>Tue, 28 Oct 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Jh 7:14-52 - Jeesus ei jäta külmaks</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>965</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_evangeelium.png"/>
+			<itunes:duration>1773</itunes:duration>
+			<guid>965</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/43_Jh/PKK_0338_180407.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jh 8:1-30 - Kirjutatud liiva</title>
+			<description>Uus Testament, Johannese evangeelium, 8:1-30 salm</description>
+			<pubDate>Wed, 29 Oct 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Jh 8:1-30 - Kirjutatud liiva</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>966</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_evangeelium.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>966</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/43_Jh/PKK_0339_190407.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jh 8:31-59 - Kelle laps sa oled</title>
+			<description>Uus Testament, Johannese evangeelium, 8:31-59 salm</description>
+			<pubDate>Thu, 30 Oct 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Jh 8:31-59 - Kelle laps sa oled</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>967</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_evangeelium.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>967</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/43_Jh/PKK_0340_200407.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jh 9:1-41 - Pime: kes nägi</title>
+			<description>Uus Testament, Johannese evangeelium, 9:1-41 salm</description>
+			<pubDate>Fri, 31 Oct 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Jh 9:1-41 - Pime: kes nägi</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>968</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_evangeelium.png"/>
+			<itunes:duration>1779</itunes:duration>
+			<guid>968</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/43_Jh/PKK_0341_230407.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jh 10:1-22 - Jeesus on uks ja karjane</title>
+			<description>Uus Testament, Johannese evangeelium, 10:1-22 salm</description>
+			<pubDate>Sat, 01 Nov 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Jh 10:1-22 - Jeesus on uks ja karjane</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>969</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_evangeelium.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>969</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/43_Jh/PKK_0342_240407.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jh 10:23-42 - Kes kuuleb</title>
+			<description>Uus Testament, Johannese evangeelium, 10:23-42 salm</description>
+			<pubDate>Sun, 02 Nov 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Jh 10:23-42 - Kes kuuleb</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>970</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_evangeelium.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>970</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/43_Jh/PKK_0343_250407.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jh 11:1-27 - Miks Jeesus viivitas</title>
+			<description>Uus Testament, Johannese evangeelium, 11:1-27 salm</description>
+			<pubDate>Mon, 03 Nov 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Jh 11:1-27 - Miks Jeesus viivitas</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>971</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_evangeelium.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>971</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/43_Jh/PKK_0344_260407.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jh 11:28-57 - Surnu ärkab ellu</title>
+			<description>Uus Testament, Johannese evangeelium, 11:28-57 salm</description>
+			<pubDate>Tue, 04 Nov 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Jh 11:28-57 - Surnu ärkab ellu</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>972</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_evangeelium.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>972</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/43_Jh/PKK_0345_270407.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jh 12:1-26 - Maarja hinnaline and</title>
+			<description>Uus Testament, Johannese evangeelium, 12:1-26 salm</description>
+			<pubDate>Wed, 05 Nov 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Jh 12:1-26 - Maarja hinnaline and</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>973</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_evangeelium.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>973</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/43_Jh/PKK_0346_300407.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jh 12:27-50 - Paadunu ei parane</title>
+			<description>Uus Testament, Johannese evangeelium, 12:27-50 salm</description>
+			<pubDate>Thu, 06 Nov 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Jh 12:27-50 - Paadunu ei parane</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>974</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_evangeelium.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>974</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/43_Jh/PKK_0347_010507.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jh 13:1-18 - Kas jalad on puhtad</title>
+			<description>Uus Testament, Johannese evangeelium, 13:1-18 salm</description>
+			<pubDate>Fri, 07 Nov 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Jh 13:1-18 - Kas jalad on puhtad</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>975</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_evangeelium.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>975</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/43_Jh/PKK_0348_020507.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jh 13:19-14:3 - Reeturi koht</title>
+			<description>Uus Testament, Johannese evangeelium, 13:19-14:3 salm</description>
+			<pubDate>Sat, 08 Nov 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Jh 13:19-14:3 - Reeturi koht</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>976</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_evangeelium.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>976</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/43_Jh/PKK_0349_030507.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jh 14:4-15 - Jeesus on tee: mis viib pärale</title>
+			<description>Uus Testament, Johannese evangeelium, 14:4-15 salm</description>
+			<pubDate>Sun, 09 Nov 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Jh 14:4-15 - Jeesus on tee: mis viib pärale</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>977</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_evangeelium.png"/>
+			<itunes:duration>1793</itunes:duration>
+			<guid>977</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/43_Jh/PKK_0350_040507.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jh 14: 16-31 - Armastus on vaevanägemine</title>
+			<description>Uus Testament, Johannese evangeelium, 14: salm</description>
+			<pubDate>Mon, 10 Nov 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Jh 14: 16-31 - Armastus on vaevanägemine</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>978</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_evangeelium.png"/>
+			<itunes:duration>1774</itunes:duration>
+			<guid>978</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/43_Jh/PKK_0351_070507.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jh 15:1-15 - Puhastamine teeb haiget</title>
+			<description>Uus Testament, Johannese evangeelium, 15:1-15 salm</description>
+			<pubDate>Tue, 11 Nov 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Jh 15:1-15 - Puhastamine teeb haiget</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>979</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_evangeelium.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>979</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/43_Jh/PKK_0352_080507.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jh 15:16-16:11 - Püha Vaim toob selguse</title>
+			<description>Uus Testament, Johannese evangeelium, 15:16-16:11 salm</description>
+			<pubDate>Wed, 12 Nov 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Jh 15:16-16:11 - Püha Vaim toob selguse</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>980</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_evangeelium.png"/>
+			<itunes:duration>1787</itunes:duration>
+			<guid>980</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/43_Jh/PKK_0353_090507.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jh 16:12-33 - Leinalgi on lõpp</title>
+			<description>Uus Testament, Johannese evangeelium, 16:12-33 salm</description>
+			<pubDate>Thu, 13 Nov 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Jh 16:12-33 - Leinalgi on lõpp</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>981</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_evangeelium.png"/>
+			<itunes:duration>1794</itunes:duration>
+			<guid>981</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/43_Jh/PKK_0354_100507.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jh 17:1-11 - Jeesus palvetab</title>
+			<description>Uus Testament, Johannese evangeelium, 17:1-11 salm</description>
+			<pubDate>Fri, 14 Nov 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Jh 17:1-11 - Jeesus palvetab</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>982</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_evangeelium.png"/>
+			<itunes:duration>1782</itunes:duration>
+			<guid>982</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/43_Jh/PKK_0355_110507.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jh 17:12-26 - Vägi ja armastus</title>
+			<description>Uus Testament, Johannese evangeelium, 17:12-26 salm</description>
+			<pubDate>Sat, 15 Nov 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Jh 17:12-26 - Vägi ja armastus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>983</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_evangeelium.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>983</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/43_Jh/PKK_0356_140507.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jh 18:1-24 - Jeesus vangistatakse</title>
+			<description>Uus Testament, Johannese evangeelium, 18:1-24 salm</description>
+			<pubDate>Sun, 16 Nov 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Jh 18:1-24 - Jeesus vangistatakse</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>984</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_evangeelium.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>984</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/43_Jh/PKK_0357_150507.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jh 18:25-40 - Kaotus sütetule ääres</title>
+			<description>Uus Testament, Johannese evangeelium, 18:25-40 salm</description>
+			<pubDate>Mon, 17 Nov 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Jh 18:25-40 - Kaotus sütetule ääres</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>985</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_evangeelium.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>985</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/43_Jh/PKK_0358_160507.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jh 19:1-18 - Elektritooli vari</title>
+			<description>Uus Testament, Johannese evangeelium, 19:1-18 salm</description>
+			<pubDate>Tue, 18 Nov 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Jh 19:1-18 - Elektritooli vari</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>986</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_evangeelium.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>986</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/43_Jh/PKK_0359_170507.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jh 19:19-42 - Jeesus sureb</title>
+			<description>Uus Testament, Johannese evangeelium, 19:19-42 salm</description>
+			<pubDate>Wed, 19 Nov 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Jh 19:19-42 - Jeesus sureb</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>987</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_evangeelium.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>987</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/43_Jh/PKK_0360_180507.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jh 20:1-23 - Ülestõusmine</title>
+			<description>Uus Testament, Johannese evangeelium, 20:1-23 salm</description>
+			<pubDate>Thu, 20 Nov 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Jh 20:1-23 - Ülestõusmine</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>988</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_evangeelium.png"/>
+			<itunes:duration>1770</itunes:duration>
+			<guid>988</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/43_Jh/PKK_0361_210507.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jh 20:24-21:7 - Tõsise Tooma tunnistus</title>
+			<description>Uus Testament, Johannese evangeelium, 20:24-21:7 salm</description>
+			<pubDate>Fri, 21 Nov 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Jh 20:24-21:7 - Tõsise Tooma tunnistus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>989</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_evangeelium.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>989</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/43_Jh/PKK_0362_220507.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jh 21:8-25 - Kas armastad Jeesust</title>
+			<description>Uus Testament, Johannese evangeelium, 21:8-25 salm</description>
+			<pubDate>Sat, 22 Nov 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Jh 21:8-25 - Kas armastad Jeesust</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>990</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_evangeelium.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>990</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/43_Jh/PKK_0363_230507.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+	</channel>
+</rss>

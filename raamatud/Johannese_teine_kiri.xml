@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+	<channel>
+		<title>Johannese teine kiri</title>
+		<description>Piibliõppesarjas &quot;Piibel kaanest kaaneni&quot; loeb ja seletab õpetaja Aare Kimmel (EELK) salm-salmi kaupa ära terve Piibli, nii Vana kui Uue Testamendi raamatud, sidudes loetut tänapäevaga.</description>
+		<link>http://www.pereraadio.ee</link>
+		<language>es</language>
+		<image>
+			<url>https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_teine_kiri.png</url>
+			<title>Piibel kaanest kaaneni</title>
+			<link>http://www.pereraadio.ee</link>
+		</image>
+		<itunes:type>episodic</itunes:type>
+		<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+		<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_teine_kiri.png"/>
+		<itunes:category text="Education">
+		</itunes:category>
+
+		<item>
+			<title>2Jh 1:1 - Sissejuhatus 2. Johannese kirja</title>
+			<description>Uus Testament, Johannese teine kiri, 1:1 salm</description>
+			<pubDate>Mon, 15 Nov 2004 10:29:47 GMT</pubDate>
+			<itunes:title>2Jh 1:1 - Sissejuhatus 2. Johannese kirja</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1350</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_teine_kiri.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1350</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/63_2Jh/PKK_1279_280611.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Jh 1:2-4 - Armastus toob armu</title>
+			<description>Uus Testament, Johannese teine kiri, 1:2-4 salm</description>
+			<pubDate>Tue, 16 Nov 2004 10:29:47 GMT</pubDate>
+			<itunes:title>2Jh 1:2-4 - Armastus toob armu</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1351</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_teine_kiri.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1351</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/63_2Jh/PKK_1280_290611.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Jh 1:5-8 - Ära eksi</title>
+			<description>Uus Testament, Johannese teine kiri, 1:5-8 salm</description>
+			<pubDate>Wed, 17 Nov 2004 10:29:47 GMT</pubDate>
+			<itunes:title>2Jh 1:5-8 - Ära eksi</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1352</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_teine_kiri.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>1352</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/63_2Jh/PKK_1281_300611.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Jh 1:9-13 - Eksiõpetaja sinu uksel</title>
+			<description>Uus Testament, Johannese teine kiri, 1:9-13 salm</description>
+			<pubDate>Thu, 18 Nov 2004 10:29:47 GMT</pubDate>
+			<itunes:title>2Jh 1:9-13 - Eksiõpetaja sinu uksel</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1353</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_teine_kiri.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1353</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/63_2Jh/PKK_1282_010711.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+	</channel>
+</rss>

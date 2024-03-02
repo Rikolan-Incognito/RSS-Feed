@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+	<channel>
+		<title>Esimene Kuningate raamat</title>
+		<description>Piibliõppesarjas &quot;Piibel kaanest kaaneni&quot; loeb ja seletab õpetaja Aare Kimmel (EELK) salm-salmi kaupa ära terve Piibli, nii Vana kui Uue Testamendi raamatud, sidudes loetut tänapäevaga.</description>
+		<link>http://www.pereraadio.ee</link>
+		<language>es</language>
+		<image>
+			<url>https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esimene_Kuningate_raamat.png</url>
+			<title>Piibel kaanest kaaneni</title>
+			<link>http://www.pereraadio.ee</link>
+		</image>
+		<itunes:type>episodic</itunes:type>
+		<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+		<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esimene_Kuningate_raamat.png"/>
+		<itunes:category text="Education">
+		</itunes:category>
+
+		<item>
+			<title>1Kn 1:1-53 - Võimuhaaramiskatse</title>
+			<description>Vana Testament, Esimene Kuningate raamat, 1:1-53 salm</description>
+			<pubDate>Mon, 26 Nov 2001 10:29:47 GMT</pubDate>
+			<itunes:title>1Kn 1:1-53 - Võimuhaaramiskatse</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>263</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esimene_Kuningate_raamat.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>263</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/11_1Kn/PKK_0487_191207.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Kn 2:1-46 - Surm mässulistele</title>
+			<description>Vana Testament, Esimene Kuningate raamat, 2:1-46 salm</description>
+			<pubDate>Tue, 27 Nov 2001 10:29:47 GMT</pubDate>
+			<itunes:title>1Kn 2:1-46 - Surm mässulistele</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>264</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esimene_Kuningate_raamat.png"/>
+			<itunes:duration>1792</itunes:duration>
+			<guid>264</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/11_1Kn/PKK_0488_201207.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Kn 3:1-5:8 - Saalomon kohtumõistjana</title>
+			<description>Vana Testament, Esimene Kuningate raamat, 3:1-5:8 salm</description>
+			<pubDate>Wed, 28 Nov 2001 10:29:47 GMT</pubDate>
+			<itunes:title>1Kn 3:1-5:8 - Saalomon kohtumõistjana</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>265</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esimene_Kuningate_raamat.png"/>
+			<itunes:duration>1779</itunes:duration>
+			<guid>265</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/11_1Kn/PKK_0489_211207.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Kn 5:9-6:7 - Jumal ei kasuta sundust</title>
+			<description>Vana Testament, Esimene Kuningate raamat, 5:9-6:7 salm</description>
+			<pubDate>Thu, 29 Nov 2001 10:29:47 GMT</pubDate>
+			<itunes:title>1Kn 5:9-6:7 - Jumal ei kasuta sundust</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>266</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esimene_Kuningate_raamat.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>266</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/11_1Kn/PKK_0490_241207.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Kn 6:8-7:51 - Templi sisustamine</title>
+			<description>Vana Testament, Esimene Kuningate raamat, 6:8-7:51 salm</description>
+			<pubDate>Fri, 30 Nov 2001 10:29:47 GMT</pubDate>
+			<itunes:title>1Kn 6:8-7:51 - Templi sisustamine</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>267</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esimene_Kuningate_raamat.png"/>
+			<itunes:duration>1718</itunes:duration>
+			<guid>267</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/11_1Kn/PKK_0491_251207.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Kn 8:1-9:9 - Palveta templi poole</title>
+			<description>Vana Testament, Esimene Kuningate raamat, 8:1-9:9 salm</description>
+			<pubDate>Sat, 01 Dec 2001 10:29:47 GMT</pubDate>
+			<itunes:title>1Kn 8:1-9:9 - Palveta templi poole</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>268</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esimene_Kuningate_raamat.png"/>
+			<itunes:duration>1781</itunes:duration>
+			<guid>268</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/11_1Kn/PKK_0492_261207.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Kn 9:10-10:13 - Seeba kuninganna</title>
+			<description>Vana Testament, Esimene Kuningate raamat, 9:10-10:13 salm</description>
+			<pubDate>Sun, 02 Dec 2001 10:29:47 GMT</pubDate>
+			<itunes:title>1Kn 9:10-10:13 - Seeba kuninganna</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>269</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esimene_Kuningate_raamat.png"/>
+			<itunes:duration>1716</itunes:duration>
+			<guid>269</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/11_1Kn/PKK_0493_271207.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Kn 10:14-11:43 - Oi: Saalomon: mis sa tegid</title>
+			<description>Vana Testament, Esimene Kuningate raamat, 10:14-11:43 salm</description>
+			<pubDate>Mon, 03 Dec 2001 10:29:47 GMT</pubDate>
+			<itunes:title>1Kn 10:14-11:43 - Oi: Saalomon: mis sa tegid</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>270</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esimene_Kuningate_raamat.png"/>
+			<itunes:duration>1793</itunes:duration>
+			<guid>270</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/11_1Kn/PKK_0494_281207.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Kn 12:1-13:34 - Jerobeami patt</title>
+			<description>Vana Testament, Esimene Kuningate raamat, 12:1-13:34 salm</description>
+			<pubDate>Tue, 04 Dec 2001 10:29:47 GMT</pubDate>
+			<itunes:title>1Kn 12:1-13:34 - Jerobeami patt</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>271</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esimene_Kuningate_raamat.png"/>
+			<itunes:duration>1797</itunes:duration>
+			<guid>271</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/11_1Kn/PKK_0495_311207.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Kn 14:1-15:14 - Allakäigutee algab</title>
+			<description>Vana Testament, Esimene Kuningate raamat, 14:1-15:14 salm</description>
+			<pubDate>Wed, 05 Dec 2001 10:29:47 GMT</pubDate>
+			<itunes:title>1Kn 14:1-15:14 - Allakäigutee algab</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>272</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esimene_Kuningate_raamat.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>272</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/11_1Kn/PKK_0496_010108.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Kn 15:16-16:34 - Revolutsioonid söövad omad</title>
+			<description>Vana Testament, Esimene Kuningate raamat, 15:16-16:34 salm</description>
+			<pubDate>Thu, 06 Dec 2001 10:29:47 GMT</pubDate>
+			<itunes:title>1Kn 15:16-16:34 - Revolutsioonid söövad omad</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>273</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esimene_Kuningate_raamat.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>273</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/11_1Kn/PKK_0497_020108.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Kn 17:1-18:16 - Kas sulle meeldivad kaarnad</title>
+			<description>Vana Testament, Esimene Kuningate raamat, 17:1-18:16 salm</description>
+			<pubDate>Fri, 07 Dec 2001 10:29:47 GMT</pubDate>
+			<itunes:title>1Kn 17:1-18:16 - Kas sulle meeldivad kaarnad</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>274</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esimene_Kuningate_raamat.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>274</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/11_1Kn/PKK_0498_030108.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Kn 18:17-40 - Aeg teha valik</title>
+			<description>Vana Testament, Esimene Kuningate raamat, 18:17-40 salm</description>
+			<pubDate>Sat, 08 Dec 2001 10:29:47 GMT</pubDate>
+			<itunes:title>1Kn 18:17-40 - Aeg teha valik</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>275</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esimene_Kuningate_raamat.png"/>
+			<itunes:duration>1796</itunes:duration>
+			<guid>275</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/11_1Kn/PKK_0499_040108.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Kn 18:41-19:21 - Lohutaja masenduses</title>
+			<description>Vana Testament, Esimene Kuningate raamat, 18:41-19:21 salm</description>
+			<pubDate>Sun, 09 Dec 2001 10:29:47 GMT</pubDate>
+			<itunes:title>1Kn 18:41-19:21 - Lohutaja masenduses</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>276</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esimene_Kuningate_raamat.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>276</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/11_1Kn/PKK_0500_070108.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Kn 20:1-21:29 - Jumal kutsub ka metsikult</title>
+			<description>Vana Testament, Esimene Kuningate raamat, 20:1-21:29 salm</description>
+			<pubDate>Mon, 10 Dec 2001 10:29:47 GMT</pubDate>
+			<itunes:title>1Kn 20:1-21:29 - Jumal kutsub ka metsikult</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>277</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esimene_Kuningate_raamat.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>277</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/11_1Kn/PKK_0501_080108.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Kn 22:1-54 - Kui enamus eksib</title>
+			<description>Vana Testament, Esimene Kuningate raamat, 22:1-54 salm</description>
+			<pubDate>Tue, 11 Dec 2001 10:29:47 GMT</pubDate>
+			<itunes:title>1Kn 22:1-54 - Kui enamus eksib</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>278</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esimene_Kuningate_raamat.png"/>
+			<itunes:duration>1772</itunes:duration>
+			<guid>278</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/11_1Kn/PKK_0502_090108.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+	</channel>
+</rss>

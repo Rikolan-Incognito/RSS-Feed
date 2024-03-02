@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+	<channel>
+		<title>Taaniel</title>
+		<description>Piibliõppesarjas &quot;Piibel kaanest kaaneni&quot; loeb ja seletab õpetaja Aare Kimmel (EELK) salm-salmi kaupa ära terve Piibli, nii Vana kui Uue Testamendi raamatud, sidudes loetut tänapäevaga.</description>
+		<link>http://www.pereraadio.ee</link>
+		<language>es</language>
+		<image>
+			<url>https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Taaniel.png</url>
+			<title>Piibel kaanest kaaneni</title>
+			<link>http://www.pereraadio.ee</link>
+		</image>
+		<itunes:type>episodic</itunes:type>
+		<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+		<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Taaniel.png"/>
+		<itunes:category text="Education">
+		</itunes:category>
+
+		<item>
+			<title>Tn 1:1 - Sissejuhatus Taanieli raamatusse</title>
+			<description>Vana Testament, Taaniel, 1:1 salm</description>
+			<pubDate>Wed, 04 Dec 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Tn 1:1 - Sissejuhatus Taanieli raamatusse</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>636</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Taaniel.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>636</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/27_Tn/PKK_1075_070910.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Tn 1:2-14 - Millist toitu sööme?</title>
+			<description>Vana Testament, Taaniel, 1:2-14 salm</description>
+			<pubDate>Thu, 05 Dec 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Tn 1:2-14 - Millist toitu sööme?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>637</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Taaniel.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>637</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/27_Tn/PKK_1076_080910.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Tn 1:15-2:9 - Kümme korda targemad</title>
+			<description>Vana Testament, Taaniel, 1:15-2:9 salm</description>
+			<pubDate>Fri, 06 Dec 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Tn 1:15-2:9 - Kümme korda targemad</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>638</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Taaniel.png"/>
+			<itunes:duration>1779</itunes:duration>
+			<guid>638</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/27_Tn/PKK_1077_090910.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Tn 2:10-30 - Jumal paljastab saladused</title>
+			<description>Vana Testament, Taaniel, 2:10-30 salm</description>
+			<pubDate>Sat, 07 Dec 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Tn 2:10-30 - Jumal paljastab saladused</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>639</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Taaniel.png"/>
+			<itunes:duration>1789</itunes:duration>
+			<guid>639</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/27_Tn/PKK_1078_100910.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Tn 2:31-49 - Kuju saladus</title>
+			<description>Vana Testament, Taaniel, 2:31-49 salm</description>
+			<pubDate>Sun, 08 Dec 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Tn 2:31-49 - Kuju saladus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>640</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Taaniel.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>640</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/27_Tn/PKK_1079_130910.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Tn 3:1-18 - Keda ma kummardan</title>
+			<description>Vana Testament, Taaniel, 3:1-18 salm</description>
+			<pubDate>Mon, 09 Dec 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Tn 3:1-18 - Keda ma kummardan</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>641</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Taaniel.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>641</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/27_Tn/PKK_1080_140910.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Tn 3:19-4:6 - Kui tuli ei põleta</title>
+			<description>Vana Testament, Taaniel, 3:19-4:6 salm</description>
+			<pubDate>Tue, 10 Dec 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Tn 3:19-4:6 - Kui tuli ei põleta</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>642</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Taaniel.png"/>
+			<itunes:duration>1793</itunes:duration>
+			<guid>642</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/27_Tn/PKK_1081_150910.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Tn 4:7-24 - Võimsamast võimsam</title>
+			<description>Vana Testament, Taaniel, 4:7-24 salm</description>
+			<pubDate>Wed, 11 Dec 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Tn 4:7-24 - Võimsamast võimsam</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>643</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Taaniel.png"/>
+			<itunes:duration>1782</itunes:duration>
+			<guid>643</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/27_Tn/PKK_1082_160910.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Tn 4:25-34 - Inimene pea meeles oma kohta</title>
+			<description>Vana Testament, Taaniel, 4:25-34 salm</description>
+			<pubDate>Thu, 12 Dec 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Tn 4:25-34 - Inimene pea meeles oma kohta</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>644</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Taaniel.png"/>
+			<itunes:duration>1788</itunes:duration>
+			<guid>644</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/27_Tn/PKK_1083_170910.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Tn 5:1-24 - Hirm peol</title>
+			<description>Vana Testament, Taaniel, 5:1-24 salm</description>
+			<pubDate>Fri, 13 Dec 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Tn 5:1-24 - Hirm peol</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>645</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Taaniel.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>645</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/27_Tn/PKK_1084_200910.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Tn 5:24-6:10 - Kui palju sa kaalud?</title>
+			<description>Vana Testament, Taaniel, 5:24-6:10 salm</description>
+			<pubDate>Sat, 14 Dec 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Tn 5:24-6:10 - Kui palju sa kaalud?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>646</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Taaniel.png"/>
+			<itunes:duration>1795</itunes:duration>
+			<guid>646</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/27_Tn/PKK_1085_210910.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Tn 6:11-29 - Kaitstud lõvide koopas</title>
+			<description>Vana Testament, Taaniel, 6:11-29 salm</description>
+			<pubDate>Sun, 15 Dec 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Tn 6:11-29 - Kaitstud lõvide koopas</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>647</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Taaniel.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>647</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/27_Tn/PKK_1086_220910.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Tn 7:1-8 - Nägemus neljast metsalisest</title>
+			<description>Vana Testament, Taaniel, 7:1-8 salm</description>
+			<pubDate>Mon, 16 Dec 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Tn 7:1-8 - Nägemus neljast metsalisest</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>648</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Taaniel.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>648</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/27_Tn/PKK_1087_230910.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Tn 7:9-13 - Inimese Poja sarnane</title>
+			<description>Vana Testament, Taaniel, 7:9-13 salm</description>
+			<pubDate>Tue, 17 Dec 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Tn 7:9-13 - Inimese Poja sarnane</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>649</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Taaniel.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>649</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/27_Tn/PKK_1088_240910.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Tn 7:13-18 - Olen ma kiskja või inimene</title>
+			<description>Vana Testament, Taaniel, 7:13-18 salm</description>
+			<pubDate>Wed, 18 Dec 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Tn 7:13-18 - Olen ma kiskja või inimene</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>650</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Taaniel.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>650</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/27_Tn/PKK_1089_270910.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Tn 7:19-28 - Kes tunneb tulevikku?</title>
+			<description>Vana Testament, Taaniel, 7:19-28 salm</description>
+			<pubDate>Thu, 19 Dec 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Tn 7:19-28 - Kes tunneb tulevikku?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>651</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Taaniel.png"/>
+			<itunes:duration>1778</itunes:duration>
+			<guid>651</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/27_Tn/PKK_1090_280910.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Tn 8:1-12 - Nägemus jäärast ja sikust</title>
+			<description>Vana Testament, Taaniel, 8:1-12 salm</description>
+			<pubDate>Fri, 20 Dec 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Tn 8:1-12 - Nägemus jäärast ja sikust</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>652</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Taaniel.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>652</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/27_Tn/PKK_1091_290910.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Tn 8:13-27 - Jumalatus levitab hukatust</title>
+			<description>Vana Testament, Taaniel, 8:13-27 salm</description>
+			<pubDate>Sat, 21 Dec 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Tn 8:13-27 - Jumalatus levitab hukatust</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>653</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Taaniel.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>653</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/27_Tn/PKK_1092_300910.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Tn 9:1-6 - Mida lähemal seda kaugemal</title>
+			<description>Vana Testament, Taaniel, 9:1-6 salm</description>
+			<pubDate>Sun, 22 Dec 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Tn 9:1-6 - Mida lähemal seda kaugemal</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>654</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Taaniel.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>654</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/27_Tn/PKK_1093_011010.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Tn 9:7-20 - Kuidas ma palvetan?</title>
+			<description>Vana Testament, Taaniel, 9:7-20 salm</description>
+			<pubDate>Mon, 23 Dec 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Tn 9:7-20 - Kuidas ma palvetan?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>655</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Taaniel.png"/>
+			<itunes:duration>1781</itunes:duration>
+			<guid>655</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/27_Tn/PKK_1094_041010.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Tn 9:21-24 - Kõige püham võitakse</title>
+			<description>Vana Testament, Taaniel, 9:21-24 salm</description>
+			<pubDate>Tue, 24 Dec 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Tn 9:21-24 - Kõige püham võitakse</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>656</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Taaniel.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>656</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/27_Tn/PKK_1095_051010.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Tn 9:25-27 - Gabriel räägib tulevikust</title>
+			<description>Vana Testament, Taaniel, 9:25-27 salm</description>
+			<pubDate>Wed, 25 Dec 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Tn 9:25-27 - Gabriel räägib tulevikust</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>657</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Taaniel.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>657</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/27_Tn/PKK_1096_061010.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Tn 10:1-12 - Vapustav külaline</title>
+			<description>Vana Testament, Taaniel, 10:1-12 salm</description>
+			<pubDate>Thu, 26 Dec 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Tn 10:1-12 - Vapustav külaline</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>658</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Taaniel.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>658</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/27_Tn/PKK_1097_071010.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Tn 10:13-11:2 - Jumal juhib ajalugu</title>
+			<description>Vana Testament, Taaniel, 10:13-11:2 salm</description>
+			<pubDate>Fri, 27 Dec 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Tn 10:13-11:2 - Jumal juhib ajalugu</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>659</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Taaniel.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>659</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/27_Tn/PKK_1098_081010.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Tn 11:3-21 - Salasepitsuste meistrid</title>
+			<description>Vana Testament, Taaniel, 11:3-21 salm</description>
+			<pubDate>Sat, 28 Dec 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Tn 11:3-21 - Salasepitsuste meistrid</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>660</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Taaniel.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>660</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/27_Tn/PKK_1099_111010.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Tn 11:21-36 - Võim rikub</title>
+			<description>Vana Testament, Taaniel, 11:21-36 salm</description>
+			<pubDate>Sun, 29 Dec 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Tn 11:21-36 - Võim rikub</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>661</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Taaniel.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>661</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/27_Tn/PKK_1100_121010.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Tn 11:37-12:2 - Nägemuse kulminatsioon</title>
+			<description>Vana Testament, Taaniel, 11:37-12:2 salm</description>
+			<pubDate>Mon, 30 Dec 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Tn 11:37-12:2 - Nägemuse kulminatsioon</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>662</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Taaniel.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>662</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/27_Tn/PKK_1101_131010.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Tn 12:3-13 - Pitseriga suletud raamat</title>
+			<description>Vana Testament, Taaniel, 12:3-13 salm</description>
+			<pubDate>Tue, 31 Dec 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Tn 12:3-13 - Pitseriga suletud raamat</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>663</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Taaniel.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>663</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/27_Tn/PKK_1102_141010.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+	</channel>
+</rss>

@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+	<channel>
+		<title>Markuse evangeelium</title>
+		<description>Piibliõppesarjas &quot;Piibel kaanest kaaneni&quot; loeb ja seletab õpetaja Aare Kimmel (EELK) salm-salmi kaupa ära terve Piibli, nii Vana kui Uue Testamendi raamatud, sidudes loetut tänapäevaga.</description>
+		<link>http://www.pereraadio.ee</link>
+		<language>es</language>
+		<image>
+			<url>https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Markuse_evangeelium.png</url>
+			<title>Piibel kaanest kaaneni</title>
+			<link>http://www.pereraadio.ee</link>
+		</image>
+		<itunes:type>episodic</itunes:type>
+		<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+		<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Markuse_evangeelium.png"/>
+		<itunes:category text="Education">
+		</itunes:category>
+
+		<item>
+			<title>Sissejuhatus Markuse evangeeliumisse</title>
+			<description>Uus Testament, Markuse evangeelium, Markuse salm</description>
+			<pubDate>Sat, 02 Aug 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Sissejuhatus Markuse evangeeliumisse</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>878</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Markuse_evangeelium.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>878</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/41_Mk/PKK_0195_290906.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mk 1:1-13 - Teenija soovitused</title>
+			<description>Uus Testament, Markuse evangeelium, 1:1-13 salm</description>
+			<pubDate>Sun, 03 Aug 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mk 1:1-13 - Teenija soovitused</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>879</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Markuse_evangeelium.png"/>
+			<itunes:duration>1791</itunes:duration>
+			<guid>879</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/41_Mk/PKK_0196_021006.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mk 1:14-28 - Jeesus saab tuntuks</title>
+			<description>Uus Testament, Markuse evangeelium, 1:14-28 salm</description>
+			<pubDate>Mon, 04 Aug 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mk 1:14-28 - Jeesus saab tuntuks</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>880</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Markuse_evangeelium.png"/>
+			<itunes:duration>1782</itunes:duration>
+			<guid>880</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/41_Mk/PKK_0197_031006.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mk 1:29-2:2 - Lind pääses vabadusse</title>
+			<description>Uus Testament, Markuse evangeelium, 1:29-2:2 salm</description>
+			<pubDate>Tue, 05 Aug 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mk 1:29-2:2 - Lind pääses vabadusse</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>881</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Markuse_evangeelium.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>881</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/41_Mk/PKK_0198_041006.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mk 2:3-22 - Jeesus vapustab</title>
+			<description>Uus Testament, Markuse evangeelium, 2:3-22 salm</description>
+			<pubDate>Wed, 06 Aug 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mk 2:3-22 - Jeesus vapustab</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>882</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Markuse_evangeelium.png"/>
+			<itunes:duration>1797</itunes:duration>
+			<guid>882</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/41_Mk/PKK_0199_051006.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mk 2:23-3:19 - Lõhe kasvab</title>
+			<description>Uus Testament, Markuse evangeelium, 2:23-3:19 salm</description>
+			<pubDate>Thu, 07 Aug 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mk 2:23-3:19 - Lõhe kasvab</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>883</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Markuse_evangeelium.png"/>
+			<itunes:duration>1774</itunes:duration>
+			<guid>883</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/41_Mk/PKK_0200_061006.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mk 3:20-4:9 - Ettevaatust otsustamisel</title>
+			<description>Uus Testament, Markuse evangeelium, 3:20-4:9 salm</description>
+			<pubDate>Fri, 08 Aug 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mk 3:20-4:9 - Ettevaatust otsustamisel</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>884</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Markuse_evangeelium.png"/>
+			<itunes:duration>1791</itunes:duration>
+			<guid>884</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/41_Mk/PKK_0201_091006.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mk 4:10-34 - Tähendamissõnade mõte</title>
+			<description>Uus Testament, Markuse evangeelium, 4:10-34 salm</description>
+			<pubDate>Sat, 09 Aug 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mk 4:10-34 - Tähendamissõnade mõte</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>885</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Markuse_evangeelium.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>885</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/41_Mk/PKK_0202_101006.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mk 4:35-5:20 - Kes on see mees</title>
+			<description>Uus Testament, Markuse evangeelium, 4:35-5:20 salm</description>
+			<pubDate>Sun, 10 Aug 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mk 4:35-5:20 - Kes on see mees</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>886</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Markuse_evangeelium.png"/>
+			<itunes:duration>1795</itunes:duration>
+			<guid>886</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/41_Mk/PKK_0203_111006.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mk 5:21-6:6 - Skandaal Naatsaretis</title>
+			<description>Uus Testament, Markuse evangeelium, 5:21-6:6 salm</description>
+			<pubDate>Mon, 11 Aug 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mk 5:21-6:6 - Skandaal Naatsaretis</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>887</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Markuse_evangeelium.png"/>
+			<itunes:duration>1795</itunes:duration>
+			<guid>887</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/41_Mk/PKK_0204_121006.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mk 6:7-29 - Tunnistamise hind</title>
+			<description>Uus Testament, Markuse evangeelium, 6:7-29 salm</description>
+			<pubDate>Tue, 12 Aug 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mk 6:7-29 - Tunnistamise hind</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>888</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Markuse_evangeelium.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>888</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/41_Mk/PKK_0205_131006.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mk 6:30-56 - Leiba piisas kõigile</title>
+			<description>Uus Testament, Markuse evangeelium, 6:30-56 salm</description>
+			<pubDate>Wed, 13 Aug 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mk 6:30-56 - Leiba piisas kõigile</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>889</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Markuse_evangeelium.png"/>
+			<itunes:duration>1784</itunes:duration>
+			<guid>889</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/41_Mk/PKK_0206_161006.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mk 7:1-23 - Kuidas saada puhtaks</title>
+			<description>Uus Testament, Markuse evangeelium, 7:1-23 salm</description>
+			<pubDate>Thu, 14 Aug 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mk 7:1-23 - Kuidas saada puhtaks</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>890</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Markuse_evangeelium.png"/>
+			<itunes:duration>1772</itunes:duration>
+			<guid>890</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/41_Mk/PKK_0207_171006.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mk 7:24-8:26 - Kõva süda ja haputaigen</title>
+			<description>Uus Testament, Markuse evangeelium, 7:24-8:26 salm</description>
+			<pubDate>Fri, 15 Aug 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mk 7:24-8:26 - Kõva süda ja haputaigen</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>891</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Markuse_evangeelium.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>891</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/41_Mk/PKK_0208_181006.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mk 8:27-9.3 - Elu tähtsaim küsimus</title>
+			<description>Uus Testament, Markuse evangeelium, 8:27-9.3 salm</description>
+			<pubDate>Sat, 16 Aug 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mk 8:27-9.3 - Elu tähtsaim küsimus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>892</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Markuse_evangeelium.png"/>
+			<itunes:duration>1775</itunes:duration>
+			<guid>892</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/41_Mk/PKK_0209_191006.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mk 9:4-32 - Tegutsemine ilma Jeesuseta</title>
+			<description>Uus Testament, Markuse evangeelium, 9:4-32 salm</description>
+			<pubDate>Sun, 17 Aug 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mk 9:4-32 - Tegutsemine ilma Jeesuseta</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>893</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Markuse_evangeelium.png"/>
+			<itunes:duration>1778</itunes:duration>
+			<guid>893</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/41_Mk/PKK_0210_201006.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mk 9:33-10:12 - Tahan olla suurim</title>
+			<description>Uus Testament, Markuse evangeelium, 9:33-10:12 salm</description>
+			<pubDate>Mon, 18 Aug 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mk 9:33-10:12 - Tahan olla suurim</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>894</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Markuse_evangeelium.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>894</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/41_Mk/PKK_0211_231006.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mk 10:13-45 - Kas olen rikas</title>
+			<description>Uus Testament, Markuse evangeelium, 10:13-45 salm</description>
+			<pubDate>Tue, 19 Aug 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mk 10:13-45 - Kas olen rikas</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>895</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Markuse_evangeelium.png"/>
+			<itunes:duration>1782</itunes:duration>
+			<guid>895</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/41_Mk/PKK_0212_241006.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mk 10:46-11:19 - Teod kuulutavad</title>
+			<description>Uus Testament, Markuse evangeelium, 10:46-11:19 salm</description>
+			<pubDate>Wed, 20 Aug 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mk 10:46-11:19 - Teod kuulutavad</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>896</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Markuse_evangeelium.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>896</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/41_Mk/PKK_0213_251006.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mk 11:20-12:27 - Kas paasatall on veatu</title>
+			<description>Uus Testament, Markuse evangeelium, 11:20-12:27 salm</description>
+			<pubDate>Thu, 21 Aug 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mk 11:20-12:27 - Kas paasatall on veatu</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>897</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Markuse_evangeelium.png"/>
+			<itunes:duration>1797</itunes:duration>
+			<guid>897</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/41_Mk/PKK_0214_261006.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mk 12:28-13:13 - Jeesus ja korjandus</title>
+			<description>Uus Testament, Markuse evangeelium, 12:28-13:13 salm</description>
+			<pubDate>Fri, 22 Aug 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mk 12:28-13:13 - Jeesus ja korjandus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>898</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Markuse_evangeelium.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>898</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/41_Mk/PKK_0215_271006.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mk 13:14-14:11 - Valgus ja varjud</title>
+			<description>Uus Testament, Markuse evangeelium, 13:14-14:11 salm</description>
+			<pubDate>Sat, 23 Aug 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mk 13:14-14:11 - Valgus ja varjud</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>899</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Markuse_evangeelium.png"/>
+			<itunes:duration>1782</itunes:duration>
+			<guid>899</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/41_Mk/PKK_0216_301006.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mk 14:12-42 - Teispool häbi</title>
+			<description>Uus Testament, Markuse evangeelium, 14:12-42 salm</description>
+			<pubDate>Sun, 24 Aug 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mk 14:12-42 - Teispool häbi</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>900</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Markuse_evangeelium.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>900</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/41_Mk/PKK_0217_311006.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mk 14:43-72 - Jeesus vangistatakse</title>
+			<description>Uus Testament, Markuse evangeelium, 14:43-72 salm</description>
+			<pubDate>Mon, 25 Aug 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mk 14:43-72 - Jeesus vangistatakse</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>901</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Markuse_evangeelium.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>901</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/41_Mk/PKK_0218_011106.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mk 15:1-29 - Jeesus sureb</title>
+			<description>Uus Testament, Markuse evangeelium, 15:1-29 salm</description>
+			<pubDate>Tue, 26 Aug 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mk 15:1-29 - Jeesus sureb</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>902</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Markuse_evangeelium.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>902</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/41_Mk/PKK_0219_021106.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Mk 15:40-16:20 - Haud on tühi!</title>
+			<description>Uus Testament, Markuse evangeelium, 15:40-16:20 salm</description>
+			<pubDate>Wed, 27 Aug 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Mk 15:40-16:20 - Haud on tühi!</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>903</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Markuse_evangeelium.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>903</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/41_Mk/PKK_0220_031106.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+	</channel>
+</rss>

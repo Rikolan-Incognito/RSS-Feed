@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+	<channel>
+		<title>Pauluse teine kiri tessalooniklastele</title>
+		<description>Piibliõppesarjas &quot;Piibel kaanest kaaneni&quot; loeb ja seletab õpetaja Aare Kimmel (EELK) salm-salmi kaupa ära terve Piibli, nii Vana kui Uue Testamendi raamatud, sidudes loetut tänapäevaga.</description>
+		<link>http://www.pereraadio.ee</link>
+		<language>es</language>
+		<image>
+			<url>https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_teine_kiri_tessalooniklastele.png</url>
+			<title>Piibel kaanest kaaneni</title>
+			<link>http://www.pereraadio.ee</link>
+		</image>
+		<itunes:type>episodic</itunes:type>
+		<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+		<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_teine_kiri_tessalooniklastele.png"/>
+		<itunes:category text="Education">
+		</itunes:category>
+
+		<item>
+			<title>2Ts 1:1-5 - Ahistuski võib lohutada</title>
+			<description>Uus Testament, Pauluse teine kiri tessalooniklastele, 1:1-5 salm</description>
+			<pubDate>Fri, 25 Jun 2004 10:29:47 GMT</pubDate>
+			<itunes:title>2Ts 1:1-5 - Ahistuski võib lohutada</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1206</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_teine_kiri_tessalooniklastele.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>1206</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/53_2Ts/PKK_0974_180210.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Ts 1:6-2:2 - Ahistuski lõpeb omal ajal</title>
+			<description>Uus Testament, Pauluse teine kiri tessalooniklastele, 1:6-2:2 salm</description>
+			<pubDate>Sat, 26 Jun 2004 10:29:47 GMT</pubDate>
+			<itunes:title>2Ts 1:6-2:2 - Ahistuski lõpeb omal ajal</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1207</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_teine_kiri_tessalooniklastele.png"/>
+			<itunes:duration>1758</itunes:duration>
+			<guid>1207</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/53_2Ts/PKK_0975_190210.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Ts 2:3-10 - Seadusevastane inimene</title>
+			<description>Uus Testament, Pauluse teine kiri tessalooniklastele, 2:3-10 salm</description>
+			<pubDate>Sun, 27 Jun 2004 10:29:47 GMT</pubDate>
+			<itunes:title>2Ts 2:3-10 - Seadusevastane inimene</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1208</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_teine_kiri_tessalooniklastele.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>1208</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/53_2Ts/PKK_0976_220210.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Ts 2:11-17 - Kes saadab eksitusse</title>
+			<description>Uus Testament, Pauluse teine kiri tessalooniklastele, 2:11-17 salm</description>
+			<pubDate>Mon, 28 Jun 2004 10:29:47 GMT</pubDate>
+			<itunes:title>2Ts 2:11-17 - Kes saadab eksitusse</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1209</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_teine_kiri_tessalooniklastele.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>1209</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/53_2Ts/PKK_0977_230210.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Ts 3:1-8 - Palvegi on Issanda käsk</title>
+			<description>Uus Testament, Pauluse teine kiri tessalooniklastele, 3:1-8 salm</description>
+			<pubDate>Tue, 29 Jun 2004 10:29:47 GMT</pubDate>
+			<itunes:title>2Ts 3:1-8 - Palvegi on Issanda käsk</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1210</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_teine_kiri_tessalooniklastele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1210</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/53_2Ts/PKK_0978_240210.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Ts 3:9-18 - Käsi adra küljes: süda taevas</title>
+			<description>Uus Testament, Pauluse teine kiri tessalooniklastele, 3:9-18 salm</description>
+			<pubDate>Wed, 30 Jun 2004 10:29:47 GMT</pubDate>
+			<itunes:title>2Ts 3:9-18 - Käsi adra küljes: süda taevas</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1211</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_teine_kiri_tessalooniklastele.png"/>
+			<itunes:duration>1770</itunes:duration>
+			<guid>1211</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/53_2Ts/PKK_0979_250210.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+	</channel>
+</rss>

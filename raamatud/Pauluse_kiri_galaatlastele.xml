@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+	<channel>
+		<title>Pauluse kiri galaatlastele</title>
+		<description>Piibliõppesarjas &quot;Piibel kaanest kaaneni&quot; loeb ja seletab õpetaja Aare Kimmel (EELK) salm-salmi kaupa ära terve Piibli, nii Vana kui Uue Testamendi raamatud, sidudes loetut tänapäevaga.</description>
+		<link>http://www.pereraadio.ee</link>
+		<language>es</language>
+		<image>
+			<url>https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_galaatlastele.png</url>
+			<title>Piibel kaanest kaaneni</title>
+			<link>http://www.pereraadio.ee</link>
+		</image>
+		<itunes:type>episodic</itunes:type>
+		<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+		<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_galaatlastele.png"/>
+		<itunes:category text="Education">
+		</itunes:category>
+
+		<item>
+			<title>Gl 1:1 - Kes olid galaatlased</title>
+			<description>Uus Testament, Pauluse kiri galaatlastele, 1:1 salm</description>
+			<pubDate>Sat, 27 Mar 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Gl 1:1 - Kes olid galaatlased</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1116</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_galaatlastele.png"/>
+			<itunes:duration>1777</itunes:duration>
+			<guid>1116</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/48_Gl/PKK_0698_111108.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Gl 1:1-5 - Usaldusväärsus on võti</title>
+			<description>Uus Testament, Pauluse kiri galaatlastele, 1:1-5 salm</description>
+			<pubDate>Sun, 28 Mar 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Gl 1:1-5 - Usaldusväärsus on võti</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1117</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_galaatlastele.png"/>
+			<itunes:duration>1802</itunes:duration>
+			<guid>1117</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/48_Gl/PKK_0699_121108.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Gl 1:5-10 - Kristus on religiooni lõpp</title>
+			<description>Uus Testament, Pauluse kiri galaatlastele, 1:5-10 salm</description>
+			<pubDate>Mon, 29 Mar 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Gl 1:5-10 - Kristus on religiooni lõpp</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1118</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_galaatlastele.png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>1118</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/48_Gl/PKK_0700_131108.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Gl 1:11-24 - Evangeelium ei ole inimestelt</title>
+			<description>Uus Testament, Pauluse kiri galaatlastele, 1:11-24 salm</description>
+			<pubDate>Tue, 30 Mar 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Gl 1:11-24 - Evangeelium ei ole inimestelt</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1119</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_galaatlastele.png"/>
+			<itunes:duration>1778</itunes:duration>
+			<guid>1119</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/48_Gl/PKK_0701_141108.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Gl 2:1-14 - Silmakirjalikkus ei sobi evangeeliumiga</title>
+			<description>Uus Testament, Pauluse kiri galaatlastele, 2:1-14 salm</description>
+			<pubDate>Wed, 31 Mar 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Gl 2:1-14 - Silmakirjalikkus ei sobi evangeeliumiga</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1120</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_galaatlastele.png"/>
+			<itunes:duration>1796</itunes:duration>
+			<guid>1120</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/48_Gl/PKK_0702_171108.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Gl 2:15-16 - Vaid usk Jeesusesse päästab</title>
+			<description>Uus Testament, Pauluse kiri galaatlastele, 2:15-16 salm</description>
+			<pubDate>Thu, 01 Apr 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Gl 2:15-16 - Vaid usk Jeesusesse päästab</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1121</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_galaatlastele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1121</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/48_Gl/PKK_0703_181108.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Gl 2:17-3:1 - Kas loodan ikkagi kordaminekule</title>
+			<description>Uus Testament, Pauluse kiri galaatlastele, 2:17-3:1 salm</description>
+			<pubDate>Fri, 02 Apr 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Gl 2:17-3:1 - Kas loodan ikkagi kordaminekule</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1122</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_galaatlastele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1122</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/48_Gl/PKK_0704_191108.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Gl 3:2-7 - Vana Aadama usuletulek</title>
+			<description>Uus Testament, Pauluse kiri galaatlastele, 3:2-7 salm</description>
+			<pubDate>Sat, 03 Apr 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Gl 3:2-7 - Vana Aadama usuletulek</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1123</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_galaatlastele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1123</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/48_Gl/PKK_0705_201108.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Gl 3:8-14 - Kas teed ühepajatoitu</title>
+			<description>Uus Testament, Pauluse kiri galaatlastele, 3:8-14 salm</description>
+			<pubDate>Sun, 04 Apr 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Gl 3:8-14 - Kas teed ühepajatoitu</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1124</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_galaatlastele.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>1124</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/48_Gl/PKK_0706_211108.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Gl 3:15-22 - Surm jõustab testamendi</title>
+			<description>Uus Testament, Pauluse kiri galaatlastele, 3:15-22 salm</description>
+			<pubDate>Mon, 05 Apr 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Gl 3:15-22 - Surm jõustab testamendi</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1125</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_galaatlastele.png"/>
+			<itunes:duration>1784</itunes:duration>
+			<guid>1125</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/48_Gl/PKK_0707_241108.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Gl 3:23-29 - Kodupedagoogika surve all</title>
+			<description>Uus Testament, Pauluse kiri galaatlastele, 3:23-29 salm</description>
+			<pubDate>Tue, 06 Apr 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Gl 3:23-29 - Kodupedagoogika surve all</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1126</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_galaatlastele.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>1126</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/48_Gl/PKK_0708_251108.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Gl 4:1-11 - Kas tahad vanglast vabadusse</title>
+			<description>Uus Testament, Pauluse kiri galaatlastele, 4:1-11 salm</description>
+			<pubDate>Wed, 07 Apr 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Gl 4:1-11 - Kas tahad vanglast vabadusse</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1127</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_galaatlastele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1127</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/48_Gl/PKK_0709_261108.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Gl 4:12-20 - Tõde on valus kuulata</title>
+			<description>Uus Testament, Pauluse kiri galaatlastele, 4:12-20 salm</description>
+			<pubDate>Thu, 08 Apr 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Gl 4:12-20 - Tõde on valus kuulata</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1128</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_galaatlastele.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>1128</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/48_Gl/PKK_0710_271108.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Gl 4:21-31 - Miks orjus meeldib</title>
+			<description>Uus Testament, Pauluse kiri galaatlastele, 4:21-31 salm</description>
+			<pubDate>Fri, 09 Apr 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Gl 4:21-31 - Miks orjus meeldib</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1129</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_galaatlastele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1129</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/48_Gl/PKK_0711_281108.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Gl 5:1-6 - Ka ümberlõikamatus pole teene</title>
+			<description>Uus Testament, Pauluse kiri galaatlastele, 5:1-6 salm</description>
+			<pubDate>Sat, 10 Apr 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Gl 5:1-6 - Ka ümberlõikamatus pole teene</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1130</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_galaatlastele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1130</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/48_Gl/PKK_0712_011208.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Gl 5:7-14 - Kuulekus tõele</title>
+			<description>Uus Testament, Pauluse kiri galaatlastele, 5:7-14 salm</description>
+			<pubDate>Sun, 11 Apr 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Gl 5:7-14 - Kuulekus tõele</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1131</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_galaatlastele.png"/>
+			<itunes:duration>1775</itunes:duration>
+			<guid>1131</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/48_Gl/PKK_0713_021208.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Gl 5:15-21 - Käige vaimus</title>
+			<description>Uus Testament, Pauluse kiri galaatlastele, 5:15-21 salm</description>
+			<pubDate>Mon, 12 Apr 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Gl 5:15-21 - Käige vaimus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1132</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_galaatlastele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1132</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/48_Gl/PKK_0714_031208.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Gl 5:22-24 - Vaimu vili</title>
+			<description>Uus Testament, Pauluse kiri galaatlastele, 5:22-24 salm</description>
+			<pubDate>Tue, 13 Apr 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Gl 5:22-24 - Vaimu vili</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1133</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_galaatlastele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1133</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/48_Gl/PKK_0715_041208.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Gl 5:25-6:2 - Õpi käima vaimus</title>
+			<description>Uus Testament, Pauluse kiri galaatlastele, 5:25-6:2 salm</description>
+			<pubDate>Wed, 14 Apr 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Gl 5:25-6:2 - Õpi käima vaimus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1134</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_galaatlastele.png"/>
+			<itunes:duration>1802</itunes:duration>
+			<guid>1134</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/48_Gl/PKK_0716_051208.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Gl 6:3-10 - Kahesugused koormad</title>
+			<description>Uus Testament, Pauluse kiri galaatlastele, 6:3-10 salm</description>
+			<pubDate>Thu, 15 Apr 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Gl 6:3-10 - Kahesugused koormad</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1135</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_galaatlastele.png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>1135</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/48_Gl/PKK_0717_081208.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Gl 6:11-18 - Uhke Kristuse üle</title>
+			<description>Uus Testament, Pauluse kiri galaatlastele, 6:11-18 salm</description>
+			<pubDate>Fri, 16 Apr 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Gl 6:11-18 - Uhke Kristuse üle</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1136</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_galaatlastele.png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>1136</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/48_Gl/PKK_0718_091208.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+	</channel>
+</rss>

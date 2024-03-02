@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+	<channel>
+		<title>Esimene ajaraamat</title>
+		<description>Piibliõppesarjas &quot;Piibel kaanest kaaneni&quot; loeb ja seletab õpetaja Aare Kimmel (EELK) salm-salmi kaupa ära terve Piibli, nii Vana kui Uue Testamendi raamatud, sidudes loetut tänapäevaga.</description>
+		<link>http://www.pereraadio.ee</link>
+		<language>es</language>
+		<image>
+			<url>https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esimene_ajaraamat.png</url>
+			<title>Piibel kaanest kaaneni</title>
+			<link>http://www.pereraadio.ee</link>
+		</image>
+		<itunes:type>episodic</itunes:type>
+		<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+		<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esimene_ajaraamat.png"/>
+		<itunes:category text="Education">
+		</itunes:category>
+
+		<item>
+			<title>1Aj 1:1-8:40 - Aeg avada Ajaraamatud</title>
+			<description>Vana Testament, Esimene ajaraamat, 1:1-8:40 salm</description>
+			<pubDate>Fri, 28 Dec 2001 10:29:47 GMT</pubDate>
+			<itunes:title>1Aj 1:1-8:40 - Aeg avada Ajaraamatud</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>295</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esimene_ajaraamat.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>295</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/13_1Aj/PKK_0556_250308.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Aj 9:1-10:14 - Oled sa Saul või Taavet</title>
+			<description>Vana Testament, Esimene ajaraamat, 9:1-10:14 salm</description>
+			<pubDate>Sat, 29 Dec 2001 10:29:47 GMT</pubDate>
+			<itunes:title>1Aj 9:1-10:14 - Oled sa Saul või Taavet</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>296</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esimene_ajaraamat.png"/>
+			<itunes:duration>1778</itunes:duration>
+			<guid>296</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/13_1Aj/PKK_0557_260308.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Aj 11:1-12:41 - Taavet inimeste ühendajana</title>
+			<description>Vana Testament, Esimene ajaraamat, 11:1-12:41 salm</description>
+			<pubDate>Sun, 30 Dec 2001 10:29:47 GMT</pubDate>
+			<itunes:title>1Aj 11:1-12:41 - Taavet inimeste ühendajana</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>297</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esimene_ajaraamat.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>297</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/13_1Aj/PKK_0558_270308.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Aj 13:1-14:17 - Jumal ei ole automaat</title>
+			<description>Vana Testament, Esimene ajaraamat, 13:1-14:17 salm</description>
+			<pubDate>Mon, 31 Dec 2001 10:29:47 GMT</pubDate>
+			<itunes:title>1Aj 13:1-14:17 - Jumal ei ole automaat</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>298</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esimene_ajaraamat.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>298</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/13_1Aj/PKK_0559_280308.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Aj 15:1-16:7 - Aeg rõõmustada</title>
+			<description>Vana Testament, Esimene ajaraamat, 15:1-16:7 salm</description>
+			<pubDate>Tue, 01 Jan 2002 10:29:47 GMT</pubDate>
+			<itunes:title>1Aj 15:1-16:7 - Aeg rõõmustada</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>299</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esimene_ajaraamat.png"/>
+			<itunes:duration>1782</itunes:duration>
+			<guid>299</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/13_1Aj/PKK_0560_310308.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Aj 16:8-43 - Laul Issanda suurusest</title>
+			<description>Vana Testament, Esimene ajaraamat, 16:8-43 salm</description>
+			<pubDate>Wed, 02 Jan 2002 10:29:47 GMT</pubDate>
+			<itunes:title>1Aj 16:8-43 - Laul Issanda suurusest</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>300</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esimene_ajaraamat.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>300</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/13_1Aj/PKK_0561_010408.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Aj 17:1-18:17 - Hooneehitajad</title>
+			<description>Vana Testament, Esimene ajaraamat, 17:1-18:17 salm</description>
+			<pubDate>Thu, 03 Jan 2002 10:29:47 GMT</pubDate>
+			<itunes:title>1Aj 17:1-18:17 - Hooneehitajad</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>301</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esimene_ajaraamat.png"/>
+			<itunes:duration>1795</itunes:duration>
+			<guid>301</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/13_1Aj/PKK_0562_020408.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Aj 19:1-21:3 - Aeg on sõjalgi</title>
+			<description>Vana Testament, Esimene ajaraamat, 19:1-21:3 salm</description>
+			<pubDate>Fri, 04 Jan 2002 10:29:47 GMT</pubDate>
+			<itunes:title>1Aj 19:1-21:3 - Aeg on sõjalgi</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>302</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esimene_ajaraamat.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>302</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/13_1Aj/PKK_0563_030408.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Aj 21:4-28 - Karistus ja selle täitumus</title>
+			<description>Vana Testament, Esimene ajaraamat, 21:4-28 salm</description>
+			<pubDate>Sat, 05 Jan 2002 10:29:47 GMT</pubDate>
+			<itunes:title>1Aj 21:4-28 - Karistus ja selle täitumus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>303</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esimene_ajaraamat.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>303</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/13_1Aj/PKK_0564_040408.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Aj 21:29-23:32 - Igaüks on vajalik</title>
+			<description>Vana Testament, Esimene ajaraamat, 21:29-23:32 salm</description>
+			<pubDate>Sun, 06 Jan 2002 10:29:47 GMT</pubDate>
+			<itunes:title>1Aj 21:29-23:32 - Igaüks on vajalik</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>304</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esimene_ajaraamat.png"/>
+			<itunes:duration>1789</itunes:duration>
+			<guid>304</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/13_1Aj/PKK_0565_070408.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Aj 24:1-28:3 - Prohvetlik muusika</title>
+			<description>Vana Testament, Esimene ajaraamat, 24:1-28:3 salm</description>
+			<pubDate>Mon, 07 Jan 2002 10:29:47 GMT</pubDate>
+			<itunes:title>1Aj 24:1-28:3 - Prohvetlik muusika</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>305</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esimene_ajaraamat.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>305</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/13_1Aj/PKK_0566_080408.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>1Aj 28:4-29:30 - Taaveti viimane tahe</title>
+			<description>Vana Testament, Esimene ajaraamat, 28:4-29:30 salm</description>
+			<pubDate>Tue, 08 Jan 2002 10:29:47 GMT</pubDate>
+			<itunes:title>1Aj 28:4-29:30 - Taaveti viimane tahe</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>306</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Esimene_ajaraamat.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>306</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/13_1Aj/PKK_0567_090408.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+	</channel>
+</rss>

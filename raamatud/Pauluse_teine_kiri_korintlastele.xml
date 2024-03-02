@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+	<channel>
+		<title>Pauluse teine kiri korintlastele</title>
+		<description>Piibliõppesarjas &quot;Piibel kaanest kaaneni&quot; loeb ja seletab õpetaja Aare Kimmel (EELK) salm-salmi kaupa ära terve Piibli, nii Vana kui Uue Testamendi raamatud, sidudes loetut tänapäevaga.</description>
+		<link>http://www.pereraadio.ee</link>
+		<language>es</language>
+		<image>
+			<url>https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_teine_kiri_korintlastele.png</url>
+			<title>Piibel kaanest kaaneni</title>
+			<link>http://www.pereraadio.ee</link>
+		</image>
+		<itunes:type>episodic</itunes:type>
+		<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+		<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_teine_kiri_korintlastele.png"/>
+		<itunes:category text="Education">
+		</itunes:category>
+
+		<item>
+			<title>Paulus endast - sissejuhatus 2. Korintose kirja</title>
+			<description>Uus Testament, Pauluse teine kiri korintlastele, endast salm</description>
+			<pubDate>Wed, 03 Mar 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Paulus endast - sissejuhatus 2. Korintose kirja</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1092</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_teine_kiri_korintlastele.png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>1092</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/47_2Kr/PKK_0640_210808.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Kr 1:1-11 - Ahistused ja lohutus</title>
+			<description>Uus Testament, Pauluse teine kiri korintlastele, 1:1-11 salm</description>
+			<pubDate>Thu, 04 Mar 2004 10:29:47 GMT</pubDate>
+			<itunes:title>2Kr 1:1-11 - Ahistused ja lohutus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1093</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_teine_kiri_korintlastele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1093</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/47_2Kr/PKK_0641_220808.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Kr 1:12-24 - Usaldusväärsus pannakse proovile</title>
+			<description>Uus Testament, Pauluse teine kiri korintlastele, 1:12-24 salm</description>
+			<pubDate>Fri, 05 Mar 2004 10:29:47 GMT</pubDate>
+			<itunes:title>2Kr 1:12-24 - Usaldusväärsus pannakse proovile</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1094</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_teine_kiri_korintlastele.png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>1094</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/47_2Kr/PKK_0642_250808.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Kr 2:1-11 - Karistus ja andestus</title>
+			<description>Uus Testament, Pauluse teine kiri korintlastele, 2:1-11 salm</description>
+			<pubDate>Sat, 06 Mar 2004 10:29:47 GMT</pubDate>
+			<itunes:title>2Kr 2:1-11 - Karistus ja andestus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1095</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_teine_kiri_korintlastele.png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>1095</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/47_2Kr/PKK_0643_260808.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Kr 2:12-3:6 - Triumfikäigus minejad</title>
+			<description>Uus Testament, Pauluse teine kiri korintlastele, 2:12-3:6 salm</description>
+			<pubDate>Sun, 07 Mar 2004 10:29:47 GMT</pubDate>
+			<itunes:title>2Kr 2:12-3:6 - Triumfikäigus minejad</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1096</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_teine_kiri_korintlastele.png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>1096</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/47_2Kr/PKK_0644_270808.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Kr 3:7-18 - Surma ja elu teenistused</title>
+			<description>Uus Testament, Pauluse teine kiri korintlastele, 3:7-18 salm</description>
+			<pubDate>Mon, 08 Mar 2004 10:29:47 GMT</pubDate>
+			<itunes:title>2Kr 3:7-18 - Surma ja elu teenistused</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1097</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_teine_kiri_korintlastele.png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>1097</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/47_2Kr/PKK_0645_280808.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Kr 4:1-7 - Aare savinõus</title>
+			<description>Uus Testament, Pauluse teine kiri korintlastele, 4:1-7 salm</description>
+			<pubDate>Tue, 09 Mar 2004 10:29:47 GMT</pubDate>
+			<itunes:title>2Kr 4:1-7 - Aare savinõus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1098</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_teine_kiri_korintlastele.png"/>
+			<itunes:duration>1802</itunes:duration>
+			<guid>1098</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/47_2Kr/PKK_0646_290808.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Kr 4:8-18 - Pea silmas nähtamatut</title>
+			<description>Uus Testament, Pauluse teine kiri korintlastele, 4:8-18 salm</description>
+			<pubDate>Wed, 10 Mar 2004 10:29:47 GMT</pubDate>
+			<itunes:title>2Kr 4:8-18 - Pea silmas nähtamatut</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1099</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_teine_kiri_korintlastele.png"/>
+			<itunes:duration>1802</itunes:duration>
+			<guid>1099</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/47_2Kr/PKK_0647_010908.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Kr 5:1-10 - Surm pole lõpp</title>
+			<description>Uus Testament, Pauluse teine kiri korintlastele, 5:1-10 salm</description>
+			<pubDate>Thu, 11 Mar 2004 10:29:47 GMT</pubDate>
+			<itunes:title>2Kr 5:1-10 - Surm pole lõpp</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1100</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_teine_kiri_korintlastele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1100</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/47_2Kr/PKK_0648_020908.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Kr 5:11-18 - Kristuse armastus ajendab</title>
+			<description>Uus Testament, Pauluse teine kiri korintlastele, 5:11-18 salm</description>
+			<pubDate>Fri, 12 Mar 2004 10:29:47 GMT</pubDate>
+			<itunes:title>2Kr 5:11-18 - Kristuse armastus ajendab</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1101</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_teine_kiri_korintlastele.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>1101</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/47_2Kr/PKK_0649_030908.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Kr 5:19-6:3 - Sa oled lepitatud</title>
+			<description>Uus Testament, Pauluse teine kiri korintlastele, 5:19-6:3 salm</description>
+			<pubDate>Sat, 13 Mar 2004 10:29:47 GMT</pubDate>
+			<itunes:title>2Kr 5:19-6:3 - Sa oled lepitatud</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1102</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_teine_kiri_korintlastele.png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>1102</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/47_2Kr/PKK_0650_040908.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Kr 6:4-10 - Vaene teeb rikkaks</title>
+			<description>Uus Testament, Pauluse teine kiri korintlastele, 6:4-10 salm</description>
+			<pubDate>Sun, 14 Mar 2004 10:29:47 GMT</pubDate>
+			<itunes:title>2Kr 6:4-10 - Vaene teeb rikkaks</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1103</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_teine_kiri_korintlastele.png"/>
+			<itunes:duration>1753</itunes:duration>
+			<guid>1103</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/47_2Kr/PKK_0651_050908.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Kr 6:11-7:1 - Lahuta end ebajumalatest</title>
+			<description>Uus Testament, Pauluse teine kiri korintlastele, 6:11-7:1 salm</description>
+			<pubDate>Mon, 15 Mar 2004 10:29:47 GMT</pubDate>
+			<itunes:title>2Kr 6:11-7:1 - Lahuta end ebajumalatest</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1104</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_teine_kiri_korintlastele.png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>1104</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/47_2Kr/PKK_0652_080908.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Kr 7:2-16 - Julgustuse jõud</title>
+			<description>Uus Testament, Pauluse teine kiri korintlastele, 7:2-16 salm</description>
+			<pubDate>Tue, 16 Mar 2004 10:29:47 GMT</pubDate>
+			<itunes:title>2Kr 7:2-16 - Julgustuse jõud</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1105</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_teine_kiri_korintlastele.png"/>
+			<itunes:duration>1802</itunes:duration>
+			<guid>1105</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/47_2Kr/PKK_0653_090908.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Kr 8:1-4 - Kas olen nagu Surnumeri</title>
+			<description>Uus Testament, Pauluse teine kiri korintlastele, 8:1-4 salm</description>
+			<pubDate>Wed, 17 Mar 2004 10:29:47 GMT</pubDate>
+			<itunes:title>2Kr 8:1-4 - Kas olen nagu Surnumeri</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1106</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_teine_kiri_korintlastele.png"/>
+			<itunes:duration>1793</itunes:duration>
+			<guid>1106</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/47_2Kr/PKK_0654_100908.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Kr 8:5-15 - Usk ilmneb rahakotiski</title>
+			<description>Uus Testament, Pauluse teine kiri korintlastele, 8:5-15 salm</description>
+			<pubDate>Thu, 18 Mar 2004 10:29:47 GMT</pubDate>
+			<itunes:title>2Kr 8:5-15 - Usk ilmneb rahakotiski</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1107</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_teine_kiri_korintlastele.png"/>
+			<itunes:duration>1781</itunes:duration>
+			<guid>1107</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/47_2Kr/PKK_0655_110908.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Kr 8:16-9:15 - Kas raha läheb õigesse kohta</title>
+			<description>Uus Testament, Pauluse teine kiri korintlastele, 8:16-9:15 salm</description>
+			<pubDate>Fri, 19 Mar 2004 10:29:47 GMT</pubDate>
+			<itunes:title>2Kr 8:16-9:15 - Kas raha läheb õigesse kohta</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1108</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_teine_kiri_korintlastele.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>1108</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/47_2Kr/PKK_0656_120908.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Kr 10:1-10 - Usalda sõna jõudu</title>
+			<description>Uus Testament, Pauluse teine kiri korintlastele, 10:1-10 salm</description>
+			<pubDate>Sat, 20 Mar 2004 10:29:47 GMT</pubDate>
+			<itunes:title>2Kr 10:1-10 - Usalda sõna jõudu</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1109</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_teine_kiri_korintlastele.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>1109</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/47_2Kr/PKK_0657_150908.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Kr 10:12-11:13 - Mao ahvatlev jutt</title>
+			<description>Uus Testament, Pauluse teine kiri korintlastele, 10:12-11:13 salm</description>
+			<pubDate>Sun, 21 Mar 2004 10:29:47 GMT</pubDate>
+			<itunes:title>2Kr 10:12-11:13 - Mao ahvatlev jutt</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1110</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_teine_kiri_korintlastele.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>1110</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/47_2Kr/PKK_0658_160908.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Kr 11:4-15 - Millist Jeesust sa järgid</title>
+			<description>Uus Testament, Pauluse teine kiri korintlastele, 11:4-15 salm</description>
+			<pubDate>Mon, 22 Mar 2004 10:29:47 GMT</pubDate>
+			<itunes:title>2Kr 11:4-15 - Millist Jeesust sa järgid</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1111</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_teine_kiri_korintlastele.png"/>
+			<itunes:duration>1776</itunes:duration>
+			<guid>1111</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/47_2Kr/PKK_0659_170908.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Kr 11:16-30 - Apostli üleelamised</title>
+			<description>Uus Testament, Pauluse teine kiri korintlastele, 11:16-30 salm</description>
+			<pubDate>Tue, 23 Mar 2004 10:29:47 GMT</pubDate>
+			<itunes:title>2Kr 11:16-30 - Apostli üleelamised</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1112</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_teine_kiri_korintlastele.png"/>
+			<itunes:duration>1779</itunes:duration>
+			<guid>1112</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/47_2Kr/PKK_0660_180908.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Kr 11:31-12:7 - Vai lihas</title>
+			<description>Uus Testament, Pauluse teine kiri korintlastele, 11:31-12:7 salm</description>
+			<pubDate>Wed, 24 Mar 2004 10:29:47 GMT</pubDate>
+			<itunes:title>2Kr 11:31-12:7 - Vai lihas</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1113</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_teine_kiri_korintlastele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1113</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/47_2Kr/PKK_0661_190908.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Kr 12:8-21 - Armust on küllalt</title>
+			<description>Uus Testament, Pauluse teine kiri korintlastele, 12:8-21 salm</description>
+			<pubDate>Thu, 25 Mar 2004 10:29:47 GMT</pubDate>
+			<itunes:title>2Kr 12:8-21 - Armust on küllalt</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1114</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_teine_kiri_korintlastele.png"/>
+			<itunes:duration>1802</itunes:duration>
+			<guid>1114</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/47_2Kr/PKK_0662_220908.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Kr 13:1-13 - Ära lammuta vaid ehita</title>
+			<description>Uus Testament, Pauluse teine kiri korintlastele, 13:1-13 salm</description>
+			<pubDate>Fri, 26 Mar 2004 10:29:47 GMT</pubDate>
+			<itunes:title>2Kr 13:1-13 - Ära lammuta vaid ehita</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1115</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_teine_kiri_korintlastele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1115</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/47_2Kr/PKK_0663_230908.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+	</channel>
+</rss>

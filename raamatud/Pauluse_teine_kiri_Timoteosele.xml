@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+	<channel>
+		<title>Pauluse teine kiri Timoteosele</title>
+		<description>Piibliõppesarjas &quot;Piibel kaanest kaaneni&quot; loeb ja seletab õpetaja Aare Kimmel (EELK) salm-salmi kaupa ära terve Piibli, nii Vana kui Uue Testamendi raamatud, sidudes loetut tänapäevaga.</description>
+		<link>http://www.pereraadio.ee</link>
+		<language>es</language>
+		<image>
+			<url>https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_teine_kiri_Timoteosele.png</url>
+			<title>Piibel kaanest kaaneni</title>
+			<link>http://www.pereraadio.ee</link>
+		</image>
+		<itunes:type>episodic</itunes:type>
+		<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+		<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_teine_kiri_Timoteosele.png"/>
+		<itunes:category text="Education">
+		</itunes:category>
+
+		<item>
+			<title>2Tm 1:1-5 - Timoteos uskus Jumalasse</title>
+			<description>Uus Testament, Pauluse teine kiri Timoteosele, 1:1-5 salm</description>
+			<pubDate>Fri, 16 Jul 2004 10:29:47 GMT</pubDate>
+			<itunes:title>2Tm 1:1-5 - Timoteos uskus Jumalasse</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1227</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_teine_kiri_Timoteosele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1227</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/55_2Tm/PKK_1028_050510.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Tm 1:6-18 - Evangeelium pole häbiasi</title>
+			<description>Uus Testament, Pauluse teine kiri Timoteosele, 1:6-18 salm</description>
+			<pubDate>Sat, 17 Jul 2004 10:29:47 GMT</pubDate>
+			<itunes:title>2Tm 1:6-18 - Evangeelium pole häbiasi</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1228</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_teine_kiri_Timoteosele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1228</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/55_2Tm/PKK_1029_060510.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Tm 2:1-13 - Tegemist on võitlusega</title>
+			<description>Uus Testament, Pauluse teine kiri Timoteosele, 2:1-13 salm</description>
+			<pubDate>Sun, 18 Jul 2004 10:29:47 GMT</pubDate>
+			<itunes:title>2Tm 2:1-13 - Tegemist on võitlusega</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1229</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_teine_kiri_Timoteosele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1229</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/55_2Tm/PKK_1030_070510.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Tm 2:14-26 - Ära tülitse!</title>
+			<description>Uus Testament, Pauluse teine kiri Timoteosele, 2:14-26 salm</description>
+			<pubDate>Mon, 19 Jul 2004 10:29:47 GMT</pubDate>
+			<itunes:title>2Tm 2:14-26 - Ära tülitse!</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1230</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_teine_kiri_Timoteosele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1230</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/55_2Tm/PKK_1031_100510.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Tm 3:1-15 - Tõele vastupanijad</title>
+			<description>Uus Testament, Pauluse teine kiri Timoteosele, 3:1-15 salm</description>
+			<pubDate>Tue, 20 Jul 2004 10:29:47 GMT</pubDate>
+			<itunes:title>2Tm 3:1-15 - Tõele vastupanijad</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1231</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_teine_kiri_Timoteosele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1231</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/55_2Tm/PKK_1032_110510.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Tm 3:16-4:5 - Evangeelium sobib igal ajal</title>
+			<description>Uus Testament, Pauluse teine kiri Timoteosele, 3:16-4:5 salm</description>
+			<pubDate>Wed, 21 Jul 2004 10:29:47 GMT</pubDate>
+			<itunes:title>2Tm 3:16-4:5 - Evangeelium sobib igal ajal</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1232</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_teine_kiri_Timoteosele.png"/>
+			<itunes:duration>1803</itunes:duration>
+			<guid>1232</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/55_2Tm/PKK_1033_120510.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Tm 4:6-12 - Aeg anda otsad</title>
+			<description>Uus Testament, Pauluse teine kiri Timoteosele, 4:6-12 salm</description>
+			<pubDate>Thu, 22 Jul 2004 10:29:47 GMT</pubDate>
+			<itunes:title>2Tm 4:6-12 - Aeg anda otsad</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1233</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_teine_kiri_Timoteosele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1233</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/55_2Tm/PKK_1034_130510.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Tm 4:13-22 - Sõbrad on tähtsad</title>
+			<description>Uus Testament, Pauluse teine kiri Timoteosele, 4:13-22 salm</description>
+			<pubDate>Fri, 23 Jul 2004 10:29:47 GMT</pubDate>
+			<itunes:title>2Tm 4:13-22 - Sõbrad on tähtsad</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1234</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_teine_kiri_Timoteosele.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>1234</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/55_2Tm/PKK_1035_140510.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+	</channel>
+</rss>

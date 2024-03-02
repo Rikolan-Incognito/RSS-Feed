@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+	<channel>
+		<title>Joona</title>
+		<description>Piibliõppesarjas &quot;Piibel kaanest kaaneni&quot; loeb ja seletab õpetaja Aare Kimmel (EELK) salm-salmi kaupa ära terve Piibli, nii Vana kui Uue Testamendi raamatud, sidudes loetut tänapäevaga.</description>
+		<link>http://www.pereraadio.ee</link>
+		<language>es</language>
+		<image>
+			<url>https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Joona.png</url>
+			<title>Piibel kaanest kaaneni</title>
+			<link>http://www.pereraadio.ee</link>
+		</image>
+		<itunes:type>episodic</itunes:type>
+		<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+		<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Joona.png"/>
+		<itunes:category text="Education">
+		</itunes:category>
+
+		<item>
+			<title>Sissejuhatus Joona raamatusse</title>
+			<description>Vana Testament, Joona, Joona salm</description>
+			<pubDate>Thu, 13 Feb 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Sissejuhatus Joona raamatusse</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>708</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Joona.png"/>
+			<itunes:duration>1779</itunes:duration>
+			<guid>708</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/32_Jn/PKK_1231_210411.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jn 1:1 - Inimene Jumala koolis</title>
+			<description>Vana Testament, Joona, 1:1 salm</description>
+			<pubDate>Fri, 14 Feb 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Jn 1:1 - Inimene Jumala koolis</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>709</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Joona.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>709</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/32_Jn/PKK_1232_220411.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jn 1:1-5 - Kas nüüd on aeg magada?</title>
+			<description>Vana Testament, Joona, 1:1-5 salm</description>
+			<pubDate>Sat, 15 Feb 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Jn 1:1-5 - Kas nüüd on aeg magada?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>710</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Joona.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>710</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/32_Jn/PKK_1233_250411.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jn 1:6-16 - Heidke mind merre</title>
+			<description>Vana Testament, Joona, 1:6-16 salm</description>
+			<pubDate>Sun, 16 Feb 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Jn 1:6-16 - Heidke mind merre</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>711</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Joona.png"/>
+			<itunes:duration>1797</itunes:duration>
+			<guid>711</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/32_Jn/PKK_1234_260411.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jn 2:1-7 - Põgenemisteekonna lõpp</title>
+			<description>Vana Testament, Joona, 2:1-7 salm</description>
+			<pubDate>Mon, 17 Feb 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Jn 2:1-7 - Põgenemisteekonna lõpp</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>712</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Joona.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>712</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/32_Jn/PKK_1235_270411.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jn 2:8-11 - Ainult Issand võib päästa</title>
+			<description>Vana Testament, Joona, 2:8-11 salm</description>
+			<pubDate>Tue, 18 Feb 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Jn 2:8-11 - Ainult Issand võib päästa</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>713</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Joona.png"/>
+			<itunes:duration>1781</itunes:duration>
+			<guid>713</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/32_Jn/PKK_1236_280411.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jn 3:1-4 - Prohvet hakkab kuulutama</title>
+			<description>Vana Testament, Joona, 3:1-4 salm</description>
+			<pubDate>Wed, 19 Feb 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Jn 3:1-4 - Prohvet hakkab kuulutama</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>714</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Joona.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>714</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/32_Jn/PKK_1237_290411.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jn 3:5-10 - Toimus ime</title>
+			<description>Vana Testament, Joona, 3:5-10 salm</description>
+			<pubDate>Thu, 20 Feb 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Jn 3:5-10 - Toimus ime</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>715</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Joona.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>715</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/32_Jn/PKK_1238_020511.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jn 4:1-5 - Miks Joona vihastas?</title>
+			<description>Vana Testament, Joona, 4:1-5 salm</description>
+			<pubDate>Fri, 21 Feb 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Jn 4:1-5 - Miks Joona vihastas?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>716</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Joona.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>716</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/32_Jn/PKK_1239_030511.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jn 4:6-11 - Vaata Jumala südamesse</title>
+			<description>Vana Testament, Joona, 4:6-11 salm</description>
+			<pubDate>Sat, 22 Feb 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Jn 4:6-11 - Vaata Jumala südamesse</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>717</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Joona.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>717</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/32_Jn/PKK_1240_040511.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+	</channel>
+</rss>

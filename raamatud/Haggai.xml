@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+	<channel>
+		<title>Haggai</title>
+		<description>Piibliõppesarjas &quot;Piibel kaanest kaaneni&quot; loeb ja seletab õpetaja Aare Kimmel (EELK) salm-salmi kaupa ära terve Piibli, nii Vana kui Uue Testamendi raamatud, sidudes loetut tänapäevaga.</description>
+		<link>http://www.pereraadio.ee</link>
+		<language>es</language>
+		<image>
+			<url>https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Haggai.png</url>
+			<title>Piibel kaanest kaaneni</title>
+			<link>http://www.pereraadio.ee</link>
+		</image>
+		<itunes:type>episodic</itunes:type>
+		<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+		<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Haggai.png"/>
+		<itunes:category text="Education">
+		</itunes:category>
+
+		<item>
+			<title>Hg 1:1 - Sissejuhatus Haggai raamatusse</title>
+			<description>Vana Testament, Haggai, 1:1 salm</description>
+			<pubDate>Mon, 31 Mar 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Hg 1:1 - Sissejuhatus Haggai raamatusse</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>754</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Haggai.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>754</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/37_Hg/PKK_1316_131011.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hg 1:2-7 - Kas aeg ei ole sobiv?</title>
+			<description>Vana Testament, Haggai, 1:2-7 salm</description>
+			<pubDate>Tue, 01 Apr 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Hg 1:2-7 - Kas aeg ei ole sobiv?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>755</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Haggai.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>755</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/37_Hg/PKK_1317_141011.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hg 1:8-11 - Lase kätel käia</title>
+			<description>Vana Testament, Haggai, 1:8-11 salm</description>
+			<pubDate>Wed, 02 Apr 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Hg 1:8-11 - Lase kätel käia</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>756</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Haggai.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>756</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/37_Hg/PKK_1318_171011.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hg 1:12-15 - Issanda kartus toob elu</title>
+			<description>Vana Testament, Haggai, 1:12-15 salm</description>
+			<pubDate>Thu, 03 Apr 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Hg 1:12-15 - Issanda kartus toob elu</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>757</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Haggai.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>757</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/37_Hg/PKK_1319_181011.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hg 2:1-5 - Rohi kurbuse vastu</title>
+			<description>Vana Testament, Haggai, 2:1-5 salm</description>
+			<pubDate>Fri, 04 Apr 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Hg 2:1-5 - Rohi kurbuse vastu</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>758</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Haggai.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>758</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/37_Hg/PKK_1320_191011.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hg 2:6-13 - Kuidas roojast ouhastada?</title>
+			<description>Vana Testament, Haggai, 2:6-13 salm</description>
+			<pubDate>Sat, 05 Apr 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Hg 2:6-13 - Kuidas roojast ouhastada?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>759</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Haggai.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>759</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/37_Hg/PKK_1321_201011.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hg 2:14-23 - Julgelt edasi</title>
+			<description>Vana Testament, Haggai, 2:14-23 salm</description>
+			<pubDate>Sun, 06 Apr 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Hg 2:14-23 - Julgelt edasi</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>760</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Haggai.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>760</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/37_Hg/PKK_1322_211011.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+	</channel>
+</rss>

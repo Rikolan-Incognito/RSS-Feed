@@ -1,0 +1,679 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+	<channel>
+		<title>Teine Moosese raamat</title>
+		<description>Piibliõppesarjas &quot;Piibel kaanest kaaneni&quot; loeb ja seletab õpetaja Aare Kimmel (EELK) salm-salmi kaupa ära terve Piibli, nii Vana kui Uue Testamendi raamatud, sidudes loetut tänapäevaga.</description>
+		<link>http://www.pereraadio.ee</link>
+		<language>es</language>
+		<image>
+			<url>https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Moosese_raamat.png</url>
+			<title>Piibel kaanest kaaneni</title>
+			<link>http://www.pereraadio.ee</link>
+		</image>
+		<itunes:type>episodic</itunes:type>
+		<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+		<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Moosese_raamat.png"/>
+		<itunes:category text="Education">
+		</itunes:category>
+
+		<item>
+			<title>2Ms 1:1-10 - Raamat vabadusest</title>
+			<description>Vana Testament, Teine Moosese raamat, 1:1-10 salm</description>
+			<pubDate>Sat, 19 May 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Ms 1:1-10 - Raamat vabadusest</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>72</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Moosese_raamat.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>72</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/02_2Ms/PKK_0148_260706.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Ms 1:11-2:10 - Sunnitöö</title>
+			<description>Vana Testament, Teine Moosese raamat, 1:11-2:10 salm</description>
+			<pubDate>Sun, 20 May 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Ms 1:11-2:10 - Sunnitöö</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>73</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Moosese_raamat.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>73</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/02_2Ms/PKK_0149_270706.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Ms 2:11-25 - Mooses on tapja</title>
+			<description>Vana Testament, Teine Moosese raamat, 2:11-25 salm</description>
+			<pubDate>Mon, 21 May 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Ms 2:11-25 - Mooses on tapja</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>74</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Moosese_raamat.png"/>
+			<itunes:duration>1795</itunes:duration>
+			<guid>74</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/02_2Ms/PKK_0150_280706.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Ms 3:1-13 - Mooses kohtub Jumalaga</title>
+			<description>Vana Testament, Teine Moosese raamat, 3:1-13 salm</description>
+			<pubDate>Tue, 22 May 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Ms 3:1-13 - Mooses kohtub Jumalaga</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>75</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Moosese_raamat.png"/>
+			<itunes:duration>1756</itunes:duration>
+			<guid>75</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/02_2Ms/PKK_0151_310706.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Ms 3:14-4:9 - Jumal on</title>
+			<description>Vana Testament, Teine Moosese raamat, 3:14-4:9 salm</description>
+			<pubDate>Wed, 23 May 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Ms 3:14-4:9 - Jumal on</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>76</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Moosese_raamat.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>76</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/02_2Ms/PKK_0152_010806.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Ms 4:10-5:5 - Saada keegi teine</title>
+			<description>Vana Testament, Teine Moosese raamat, 4:10-5:5 salm</description>
+			<pubDate>Thu, 24 May 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Ms 4:10-5:5 - Saada keegi teine</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>77</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Moosese_raamat.png"/>
+			<itunes:duration>1793</itunes:duration>
+			<guid>77</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/02_2Ms/PKK_0153_020806.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Ms 5:6-6:13 - Ära vaata õlgi</title>
+			<description>Vana Testament, Teine Moosese raamat, 5:6-6:13 salm</description>
+			<pubDate>Fri, 25 May 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Ms 5:6-6:13 - Ära vaata õlgi</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>78</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Moosese_raamat.png"/>
+			<itunes:duration>1546</itunes:duration>
+			<guid>78</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/02_2Ms/PKK_0154_030806.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Ms 6:14-7:13 - Sugupuu jutustus</title>
+			<description>Vana Testament, Teine Moosese raamat, 6:14-7:13 salm</description>
+			<pubDate>Sat, 26 May 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Ms 6:14-7:13 - Sugupuu jutustus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>79</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Moosese_raamat.png"/>
+			<itunes:duration>1559</itunes:duration>
+			<guid>79</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/02_2Ms/PKK_0155_040806.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Ms 7:14-24 - Nuhtluse sõnumid</title>
+			<description>Vana Testament, Teine Moosese raamat, 7:14-24 salm</description>
+			<pubDate>Sun, 27 May 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Ms 7:14-24 - Nuhtluse sõnumid</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>80</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Moosese_raamat.png"/>
+			<itunes:duration>1762</itunes:duration>
+			<guid>80</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/02_2Ms/PKK_0156_070806.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Ms 7:25-9:12 - Jumal tegutseb mitmeti</title>
+			<description>Vana Testament, Teine Moosese raamat, 7:25-9:12 salm</description>
+			<pubDate>Mon, 28 May 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Ms 7:25-9:12 - Jumal tegutseb mitmeti</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>81</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Moosese_raamat.png"/>
+			<itunes:duration>1793</itunes:duration>
+			<guid>81</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/02_2Ms/PKK_0157_080806.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Ms 9:13-10:11 - Jumal ei nõustu kompromissiga</title>
+			<description>Vana Testament, Teine Moosese raamat, 9:13-10:11 salm</description>
+			<pubDate>Tue, 29 May 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Ms 9:13-10:11 - Jumal ei nõustu kompromissiga</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>82</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Moosese_raamat.png"/>
+			<itunes:duration>1740</itunes:duration>
+			<guid>82</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/02_2Ms/PKK_0158_090806.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Ms 10:12-29 - Rohutirtsud</title>
+			<description>Vana Testament, Teine Moosese raamat, 10:12-29 salm</description>
+			<pubDate>Wed, 30 May 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Ms 10:12-29 - Rohutirtsud</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>83</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Moosese_raamat.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>83</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/02_2Ms/PKK_0159_100806.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Ms 11:1-12:10 - Tarvis on Talle</title>
+			<description>Vana Testament, Teine Moosese raamat, 11:1-12:10 salm</description>
+			<pubDate>Thu, 31 May 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Ms 11:1-12:10 - Tarvis on Talle</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>84</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Moosese_raamat.png"/>
+			<itunes:duration>1785</itunes:duration>
+			<guid>84</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/02_2Ms/PKK_0160_110806.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Ms 12:11-36 - Kaitsev veremärk</title>
+			<description>Vana Testament, Teine Moosese raamat, 12:11-36 salm</description>
+			<pubDate>Fri, 01 Jun 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Ms 12:11-36 - Kaitsev veremärk</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>85</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Moosese_raamat.png"/>
+			<itunes:duration>1765</itunes:duration>
+			<guid>85</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/02_2Ms/PKK_0161_140806.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Ms 12:37-13:10 - Lahkumine Egiptusest</title>
+			<description>Vana Testament, Teine Moosese raamat, 12:37-13:10 salm</description>
+			<pubDate>Sat, 02 Jun 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Ms 12:37-13:10 - Lahkumine Egiptusest</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>86</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Moosese_raamat.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>86</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/02_2Ms/PKK_0162_150806.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Ms 13:17-14:14 - Otsetee pole alati parim</title>
+			<description>Vana Testament, Teine Moosese raamat, 13:17-14:14 salm</description>
+			<pubDate>Sun, 03 Jun 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Ms 13:17-14:14 - Otsetee pole alati parim</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>87</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Moosese_raamat.png"/>
+			<itunes:duration>1796</itunes:duration>
+			<guid>87</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/02_2Ms/PKK_0163_160806.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Ms 14:15-31 - Ummikus ja kadalipus</title>
+			<description>Vana Testament, Teine Moosese raamat, 14:15-31 salm</description>
+			<pubDate>Mon, 04 Jun 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Ms 14:15-31 - Ummikus ja kadalipus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>88</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Moosese_raamat.png"/>
+			<itunes:duration>1795</itunes:duration>
+			<guid>88</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/02_2Ms/PKK_0164_170806.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Ms 15:1-25 - Ülistus ja ahistus</title>
+			<description>Vana Testament, Teine Moosese raamat, 15:1-25 salm</description>
+			<pubDate>Tue, 05 Jun 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Ms 15:1-25 - Ülistus ja ahistus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>89</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Moosese_raamat.png"/>
+			<itunes:duration>1749</itunes:duration>
+			<guid>89</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/02_2Ms/PKK_0165_180806.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Ms 15:26-16:20 - Puhkepaik palmide vilus</title>
+			<description>Vana Testament, Teine Moosese raamat, 15:26-16:20 salm</description>
+			<pubDate>Wed, 06 Jun 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Ms 15:26-16:20 - Puhkepaik palmide vilus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>90</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Moosese_raamat.png"/>
+			<itunes:duration>1765</itunes:duration>
+			<guid>90</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/02_2Ms/PKK_0166_210806.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Ms 16:21-17:7 - Manna</title>
+			<description>Vana Testament, Teine Moosese raamat, 16:21-17:7 salm</description>
+			<pubDate>Thu, 07 Jun 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Ms 16:21-17:7 - Manna</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>91</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Moosese_raamat.png"/>
+			<itunes:duration>1773</itunes:duration>
+			<guid>91</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/02_2Ms/PKK_0167_220806.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Ms 17:8-16 - Sõda amelekkidega</title>
+			<description>Vana Testament, Teine Moosese raamat, 17:8-16 salm</description>
+			<pubDate>Fri, 08 Jun 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Ms 17:8-16 - Sõda amelekkidega</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>92</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Moosese_raamat.png"/>
+			<itunes:duration>1794</itunes:duration>
+			<guid>92</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/02_2Ms/PKK_0168_230806.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Ms 18:1-27 - Hea nõu</title>
+			<description>Vana Testament, Teine Moosese raamat, 18:1-27 salm</description>
+			<pubDate>Sat, 09 Jun 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Ms 18:1-27 - Hea nõu</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>93</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Moosese_raamat.png"/>
+			<itunes:duration>1778</itunes:duration>
+			<guid>93</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/02_2Ms/PKK_0169_240806.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Ms 19:1-25 - 10 käsku - elu juhtnöör</title>
+			<description>Vana Testament, Teine Moosese raamat, 19:1-25 salm</description>
+			<pubDate>Sun, 10 Jun 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Ms 19:1-25 - 10 käsku - elu juhtnöör</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>94</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Moosese_raamat.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>94</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/02_2Ms/PKK_0170_250806.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Ms 20:1-7 - Ohtlikud pildid</title>
+			<description>Vana Testament, Teine Moosese raamat, 20:1-7 salm</description>
+			<pubDate>Mon, 11 Jun 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Ms 20:1-7 - Ohtlikud pildid</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>95</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Moosese_raamat.png"/>
+			<itunes:duration>1668</itunes:duration>
+			<guid>95</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/02_2Ms/PKK_0171_280806.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Ms 20:8-17 - Ära tee halba</title>
+			<description>Vana Testament, Teine Moosese raamat, 20:8-17 salm</description>
+			<pubDate>Tue, 12 Jun 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Ms 20:8-17 - Ära tee halba</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>96</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Moosese_raamat.png"/>
+			<itunes:duration>1793</itunes:duration>
+			<guid>96</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/02_2Ms/PKK_0172_290806.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Ms 20:18-21:11 - Armastus haavab</title>
+			<description>Vana Testament, Teine Moosese raamat, 20:18-21:11 salm</description>
+			<pubDate>Wed, 13 Jun 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Ms 20:18-21:11 - Armastus haavab</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>97</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Moosese_raamat.png"/>
+			<itunes:duration>1743</itunes:duration>
+			<guid>97</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/02_2Ms/PKK_0173_300806.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Ms 21:12-37 - Orjalgi on õigused</title>
+			<description>Vana Testament, Teine Moosese raamat, 21:12-37 salm</description>
+			<pubDate>Thu, 14 Jun 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Ms 21:12-37 - Orjalgi on õigused</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>98</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Moosese_raamat.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>98</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/02_2Ms/PKK_0174_310806.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Ms 22:1-26 - Jumal on huvitatud argielust</title>
+			<description>Vana Testament, Teine Moosese raamat, 22:1-26 salm</description>
+			<pubDate>Fri, 15 Jun 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Ms 22:1-26 - Jumal on huvitatud argielust</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>99</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Moosese_raamat.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>99</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/02_2Ms/PKK_0175_010906.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Ms 22:27-23:9 - Mooses on Jeesuse poolel!</title>
+			<description>Vana Testament, Teine Moosese raamat, 22:27-23:9 salm</description>
+			<pubDate>Sat, 16 Jun 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Ms 22:27-23:9 - Mooses on Jeesuse poolel!</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>100</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Moosese_raamat.png"/>
+			<itunes:duration>1760</itunes:duration>
+			<guid>100</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/02_2Ms/PKK_0176_040906.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Ms 23:10-33 - Pühadepidamine kaitseb elu</title>
+			<description>Vana Testament, Teine Moosese raamat, 23:10-33 salm</description>
+			<pubDate>Sun, 17 Jun 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Ms 23:10-33 - Pühadepidamine kaitseb elu</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>101</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Moosese_raamat.png"/>
+			<itunes:duration>1768</itunes:duration>
+			<guid>101</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/02_2Ms/PKK_0177_050906.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Ms 24:1-12 - Rahva hämmastav valmisolek</title>
+			<description>Vana Testament, Teine Moosese raamat, 24:1-12 salm</description>
+			<pubDate>Mon, 18 Jun 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Ms 24:1-12 - Rahva hämmastav valmisolek</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>102</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Moosese_raamat.png"/>
+			<itunes:duration>1797</itunes:duration>
+			<guid>102</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/02_2Ms/PKK_0178_060906.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Ms 24:13-25:16 - Tähtsaim on sisemus</title>
+			<description>Vana Testament, Teine Moosese raamat, 24:13-25:16 salm</description>
+			<pubDate>Tue, 19 Jun 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Ms 24:13-25:16 - Tähtsaim on sisemus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>103</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Moosese_raamat.png"/>
+			<itunes:duration>1797</itunes:duration>
+			<guid>103</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/02_2Ms/PKK_0179_070906.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Ms 25:17-40 - Pühad esemed kuulutavad</title>
+			<description>Vana Testament, Teine Moosese raamat, 25:17-40 salm</description>
+			<pubDate>Wed, 20 Jun 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Ms 25:17-40 - Pühad esemed kuulutavad</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>104</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Moosese_raamat.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>104</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/02_2Ms/PKK_0180_080906.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Ms 26:1-37 - Kogudusetelgi projekt</title>
+			<description>Vana Testament, Teine Moosese raamat, 26:1-37 salm</description>
+			<pubDate>Thu, 21 Jun 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Ms 26:1-37 - Kogudusetelgi projekt</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>105</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Moosese_raamat.png"/>
+			<itunes:duration>1775</itunes:duration>
+			<guid>105</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/02_2Ms/PKK_0181_110906.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Ms 27:1-21 - Pühadus ei tule ohvrita</title>
+			<description>Vana Testament, Teine Moosese raamat, 27:1-21 salm</description>
+			<pubDate>Fri, 22 Jun 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Ms 27:1-21 - Pühadus ei tule ohvrita</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>106</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Moosese_raamat.png"/>
+			<itunes:duration>1796</itunes:duration>
+			<guid>106</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/02_2Ms/PKK_0182_120906.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Ms 28:1-35 - Kas riided teevad mehe?</title>
+			<description>Vana Testament, Teine Moosese raamat, 28:1-35 salm</description>
+			<pubDate>Sat, 23 Jun 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Ms 28:1-35 - Kas riided teevad mehe?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>107</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Moosese_raamat.png"/>
+			<itunes:duration>1795</itunes:duration>
+			<guid>107</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/02_2Ms/PKK_0183_130906.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Ms 28:36-29:28 - Millest räägib pöial?</title>
+			<description>Vana Testament, Teine Moosese raamat, 28:36-29:28 salm</description>
+			<pubDate>Sun, 24 Jun 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Ms 28:36-29:28 - Millest räägib pöial?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>108</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Moosese_raamat.png"/>
+			<itunes:duration>1772</itunes:duration>
+			<guid>108</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/02_2Ms/PKK_0184_140906.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Ms 29:29-30:21 - Kas käed on pestud?</title>
+			<description>Vana Testament, Teine Moosese raamat, 29:29-30:21 salm</description>
+			<pubDate>Mon, 25 Jun 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Ms 29:29-30:21 - Kas käed on pestud?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>109</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Moosese_raamat.png"/>
+			<itunes:duration>1747</itunes:duration>
+			<guid>109</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/02_2Ms/PKK_0185_150906.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Ms 30:22-31:18 - Kristus on võitu</title>
+			<description>Vana Testament, Teine Moosese raamat, 30:22-31:18 salm</description>
+			<pubDate>Tue, 26 Jun 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Ms 30:22-31:18 - Kristus on võitu</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>110</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Moosese_raamat.png"/>
+			<itunes:duration>1749</itunes:duration>
+			<guid>110</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/02_2Ms/PKK_0186_180906.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Ms 32:1-20 - Tants kuldvasika ümber</title>
+			<description>Vana Testament, Teine Moosese raamat, 32:1-20 salm</description>
+			<pubDate>Wed, 27 Jun 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Ms 32:1-20 - Tants kuldvasika ümber</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>111</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Moosese_raamat.png"/>
+			<itunes:duration>1784</itunes:duration>
+			<guid>111</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/02_2Ms/PKK_0187_190906.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Ms 32:21-35 - Eksimuse kallis hind</title>
+			<description>Vana Testament, Teine Moosese raamat, 32:21-35 salm</description>
+			<pubDate>Thu, 28 Jun 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Ms 32:21-35 - Eksimuse kallis hind</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>112</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Moosese_raamat.png"/>
+			<itunes:duration>1781</itunes:duration>
+			<guid>112</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/02_2Ms/PKK_0188_200906.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Ms 33:1-34:7 - Tikkudega ei mängita</title>
+			<description>Vana Testament, Teine Moosese raamat, 33:1-34:7 salm</description>
+			<pubDate>Fri, 29 Jun 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Ms 33:1-34:7 - Tikkudega ei mängita</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>113</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Moosese_raamat.png"/>
+			<itunes:duration>1794</itunes:duration>
+			<guid>113</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/02_2Ms/PKK_0189_210906.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Ms 34:8-35 - Kui pale hiilgab</title>
+			<description>Vana Testament, Teine Moosese raamat, 34:8-35 salm</description>
+			<pubDate>Sat, 30 Jun 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Ms 34:8-35 - Kui pale hiilgab</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>114</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Moosese_raamat.png"/>
+			<itunes:duration>1797</itunes:duration>
+			<guid>114</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/02_2Ms/PKK_0190_220906.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Ms 35:1-36:7 - Rõõmsad käsitöölised</title>
+			<description>Vana Testament, Teine Moosese raamat, 35:1-36:7 salm</description>
+			<pubDate>Sun, 01 Jul 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Ms 35:1-36:7 - Rõõmsad käsitöölised</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>115</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Moosese_raamat.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>115</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/02_2Ms/PKK_0191_250906.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Ms 36:8-38:8 - Ekskurs kogudusetelki</title>
+			<description>Vana Testament, Teine Moosese raamat, 36:8-38:8 salm</description>
+			<pubDate>Mon, 02 Jul 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Ms 36:8-38:8 - Ekskurs kogudusetelki</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>116</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Moosese_raamat.png"/>
+			<itunes:duration>1790</itunes:duration>
+			<guid>116</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/02_2Ms/PKK_0192_260906.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Ms 38:9-39:43 - Aluseks on lunastus</title>
+			<description>Vana Testament, Teine Moosese raamat, 38:9-39:43 salm</description>
+			<pubDate>Tue, 03 Jul 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Ms 38:9-39:43 - Aluseks on lunastus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>117</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Moosese_raamat.png"/>
+			<itunes:duration>1796</itunes:duration>
+			<guid>117</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/02_2Ms/PKK_0193_270906.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Ms 40:1-38 - Algab</title>
+			<description>Vana Testament, Teine Moosese raamat, 40:1-38 salm</description>
+			<pubDate>Wed, 04 Jul 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Ms 40:1-38 - Algab</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>118</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Moosese_raamat.png"/>
+			<itunes:duration>1796</itunes:duration>
+			<guid>118</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/02_2Ms/PKK_0194_280906.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+	</channel>
+</rss>

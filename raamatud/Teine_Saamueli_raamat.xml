@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+	<channel>
+		<title>Teine Saamueli raamat</title>
+		<description>Piibliõppesarjas &quot;Piibel kaanest kaaneni&quot; loeb ja seletab õpetaja Aare Kimmel (EELK) salm-salmi kaupa ära terve Piibli, nii Vana kui Uue Testamendi raamatud, sidudes loetut tänapäevaga.</description>
+		<link>http://www.pereraadio.ee</link>
+		<language>es</language>
+		<image>
+			<url>https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Saamueli_raamat.png</url>
+			<title>Piibel kaanest kaaneni</title>
+			<link>http://www.pereraadio.ee</link>
+		</image>
+		<itunes:type>episodic</itunes:type>
+		<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+		<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Saamueli_raamat.png"/>
+		<itunes:category text="Education">
+		</itunes:category>
+
+		<item>
+			<title>2Sm 1:1-2:16 - Kahe kuninga probleem</title>
+			<description>Vana Testament, Teine Saamueli raamat, 1:1-2:16 salm</description>
+			<pubDate>Sun, 11 Nov 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Sm 1:1-2:16 - Kahe kuninga probleem</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>248</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Saamueli_raamat.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>248</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/10_2Sm/PKK_0472_281107.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Sm 2:17-3:39 - Palju põhjust leinata</title>
+			<description>Vana Testament, Teine Saamueli raamat, 2:17-3:39 salm</description>
+			<pubDate>Mon, 12 Nov 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Sm 2:17-3:39 - Palju põhjust leinata</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>249</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Saamueli_raamat.png"/>
+			<itunes:duration>1779</itunes:duration>
+			<guid>249</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/10_2Sm/PKK_0473_291107.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Sm 4:1-5:16 - Siion</title>
+			<description>Vana Testament, Teine Saamueli raamat, 4:1-5:16 salm</description>
+			<pubDate>Tue, 13 Nov 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Sm 4:1-5:16 - Siion</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>250</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Saamueli_raamat.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>250</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/10_2Sm/PKK_0474_301107.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Sm 5:17-6:23 - Ennäe kuninga rõõmu</title>
+			<description>Vana Testament, Teine Saamueli raamat, 5:17-6:23 salm</description>
+			<pubDate>Wed, 14 Nov 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Sm 5:17-6:23 - Ennäe kuninga rõõmu</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>251</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Saamueli_raamat.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>251</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/10_2Sm/PKK_0475_031207.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Sm 7:1-29 - Jumala võimas tõotus</title>
+			<description>Vana Testament, Teine Saamueli raamat, 7:1-29 salm</description>
+			<pubDate>Thu, 15 Nov 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Sm 7:1-29 - Jumala võimas tõotus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>252</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Saamueli_raamat.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>252</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/10_2Sm/PKK_0476_041207.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Sm 8:1-9:13 - Kuninga lauas</title>
+			<description>Vana Testament, Teine Saamueli raamat, 8:1-9:13 salm</description>
+			<pubDate>Fri, 16 Nov 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Sm 8:1-9:13 - Kuninga lauas</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>253</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Saamueli_raamat.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>253</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/10_2Sm/PKK_0477_051207.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Sm 10:1-11:27 - Abielurikkumise verine tagajärg</title>
+			<description>Vana Testament, Teine Saamueli raamat, 10:1-11:27 salm</description>
+			<pubDate>Sat, 17 Nov 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Sm 10:1-11:27 - Abielurikkumise verine tagajärg</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>254</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Saamueli_raamat.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>254</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/10_2Sm/PKK_0478_061207.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Sm 12:1-25 - Patt ja andeksandmine</title>
+			<description>Vana Testament, Teine Saamueli raamat, 12:1-25 salm</description>
+			<pubDate>Sun, 18 Nov 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Sm 12:1-25 - Patt ja andeksandmine</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>255</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Saamueli_raamat.png"/>
+			<itunes:duration>1777</itunes:duration>
+			<guid>255</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/10_2Sm/PKK_0479_071207.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Sm 12:26-14:24 - Murede aeg algab</title>
+			<description>Vana Testament, Teine Saamueli raamat, 12:26-14:24 salm</description>
+			<pubDate>Mon, 19 Nov 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Sm 12:26-14:24 - Murede aeg algab</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>256</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Saamueli_raamat.png"/>
+			<itunes:duration>1778</itunes:duration>
+			<guid>256</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/10_2Sm/PKK_0480_101207.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Sm 14:25-15:37 - Absalom - südamete vallutaja</title>
+			<description>Vana Testament, Teine Saamueli raamat, 14:25-15:37 salm</description>
+			<pubDate>Tue, 20 Nov 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Sm 14:25-15:37 - Absalom - südamete vallutaja</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>257</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Saamueli_raamat.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>257</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/10_2Sm/PKK_0481_111207.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Sm 16:1-17:23 - Vana Testamendi Juudas</title>
+			<description>Vana Testament, Teine Saamueli raamat, 16:1-17:23 salm</description>
+			<pubDate>Wed, 21 Nov 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Sm 16:1-17:23 - Vana Testamendi Juudas</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>258</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Saamueli_raamat.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>258</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/10_2Sm/PKK_0482_121207.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Sm 17:24-19:16 - Kurb rõõmusõnum</title>
+			<description>Vana Testament, Teine Saamueli raamat, 17:24-19:16 salm</description>
+			<pubDate>Thu, 22 Nov 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Sm 17:24-19:16 - Kurb rõõmusõnum</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>259</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Saamueli_raamat.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>259</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/10_2Sm/PKK_0483_131207.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Sm 19:17-20:26 - Joab taas peaosas</title>
+			<description>Vana Testament, Teine Saamueli raamat, 19:17-20:26 salm</description>
+			<pubDate>Fri, 23 Nov 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Sm 19:17-20:26 - Joab taas peaosas</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>260</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Saamueli_raamat.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>260</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/10_2Sm/PKK_0484_141207.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Sm 21:1-22:51 - Taavet armastas Issandat</title>
+			<description>Vana Testament, Teine Saamueli raamat, 21:1-22:51 salm</description>
+			<pubDate>Sat, 24 Nov 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Sm 21:1-22:51 - Taavet armastas Issandat</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>261</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Saamueli_raamat.png"/>
+			<itunes:duration>1775</itunes:duration>
+			<guid>261</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/10_2Sm/PKK_0485_171207.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>2Sm 23:1-24:25 - Arauna rehealune</title>
+			<description>Vana Testament, Teine Saamueli raamat, 23:1-24:25 salm</description>
+			<pubDate>Sun, 25 Nov 2001 10:29:47 GMT</pubDate>
+			<itunes:title>2Sm 23:1-24:25 - Arauna rehealune</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>262</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Teine_Saamueli_raamat.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>262</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/10_2Sm/PKK_0486_181207.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+	</channel>
+</rss>

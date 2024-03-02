@@ -1,0 +1,805 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+	<channel>
+		<title>Jesaja</title>
+		<description>Piibliõppesarjas &quot;Piibel kaanest kaaneni&quot; loeb ja seletab õpetaja Aare Kimmel (EELK) salm-salmi kaupa ära terve Piibli, nii Vana kui Uue Testamendi raamatud, sidudes loetut tänapäevaga.</description>
+		<link>http://www.pereraadio.ee</link>
+		<language>es</language>
+		<image>
+			<url>https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jesaja.png</url>
+			<title>Piibel kaanest kaaneni</title>
+			<link>http://www.pereraadio.ee</link>
+		</image>
+		<itunes:type>episodic</itunes:type>
+		<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+		<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jesaja.png"/>
+		<itunes:category text="Education">
+		</itunes:category>
+
+		<item>
+			<title>Sissejuhatus Jesaja raamatusse</title>
+			<description>Vana Testament, Jesaja, Jesaja salm</description>
+			<pubDate>Sun, 04 Aug 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Sissejuhatus Jesaja raamatusse</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>514</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jesaja.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>514</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/23_Js/PKK_0906_021109.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Js 1:1-4 - Kas eesel on inimesest targem</title>
+			<description>Vana Testament, Jesaja, 1:1-4 salm</description>
+			<pubDate>Mon, 05 Aug 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Js 1:1-4 - Kas eesel on inimesest targem</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>515</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jesaja.png"/>
+			<itunes:duration>1795</itunes:duration>
+			<guid>515</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/23_Js/PKK_0907_031109.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Js 1:5-20 - Väärtusetud ohvrid</title>
+			<description>Vana Testament, Jesaja, 1:5-20 salm</description>
+			<pubDate>Tue, 06 Aug 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Js 1:5-20 - Väärtusetud ohvrid</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>516</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jesaja.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>516</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/23_Js/PKK_0908_041109.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Js 1:21-2:22 - Nägija aitab näha</title>
+			<description>Vana Testament, Jesaja, 1:21-2:22 salm</description>
+			<pubDate>Wed, 07 Aug 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Js 1:21-2:22 - Nägija aitab näha</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>517</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jesaja.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>517</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/23_Js/PKK_0909_051109.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Js 3:1-4:1 - Kuidas päästa surmaminejaid</title>
+			<description>Vana Testament, Jesaja, 3:1-4:1 salm</description>
+			<pubDate>Thu, 08 Aug 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Js 3:1-4:1 - Kuidas päästa surmaminejaid</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>518</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jesaja.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>518</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/23_Js/PKK_0910_061109.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Js 4:2-6 - Üllatav pulmasõnum</title>
+			<description>Vana Testament, Jesaja, 4:2-6 salm</description>
+			<pubDate>Fri, 09 Aug 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Js 4:2-6 - Üllatav pulmasõnum</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>519</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jesaja.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>519</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/23_Js/PKK_0911_091109.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Js 5:1-17 - Laul viinamäest</title>
+			<description>Vana Testament, Jesaja, 5:1-17 salm</description>
+			<pubDate>Sat, 10 Aug 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Js 5:1-17 - Laul viinamäest</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>520</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jesaja.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>520</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/23_Js/PKK_0912_101109.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Js 5:18-30 - Jumala vilistamisele kuuletutakse</title>
+			<description>Vana Testament, Jesaja, 5:18-30 salm</description>
+			<pubDate>Sun, 11 Aug 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Js 5:18-30 - Jumala vilistamisele kuuletutakse</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>521</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jesaja.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>521</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/23_Js/PKK_0913_111109.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Js 6:1-7 - Pühadus paljastab patu</title>
+			<description>Vana Testament, Jesaja, 6:1-7 salm</description>
+			<pubDate>Mon, 12 Aug 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Js 6:1-7 - Pühadus paljastab patu</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>522</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jesaja.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>522</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/23_Js/PKK_0914_121109.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Js 6:8-13 - Kes läheks sõna viima</title>
+			<description>Vana Testament, Jesaja, 6:8-13 salm</description>
+			<pubDate>Tue, 13 Aug 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Js 6:8-13 - Kes läheks sõna viima</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>523</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jesaja.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>523</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/23_Js/PKK_0915_131109.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Js 7:1-12 - Teeseldud vagadus</title>
+			<description>Vana Testament, Jesaja, 7:1-12 salm</description>
+			<pubDate>Wed, 14 Aug 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Js 7:1-12 - Teeseldud vagadus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>524</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jesaja.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>524</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/23_Js/PKK_0916_161109.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Js 7:13-25 - Uskmatuse kibedad viljad</title>
+			<description>Vana Testament, Jesaja, 7:13-25 salm</description>
+			<pubDate>Thu, 15 Aug 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Js 7:13-25 - Uskmatuse kibedad viljad</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>525</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jesaja.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>525</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/23_Js/PKK_0917_171109.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Js 8:1-23 - Ära hülga Issanda sõna</title>
+			<description>Vana Testament, Jesaja, 8:1-23 salm</description>
+			<pubDate>Fri, 16 Aug 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Js 8:1-23 - Ära hülga Issanda sõna</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>526</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jesaja.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>526</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/23_Js/PKK_0918_181109.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Js 8:23-9:20 - Sebuloni maa au</title>
+			<description>Vana Testament, Jesaja, 8:23-9:20 salm</description>
+			<pubDate>Sat, 17 Aug 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Js 8:23-9:20 - Sebuloni maa au</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>527</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jesaja.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>527</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/23_Js/PKK_0919_191109.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Js 10:1-34 - Jumal valitseb suurriikegi</title>
+			<description>Vana Testament, Jesaja, 10:1-34 salm</description>
+			<pubDate>Sun, 18 Aug 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Js 10:1-34 - Jumal valitseb suurriikegi</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>528</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jesaja.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>528</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/23_Js/PKK_0920_201109.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Js 11:1-16 - Jumal avab tee</title>
+			<description>Vana Testament, Jesaja, 11:1-16 salm</description>
+			<pubDate>Mon, 19 Aug 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Js 11:1-16 - Jumal avab tee</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>529</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jesaja.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>529</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/23_Js/PKK_0921_231109.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Js 12:1-13:10 - Ma tänan sind Issand</title>
+			<description>Vana Testament, Jesaja, 12:1-13:10 salm</description>
+			<pubDate>Tue, 20 Aug 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Js 12:1-13:10 - Ma tänan sind Issand</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>530</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jesaja.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>530</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/23_Js/PKK_0922_241109.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Js 13:11-14:11 - Kui puud rõõmustavad</title>
+			<description>Vana Testament, Jesaja, 13:11-14:11 salm</description>
+			<pubDate>Wed, 21 Aug 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Js 13:11-14:11 - Kui puud rõõmustavad</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>531</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jesaja.png"/>
+			<itunes:duration>1780</itunes:duration>
+			<guid>531</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/23_Js/PKK_0923_251109.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Js 14:12-32 - Inimene ära trotsi</title>
+			<description>Vana Testament, Jesaja, 14:12-32 salm</description>
+			<pubDate>Thu, 22 Aug 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Js 14:12-32 - Inimene ära trotsi</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>532</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jesaja.png"/>
+			<itunes:duration>1780</itunes:duration>
+			<guid>532</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/23_Js/PKK_0924_261109.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Js 15-17 - Kas oleme moabiidid</title>
+			<description>Vana Testament, Jesaja, 15-17 salm</description>
+			<pubDate>Fri, 23 Aug 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Js 15-17 - Kas oleme moabiidid</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>533</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jesaja.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>533</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/23_Js/PKK_0925_271109.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Js 18-19 - Rahvastest üks rahvas</title>
+			<description>Vana Testament, Jesaja, 18-19 salm</description>
+			<pubDate>Sat, 24 Aug 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Js 18-19 - Rahvastest üks rahvas</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>534</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jesaja.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>534</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/23_Js/PKK_0926_301109.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Js 20:1-21:10 - Ahvatlev hukutav Paabel</title>
+			<description>Vana Testament, Jesaja, 20:1-21:10 salm</description>
+			<pubDate>Sun, 25 Aug 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Js 20:1-21:10 - Ahvatlev hukutav Paabel</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>535</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jesaja.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>535</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/23_Js/PKK_0927_011209.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Js 21:11-22:14 - Kas homme sureme</title>
+			<description>Vana Testament, Jesaja, 21:11-22:14 salm</description>
+			<pubDate>Mon, 26 Aug 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Js 21:11-22:14 - Kas homme sureme</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>536</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jesaja.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>536</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/23_Js/PKK_0928_021209.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Js 22:15-23:12 - Uhked alandatakse</title>
+			<description>Vana Testament, Jesaja, 22:15-23:12 salm</description>
+			<pubDate>Tue, 27 Aug 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Js 22:15-23:12 - Uhked alandatakse</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>537</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jesaja.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>537</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/23_Js/PKK_0929_031209.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Js 23:13-24:16a - Suur palverännak</title>
+			<description>Vana Testament, Jesaja, 23:13-24:16a salm</description>
+			<pubDate>Wed, 28 Aug 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Js 23:13-24:16a - Suur palverännak</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>538</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jesaja.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>538</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/23_Js/PKK_0930_041209.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Js 24:16-25:10 - Päästetute hämmastav rõõm</title>
+			<description>Vana Testament, Jesaja, 24:16-25:10 salm</description>
+			<pubDate>Thu, 29 Aug 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Js 24:16-25:10 - Päästetute hämmastav rõõm</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>539</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jesaja.png"/>
+			<itunes:duration>1778</itunes:duration>
+			<guid>539</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/23_Js/PKK_0931_071209.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Js 25:10-26:19 - Surnud tõusevad üles</title>
+			<description>Vana Testament, Jesaja, 25:10-26:19 salm</description>
+			<pubDate>Fri, 30 Aug 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Js 25:10-26:19 - Surnud tõusevad üles</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>540</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jesaja.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>540</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/23_Js/PKK_0932_081209.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Js 26:20-27:13 - Avatud ja suletud uksed</title>
+			<description>Vana Testament, Jesaja, 26:20-27:13 salm</description>
+			<pubDate>Sat, 31 Aug 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Js 26:20-27:13 - Avatud ja suletud uksed</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>541</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jesaja.png"/>
+			<itunes:duration>1784</itunes:duration>
+			<guid>541</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/23_Js/PKK_0933_091209.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Js 28 - Kõva maa pehmeks</title>
+			<description>Vana Testament, Jesaja, 28 salm</description>
+			<pubDate>Sun, 01 Sep 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Js 28 - Kõva maa pehmeks</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>542</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jesaja.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>542</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/23_Js/PKK_0934_101209.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Js 29-30:19 - Sõber: kes ei peta</title>
+			<description>Vana Testament, Jesaja, 29-30:19 salm</description>
+			<pubDate>Mon, 02 Sep 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Js 29-30:19 - Sõber: kes ei peta</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>543</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jesaja.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>543</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/23_Js/PKK_0935_111209.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Js 30:20-32:8 - Ära looda Egiptusele</title>
+			<description>Vana Testament, Jesaja, 30:20-32:8 salm</description>
+			<pubDate>Tue, 03 Sep 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Js 30:20-32:8 - Ära looda Egiptusele</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>544</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jesaja.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>544</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/23_Js/PKK_0936_141209.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Js 32:9-33:24 - Jeruusalemma jõed</title>
+			<description>Vana Testament, Jesaja, 32:9-33:24 salm</description>
+			<pubDate>Wed, 04 Sep 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Js 32:9-33:24 - Jeruusalemma jõed</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>545</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jesaja.png"/>
+			<itunes:duration>1776</itunes:duration>
+			<guid>545</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/23_Js/PKK_0937_151209.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Js 34-35:10 - Pühal teel käijad</title>
+			<description>Vana Testament, Jesaja, 34-35:10 salm</description>
+			<pubDate>Thu, 05 Sep 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Js 34-35:10 - Pühal teel käijad</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>546</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jesaja.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>546</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/23_Js/PKK_0938_161209.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Js 36 - Psühholoogiline sõda</title>
+			<description>Vana Testament, Jesaja, 36 salm</description>
+			<pubDate>Fri, 06 Sep 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Js 36 - Psühholoogiline sõda</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>547</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jesaja.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>547</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/23_Js/PKK_0939_171209.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Js 37-38:3 - Elav Jumal aitab</title>
+			<description>Vana Testament, Jesaja, 37-38:3 salm</description>
+			<pubDate>Sat, 07 Sep 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Js 37-38:3 - Elav Jumal aitab</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>548</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jesaja.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>548</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/23_Js/PKK_0940_181209.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Js 38:4-39:8 - Nutt: rõõm ja langemine</title>
+			<description>Vana Testament, Jesaja, 38:4-39:8 salm</description>
+			<pubDate>Sun, 08 Sep 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Js 38:4-39:8 - Nutt: rõõm ja langemine</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>549</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jesaja.png"/>
+			<itunes:duration>1797</itunes:duration>
+			<guid>549</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/23_Js/PKK_0941_040110.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Js 40 - Meie Jumal on tröösti Jumal</title>
+			<description>Vana Testament, Jesaja, 40 salm</description>
+			<pubDate>Mon, 09 Sep 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Js 40 - Meie Jumal on tröösti Jumal</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>550</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jesaja.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>550</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/23_Js/PKK_0942_050110.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Js 41 - Jumal pilkab ebajumalaid</title>
+			<description>Vana Testament, Jesaja, 41 salm</description>
+			<pubDate>Tue, 10 Sep 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Js 41 - Jumal pilkab ebajumalaid</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>551</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jesaja.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>551</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/23_Js/PKK_0943_060110.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Js 42 - Kaks teenijat</title>
+			<description>Vana Testament, Jesaja, 42 salm</description>
+			<pubDate>Wed, 11 Sep 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Js 42 - Kaks teenijat</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>552</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jesaja.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>552</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/23_Js/PKK_0944_070110.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Js 43 - Jumal halastab iseenda pärast</title>
+			<description>Vana Testament, Jesaja, 43 salm</description>
+			<pubDate>Thu, 12 Sep 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Js 43 - Jumal halastab iseenda pärast</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>553</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jesaja.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>553</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/23_Js/PKK_0945_080110.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Js 44-45:8 - Jumal valib nagu soovib</title>
+			<description>Vana Testament, Jesaja, 44-45:8 salm</description>
+			<pubDate>Fri, 13 Sep 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Js 44-45:8 - Jumal valib nagu soovib</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>554</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jesaja.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>554</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/23_Js/PKK_0946_110110.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Js 45:9-46:13 - Lase ennast päästa</title>
+			<description>Vana Testament, Jesaja, 45:9-46:13 salm</description>
+			<pubDate>Sat, 14 Sep 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Js 45:9-46:13 - Lase ennast päästa</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>555</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jesaja.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>555</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/23_Js/PKK_0947_120110.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Js 47-48 - Vabadusse kutsutud</title>
+			<description>Vana Testament, Jesaja, 47-48 salm</description>
+			<pubDate>Sun, 15 Sep 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Js 47-48 - Vabadusse kutsutud</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>556</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jesaja.png"/>
+			<itunes:duration>1797</itunes:duration>
+			<guid>556</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/23_Js/PKK_0948_130110.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Js 49 - Täiuslik Päästja</title>
+			<description>Vana Testament, Jesaja, 49 salm</description>
+			<pubDate>Mon, 16 Sep 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Js 49 - Täiuslik Päästja</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>557</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jesaja.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>557</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/23_Js/PKK_0949_140110.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Js 50 - Evangeelium ei pitsita</title>
+			<description>Vana Testament, Jesaja, 50 salm</description>
+			<pubDate>Tue, 17 Sep 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Js 50 - Evangeelium ei pitsita</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>558</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jesaja.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>558</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/23_Js/PKK_0950_150110.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Js 51:9-52:12 - Rõõmusõnum toob rõõmu</title>
+			<description>Vana Testament, Jesaja, 51:9-52:12 salm</description>
+			<pubDate>Wed, 18 Sep 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Js 51:9-52:12 - Rõõmusõnum toob rõõmu</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>559</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jesaja.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>559</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/23_Js/PKK_0951_180110.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Js 52:13-53:8 - Meie pattude haavatud kandja</title>
+			<description>Vana Testament, Jesaja, 52:13-53:8 salm</description>
+			<pubDate>Thu, 19 Sep 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Js 52:13-53:8 - Meie pattude haavatud kandja</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>560</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jesaja.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>560</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/23_Js/PKK_0952_190110.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Js 53:9-54:17 - Meie patud on lepitatud</title>
+			<description>Vana Testament, Jesaja, 53:9-54:17 salm</description>
+			<pubDate>Fri, 20 Sep 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Js 53:9-54:17 - Meie patud on lepitatud</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>561</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jesaja.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>561</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/23_Js/PKK_0953_200110.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Js 55 - Mürdid ohakate asemel</title>
+			<description>Vana Testament, Jesaja, 55 salm</description>
+			<pubDate>Sat, 21 Sep 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Js 55 - Mürdid ohakate asemel</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>562</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jesaja.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>562</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/23_Js/PKK_0954_210110.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Js 56-57:13 - Milline on hea karjakoer</title>
+			<description>Vana Testament, Jesaja, 56-57:13 salm</description>
+			<pubDate>Sun, 22 Sep 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Js 56-57:13 - Milline on hea karjakoer</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>563</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jesaja.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>563</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/23_Js/PKK_0955_220110.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Js 57:14-58 - Õige paast rõõmustab ligimesi</title>
+			<description>Vana Testament, Jesaja, 57:14-58 salm</description>
+			<pubDate>Mon, 23 Sep 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Js 57:14-58 - Õige paast rõõmustab ligimesi</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>564</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jesaja.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>564</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/23_Js/PKK_0956_250110.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Js 59-60 - Pimedusest valgusse</title>
+			<description>Vana Testament, Jesaja, 59-60 salm</description>
+			<pubDate>Tue, 24 Sep 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Js 59-60 - Pimedusest valgusse</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>565</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jesaja.png"/>
+			<itunes:duration>1795</itunes:duration>
+			<guid>565</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/23_Js/PKK_0957_260110.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Js 61-62:5 - Võitu toob rõõmu</title>
+			<description>Vana Testament, Jesaja, 61-62:5 salm</description>
+			<pubDate>Wed, 25 Sep 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Js 61-62:5 - Võitu toob rõõmu</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>566</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jesaja.png"/>
+			<itunes:duration>1797</itunes:duration>
+			<guid>566</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/23_Js/PKK_0958_270110.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Js 62:6-63:17 - Surutõrres tallaja</title>
+			<description>Vana Testament, Jesaja, 62:6-63:17 salm</description>
+			<pubDate>Thu, 26 Sep 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Js 62:6-63:17 - Surutõrres tallaja</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>567</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jesaja.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>567</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/23_Js/PKK_0959_280110.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Js 63:18-65:16 - Kas määrdunud riie meeldib</title>
+			<description>Vana Testament, Jesaja, 63:18-65:16 salm</description>
+			<pubDate>Fri, 27 Sep 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Js 63:18-65:16 - Kas määrdunud riie meeldib</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>568</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jesaja.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>568</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/23_Js/PKK_0960_290110.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Js 65:17-66 - Uus maa ja taevas</title>
+			<description>Vana Testament, Jesaja, 65:17-66 salm</description>
+			<pubDate>Sat, 28 Sep 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Js 65:17-66 - Uus maa ja taevas</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>569</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jesaja.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>569</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/23_Js/PKK_0961_010210.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+	</channel>
+</rss>

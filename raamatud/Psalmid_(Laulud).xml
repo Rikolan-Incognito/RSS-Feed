@@ -1,0 +1,973 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+	<channel>
+		<title>Psalmid (Laulud)</title>
+		<description>Piibliõppesarjas &quot;Piibel kaanest kaaneni&quot; loeb ja seletab õpetaja Aare Kimmel (EELK) salm-salmi kaupa ära terve Piibli, nii Vana kui Uue Testamendi raamatud, sidudes loetut tänapäevaga.</description>
+		<link>http://www.pereraadio.ee</link>
+		<language>es</language>
+		<image>
+			<url>https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png</url>
+			<title>Piibel kaanest kaaneni</title>
+			<link>http://www.pereraadio.ee</link>
+		</image>
+		<itunes:type>episodic</itunes:type>
+		<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+		<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+		<itunes:category text="Education">
+		</itunes:category>
+
+		<item>
+			<title>Psalmid on täis elu</title>
+			<description>Vana Testament, Psalmid (Laulud), on salm</description>
+			<pubDate>Wed, 27 Mar 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Psalmid on täis elu</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>384</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>384</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0719_101208.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 1 - Istutatud õigesse kohta</title>
+			<description>Vana Testament, Psalmid (Laulud), 1 salm</description>
+			<pubDate>Thu, 28 Mar 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 1 - Istutatud õigesse kohta</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>385</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1782</itunes:duration>
+			<guid>385</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0720_111208.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 2 - Jumala rõõmutu naer</title>
+			<description>Vana Testament, Psalmid (Laulud), 2 salm</description>
+			<pubDate>Fri, 29 Mar 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 2 - Jumala rõõmutu naer</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>386</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>386</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0721_121208.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 3:1-4:9 - Suurtes raskustes kuid rahus</title>
+			<description>Vana Testament, Psalmid (Laulud), 3:1-4:9 salm</description>
+			<pubDate>Sat, 30 Mar 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 3:1-4:9 - Suurtes raskustes kuid rahus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>387</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>387</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0722_151208.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 5:-6:11 - Rõõm ja kahetsus</title>
+			<description>Vana Testament, Psalmid (Laulud), 5:-6:11 salm</description>
+			<pubDate>Sun, 31 Mar 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 5:-6:11 - Rõõm ja kahetsus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>388</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>388</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0723_161208.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 7:1-8:10 - Valgus pimeduse tagant</title>
+			<description>Vana Testament, Psalmid (Laulud), 7:1-8:10 salm</description>
+			<pubDate>Mon, 01 Apr 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 7:1-8:10 - Valgus pimeduse tagant</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>389</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1777</itunes:duration>
+			<guid>389</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0724_171208.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 9:1-10:18 - Ülekohtuse trots</title>
+			<description>Vana Testament, Psalmid (Laulud), 9:1-10:18 salm</description>
+			<pubDate>Tue, 02 Apr 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 9:1-10:18 - Ülekohtuse trots</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>390</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>390</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0725_181208.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 11:1-12:9 - Valed ja tõde</title>
+			<description>Vana Testament, Psalmid (Laulud), 11:1-12:9 salm</description>
+			<pubDate>Wed, 03 Apr 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 11:1-12:9 - Valed ja tõde</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>391</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1751</itunes:duration>
+			<guid>391</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0726_191208.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 13:1-15:5 - Tee selgeks mu silmad</title>
+			<description>Vana Testament, Psalmid (Laulud), 13:1-15:5 salm</description>
+			<pubDate>Thu, 04 Apr 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 13:1-15:5 - Tee selgeks mu silmad</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>392</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>392</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0727_291208.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 16:1-17:15 - Sina ei hülga</title>
+			<description>Vana Testament, Psalmid (Laulud), 16:1-17:15 salm</description>
+			<pubDate>Fri, 05 Apr 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 16:1-17:15 - Sina ei hülga</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>393</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1802</itunes:duration>
+			<guid>393</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0728_301208.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 18:1-51 - Välja sügavast veest</title>
+			<description>Vana Testament, Psalmid (Laulud), 18:1-51 salm</description>
+			<pubDate>Sat, 06 Apr 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 18:1-51 - Välja sügavast veest</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>394</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>394</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0729_311208.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 19:1-20:10 - Kas kuuled Jumala sõnatut juttu</title>
+			<description>Vana Testament, Psalmid (Laulud), 19:1-20:10 salm</description>
+			<pubDate>Sun, 07 Apr 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 19:1-20:10 - Kas kuuled Jumala sõnatut juttu</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>395</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1722</itunes:duration>
+			<guid>395</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0730_010109.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 21:1-22:1 - Kuningas saab krooni</title>
+			<description>Vana Testament, Psalmid (Laulud), 21:1-22:1 salm</description>
+			<pubDate>Mon, 08 Apr 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 21:1-22:1 - Kuningas saab krooni</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>396</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>396</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0731_020109.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 22:1-32 - Ristilöödu vaatenurk</title>
+			<description>Vana Testament, Psalmid (Laulud), 22:1-32 salm</description>
+			<pubDate>Tue, 09 Apr 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 22:1-32 - Ristilöödu vaatenurk</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>397</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1783</itunes:duration>
+			<guid>397</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0732_050109.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 23 - Issand on mu karjane</title>
+			<description>Vana Testament, Psalmid (Laulud), 23 salm</description>
+			<pubDate>Wed, 10 Apr 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 23 - Issand on mu karjane</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>398</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1782</itunes:duration>
+			<guid>398</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0733_060109.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 24:1-25:22 - Advendi sõnum</title>
+			<description>Vana Testament, Psalmid (Laulud), 24:1-25:22 salm</description>
+			<pubDate>Thu, 11 Apr 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 24:1-25:22 - Advendi sõnum</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>399</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>399</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0734_070109.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 26:1-27:14 - Ma otsin sind Issand</title>
+			<description>Vana Testament, Psalmid (Laulud), 26:1-27:14 salm</description>
+			<pubDate>Fri, 12 Apr 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 26:1-27:14 - Ma otsin sind Issand</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>400</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>400</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0735_080109.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 28:1-29:11 - Tormi sõnum</title>
+			<description>Vana Testament, Psalmid (Laulud), 28:1-29:11 salm</description>
+			<pubDate>Sat, 13 Apr 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 28:1-29:11 - Tormi sõnum</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>401</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>401</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0736_090109.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 30:1-31:9 - Sinu kätte ma annan oma vaimu</title>
+			<description>Vana Testament, Psalmid (Laulud), 30:1-31:9 salm</description>
+			<pubDate>Sun, 14 Apr 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 30:1-31:9 - Sinu kätte ma annan oma vaimu</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>402</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>402</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0737_120109.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 31:10-32:11 - Nagu mürk sisikonnas</title>
+			<description>Vana Testament, Psalmid (Laulud), 31:10-32:11 salm</description>
+			<pubDate>Mon, 15 Apr 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 31:10-32:11 - Nagu mürk sisikonnas</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>403</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>403</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0738_130109.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 33:1-34:23 - Ela välja oma rõõmu</title>
+			<description>Vana Testament, Psalmid (Laulud), 33:1-34:23 salm</description>
+			<pubDate>Tue, 16 Apr 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 33:1-34:23 - Ela välja oma rõõmu</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>404</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>404</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0739_140109.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 35:1-36:13 - Elu allikale</title>
+			<description>Vana Testament, Psalmid (Laulud), 35:1-36:13 salm</description>
+			<pubDate>Wed, 17 Apr 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 35:1-36:13 - Elu allikale</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>405</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>405</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0740_150109.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 37:1-38:1 - Ära kadesta ülekohtuseid</title>
+			<description>Vana Testament, Psalmid (Laulud), 37:1-38:1 salm</description>
+			<pubDate>Thu, 18 Apr 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 37:1-38:1 - Ära kadesta ülekohtuseid</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>406</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1784</itunes:duration>
+			<guid>406</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0741_160109.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 38:1-39:14 - Kokkuvarisemise äärel</title>
+			<description>Vana Testament, Psalmid (Laulud), 38:1-39:14 salm</description>
+			<pubDate>Fri, 19 Apr 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 38:1-39:14 - Kokkuvarisemise äärel</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>407</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1767</itunes:duration>
+			<guid>407</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0742_190109.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 40:1-41:14 - Välja õuduse august</title>
+			<description>Vana Testament, Psalmid (Laulud), 40:1-41:14 salm</description>
+			<pubDate>Sat, 20 Apr 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 40:1-41:14 - Välja õuduse august</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>408</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1802</itunes:duration>
+			<guid>408</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0743_200109.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 42:1-44:27 - Janu Jumala järele</title>
+			<description>Vana Testament, Psalmid (Laulud), 42:1-44:27 salm</description>
+			<pubDate>Sun, 21 Apr 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 42:1-44:27 - Janu Jumala järele</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>409</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1788</itunes:duration>
+			<guid>409</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0744_210109.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 45:1-46:12 - Armastuslaul</title>
+			<description>Vana Testament, Psalmid (Laulud), 45:1-46:12 salm</description>
+			<pubDate>Mon, 22 Apr 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 45:1-46:12 - Armastuslaul</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>410</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>410</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0745_220109.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 47:1-49:21 - Toetu üksnes Jumalale</title>
+			<description>Vana Testament, Psalmid (Laulud), 47:1-49:21 salm</description>
+			<pubDate>Tue, 23 Apr 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 47:1-49:21 - Toetu üksnes Jumalale</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>411</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1756</itunes:duration>
+			<guid>411</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0746_230109.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 50:1-23 - Jumalakohus kui arm</title>
+			<description>Vana Testament, Psalmid (Laulud), 50:1-23 salm</description>
+			<pubDate>Wed, 24 Apr 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 50:1-23 - Jumalakohus kui arm</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>412</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>412</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0747_260109.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 51:1-9 - Iisopi sõnum patusele</title>
+			<description>Vana Testament, Psalmid (Laulud), 51:1-9 salm</description>
+			<pubDate>Thu, 25 Apr 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 51:1-9 - Iisopi sõnum patusele</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>413</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>413</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0748_270109.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 51:10-53:7 - Loo mulle uus süda</title>
+			<description>Vana Testament, Psalmid (Laulud), 51:10-53:7 salm</description>
+			<pubDate>Fri, 26 Apr 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 51:10-53:7 - Loo mulle uus süda</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>414</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>414</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0749_280109.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 54:1-56:14 - Ära peida end Jumal</title>
+			<description>Vana Testament, Psalmid (Laulud), 54:1-56:14 salm</description>
+			<pubDate>Sat, 27 Apr 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 54:1-56:14 - Ära peida end Jumal</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>415</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>415</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0750_290109.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 57:1-59:18 - Sina oled mu varjupaik</title>
+			<description>Vana Testament, Psalmid (Laulud), 57:1-59:18 salm</description>
+			<pubDate>Sun, 28 Apr 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 57:1-59:18 - Sina oled mu varjupaik</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>416</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>416</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0751_300109.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 60:1-62:13 - Kui palju kaalub inimene</title>
+			<description>Vana Testament, Psalmid (Laulud), 60:1-62:13 salm</description>
+			<pubDate>Mon, 29 Apr 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 60:1-62:13 - Kui palju kaalub inimene</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>417</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1783</itunes:duration>
+			<guid>417</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0752_020209.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 63:1-66:20 - Õnnistustevihma rabin</title>
+			<description>Vana Testament, Psalmid (Laulud), 63:1-66:20 salm</description>
+			<pubDate>Tue, 30 Apr 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 63:1-66:20 - Õnnistustevihma rabin</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>418</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1802</itunes:duration>
+			<guid>418</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0753_030209.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 67:1-68:36 - Pilk tulevikku</title>
+			<description>Vana Testament, Psalmid (Laulud), 67:1-68:36 salm</description>
+			<pubDate>Wed, 01 May 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 67:1-68:36 - Pilk tulevikku</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>419</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>419</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0754_040209.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 69:1-37 - Vasta mulle ometi</title>
+			<description>Vana Testament, Psalmid (Laulud), 69:1-37 salm</description>
+			<pubDate>Thu, 02 May 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 69:1-37 - Vasta mulle ometi</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>420</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>420</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0755_050209.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 70:1-72:20 - Jumal ei hülga hallpeadki</title>
+			<description>Vana Testament, Psalmid (Laulud), 70:1-72:20 salm</description>
+			<pubDate>Fri, 03 May 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 70:1-72:20 - Jumal ei hülga hallpeadki</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>421</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1802</itunes:duration>
+			<guid>421</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0756_060209.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 73:1-74:23 - Ära kadesta varjukujusid</title>
+			<description>Vana Testament, Psalmid (Laulud), 73:1-74:23 salm</description>
+			<pubDate>Sat, 04 May 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 73:1-74:23 - Ära kadesta varjukujusid</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>422</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>422</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0757_090209.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 75:1-77:22 - Võimukad ärge hoobelge</title>
+			<description>Vana Testament, Psalmid (Laulud), 75:1-77:22 salm</description>
+			<pubDate>Sun, 05 May 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 75:1-77:22 - Võimukad ärge hoobelge</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>423</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1803</itunes:duration>
+			<guid>423</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0758_100209.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 78:1-80:20 - Kui juhtub halvim</title>
+			<description>Vana Testament, Psalmid (Laulud), 78:1-80:20 salm</description>
+			<pubDate>Mon, 06 May 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 78:1-80:20 - Kui juhtub halvim</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>424</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1802</itunes:duration>
+			<guid>424</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0759_110209.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 81:1-82:8 - Jumala suurim igatsus</title>
+			<description>Vana Testament, Psalmid (Laulud), 81:1-82:8 salm</description>
+			<pubDate>Tue, 07 May 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 81:1-82:8 - Jumala suurim igatsus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>425</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>425</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0760_120209.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 83:1-84:13 - Suur igatsus</title>
+			<description>Vana Testament, Psalmid (Laulud), 83:1-84:13 salm</description>
+			<pubDate>Wed, 08 May 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 83:1-84:13 - Suur igatsus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>426</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>426</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0761_130209.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 85:1-86:17 - Üksildase palve</title>
+			<description>Vana Testament, Psalmid (Laulud), 85:1-86:17 salm</description>
+			<pubDate>Thu, 09 May 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 85:1-86:17 - Üksildase palve</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>427</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>427</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0762_160209.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 87:1-88:18 - Palve toonela künnisel</title>
+			<description>Vana Testament, Psalmid (Laulud), 87:1-88:18 salm</description>
+			<pubDate>Fri, 10 May 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 87:1-88:18 - Palve toonela künnisel</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>428</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>428</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0763_170209.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 89:1-90:17 - Mooses räägib surmast</title>
+			<description>Vana Testament, Psalmid (Laulud), 89:1-90:17 salm</description>
+			<pubDate>Sat, 11 May 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 89:1-90:17 - Mooses räägib surmast</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>429</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1802</itunes:duration>
+			<guid>429</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0764_180209.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 91:1-92:16 - Kõige kõrgema kaitse all</title>
+			<description>Vana Testament, Psalmid (Laulud), 91:1-92:16 salm</description>
+			<pubDate>Sun, 12 May 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 91:1-92:16 - Kõige kõrgema kaitse all</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>430</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1802</itunes:duration>
+			<guid>430</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0765_190209.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 93-96 - Jumal mõista kohut!</title>
+			<description>Vana Testament, Psalmid (Laulud), 93-96 salm</description>
+			<pubDate>Mon, 13 May 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 93-96 - Jumal mõista kohut!</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>431</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1802</itunes:duration>
+			<guid>431</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0766_200209.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 97:1-102:29 - Jumal on ustav</title>
+			<description>Vana Testament, Psalmid (Laulud), 97:1-102:29 salm</description>
+			<pubDate>Tue, 14 May 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 97:1-102:29 - Jumal on ustav</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>432</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1802</itunes:duration>
+			<guid>432</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0767_230209.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 103-104 - Kiida mu hing Issandat</title>
+			<description>Vana Testament, Psalmid (Laulud), 103-104 salm</description>
+			<pubDate>Wed, 15 May 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 103-104 - Kiida mu hing Issandat</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>433</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>433</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0768_240209.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 105-106 - Et õppida ajaloost</title>
+			<description>Vana Testament, Psalmid (Laulud), 105-106 salm</description>
+			<pubDate>Thu, 16 May 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 105-106 - Et õppida ajaloost</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>434</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>434</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0769_250209.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 107-108 - Kas tead: et Jumal on hea</title>
+			<description>Vana Testament, Psalmid (Laulud), 107-108 salm</description>
+			<pubDate>Fri, 17 May 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 107-108 - Kas tead: et Jumal on hea</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>435</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>435</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0770_260209.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 109:1-110:1 - Kui on valus</title>
+			<description>Vana Testament, Psalmid (Laulud), 109:1-110:1 salm</description>
+			<pubDate>Sat, 18 May 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 109:1-110:1 - Kui on valus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>436</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1802</itunes:duration>
+			<guid>436</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0771_270209.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 110:1-112:10 - Istu mu paremale käele</title>
+			<description>Vana Testament, Psalmid (Laulud), 110:1-112:10 salm</description>
+			<pubDate>Sun, 19 May 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 110:1-112:10 - Istu mu paremale käele</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>437</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1802</itunes:duration>
+			<guid>437</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0772_020309.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 113-115 - Kas laulad kiitust Issandale</title>
+			<description>Vana Testament, Psalmid (Laulud), 113-115 salm</description>
+			<pubDate>Mon, 20 May 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 113-115 - Kas laulad kiitust Issandale</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>438</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1777</itunes:duration>
+			<guid>438</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0773_030309.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 116:1-118:18 - Heldus kestab igavesti</title>
+			<description>Vana Testament, Psalmid (Laulud), 116:1-118:18 salm</description>
+			<pubDate>Tue, 21 May 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 116:1-118:18 - Heldus kestab igavesti</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>439</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>439</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0774_040309.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 118:19-119:48 - Jumala sõna toob elu</title>
+			<description>Vana Testament, Psalmid (Laulud), 118:19-119:48 salm</description>
+			<pubDate>Wed, 22 May 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 118:19-119:48 - Jumala sõna toob elu</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>440</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>440</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0775_050309.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 119:49-176 - Jumala sõna igatsus</title>
+			<description>Vana Testament, Psalmid (Laulud), 119:49-176 salm</description>
+			<pubDate>Thu, 23 May 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 119:49-176 - Jumala sõna igatsus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>441</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1802</itunes:duration>
+			<guid>441</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0776_060309.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 120-122 - See hoidja ei väsi</title>
+			<description>Vana Testament, Psalmid (Laulud), 120-122 salm</description>
+			<pubDate>Fri, 24 May 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 120-122 - See hoidja ei väsi</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>442</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1786</itunes:duration>
+			<guid>442</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0777_090309.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 123-127 - Me pääsesime pakku</title>
+			<description>Vana Testament, Psalmid (Laulud), 123-127 salm</description>
+			<pubDate>Sat, 25 May 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 123-127 - Me pääsesime pakku</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>443</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>443</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0778_100309.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 128-131 - Ma ootan Issandat</title>
+			<description>Vana Testament, Psalmid (Laulud), 128-131 salm</description>
+			<pubDate>Sun, 26 May 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 128-131 - Ma ootan Issandat</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>444</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1796</itunes:duration>
+			<guid>444</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0779_110309.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 132-135 - Õnnistus Siionist</title>
+			<description>Vana Testament, Psalmid (Laulud), 132-135 salm</description>
+			<pubDate>Mon, 27 May 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 132-135 - Õnnistus Siionist</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>445</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>445</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0780_120309.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 136-137 - Tänu ja sajatus</title>
+			<description>Vana Testament, Psalmid (Laulud), 136-137 salm</description>
+			<pubDate>Tue, 28 May 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 136-137 - Tänu ja sajatus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>446</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1764</itunes:duration>
+			<guid>446</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0781_130309.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 138-139 - Uuri mind Issand</title>
+			<description>Vana Testament, Psalmid (Laulud), 138-139 salm</description>
+			<pubDate>Wed, 29 May 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 138-139 - Uuri mind Issand</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>447</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>447</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0782_160309.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 140-141 - Õige nuhelgu mind</title>
+			<description>Vana Testament, Psalmid (Laulud), 140-141 salm</description>
+			<pubDate>Thu, 30 May 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 140-141 - Õige nuhelgu mind</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>448</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1779</itunes:duration>
+			<guid>448</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0783_170309.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 142-143 - Kas keegi hoolib minust</title>
+			<description>Vana Testament, Psalmid (Laulud), 142-143 salm</description>
+			<pubDate>Fri, 31 May 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 142-143 - Kas keegi hoolib minust</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>449</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>449</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0784_180309.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 144-146 - Ülistusaeg</title>
+			<description>Vana Testament, Psalmid (Laulud), 144-146 salm</description>
+			<pubDate>Sat, 01 Jun 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 144-146 - Ülistusaeg</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>450</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>450</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0785_190309.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ps 147-150 - Halleluuja</title>
+			<description>Vana Testament, Psalmid (Laulud), 147-150 salm</description>
+			<pubDate>Sun, 02 Jun 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ps 147-150 - Halleluuja</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>451</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Psalmid_(Laulud).png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>451</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/19_Ps/PKK_0786_200309.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+	</channel>
+</rss>

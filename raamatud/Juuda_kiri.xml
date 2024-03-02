@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+	<channel>
+		<title>Juuda kiri</title>
+		<description>Piibliõppesarjas &quot;Piibel kaanest kaaneni&quot; loeb ja seletab õpetaja Aare Kimmel (EELK) salm-salmi kaupa ära terve Piibli, nii Vana kui Uue Testamendi raamatud, sidudes loetut tänapäevaga.</description>
+		<link>http://www.pereraadio.ee</link>
+		<language>es</language>
+		<image>
+			<url>https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Juuda_kiri.png</url>
+			<title>Piibel kaanest kaaneni</title>
+			<link>http://www.pereraadio.ee</link>
+		</image>
+		<itunes:type>episodic</itunes:type>
+		<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+		<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Juuda_kiri.png"/>
+		<itunes:category text="Education">
+		</itunes:category>
+
+		<item>
+			<title>Jd 1:1 - Sissejuhatus Juuda kirja</title>
+			<description>Uus Testament, Juuda kiri, 1:1 salm</description>
+			<pubDate>Sun, 21 Nov 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Jd 1:1 - Sissejuhatus Juuda kirja</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1356</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Juuda_kiri.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>1356</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/65_Jd/PKK_1306_290911.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jd 1:2-3 - Võitlus usu eest</title>
+			<description>Uus Testament, Juuda kiri, 1:2-3 salm</description>
+			<pubDate>Mon, 22 Nov 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Jd 1:2-3 - Võitlus usu eest</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1357</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Juuda_kiri.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1357</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/65_Jd/PKK_1307_300911.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jd 1:4-5 - Vargsi sisse pugejad</title>
+			<description>Uus Testament, Juuda kiri, 1:4-5 salm</description>
+			<pubDate>Tue, 23 Nov 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Jd 1:4-5 - Vargsi sisse pugejad</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1358</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Juuda_kiri.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>1358</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/65_Jd/PKK_1308_031011.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jd 1:6-8 - Ära usu unistajaid</title>
+			<description>Uus Testament, Juuda kiri, 1:6-8 salm</description>
+			<pubDate>Wed, 24 Nov 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Jd 1:6-8 - Ära usu unistajaid</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1359</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Juuda_kiri.png"/>
+			<itunes:duration>1788</itunes:duration>
+			<guid>1359</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/65_Jd/PKK_1309_041011.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jd 1:9-10 - Kas olen teotaja?</title>
+			<description>Uus Testament, Juuda kiri, 1:9-10 salm</description>
+			<pubDate>Thu, 25 Nov 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Jd 1:9-10 - Kas olen teotaja?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1360</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Juuda_kiri.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1360</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/65_Jd/PKK_1310_051011.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jd 1:11-13 - Ära sõida karidele</title>
+			<description>Uus Testament, Juuda kiri, 1:11-13 salm</description>
+			<pubDate>Fri, 26 Nov 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Jd 1:11-13 - Ära sõida karidele</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1361</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Juuda_kiri.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>1361</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/65_Jd/PKK_1311_061011.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jd 1:14-17 - Aadamast seitsmes</title>
+			<description>Uus Testament, Juuda kiri, 1:14-17 salm</description>
+			<pubDate>Sat, 27 Nov 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Jd 1:14-17 - Aadamast seitsmes</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1362</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Juuda_kiri.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1362</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/65_Jd/PKK_1312_071011.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jd 1:18-20 - Kas usud pilkajat?</title>
+			<description>Uus Testament, Juuda kiri, 1:18-20 salm</description>
+			<pubDate>Sun, 28 Nov 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Jd 1:18-20 - Kas usud pilkajat?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1363</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Juuda_kiri.png"/>
+			<itunes:duration>1776</itunes:duration>
+			<guid>1363</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/65_Jd/PKK_1313_101011.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jd 1:20-21 - Püsi Kristuse armastuses</title>
+			<description>Uus Testament, Juuda kiri, 1:20-21 salm</description>
+			<pubDate>Mon, 29 Nov 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Jd 1:20-21 - Püsi Kristuse armastuses</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1364</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Juuda_kiri.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1364</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/65_Jd/PKK_1314_111011.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jd 1:22-25 - Tulest tõmmatud</title>
+			<description>Uus Testament, Juuda kiri, 1:22-25 salm</description>
+			<pubDate>Tue, 30 Nov 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Jd 1:22-25 - Tulest tõmmatud</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1365</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Juuda_kiri.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1365</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/65_Jd/PKK_1315_121011.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+	</channel>
+</rss>

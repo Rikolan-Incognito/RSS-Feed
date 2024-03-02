@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+	<channel>
+		<title>Sakarja</title>
+		<description>Piibliõppesarjas &quot;Piibel kaanest kaaneni&quot; loeb ja seletab õpetaja Aare Kimmel (EELK) salm-salmi kaupa ära terve Piibli, nii Vana kui Uue Testamendi raamatud, sidudes loetut tänapäevaga.</description>
+		<link>http://www.pereraadio.ee</link>
+		<language>es</language>
+		<image>
+			<url>https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Sakarja.png</url>
+			<title>Piibel kaanest kaaneni</title>
+			<link>http://www.pereraadio.ee</link>
+		</image>
+		<itunes:type>episodic</itunes:type>
+		<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+		<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Sakarja.png"/>
+		<itunes:category text="Education">
+		</itunes:category>
+
+		<item>
+			<title>Sk 1:1-6 - Sissejuhatus Sakarja raamatusse</title>
+			<description>Vana Testament, Sakarja, 1:1-6 salm</description>
+			<pubDate>Mon, 07 Apr 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Sk 1:1-6 - Sissejuhatus Sakarja raamatusse</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>761</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Sakarja.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>761</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/38_Sk/PKK_1323_241011.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Sk 1:7-17 - Hobused mürdiorus</title>
+			<description>Vana Testament, Sakarja, 1:7-17 salm</description>
+			<pubDate>Tue, 08 Apr 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Sk 1:7-17 - Hobused mürdiorus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>762</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Sakarja.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>762</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/38_Sk/PKK_1324_251011.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Sk 2:1-13 - Neli sarve</title>
+			<description>Vana Testament, Sakarja, 2:1-13 salm</description>
+			<pubDate>Wed, 09 Apr 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Sk 2:1-13 - Neli sarve</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>763</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Sakarja.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>763</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/38_Sk/PKK_1325_261011.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Sk 2:14-3:1 - Issand elab oma rahva keskel</title>
+			<description>Vana Testament, Sakarja, 2:14-3:1 salm</description>
+			<pubDate>Thu, 10 Apr 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Sk 2:14-3:1 - Issand elab oma rahva keskel</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>764</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Sakarja.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>764</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/38_Sk/PKK_1326_271011.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Sk 3:2-7 - Kas tahad puhtaid riideid?</title>
+			<description>Vana Testament, Sakarja, 3:2-7 salm</description>
+			<pubDate>Fri, 11 Apr 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Sk 3:2-7 - Kas tahad puhtaid riideid?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>765</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Sakarja.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>765</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/38_Sk/PKK_1327_281011.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Sk 3:8- 4:2 - Võsu ja kivi</title>
+			<description>Vana Testament, Sakarja, 3:8- salm</description>
+			<pubDate>Sat, 12 Apr 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Sk 3:8- 4:2 - Võsu ja kivi</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>766</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Sakarja.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>766</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/38_Sk/PKK_1328_311011.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Sk 4:3-6 - Sõna stressis olijale</title>
+			<description>Vana Testament, Sakarja, 4:3-6 salm</description>
+			<pubDate>Sun, 13 Apr 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Sk 4:3-6 - Sõna stressis olijale</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>767</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Sakarja.png"/>
+			<itunes:duration>1779</itunes:duration>
+			<guid>767</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/38_Sk/PKK_1329_011111.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Sk 4:7-14 - Kuldse õli vahendajad</title>
+			<description>Vana Testament, Sakarja, 4:7-14 salm</description>
+			<pubDate>Mon, 14 Apr 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Sk 4:7-14 - Kuldse õli vahendajad</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>768</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Sakarja.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>768</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/38_Sk/PKK_1330_021111.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Sk 5 - Naine viljavakas</title>
+			<description>Vana Testament, Sakarja, 5 salm</description>
+			<pubDate>Tue, 15 Apr 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Sk 5 - Naine viljavakas</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>769</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Sakarja.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>769</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/38_Sk/PKK_1331_031111.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Sk 6:1-12 - Vaskmägede sõnum</title>
+			<description>Vana Testament, Sakarja, 6:1-12 salm</description>
+			<pubDate>Wed, 16 Apr 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Sk 6:1-12 - Vaskmägede sõnum</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>770</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Sakarja.png"/>
+			<itunes:duration>1779</itunes:duration>
+			<guid>770</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/38_Sk/PKK_1332_041111.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Sk 6:13-15 - Tule templisse ehitajaks</title>
+			<description>Vana Testament, Sakarja, 6:13-15 salm</description>
+			<pubDate>Thu, 17 Apr 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Sk 6:13-15 - Tule templisse ehitajaks</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>771</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Sakarja.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>771</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/38_Sk/PKK_1333_071111.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Sk 7:1-7 - Kas tuleb või võib paastuda?</title>
+			<description>Vana Testament, Sakarja, 7:1-7 salm</description>
+			<pubDate>Fri, 18 Apr 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Sk 7:1-7 - Kas tuleb või võib paastuda?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>772</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Sakarja.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>772</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/38_Sk/PKK_1334_081111.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Sk 7:8-14 - Muinasjutt kolmest karust</title>
+			<description>Vana Testament, Sakarja, 7:8-14 salm</description>
+			<pubDate>Sat, 19 Apr 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Sk 7:8-14 - Muinasjutt kolmest karust</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>773</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Sakarja.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>773</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/38_Sk/PKK_1335_091111.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Sk 8:1-8 - Jumal on ustav!</title>
+			<description>Vana Testament, Sakarja, 8:1-8 salm</description>
+			<pubDate>Sun, 20 Apr 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Sk 8:1-8 - Jumal on ustav!</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>774</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Sakarja.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>774</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/38_Sk/PKK_1336_101111.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Sk 8:9-17 - Mõõdupuuks on ligimene</title>
+			<description>Vana Testament, Sakarja, 8:9-17 salm</description>
+			<pubDate>Mon, 21 Apr 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Sk 8:9-17 - Mõõdupuuks on ligimene</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>775</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Sakarja.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>775</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/38_Sk/PKK_1337_111111.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Sk 8:18-23 - Rõõm teenida Issandat</title>
+			<description>Vana Testament, Sakarja, 8:18-23 salm</description>
+			<pubDate>Tue, 22 Apr 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Sk 8:18-23 - Rõõm teenida Issandat</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>776</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Sakarja.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>776</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/38_Sk/PKK_1338_141111.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Sk 9:1-7 - Issand tunneb tulevikku</title>
+			<description>Vana Testament, Sakarja, 9:1-7 salm</description>
+			<pubDate>Wed, 23 Apr 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Sk 9:1-7 - Issand tunneb tulevikku</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>777</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Sakarja.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>777</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/38_Sk/PKK_1339_151111.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Sk 9:8-9 - Rõõmusta Siioni tütar</title>
+			<description>Vana Testament, Sakarja, 9:8-9 salm</description>
+			<pubDate>Thu, 24 Apr 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Sk 9:8-9 - Rõõmusta Siioni tütar</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>778</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Sakarja.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>778</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/38_Sk/PKK_1340_161111.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Sk 9:10-10:1 - Rõõmusta pääste üle</title>
+			<description>Vana Testament, Sakarja, 9:10-10:1 salm</description>
+			<pubDate>Fri, 25 Apr 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Sk 9:10-10:1 - Rõõmusta pääste üle</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>779</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Sakarja.png"/>
+			<itunes:duration>1785</itunes:duration>
+			<guid>779</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/38_Sk/PKK_1341_171111.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Sk 10:2-4 - Toetu nurgakivile</title>
+			<description>Vana Testament, Sakarja, 10:2-4 salm</description>
+			<pubDate>Sat, 26 Apr 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Sk 10:2-4 - Toetu nurgakivile</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>780</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Sakarja.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>780</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/38_Sk/PKK_1342_181111.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Sk 10:5-11:3 - Issand kogub oma rahva</title>
+			<description>Vana Testament, Sakarja, 10:5-11:3 salm</description>
+			<pubDate>Sun, 27 Apr 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Sk 10:5-11:3 - Issand kogub oma rahva</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>781</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Sakarja.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>781</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/38_Sk/PKK_1343_211111.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Sk 11:4-9 - Kui kannatus katkeb</title>
+			<description>Vana Testament, Sakarja, 11:4-9 salm</description>
+			<pubDate>Mon, 28 Apr 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Sk 11:4-9 - Kui kannatus katkeb</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>782</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Sakarja.png"/>
+			<itunes:duration>1782</itunes:duration>
+			<guid>782</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/38_Sk/PKK_1344_221111.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Sk 11:10-13 - Potissepa kallis põld</title>
+			<description>Vana Testament, Sakarja, 11:10-13 salm</description>
+			<pubDate>Tue, 29 Apr 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Sk 11:10-13 - Potissepa kallis põld</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>783</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Sakarja.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>783</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/38_Sk/PKK_1345_231111.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Sk 11:14-12:5 - Kas kõlvatu karjane meeldib?</title>
+			<description>Vana Testament, Sakarja, 11:14-12:5 salm</description>
+			<pubDate>Wed, 30 Apr 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Sk 11:14-12:5 - Kas kõlvatu karjane meeldib?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>784</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Sakarja.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>784</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/38_Sk/PKK_1346_241111.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Sk 12:6-10 - Vapustav äratundmine</title>
+			<description>Vana Testament, Sakarja, 12:6-10 salm</description>
+			<pubDate>Thu, 01 May 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Sk 12:6-10 - Vapustav äratundmine</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>785</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Sakarja.png"/>
+			<itunes:duration>1789</itunes:duration>
+			<guid>785</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/38_Sk/PKK_1347_251111.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Sk 12:11-13:1 - Kõigile avatud allikas</title>
+			<description>Vana Testament, Sakarja, 12:11-13:1 salm</description>
+			<pubDate>Fri, 02 May 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Sk 12:11-13:1 - Kõigile avatud allikas</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>786</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Sakarja.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>786</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/38_Sk/PKK_1348_281111.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Sk 13:2-9 - Karjast lüüakse</title>
+			<description>Vana Testament, Sakarja, 13:2-9 salm</description>
+			<pubDate>Sat, 03 May 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Sk 13:2-9 - Karjast lüüakse</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>787</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Sakarja.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>787</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/38_Sk/PKK_1349_291111.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Sk 14:1-9 - Õlimägi lõhkeb kaheks</title>
+			<description>Vana Testament, Sakarja, 14:1-9 salm</description>
+			<pubDate>Sun, 04 May 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Sk 14:1-9 - Õlimägi lõhkeb kaheks</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>788</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Sakarja.png"/>
+			<itunes:duration>1779</itunes:duration>
+			<guid>788</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/38_Sk/PKK_1350_301111.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Sk 14:10-21 - Kui kõik saab pühaks</title>
+			<description>Vana Testament, Sakarja, 14:10-21 salm</description>
+			<pubDate>Mon, 05 May 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Sk 14:10-21 - Kui kõik saab pühaks</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>789</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Sakarja.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>789</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/38_Sk/PKK_1351_011211.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+	</channel>
+</rss>

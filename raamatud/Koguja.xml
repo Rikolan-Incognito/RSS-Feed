@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+	<channel>
+		<title>Koguja</title>
+		<description>Piibliõppesarjas &quot;Piibel kaanest kaaneni&quot; loeb ja seletab õpetaja Aare Kimmel (EELK) salm-salmi kaupa ära terve Piibli, nii Vana kui Uue Testamendi raamatud, sidudes loetut tänapäevaga.</description>
+		<link>http://www.pereraadio.ee</link>
+		<language>es</language>
+		<image>
+			<url>https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Koguja.png</url>
+			<title>Piibel kaanest kaaneni</title>
+			<link>http://www.pereraadio.ee</link>
+		</image>
+		<itunes:type>episodic</itunes:type>
+		<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+		<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Koguja.png"/>
+		<itunes:category text="Education">
+		</itunes:category>
+
+		<item>
+			<title>Kg 1:1 - Koguja vaatleb elu</title>
+			<description>Vana Testament, Koguja, 1:1 salm</description>
+			<pubDate>Mon, 08 Jul 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Kg 1:1 - Koguja vaatleb elu</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>487</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Koguja.png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>487</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/21_Kg/PKK_0864_030909.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Kg 1:2-13 - Kas ajan tühja taga</title>
+			<description>Vana Testament, Koguja, 1:2-13 salm</description>
+			<pubDate>Tue, 09 Jul 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Kg 1:2-13 - Kas ajan tühja taga</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>488</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Koguja.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>488</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/21_Kg/PKK_0865_040909.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Kg 1:14-2:17 - Kas naudingud toovad õnne</title>
+			<description>Vana Testament, Koguja, 1:14-2:17 salm</description>
+			<pubDate>Wed, 10 Jul 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Kg 1:14-2:17 - Kas naudingud toovad õnne</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>489</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Koguja.png"/>
+			<itunes:duration>1802</itunes:duration>
+			<guid>489</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/21_Kg/PKK_0866_070909.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Kg 2:18-26 - Valgusekiir</title>
+			<description>Vana Testament, Koguja, 2:18-26 salm</description>
+			<pubDate>Thu, 11 Jul 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Kg 2:18-26 - Valgusekiir</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>490</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Koguja.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>490</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/21_Kg/PKK_0867_080909.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Kg 3:1-11 - Kõigel on oma aeg</title>
+			<description>Vana Testament, Koguja, 3:1-11 salm</description>
+			<pubDate>Fri, 12 Jul 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Kg 3:1-11 - Kõigel on oma aeg</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>491</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Koguja.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>491</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/21_Kg/PKK_0868_090909.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Kg 3:12-22 - Inimene: pea meeles oma kohta</title>
+			<description>Vana Testament, Koguja, 3:12-22 salm</description>
+			<pubDate>Sat, 13 Jul 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Kg 3:12-22 - Inimene: pea meeles oma kohta</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>492</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Koguja.png"/>
+			<itunes:duration>1802</itunes:duration>
+			<guid>492</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/21_Kg/PKK_0869_100909.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Kg 4:1-16 - Vaata rõhutute pisaraid</title>
+			<description>Vana Testament, Koguja, 4:1-16 salm</description>
+			<pubDate>Sun, 14 Jul 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Kg 4:1-16 - Vaata rõhutute pisaraid</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>493</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Koguja.png"/>
+			<itunes:duration>1802</itunes:duration>
+			<guid>493</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/21_Kg/PKK_0870_110909.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Kg 4:17-5:19 - Võim ja raha</title>
+			<description>Vana Testament, Koguja, 4:17-5:19 salm</description>
+			<pubDate>Mon, 15 Jul 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Kg 4:17-5:19 - Võim ja raha</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>494</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Koguja.png"/>
+			<itunes:duration>1805</itunes:duration>
+			<guid>494</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/21_Kg/PKK_0871_140909.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Kg 6:1-7:10 - Gaudeamus igitur</title>
+			<description>Vana Testament, Koguja, 6:1-7:10 salm</description>
+			<pubDate>Tue, 16 Jul 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Kg 6:1-7:10 - Gaudeamus igitur</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>495</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Koguja.png"/>
+			<itunes:duration>1802</itunes:duration>
+			<guid>495</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/21_Kg/PKK_0872_150909.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Kg 7:11-8:13 - Kahele poole lonkajad</title>
+			<description>Vana Testament, Koguja, 7:11-8:13 salm</description>
+			<pubDate>Wed, 17 Jul 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Kg 7:11-8:13 - Kahele poole lonkajad</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>496</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Koguja.png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>496</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/21_Kg/PKK_0873_160909.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Kg 8:14-9:18 - Kas hülgan ainsa abi</title>
+			<description>Vana Testament, Koguja, 8:14-9:18 salm</description>
+			<pubDate>Thu, 18 Jul 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Kg 8:14-9:18 - Kas hülgan ainsa abi</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>497</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Koguja.png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>497</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/21_Kg/PKK_0874_170909.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Kg 10:1-20 - Surnud kärbes</title>
+			<description>Vana Testament, Koguja, 10:1-20 salm</description>
+			<pubDate>Fri, 19 Jul 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Kg 10:1-20 - Surnud kärbes</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>498</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Koguja.png"/>
+			<itunes:duration>1802</itunes:duration>
+			<guid>498</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/21_Kg/PKK_0875_180909.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Kg 11:1-10 - Rõõmusta ajast: mida elad</title>
+			<description>Vana Testament, Koguja, 11:1-10 salm</description>
+			<pubDate>Sat, 20 Jul 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Kg 11:1-10 - Rõõmusta ajast: mida elad</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>499</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Koguja.png"/>
+			<itunes:duration>1803</itunes:duration>
+			<guid>499</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/21_Kg/PKK_0876_210909.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Kg 12:1-14 - Mõtle oma Loojale</title>
+			<description>Vana Testament, Koguja, 12:1-14 salm</description>
+			<pubDate>Sun, 21 Jul 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Kg 12:1-14 - Mõtle oma Loojale</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>500</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Koguja.png"/>
+			<itunes:duration>1802</itunes:duration>
+			<guid>500</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/21_Kg/PKK_0877_220909.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+	</channel>
+</rss>

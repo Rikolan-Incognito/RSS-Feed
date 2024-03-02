@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+	<channel>
+		<title>Hoosea</title>
+		<description>Piibliõppesarjas &quot;Piibel kaanest kaaneni&quot; loeb ja seletab õpetaja Aare Kimmel (EELK) salm-salmi kaupa ära terve Piibli, nii Vana kui Uue Testamendi raamatud, sidudes loetut tänapäevaga.</description>
+		<link>http://www.pereraadio.ee</link>
+		<language>es</language>
+		<image>
+			<url>https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Hoosea.png</url>
+			<title>Piibel kaanest kaaneni</title>
+			<link>http://www.pereraadio.ee</link>
+		</image>
+		<itunes:type>episodic</itunes:type>
+		<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+		<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Hoosea.png"/>
+		<itunes:category text="Education">
+		</itunes:category>
+
+		<item>
+			<title>Ho rmt sissejuhatus - Hoosea - kas meie aja peegel?</title>
+			<description>Vana Testament, Hoosea, rmt salm</description>
+			<pubDate>Wed, 01 Jan 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ho rmt sissejuhatus - Hoosea - kas meie aja peegel?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>664</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Hoosea.png"/>
+			<itunes:duration>1783</itunes:duration>
+			<guid>664</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/28_Ho/PKK_1142_091210.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ho 1:1-7 - Võta naine</title>
+			<description>Vana Testament, Hoosea, 1:1-7 salm</description>
+			<pubDate>Thu, 02 Jan 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ho 1:1-7 - Võta naine</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>665</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Hoosea.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>665</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/28_Ho/PKK_1143_101210.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ho 1:8-2:15 - Truudusetuse lapsed</title>
+			<description>Vana Testament, Hoosea, 1:8-2:15 salm</description>
+			<pubDate>Fri, 03 Jan 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ho 1:8-2:15 - Truudusetuse lapsed</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>667</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Hoosea.png"/>
+			<itunes:duration>1787</itunes:duration>
+			<guid>667</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/28_Ho/PKK_1144_131210.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ho 2:16-3:5 - Armastus truudusetuse vastu</title>
+			<description>Vana Testament, Hoosea, 2:16-3:5 salm</description>
+			<pubDate>Sat, 04 Jan 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ho 2:16-3:5 - Armastus truudusetuse vastu</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>668</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Hoosea.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>668</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/28_Ho/PKK_1145_141210.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ho 4:1-10 - Kui kaladki kaovad</title>
+			<description>Vana Testament, Hoosea, 4:1-10 salm</description>
+			<pubDate>Sun, 05 Jan 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ho 4:1-10 - Kui kaladki kaovad</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>669</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Hoosea.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>669</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/28_Ho/PKK_1146_151210.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ho 4:11-5:3 - Miks tüdruk läheb hooraks?</title>
+			<description>Vana Testament, Hoosea, 4:11-5:3 salm</description>
+			<pubDate>Mon, 06 Jan 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ho 4:11-5:3 - Miks tüdruk läheb hooraks?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>670</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Hoosea.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>670</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/28_Ho/PKK_1147_161210.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ho 5:4-6:1 - Lahinguhäire</title>
+			<description>Vana Testament, Hoosea, 5:4-6:1 salm</description>
+			<pubDate>Tue, 07 Jan 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ho 5:4-6:1 - Lahinguhäire</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>671</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Hoosea.png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>671</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/28_Ho/PKK_1148_171210.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ho 6:1-7:2 - Tule tagasi Issanda juurde</title>
+			<description>Vana Testament, Hoosea, 6:1-7:2 salm</description>
+			<pubDate>Wed, 08 Jan 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ho 6:1-7:2 - Tule tagasi Issanda juurde</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>672</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Hoosea.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>672</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/28_Ho/PKK_1149_201210.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ho 7:3-16 - Kas palvetan nagu pagan?</title>
+			<description>Vana Testament, Hoosea, 7:3-16 salm</description>
+			<pubDate>Thu, 09 Jan 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ho 7:3-16 - Kas palvetan nagu pagan?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>673</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Hoosea.png"/>
+			<itunes:duration>1776</itunes:duration>
+			<guid>673</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/28_Ho/PKK_1150_211210.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ho 8 - Kas piisab ühest altarist?</title>
+			<description>Vana Testament, Hoosea, 8 salm</description>
+			<pubDate>Fri, 10 Jan 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ho 8 - Kas piisab ühest altarist?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>674</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Hoosea.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>674</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/28_Ho/PKK_1151_221210.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ho 9 - Ära rõõmusta truudusetu</title>
+			<description>Vana Testament, Hoosea, 9 salm</description>
+			<pubDate>Sat, 11 Jan 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ho 9 - Ära rõõmusta truudusetu</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>675</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Hoosea.png"/>
+			<itunes:duration>1794</itunes:duration>
+			<guid>675</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/28_Ho/PKK_1152_231210.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ho 10 - Kas su laps mängib tulega?</title>
+			<description>Vana Testament, Hoosea, 10 salm</description>
+			<pubDate>Sun, 12 Jan 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ho 10 - Kas su laps mängib tulega?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>676</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Hoosea.png"/>
+			<itunes:duration>1794</itunes:duration>
+			<guid>676</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/28_Ho/PKK_1153_030111.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ho 11 - Jumal lunastas: sest Ta armastas</title>
+			<description>Vana Testament, Hoosea, 11 salm</description>
+			<pubDate>Mon, 13 Jan 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ho 11 - Jumal lunastas: sest Ta armastas</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>677</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Hoosea.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>677</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/28_Ho/PKK_1154_040111.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ho 12-13:2 - Õpi vähemalt ajaloost</title>
+			<description>Vana Testament, Hoosea, 12-13:2 salm</description>
+			<pubDate>Tue, 14 Jan 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ho 12-13:2 - Õpi vähemalt ajaloost</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>678</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Hoosea.png"/>
+			<itunes:duration>1792</itunes:duration>
+			<guid>678</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/28_Ho/PKK_1155_050111.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ho 13:3-14:10 - Süli on avatud</title>
+			<description>Vana Testament, Hoosea, 13:3-14:10 salm</description>
+			<pubDate>Wed, 15 Jan 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ho 13:3-14:10 - Süli on avatud</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>679</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Hoosea.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>679</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/28_Ho/PKK_1156_060111.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+	</channel>
+</rss>

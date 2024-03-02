@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+	<channel>
+		<title>Nahum</title>
+		<description>Piibliõppesarjas &quot;Piibel kaanest kaaneni&quot; loeb ja seletab õpetaja Aare Kimmel (EELK) salm-salmi kaupa ära terve Piibli, nii Vana kui Uue Testamendi raamatud, sidudes loetut tänapäevaga.</description>
+		<link>http://www.pereraadio.ee</link>
+		<language>es</language>
+		<image>
+			<url>https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Nahum.png</url>
+			<title>Piibel kaanest kaaneni</title>
+			<link>http://www.pereraadio.ee</link>
+		</image>
+		<itunes:type>episodic</itunes:type>
+		<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+		<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Nahum.png"/>
+		<itunes:category text="Education">
+		</itunes:category>
+
+		<item>
+			<title>Na 1:1-2 - Sissejuhatus Nahumi raamatusse</title>
+			<description>Vana Testament, Nahum, 1:1-2 salm</description>
+			<pubDate>Mon, 10 Mar 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Na 1:1-2 - Sissejuhatus Nahumi raamatusse</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>733</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Nahum.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>733</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/34_Na/PKK_1285_310811.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Na 1:3-9 - Varjupaik hädaajal</title>
+			<description>Vana Testament, Nahum, 1:3-9 salm</description>
+			<pubDate>Tue, 11 Mar 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Na 1:3-9 - Varjupaik hädaajal</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>734</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Nahum.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>734</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/34_Na/PKK_1286_010911.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Na 1:10-2:3 - Issand murrab ahelad</title>
+			<description>Vana Testament, Nahum, 1:10-2:3 salm</description>
+			<pubDate>Wed, 12 Mar 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Na 1:10-2:3 - Issand murrab ahelad</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>735</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Nahum.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>735</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/34_Na/PKK_1287_020911.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Na 2:4-14 - Ära hülga valgust</title>
+			<description>Vana Testament, Nahum, 2:4-14 salm</description>
+			<pubDate>Thu, 13 Mar 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Na 2:4-14 - Ära hülga valgust</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>736</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Nahum.png"/>
+			<itunes:duration>1759</itunes:duration>
+			<guid>736</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/34_Na/PKK_1288_050911.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Na 3:1-7 - Pettust täis</title>
+			<description>Vana Testament, Nahum, 3:1-7 salm</description>
+			<pubDate>Fri, 14 Mar 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Na 3:1-7 - Pettust täis</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>737</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Nahum.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>737</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/34_Na/PKK_1289_060911.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Na 3:8-19 - Rõõmusta võidu üle</title>
+			<description>Vana Testament, Nahum, 3:8-19 salm</description>
+			<pubDate>Sat, 15 Mar 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Na 3:8-19 - Rõõmusta võidu üle</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>738</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Nahum.png"/>
+			<itunes:duration>1797</itunes:duration>
+			<guid>738</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/34_Na/PKK_1290_070911.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+	</channel>
+</rss>

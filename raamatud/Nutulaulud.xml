@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+	<channel>
+		<title>Nutulaulud</title>
+		<description>Piibliõppesarjas &quot;Piibel kaanest kaaneni&quot; loeb ja seletab õpetaja Aare Kimmel (EELK) salm-salmi kaupa ära terve Piibli, nii Vana kui Uue Testamendi raamatud, sidudes loetut tänapäevaga.</description>
+		<link>http://www.pereraadio.ee</link>
+		<language>es</language>
+		<image>
+			<url>https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Nutulaulud.png</url>
+			<title>Piibel kaanest kaaneni</title>
+			<link>http://www.pereraadio.ee</link>
+		</image>
+		<itunes:type>episodic</itunes:type>
+		<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+		<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Nutulaulud.png"/>
+		<itunes:category text="Education">
+		</itunes:category>
+
+		<item>
+			<title>Nl 1:1-2:7 - Kuidas see küll juhtus?</title>
+			<description>Vana Testament, Nutulaulud, 1:1-2:7 salm</description>
+			<pubDate>Tue, 29 Oct 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Nl 1:1-2:7 - Kuidas see küll juhtus?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>600</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Nutulaulud.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>600</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/25_Nl/PKK_1010_090410.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Nl 2:8-3 - Lootus lootusetule</title>
+			<description>Vana Testament, Nutulaulud, 2:8-3 salm</description>
+			<pubDate>Wed, 30 Oct 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Nl 2:8-3 - Lootus lootusetule</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>601</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Nutulaulud.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>601</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/25_Nl/PKK_1011_120410.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Nl 4-5 - Issand mõtle meile</title>
+			<description>Vana Testament, Nutulaulud, 4-5 salm</description>
+			<pubDate>Thu, 31 Oct 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Nl 4-5 - Issand mõtle meile</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>602</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Nutulaulud.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>602</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/25_Nl/PKK_1012_130410.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+	</channel>
+</rss>

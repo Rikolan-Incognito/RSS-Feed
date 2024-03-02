@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+	<channel>
+		<title>Pauluse kiri Fileemonile</title>
+		<description>Piibliõppesarjas &quot;Piibel kaanest kaaneni&quot; loeb ja seletab õpetaja Aare Kimmel (EELK) salm-salmi kaupa ära terve Piibli, nii Vana kui Uue Testamendi raamatud, sidudes loetut tänapäevaga.</description>
+		<link>http://www.pereraadio.ee</link>
+		<language>es</language>
+		<image>
+			<url>https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_Fileemonile.png</url>
+			<title>Piibel kaanest kaaneni</title>
+			<link>http://www.pereraadio.ee</link>
+		</image>
+		<itunes:type>episodic</itunes:type>
+		<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+		<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_Fileemonile.png"/>
+		<itunes:category text="Education">
+		</itunes:category>
+
+		<item>
+			<title>Fm 1 - Kahekordselt vabastatud</title>
+			<description>Uus Testament, Pauluse kiri Fileemonile, 1 salm</description>
+			<pubDate>Thu, 29 Jul 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Fm 1 - Kahekordselt vabastatud</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1240</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_Fileemonile.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>1240</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/57_Fm/PKK_1074_060910.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+	</channel>
+</rss>

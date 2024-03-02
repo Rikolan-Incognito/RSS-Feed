@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+	<channel>
+		<title>Luuka evangeelium</title>
+		<description>Piibliõppesarjas &quot;Piibel kaanest kaaneni&quot; loeb ja seletab õpetaja Aare Kimmel (EELK) salm-salmi kaupa ära terve Piibli, nii Vana kui Uue Testamendi raamatud, sidudes loetut tänapäevaga.</description>
+		<link>http://www.pereraadio.ee</link>
+		<language>es</language>
+		<image>
+			<url>https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Luuka_evangeelium.png</url>
+			<title>Piibel kaanest kaaneni</title>
+			<link>http://www.pereraadio.ee</link>
+		</image>
+		<itunes:type>episodic</itunes:type>
+		<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+		<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Luuka_evangeelium.png"/>
+		<itunes:category text="Education">
+		</itunes:category>
+
+		<item>
+			<title>Lk 1:1-4 - Luukas ja Teofilos</title>
+			<description>Uus Testament, Luuka evangeelium, 1:1-4 salm</description>
+			<pubDate>Thu, 28 Aug 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Lk 1:1-4 - Luukas ja Teofilos</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>904</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Luuka_evangeelium.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>904</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/42_Lk/PKK_0251_181206.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Lk 1:5-25 - Tumma jutlus</title>
+			<description>Uus Testament, Luuka evangeelium, 1:5-25 salm</description>
+			<pubDate>Fri, 29 Aug 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Lk 1:5-25 - Tumma jutlus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>905</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Luuka_evangeelium.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>905</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/42_Lk/PKK_0252_191206.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Lk 1:26-45 - Rõõm emaihus</title>
+			<description>Uus Testament, Luuka evangeelium, 1:26-45 salm</description>
+			<pubDate>Sat, 30 Aug 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Lk 1:26-45 - Rõõm emaihus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>906</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Luuka_evangeelium.png"/>
+			<itunes:duration>1747</itunes:duration>
+			<guid>906</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/42_Lk/PKK_0253_201206.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Lk 1:46-80 - Kaks ülistuslaulu</title>
+			<description>Uus Testament, Luuka evangeelium, 1:46-80 salm</description>
+			<pubDate>Sun, 31 Aug 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Lk 1:46-80 - Kaks ülistuslaulu</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>907</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Luuka_evangeelium.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>907</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/42_Lk/PKK_0254_211206.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Lk 2:1-12 - Kui Jeesus õieti sündis</title>
+			<description>Uus Testament, Luuka evangeelium, 2:1-12 salm</description>
+			<pubDate>Mon, 01 Sep 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Lk 2:1-12 - Kui Jeesus õieti sündis</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>908</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Luuka_evangeelium.png"/>
+			<itunes:duration>1756</itunes:duration>
+			<guid>908</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/42_Lk/PKK_0255_221206.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Lk 2:13-40 - Sõna juhib Jeesuse juurde</title>
+			<description>Uus Testament, Luuka evangeelium, 2:13-40 salm</description>
+			<pubDate>Tue, 02 Sep 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Lk 2:13-40 - Sõna juhib Jeesuse juurde</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>909</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Luuka_evangeelium.png"/>
+			<itunes:duration>1785</itunes:duration>
+			<guid>909</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/42_Lk/PKK_0256_251206.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Lk 2:41-3:6 - Kui otsida Jeesust</title>
+			<description>Uus Testament, Luuka evangeelium, 2:41-3:6 salm</description>
+			<pubDate>Wed, 03 Sep 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Lk 2:41-3:6 - Kui otsida Jeesust</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>910</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Luuka_evangeelium.png"/>
+			<itunes:duration>1791</itunes:duration>
+			<guid>910</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/42_Lk/PKK_0257_261206.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Lk 3:7-38 - Kaks seitset</title>
+			<description>Uus Testament, Luuka evangeelium, 3:7-38 salm</description>
+			<pubDate>Thu, 04 Sep 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Lk 3:7-38 - Kaks seitset</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>911</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Luuka_evangeelium.png"/>
+			<itunes:duration>1772</itunes:duration>
+			<guid>911</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/42_Lk/PKK_0258_271206.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Lk 4:1-13 - Kiusatustes aitab Sõna</title>
+			<description>Uus Testament, Luuka evangeelium, 4:1-13 salm</description>
+			<pubDate>Fri, 05 Sep 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Lk 4:1-13 - Kiusatustes aitab Sõna</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>912</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Luuka_evangeelium.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>912</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/42_Lk/PKK_0259_281206.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Lk 4:14-30 - Jeesuse tegevusprogramm</title>
+			<description>Uus Testament, Luuka evangeelium, 4:14-30 salm</description>
+			<pubDate>Sat, 06 Sep 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Lk 4:14-30 - Jeesuse tegevusprogramm</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>913</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Luuka_evangeelium.png"/>
+			<itunes:duration>1780</itunes:duration>
+			<guid>913</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/42_Lk/PKK_0260_291206.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Lk 4:31-5:11 - Korralikust inimesest patuseks</title>
+			<description>Uus Testament, Luuka evangeelium, 4:31-5:11 salm</description>
+			<pubDate>Sun, 07 Sep 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Lk 4:31-5:11 - Korralikust inimesest patuseks</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>914</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Luuka_evangeelium.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>914</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/42_Lk/PKK_0261_010107.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Lk 5:12-39 - Jeesus ületab piire</title>
+			<description>Uus Testament, Luuka evangeelium, 5:12-39 salm</description>
+			<pubDate>Mon, 08 Sep 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Lk 5:12-39 - Jeesus ületab piire</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>915</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Luuka_evangeelium.png"/>
+			<itunes:duration>1781</itunes:duration>
+			<guid>915</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/42_Lk/PKK_0262_020107.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Lk 6:1-26 - Kes on õieti rikas</title>
+			<description>Uus Testament, Luuka evangeelium, 6:1-26 salm</description>
+			<pubDate>Tue, 09 Sep 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Lk 6:1-26 - Kes on õieti rikas</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>916</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Luuka_evangeelium.png"/>
+			<itunes:duration>1780</itunes:duration>
+			<guid>916</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/42_Lk/PKK_0263_030107.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Lk 6:27-49 - Maksa kätte armastuses</title>
+			<description>Uus Testament, Luuka evangeelium, 6:27-49 salm</description>
+			<pubDate>Wed, 10 Sep 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Lk 6:27-49 - Maksa kätte armastuses</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>917</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Luuka_evangeelium.png"/>
+			<itunes:duration>1793</itunes:duration>
+			<guid>917</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/42_Lk/PKK_0264_040107.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Lk 7:1-35 - Kas oled õieti tark</title>
+			<description>Uus Testament, Luuka evangeelium, 7:1-35 salm</description>
+			<pubDate>Thu, 11 Sep 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Lk 7:1-35 - Kas oled õieti tark</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>918</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Luuka_evangeelium.png"/>
+			<itunes:duration>1779</itunes:duration>
+			<guid>918</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/42_Lk/PKK_0265_050107.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Lk 7:36-50 - Kaks võlglast</title>
+			<description>Uus Testament, Luuka evangeelium, 7:36-50 salm</description>
+			<pubDate>Fri, 12 Sep 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Lk 7:36-50 - Kaks võlglast</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>919</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Luuka_evangeelium.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>919</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/42_Lk/PKK_0266_080107.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Lk 8:1-39 - Jeesus toob abi</title>
+			<description>Uus Testament, Luuka evangeelium, 8:1-39 salm</description>
+			<pubDate>Sat, 13 Sep 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Lk 8:1-39 - Jeesus toob abi</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>920</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Luuka_evangeelium.png"/>
+			<itunes:duration>1770</itunes:duration>
+			<guid>920</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/42_Lk/PKK_0267_090107.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Lk 8:40-9:17 - Miks Jeesus viivitas</title>
+			<description>Uus Testament, Luuka evangeelium, 8:40-9:17 salm</description>
+			<pubDate>Sun, 14 Sep 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Lk 8:40-9:17 - Miks Jeesus viivitas</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>921</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Luuka_evangeelium.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>921</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/42_Lk/PKK_0268_100107.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Lk 9:18-48 - Üles ja alla</title>
+			<description>Uus Testament, Luuka evangeelium, 9:18-48 salm</description>
+			<pubDate>Mon, 15 Sep 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Lk 9:18-48 - Üles ja alla</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>922</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Luuka_evangeelium.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>922</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/42_Lk/PKK_0269_110107.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Lk 9:51-10:24 - Rõõm nimest taevas</title>
+			<description>Uus Testament, Luuka evangeelium, 9:51-10:24 salm</description>
+			<pubDate>Tue, 16 Sep 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Lk 9:51-10:24 - Rõõm nimest taevas</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>923</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Luuka_evangeelium.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>923</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/42_Lk/PKK_0270_120107.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Lk 10:25-37 - Halastaja samaarlane</title>
+			<description>Uus Testament, Luuka evangeelium, 10:25-37 salm</description>
+			<pubDate>Wed, 17 Sep 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Lk 10:25-37 - Halastaja samaarlane</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>924</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Luuka_evangeelium.png"/>
+			<itunes:duration>1773</itunes:duration>
+			<guid>924</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/42_Lk/PKK_0271_150107.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Lk 10:38-11:13 - Jumal ei ole häbematu</title>
+			<description>Uus Testament, Luuka evangeelium, 10:38-11:13 salm</description>
+			<pubDate>Thu, 18 Sep 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Lk 10:38-11:13 - Jumal ei ole häbematu</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>925</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Luuka_evangeelium.png"/>
+			<itunes:duration>1773</itunes:duration>
+			<guid>925</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/42_Lk/PKK_0272_160107.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Lk 11:14-44 - Korralikkus üksi pole piisav</title>
+			<description>Uus Testament, Luuka evangeelium, 11:14-44 salm</description>
+			<pubDate>Fri, 19 Sep 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Lk 11:14-44 - Korralikkus üksi pole piisav</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>926</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Luuka_evangeelium.png"/>
+			<itunes:duration>1785</itunes:duration>
+			<guid>926</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/42_Lk/PKK_0273_170107.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Lk 11:45-12:15 - Mina variser</title>
+			<description>Uus Testament, Luuka evangeelium, 11:45-12:15 salm</description>
+			<pubDate>Sat, 20 Sep 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Lk 11:45-12:15 - Mina variser</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>927</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Luuka_evangeelium.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>927</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/42_Lk/PKK_0274_180107.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Lk 12:16-34 - Surma märk</title>
+			<description>Uus Testament, Luuka evangeelium, 12:16-34 salm</description>
+			<pubDate>Sun, 21 Sep 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Lk 12:16-34 - Surma märk</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>928</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Luuka_evangeelium.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>928</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/42_Lk/PKK_0275_190107.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Lk 12:35-59 - Me oleme teelised</title>
+			<description>Uus Testament, Luuka evangeelium, 12:35-59 salm</description>
+			<pubDate>Mon, 22 Sep 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Lk 12:35-59 - Me oleme teelised</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>929</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Luuka_evangeelium.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>929</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/42_Lk/PKK_0276_220107.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Lk 13:1-9 - Viljatu viigipuu</title>
+			<description>Uus Testament, Luuka evangeelium, 13:1-9 salm</description>
+			<pubDate>Tue, 23 Sep 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Lk 13:1-9 - Viljatu viigipuu</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>930</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Luuka_evangeelium.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>930</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/42_Lk/PKK_0277_230107.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Lk 13:10-35 - Jumala riigis või väljaspool</title>
+			<description>Uus Testament, Luuka evangeelium, 13:10-35 salm</description>
+			<pubDate>Wed, 24 Sep 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Lk 13:10-35 - Jumala riigis või väljaspool</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>931</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Luuka_evangeelium.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>931</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/42_Lk/PKK_0278_240107.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Lk 14:1-35 - Mis on tähtsaim</title>
+			<description>Uus Testament, Luuka evangeelium, 14:1-35 salm</description>
+			<pubDate>Thu, 25 Sep 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Lk 14:1-35 - Mis on tähtsaim</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>932</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Luuka_evangeelium.png"/>
+			<itunes:duration>1794</itunes:duration>
+			<guid>932</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/42_Lk/PKK_0279_250107.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Lk 15:1-21 - Kui raha meelt parandas</title>
+			<description>Uus Testament, Luuka evangeelium, 15:1-21 salm</description>
+			<pubDate>Fri, 26 Sep 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Lk 15:1-21 - Kui raha meelt parandas</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>933</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Luuka_evangeelium.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>933</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/42_Lk/PKK_0280_260107.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Lk 15:22-32 - Vaata isa südant</title>
+			<description>Uus Testament, Luuka evangeelium, 15:22-32 salm</description>
+			<pubDate>Sat, 27 Sep 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Lk 15:22-32 - Vaata isa südant</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>934</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Luuka_evangeelium.png"/>
+			<itunes:duration>1780</itunes:duration>
+			<guid>934</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/42_Lk/PKK_0281_290107.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Lk 16:1-18 - Kui aruande päev hirmutab</title>
+			<description>Uus Testament, Luuka evangeelium, 16:1-18 salm</description>
+			<pubDate>Sun, 28 Sep 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Lk 16:1-18 - Kui aruande päev hirmutab</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>935</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Luuka_evangeelium.png"/>
+			<itunes:duration>1746</itunes:duration>
+			<guid>935</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/42_Lk/PKK_0282_300107.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Lk 16:19-17:6 - Surm  lahutab</title>
+			<description>Uus Testament, Luuka evangeelium, 16:19-17:6 salm</description>
+			<pubDate>Mon, 29 Sep 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Lk 16:19-17:6 - Surm  lahutab</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>936</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Luuka_evangeelium.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>936</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/42_Lk/PKK_0283_310107.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Lk 17:7-37 - Kuidas ori töötab</title>
+			<description>Uus Testament, Luuka evangeelium, 17:7-37 salm</description>
+			<pubDate>Tue, 30 Sep 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Lk 17:7-37 - Kuidas ori töötab</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>937</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Luuka_evangeelium.png"/>
+			<itunes:duration>1775</itunes:duration>
+			<guid>937</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/42_Lk/PKK_0284_010207.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Lk 18:1-14 - Naerame koos Jeesusega</title>
+			<description>Uus Testament, Luuka evangeelium, 18:1-14 salm</description>
+			<pubDate>Wed, 01 Oct 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Lk 18:1-14 - Naerame koos Jeesusega</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>938</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Luuka_evangeelium.png"/>
+			<itunes:duration>1796</itunes:duration>
+			<guid>938</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/42_Lk/PKK_0285_020207.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Lk 18:15-43 - Raske õppetund olla viimane</title>
+			<description>Uus Testament, Luuka evangeelium, 18:15-43 salm</description>
+			<pubDate>Thu, 02 Oct 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Lk 18:15-43 - Raske õppetund olla viimane</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>939</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Luuka_evangeelium.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>939</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/42_Lk/PKK_0286_050207.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Lk 19:1-27 - See toimus Jeerikos</title>
+			<description>Uus Testament, Luuka evangeelium, 19:1-27 salm</description>
+			<pubDate>Fri, 03 Oct 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Lk 19:1-27 - See toimus Jeerikos</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>940</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Luuka_evangeelium.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>940</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/42_Lk/PKK_0287_060207.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Lk 19:28-20:8 - Kas kuuled kivide kisa</title>
+			<description>Uus Testament, Luuka evangeelium, 19:28-20:8 salm</description>
+			<pubDate>Sat, 04 Oct 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Lk 19:28-20:8 - Kas kuuled kivide kisa</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>941</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Luuka_evangeelium.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>941</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/42_Lk/PKK_0288_070207.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Lk 20:9-19 - Kas viinamägi kannab vilja</title>
+			<description>Uus Testament, Luuka evangeelium, 20:9-19 salm</description>
+			<pubDate>Sun, 05 Oct 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Lk 20:9-19 - Kas viinamägi kannab vilja</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>942</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Luuka_evangeelium.png"/>
+			<itunes:duration>1764</itunes:duration>
+			<guid>942</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/42_Lk/PKK_0289_080207.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Lk 20:20-21:4 - Saatan peab end maskeerima</title>
+			<description>Uus Testament, Luuka evangeelium, 20:20-21:4 salm</description>
+			<pubDate>Mon, 06 Oct 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Lk 20:20-21:4 - Saatan peab end maskeerima</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>943</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Luuka_evangeelium.png"/>
+			<itunes:duration>1795</itunes:duration>
+			<guid>943</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/42_Lk/PKK_0290_090207.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Lk 21:5-38 - Lõpuaja märgid</title>
+			<description>Uus Testament, Luuka evangeelium, 21:5-38 salm</description>
+			<pubDate>Tue, 07 Oct 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Lk 21:5-38 - Lõpuaja märgid</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>944</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Luuka_evangeelium.png"/>
+			<itunes:duration>1776</itunes:duration>
+			<guid>944</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/42_Lk/PKK_0291_120207.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Lk 22:1-30 - Tahan olla suurim</title>
+			<description>Uus Testament, Luuka evangeelium, 22:1-30 salm</description>
+			<pubDate>Wed, 08 Oct 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Lk 22:1-30 - Tahan olla suurim</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>945</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Luuka_evangeelium.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>945</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/42_Lk/PKK_0292_130207.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Lk 22:31-62 - Jeesuse pilk</title>
+			<description>Uus Testament, Luuka evangeelium, 22:31-62 salm</description>
+			<pubDate>Thu, 09 Oct 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Lk 22:31-62 - Jeesuse pilk</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>946</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Luuka_evangeelium.png"/>
+			<itunes:duration>1797</itunes:duration>
+			<guid>946</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/42_Lk/PKK_0293_140207.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Lk 22:63-23:25 - Kes õieti hukka mõisteti</title>
+			<description>Uus Testament, Luuka evangeelium, 22:63-23:25 salm</description>
+			<pubDate>Fri, 10 Oct 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Lk 22:63-23:25 - Kes õieti hukka mõisteti</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>947</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Luuka_evangeelium.png"/>
+			<itunes:duration>1793</itunes:duration>
+			<guid>947</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/42_Lk/PKK_0294_150207.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Lk 23:26-56 - Jeesus sureb</title>
+			<description>Uus Testament, Luuka evangeelium, 23:26-56 salm</description>
+			<pubDate>Sat, 11 Oct 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Lk 23:26-56 - Jeesus sureb</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>948</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Luuka_evangeelium.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>948</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/42_Lk/PKK_0295_160207.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Lk 24:1-53 - Suur rõõmusõnum</title>
+			<description>Uus Testament, Luuka evangeelium, 24:1-53 salm</description>
+			<pubDate>Sun, 12 Oct 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Lk 24:1-53 - Suur rõõmusõnum</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>949</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Luuka_evangeelium.png"/>
+			<itunes:duration>1773</itunes:duration>
+			<guid>949</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/42_Lk/PKK_0296_190207.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+	</channel>
+</rss>

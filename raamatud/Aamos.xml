@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+	<channel>
+		<title>Aamos</title>
+		<description>Piibliõppesarjas &quot;Piibel kaanest kaaneni&quot; loeb ja seletab õpetaja Aare Kimmel (EELK) salm-salmi kaupa ära terve Piibli, nii Vana kui Uue Testamendi raamatud, sidudes loetut tänapäevaga.</description>
+		<link>http://www.pereraadio.ee</link>
+		<language>es</language>
+		<image>
+			<url>https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Aamos.png</url>
+			<title>Piibel kaanest kaaneni</title>
+			<link>http://www.pereraadio.ee</link>
+		</image>
+		<itunes:type>episodic</itunes:type>
+		<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+		<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Aamos.png"/>
+		<itunes:category text="Education">
+		</itunes:category>
+
+		<item>
+			<title>Sissejuhatus Aamose raamatusse</title>
+			<description>Vana Testament, Aamos, Aamose salm</description>
+			<pubDate>Wed, 22 Jan 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Sissejuhatus Aamose raamatusse</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>686</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Aamos.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>686</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/30_Am/PKK_1197_040311.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Am 1:1-10 - Orjakauplejad kohtu all</title>
+			<description>Vana Testament, Aamos, 1:1-10 salm</description>
+			<pubDate>Thu, 23 Jan 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Am 1:1-10 - Orjakauplejad kohtu all</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>687</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Aamos.png"/>
+			<itunes:duration>1770</itunes:duration>
+			<guid>687</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/30_Am/PKK_1198_070311.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Am 1:11-2:6 - Üleastumine üleastumise peale</title>
+			<description>Vana Testament, Aamos, 1:11-2:6 salm</description>
+			<pubDate>Fri, 24 Jan 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Am 1:11-2:6 - Üleastumine üleastumise peale</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>688</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Aamos.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>688</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/30_Am/PKK_1199_080311.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Am 2:7-3:2 - Liiga otsekohane jutt</title>
+			<description>Vana Testament, Aamos, 2:7-3:2 salm</description>
+			<pubDate>Sat, 25 Jan 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Am 2:7-3:2 - Liiga otsekohane jutt</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>689</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Aamos.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>689</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/30_Am/PKK_1200_090311.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Am 3:3-8 - Pole tagajärge ilma põhjuseta</title>
+			<description>Vana Testament, Aamos, 3:3-8 salm</description>
+			<pubDate>Sun, 26 Jan 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Am 3:3-8 - Pole tagajärge ilma põhjuseta</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>690</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Aamos.png"/>
+			<itunes:duration>1796</itunes:duration>
+			<guid>690</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/30_Am/PKK_1201_100311.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Am 3:9-4:3 - Paar koiba ja kõrv</title>
+			<description>Vana Testament, Aamos, 3:9-4:3 salm</description>
+			<pubDate>Mon, 27 Jan 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Am 3:9-4:3 - Paar koiba ja kõrv</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>691</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Aamos.png"/>
+			<itunes:duration>1788</itunes:duration>
+			<guid>691</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/30_Am/PKK_1202_110311.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Am 4:4-11 - Jumal räägib- kas keegi kuulab?</title>
+			<description>Vana Testament, Aamos, 4:4-11 salm</description>
+			<pubDate>Tue, 28 Jan 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Am 4:4-11 - Jumal räägib- kas keegi kuulab?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>692</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Aamos.png"/>
+			<itunes:duration>1777</itunes:duration>
+			<guid>692</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/30_Am/PKK_1203_140311.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Am 4:12-5:6 - Jumal tunneb sind</title>
+			<description>Vana Testament, Aamos, 4:12-5:6 salm</description>
+			<pubDate>Wed, 29 Jan 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Am 4:12-5:6 - Jumal tunneb sind</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>693</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Aamos.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>693</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/30_Am/PKK_1204_150311.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Am 5:7-13 - Kas taotlen olematut?</title>
+			<description>Vana Testament, Aamos, 5:7-13 salm</description>
+			<pubDate>Thu, 30 Jan 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Am 5:7-13 - Kas taotlen olematut?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>694</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Aamos.png"/>
+			<itunes:duration>1797</itunes:duration>
+			<guid>694</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/30_Am/PKK_1205_160311.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Am 5:14-20 - Kas Issand on tõesti meiega?</title>
+			<description>Vana Testament, Aamos, 5:14-20 salm</description>
+			<pubDate>Fri, 31 Jan 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Am 5:14-20 - Kas Issand on tõesti meiega?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>695</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Aamos.png"/>
+			<itunes:duration>1797</itunes:duration>
+			<guid>695</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/30_Am/PKK_1206_170311.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Am 5:21-6:1 - Ma vihkan teie pühi</title>
+			<description>Vana Testament, Aamos, 5:21-6:1 salm</description>
+			<pubDate>Sat, 01 Feb 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Am 5:21-6:1 - Ma vihkan teie pühi</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>696</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Aamos.png"/>
+			<itunes:duration>1775</itunes:duration>
+			<guid>696</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/30_Am/PKK_1207_180311.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Am 6:2-10 - Kas elevandiluu toob püsiva õnne?</title>
+			<description>Vana Testament, Aamos, 6:2-10 salm</description>
+			<pubDate>Sun, 02 Feb 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Am 6:2-10 - Kas elevandiluu toob püsiva õnne?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>697</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Aamos.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>697</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/30_Am/PKK_1208_210311.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Am 6:11-7:9 - Kas künnad härgadega merd?</title>
+			<description>Vana Testament, Aamos, 6:11-7:9 salm</description>
+			<pubDate>Mon, 03 Feb 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Am 6:11-7:9 - Kas künnad härgadega merd?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>698</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Aamos.png"/>
+			<itunes:duration>1796</itunes:duration>
+			<guid>698</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/30_Am/PKK_1209_220311.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Am 7:10-8:3 - Nägija: mine oma teed</title>
+			<description>Vana Testament, Aamos, 7:10-8:3 salm</description>
+			<pubDate>Tue, 04 Feb 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Am 7:10-8:3 - Nägija: mine oma teed</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>699</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Aamos.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>699</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/30_Am/PKK_1210_230311.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Am 8:4-11 - Vaese hinnaks on kingapaar</title>
+			<description>Vana Testament, Aamos, 8:4-11 salm</description>
+			<pubDate>Wed, 05 Feb 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Am 8:4-11 - Vaese hinnaks on kingapaar</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>700</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Aamos.png"/>
+			<itunes:duration>1788</itunes:duration>
+			<guid>700</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/30_Am/PKK_1211_240311.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Am 8:12-9:1 - Mille järele me nälgime?</title>
+			<description>Vana Testament, Aamos, 8:12-9:1 salm</description>
+			<pubDate>Thu, 06 Feb 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Am 8:12-9:1 - Mille järele me nälgime?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>701</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Aamos.png"/>
+			<itunes:duration>1783</itunes:duration>
+			<guid>701</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/30_Am/PKK_1212_250311.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Am 9:2-15 - Mis saab pärast lõppu?</title>
+			<description>Vana Testament, Aamos, 9:2-15 salm</description>
+			<pubDate>Fri, 07 Feb 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Am 9:2-15 - Mis saab pärast lõppu?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>702</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Aamos.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>702</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/30_Am/PKK_1213_280311.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+	</channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+	<channel>
+		<title>Johannese kolmas kiri</title>
+		<description>Piibliõppesarjas &quot;Piibel kaanest kaaneni&quot; loeb ja seletab õpetaja Aare Kimmel (EELK) salm-salmi kaupa ära terve Piibli, nii Vana kui Uue Testamendi raamatud, sidudes loetut tänapäevaga.</description>
+		<link>http://www.pereraadio.ee</link>
+		<language>es</language>
+		<image>
+			<url>https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_kolmas_kiri.png</url>
+			<title>Piibel kaanest kaaneni</title>
+			<link>http://www.pereraadio.ee</link>
+		</image>
+		<itunes:type>episodic</itunes:type>
+		<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+		<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_kolmas_kiri.png"/>
+		<itunes:category text="Education">
+		</itunes:category>
+
+		<item>
+			<title>3Jh 1:1-6 - Soovin: et oled terve</title>
+			<description>Uus Testament, Johannese kolmas kiri, 1:1-6 salm</description>
+			<pubDate>Fri, 19 Nov 2004 10:29:47 GMT</pubDate>
+			<itunes:title>3Jh 1:1-6 - Soovin: et oled terve</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1354</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_kolmas_kiri.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1354</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/64_3Jh/PKK_1283_290811.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>3Jh 1:7-15 - Kukepoeg ja Isa pojad</title>
+			<description>Uus Testament, Johannese kolmas kiri, 1:7-15 salm</description>
+			<pubDate>Sat, 20 Nov 2004 10:29:47 GMT</pubDate>
+			<itunes:title>3Jh 1:7-15 - Kukepoeg ja Isa pojad</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1355</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_kolmas_kiri.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1355</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/64_3Jh/PKK_1284_300811.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+	</channel>
+</rss>

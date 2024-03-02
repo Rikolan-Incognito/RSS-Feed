@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+	<channel>
+		<title>Hesekiel</title>
+		<description>Piibliõppesarjas &quot;Piibel kaanest kaaneni&quot; loeb ja seletab õpetaja Aare Kimmel (EELK) salm-salmi kaupa ära terve Piibli, nii Vana kui Uue Testamendi raamatud, sidudes loetut tänapäevaga.</description>
+		<link>http://www.pereraadio.ee</link>
+		<language>es</language>
+		<image>
+			<url>https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Hesekiel.png</url>
+			<title>Piibel kaanest kaaneni</title>
+			<link>http://www.pereraadio.ee</link>
+		</image>
+		<itunes:type>episodic</itunes:type>
+		<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+		<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Hesekiel.png"/>
+		<itunes:category text="Education">
+		</itunes:category>
+
+		<item>
+			<title>Hs 1:1-4 - Hesekiel - pagendusaja prohvet</title>
+			<description>Vana Testament, Hesekiel, 1:1-4 salm</description>
+			<pubDate>Fri, 01 Nov 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Hs 1:1-4 - Hesekiel - pagendusaja prohvet</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>603</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Hesekiel.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>603</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/26_Hs/PKK_1036_170510.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hs 1:5-14 - Vaata: kes valitseb</title>
+			<description>Vana Testament, Hesekiel, 1:5-14 salm</description>
+			<pubDate>Sat, 02 Nov 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Hs 1:5-14 - Vaata: kes valitseb</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>604</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Hesekiel.png"/>
+			<itunes:duration>1796</itunes:duration>
+			<guid>604</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/26_Hs/PKK_1037_180510.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hs 1:15-2:6 - Ära karda inimene</title>
+			<description>Vana Testament, Hesekiel, 1:15-2:6 salm</description>
+			<pubDate>Sun, 03 Nov 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Hs 1:15-2:6 - Ära karda inimene</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>605</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Hesekiel.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>605</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/26_Hs/PKK_1038_190510.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hs 2:7-3:21 - Kuula: et võiks rääkida</title>
+			<description>Vana Testament, Hesekiel, 2:7-3:21 salm</description>
+			<pubDate>Mon, 04 Nov 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Hs 2:7-3:21 - Kuula: et võiks rääkida</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>606</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Hesekiel.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>606</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/26_Hs/PKK_1039_200510.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hs 3:22-4 - Näitlik kuulutus</title>
+			<description>Vana Testament, Hesekiel, 3:22-4 salm</description>
+			<pubDate>Tue, 05 Nov 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Hs 3:22-4 - Näitlik kuulutus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>607</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Hesekiel.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>607</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/26_Hs/PKK_1040_210510.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hs 5-7 - Varandus rämpsuks</title>
+			<description>Vana Testament, Hesekiel, 5-7 salm</description>
+			<pubDate>Wed, 06 Nov 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Hs 5-7 - Varandus rämpsuks</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>608</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Hesekiel.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>608</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/26_Hs/PKK_1041_240510.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hs 8 - Väliselt on kõik hästi</title>
+			<description>Vana Testament, Hesekiel, 8 salm</description>
+			<pubDate>Thu, 07 Nov 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Hs 8 - Väliselt on kõik hästi</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>609</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Hesekiel.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>609</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/26_Hs/PKK_1042_250510.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hs 9-10 - Päästev märk</title>
+			<description>Vana Testament, Hesekiel, 9-10 salm</description>
+			<pubDate>Fri, 08 Nov 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Hs 9-10 - Päästev märk</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>610</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Hesekiel.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>610</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/26_Hs/PKK_1043_260510.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hs 11-12:2 - Surm Jeruusalemmas</title>
+			<description>Vana Testament, Hesekiel, 11-12:2 salm</description>
+			<pubDate>Sat, 09 Nov 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Hs 11-12:2 - Surm Jeruusalemmas</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>611</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Hesekiel.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>611</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/26_Hs/PKK_1044_270510.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hs 12:3-13:5 - Draama tänaval</title>
+			<description>Vana Testament, Hesekiel, 12:3-13:5 salm</description>
+			<pubDate>Sun, 10 Nov 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Hs 12:3-13:5 - Draama tänaval</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>612</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Hesekiel.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>612</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/26_Hs/PKK_1045_280510.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hs 13:6-15:8 - Valed ja õiged prohvetid</title>
+			<description>Vana Testament, Hesekiel, 13:6-15:8 salm</description>
+			<pubDate>Mon, 11 Nov 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Hs 13:6-15:8 - Valed ja õiged prohvetid</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>613</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Hesekiel.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>613</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/26_Hs/PKK_1046_310510.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hs 16-17 - Jää ellu!</title>
+			<description>Vana Testament, Hesekiel, 16-17 salm</description>
+			<pubDate>Tue, 12 Nov 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Hs 16-17 - Jää ellu!</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>614</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Hesekiel.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>614</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/26_Hs/PKK_1047_010610.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hs 18-19:4 - Kes vastutab?</title>
+			<description>Vana Testament, Hesekiel, 18-19:4 salm</description>
+			<pubDate>Wed, 13 Nov 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Hs 18-19:4 - Kes vastutab?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>615</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Hesekiel.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>615</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/26_Hs/PKK_1048_020610.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hs 19:5-20 - Miks truudusetu saab armu?</title>
+			<description>Vana Testament, Hesekiel, 19:5-20 salm</description>
+			<pubDate>Thu, 14 Nov 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Hs 19:5-20 - Miks truudusetu saab armu?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>616</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Hesekiel.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>616</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/26_Hs/PKK_1049_030610.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hs 21 - Halvad uudised Jeruusalemmast</title>
+			<description>Vana Testament, Hesekiel, 21 salm</description>
+			<pubDate>Fri, 15 Nov 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Hs 21 - Halvad uudised Jeruusalemmast</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>617</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Hesekiel.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>617</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/26_Hs/PKK_1050_040610.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hs 22-23 - Kui Jumal ununeb</title>
+			<description>Vana Testament, Hesekiel, 22-23 salm</description>
+			<pubDate>Sat, 16 Nov 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Hs 22-23 - Kui Jumal ununeb</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>618</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Hesekiel.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>618</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/26_Hs/PKK_1051_070610.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hs 24 - Nutmata nutt</title>
+			<description>Vana Testament, Hesekiel, 24 salm</description>
+			<pubDate>Sun, 17 Nov 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Hs 24 - Nutmata nutt</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>619</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Hesekiel.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>619</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/26_Hs/PKK_1052_080610.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hs 25-26 - Rahvad kohtu all</title>
+			<description>Vana Testament, Hesekiel, 25-26 salm</description>
+			<pubDate>Mon, 18 Nov 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Hs 25-26 - Rahvad kohtu all</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>620</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Hesekiel.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>620</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/26_Hs/PKK_1053_090610.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hs 27-28 - Uhkuse naer on lühike</title>
+			<description>Vana Testament, Hesekiel, 27-28 salm</description>
+			<pubDate>Tue, 19 Nov 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Hs 27-28 - Uhkuse naer on lühike</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>621</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Hesekiel.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>621</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/26_Hs/PKK_1054_100610.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hs 29-30 - Issand valitseb Egiptustki</title>
+			<description>Vana Testament, Hesekiel, 29-30 salm</description>
+			<pubDate>Wed, 20 Nov 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Hs 29-30 - Issand valitseb Egiptustki</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>622</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Hesekiel.png"/>
+			<itunes:duration>1781</itunes:duration>
+			<guid>622</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/26_Hs/PKK_1055_110610.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hs 31-32 - Surmavalla sõnum</title>
+			<description>Vana Testament, Hesekiel, 31-32 salm</description>
+			<pubDate>Thu, 21 Nov 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Hs 31-32 - Surmavalla sõnum</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>623</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Hesekiel.png"/>
+			<itunes:duration>1793</itunes:duration>
+			<guid>623</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/26_Hs/PKK_1056_140610.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hs 33 - Populaarsuse kiusatused</title>
+			<description>Vana Testament, Hesekiel, 33 salm</description>
+			<pubDate>Fri, 22 Nov 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Hs 33 - Populaarsuse kiusatused</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>624</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Hesekiel.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>624</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/26_Hs/PKK_1057_150610.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hs 34-35 - Õige karjane teenib</title>
+			<description>Vana Testament, Hesekiel, 34-35 salm</description>
+			<pubDate>Sat, 23 Nov 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Hs 34-35 - Õige karjane teenib</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>625</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Hesekiel.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>625</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/26_Hs/PKK_1058_160610.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hs 36 - Uus süda ja vaim</title>
+			<description>Vana Testament, Hesekiel, 36 salm</description>
+			<pubDate>Sun, 24 Nov 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Hs 36 - Uus süda ja vaim</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>626</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Hesekiel.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>626</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/26_Hs/PKK_1059_170610.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hs 37 - Sõnum surnud luudele</title>
+			<description>Vana Testament, Hesekiel, 37 salm</description>
+			<pubDate>Mon, 25 Nov 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Hs 37 - Sõnum surnud luudele</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>627</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Hesekiel.png"/>
+			<itunes:duration>1796</itunes:duration>
+			<guid>627</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/26_Hs/PKK_1060_180610.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hs 38 - Googi väehulgad</title>
+			<description>Vana Testament, Hesekiel, 38 salm</description>
+			<pubDate>Tue, 26 Nov 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Hs 38 - Googi väehulgad</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>628</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Hesekiel.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>628</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/26_Hs/PKK_1061_210610.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hs 39 - Riisujate riisujad</title>
+			<description>Vana Testament, Hesekiel, 39 salm</description>
+			<pubDate>Wed, 27 Nov 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Hs 39 - Riisujate riisujad</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>629</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Hesekiel.png"/>
+			<itunes:duration>1781</itunes:duration>
+			<guid>629</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/26_Hs/PKK_1062_220610.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hs 40:1-5 - Viimaste peatükkide sõnum</title>
+			<description>Vana Testament, Hesekiel, 40:1-5 salm</description>
+			<pubDate>Thu, 28 Nov 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Hs 40:1-5 - Viimaste peatükkide sõnum</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>630</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Hesekiel.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>630</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/26_Hs/PKK_1063_230610.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hs 40:6-41:4 - Väravatelegi on oma sõnum</title>
+			<description>Vana Testament, Hesekiel, 40:6-41:4 salm</description>
+			<pubDate>Fri, 29 Nov 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Hs 40:6-41:4 - Väravatelegi on oma sõnum</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>631</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Hesekiel.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>631</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/26_Hs/PKK_1064_240610.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hs 41:5-43:9 - Kuidas sa vahetad riided?</title>
+			<description>Vana Testament, Hesekiel, 41:5-43:9 salm</description>
+			<pubDate>Sat, 30 Nov 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Hs 41:5-43:9 - Kuidas sa vahetad riided?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>632</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Hesekiel.png"/>
+			<itunes:duration>1781</itunes:duration>
+			<guid>632</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/26_Hs/PKK_1065_250610.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hs 43:10-44:16 - Muulased templis</title>
+			<description>Vana Testament, Hesekiel, 43:10-44:16 salm</description>
+			<pubDate>Sun, 01 Dec 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Hs 43:10-44:16 - Muulased templis</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>633</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Hesekiel.png"/>
+			<itunes:duration>1797</itunes:duration>
+			<guid>633</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/26_Hs/PKK_1066_280610.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hs 44:17-45 - Kas teenimine paneb higistama?</title>
+			<description>Vana Testament, Hesekiel, 44:17-45 salm</description>
+			<pubDate>Mon, 02 Dec 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Hs 44:17-45 - Kas teenimine paneb higistama?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>634</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Hesekiel.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>634</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/26_Hs/PKK_1067_290610.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Hs 46-48 - Kas Issand on siin?</title>
+			<description>Vana Testament, Hesekiel, 46-48 salm</description>
+			<pubDate>Tue, 03 Dec 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Hs 46-48 - Kas Issand on siin?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>635</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Hesekiel.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>635</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/26_Hs/PKK_1068_300610.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+	</channel>
+</rss>

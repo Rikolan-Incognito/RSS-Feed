@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+	<channel>
+		<title>Ester</title>
+		<description>Piibliõppesarjas &quot;Piibel kaanest kaaneni&quot; loeb ja seletab õpetaja Aare Kimmel (EELK) salm-salmi kaupa ära terve Piibli, nii Vana kui Uue Testamendi raamatud, sidudes loetut tänapäevaga.</description>
+		<link>http://www.pereraadio.ee</link>
+		<language>es</language>
+		<image>
+			<url>https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Ester.png</url>
+			<title>Piibel kaanest kaaneni</title>
+			<link>http://www.pereraadio.ee</link>
+		</image>
+		<itunes:type>episodic</itunes:type>
+		<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+		<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Ester.png"/>
+		<itunes:category text="Education">
+		</itunes:category>
+
+		<item>
+			<title>Est 1:1-9 - Raamat kaitselmusest</title>
+			<description>Vana Testament, Ester, 1:1-9 salm</description>
+			<pubDate>Thu, 21 Feb 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Est 1:1-9 - Raamat kaitselmusest</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>350</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Ester.png"/>
+			<itunes:duration>1766</itunes:duration>
+			<guid>350</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/17_Est/PKK_0664_240908.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Est 1:10-2:7 - Mürt lõhnab hästi</title>
+			<description>Vana Testament, Ester, 1:10-2:7 salm</description>
+			<pubDate>Fri, 22 Feb 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Est 1:10-2:7 - Mürt lõhnab hästi</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>351</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Ester.png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>351</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/17_Est/PKK_0665_250908.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Est 2:8-3:1 - Aastaks iluduskuurorti</title>
+			<description>Vana Testament, Ester, 2:8-3:1 salm</description>
+			<pubDate>Sat, 23 Feb 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Est 2:8-3:1 - Aastaks iluduskuurorti</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>352</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Ester.png"/>
+			<itunes:duration>1781</itunes:duration>
+			<guid>352</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/17_Est/PKK_0666_260908.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Est 3:2-15 - Aasta aega hävinguni</title>
+			<description>Vana Testament, Ester, 3:2-15 salm</description>
+			<pubDate>Sun, 24 Feb 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Est 3:2-15 - Aasta aega hävinguni</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>353</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Ester.png"/>
+			<itunes:duration>1790</itunes:duration>
+			<guid>353</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/17_Est/PKK_0667_290908.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Est 4:1-17 - Kotiriidesse riietunu ei naera</title>
+			<description>Vana Testament, Ester, 4:1-17 salm</description>
+			<pubDate>Mon, 25 Feb 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Est 4:1-17 - Kotiriidesse riietunu ei naera</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>354</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Ester.png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>354</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/17_Est/PKK_0668_300908.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Est 5:1-6:3 - Miks uni ei tule</title>
+			<description>Vana Testament, Ester, 5:1-6:3 salm</description>
+			<pubDate>Tue, 26 Feb 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Est 5:1-6:3 - Miks uni ei tule</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>355</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Ester.png"/>
+			<itunes:duration>1791</itunes:duration>
+			<guid>355</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/17_Est/PKK_0669_011008.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Est 6:4-7:10 - Kellele sa kaevad auku</title>
+			<description>Vana Testament, Ester, 6:4-7:10 salm</description>
+			<pubDate>Wed, 27 Feb 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Est 6:4-7:10 - Kellele sa kaevad auku</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>356</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Ester.png"/>
+			<itunes:duration>1802</itunes:duration>
+			<guid>356</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/17_Est/PKK_0670_021008.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Est 8:1-17 - Seadust ei saa tühistada</title>
+			<description>Vana Testament, Ester, 8:1-17 salm</description>
+			<pubDate>Thu, 28 Feb 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Est 8:1-17 - Seadust ei saa tühistada</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>357</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Ester.png"/>
+			<itunes:duration>1792</itunes:duration>
+			<guid>357</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/17_Est/PKK_0671_031008.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Est 9:1-10:3 - Lõhn nähtamatust maailmast</title>
+			<description>Vana Testament, Ester, 9:1-10:3 salm</description>
+			<pubDate>Fri, 01 Mar 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Est 9:1-10:3 - Lõhn nähtamatust maailmast</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>358</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Ester.png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>358</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/17_Est/PKK_0672_061008.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+	</channel>
+</rss>

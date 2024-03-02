@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+	<channel>
+		<title>Iiob</title>
+		<description>Piibliõppesarjas &quot;Piibel kaanest kaaneni&quot; loeb ja seletab õpetaja Aare Kimmel (EELK) salm-salmi kaupa ära terve Piibli, nii Vana kui Uue Testamendi raamatud, sidudes loetut tänapäevaga.</description>
+		<link>http://www.pereraadio.ee</link>
+		<language>es</language>
+		<image>
+			<url>https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Iiob.png</url>
+			<title>Piibel kaanest kaaneni</title>
+			<link>http://www.pereraadio.ee</link>
+		</image>
+		<itunes:type>episodic</itunes:type>
+		<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+		<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Iiob.png"/>
+		<itunes:category text="Education">
+		</itunes:category>
+
+		<item>
+			<title>Sissejuhatus Iiobi raamatusse</title>
+			<description>Vana Testament, Iiob, Iiobi salm</description>
+			<pubDate>Sat, 02 Mar 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Sissejuhatus Iiobi raamatusse</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>359</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Iiob.png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>359</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/18_Ii/PKK_0673_071008.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ii 1:1-12 - Kas armastan ikkagi</title>
+			<description>Vana Testament, Iiob, 1:1-12 salm</description>
+			<pubDate>Sun, 03 Mar 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ii 1:1-12 - Kas armastan ikkagi</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>360</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Iiob.png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>360</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/18_Ii/PKK_0674_081008.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ii 1:13-2:6 - Iiob kannatas: sest ta uskus</title>
+			<description>Vana Testament, Iiob, 1:13-2:6 salm</description>
+			<pubDate>Mon, 04 Mar 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ii 1:13-2:6 - Iiob kannatas: sest ta uskus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>361</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Iiob.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>361</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/18_Ii/PKK_0675_091008.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ii 2:7-13 - Kohtumised prügimäel</title>
+			<description>Vana Testament, Iiob, 2:7-13 salm</description>
+			<pubDate>Tue, 05 Mar 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ii 2:7-13 - Kohtumised prügimäel</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>362</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Iiob.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>362</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/18_Ii/PKK_0676_101008.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ii 3:1-19 - Miks ma üldse sündisin</title>
+			<description>Vana Testament, Iiob, 3:1-19 salm</description>
+			<pubDate>Wed, 06 Mar 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ii 3:1-19 - Miks ma üldse sündisin</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>363</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Iiob.png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>363</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/18_Ii/PKK_0677_131008.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ii 3:20-4:17 - Stampvastused hingehoiust ei sobi</title>
+			<description>Vana Testament, Iiob, 3:20-4:17 salm</description>
+			<pubDate>Thu, 07 Mar 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ii 3:20-4:17 - Stampvastused hingehoiust ei sobi</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>364</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Iiob.png"/>
+			<itunes:duration>1772</itunes:duration>
+			<guid>364</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/18_Ii/PKK_0678_141008.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ii 4:18-5:27 - Plaaster murtule</title>
+			<description>Vana Testament, Iiob, 4:18-5:27 salm</description>
+			<pubDate>Fri, 08 Mar 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ii 4:18-5:27 - Plaaster murtule</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>365</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Iiob.png"/>
+			<itunes:duration>1793</itunes:duration>
+			<guid>365</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/18_Ii/PKK_0679_151008.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ii 6:1-7:21 - Ära looda kevadveele</title>
+			<description>Vana Testament, Iiob, 6:1-7:21 salm</description>
+			<pubDate>Sat, 09 Mar 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ii 6:1-7:21 - Ära looda kevadveele</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>366</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Iiob.png"/>
+			<itunes:duration>1792</itunes:duration>
+			<guid>366</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/18_Ii/PKK_0680_161008.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ii 8:1-9:13 - Võitlus jätkub</title>
+			<description>Vana Testament, Iiob, 8:1-9:13 salm</description>
+			<pubDate>Sun, 10 Mar 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ii 8:1-9:13 - Võitlus jätkub</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>367</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Iiob.png"/>
+			<itunes:duration>1787</itunes:duration>
+			<guid>367</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/18_Ii/PKK_0681_171008.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ii 9:14-10:22 - Milline sa oled Jumal</title>
+			<description>Vana Testament, Iiob, 9:14-10:22 salm</description>
+			<pubDate>Mon, 11 Mar 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ii 9:14-10:22 - Milline sa oled Jumal</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>368</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Iiob.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>368</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/18_Ii/PKK_0682_201008.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ii 11:1-12:13 - Kas mul on vastused kõigele</title>
+			<description>Vana Testament, Iiob, 11:1-12:13 salm</description>
+			<pubDate>Tue, 12 Mar 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ii 11:1-12:13 - Kas mul on vastused kõigele</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>369</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Iiob.png"/>
+			<itunes:duration>1802</itunes:duration>
+			<guid>369</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/18_Ii/PKK_0683_211008.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ii 12:14-13:22 - Aga kui Jumal toob hävingu</title>
+			<description>Vana Testament, Iiob, 12:14-13:22 salm</description>
+			<pubDate>Wed, 13 Mar 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ii 12:14-13:22 - Aga kui Jumal toob hävingu</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>370</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Iiob.png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>370</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/18_Ii/PKK_0684_221008.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ii 13:23-15:35 - Suu täis tuult</title>
+			<description>Vana Testament, Iiob, 13:23-15:35 salm</description>
+			<pubDate>Thu, 14 Mar 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ii 13:23-15:35 - Suu täis tuult</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>371</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Iiob.png"/>
+			<itunes:duration>1777</itunes:duration>
+			<guid>371</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/18_Ii/PKK_0685_231008.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ii 16:1-18:8 - Lihata konte koerale</title>
+			<description>Vana Testament, Iiob, 16:1-18:8 salm</description>
+			<pubDate>Fri, 15 Mar 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ii 16:1-18:8 - Lihata konte koerale</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>372</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Iiob.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>372</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/18_Ii/PKK_0686_241008.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ii 18:9-19:29 - Tuttava armu osaline</title>
+			<description>Vana Testament, Iiob, 18:9-19:29 salm</description>
+			<pubDate>Sat, 16 Mar 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ii 18:9-19:29 - Tuttava armu osaline</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>373</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Iiob.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>373</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/18_Ii/PKK_0687_271008.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ii 20:1-21:34 - Palju tühja juttu</title>
+			<description>Vana Testament, Iiob, 20:1-21:34 salm</description>
+			<pubDate>Sun, 17 Mar 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ii 20:1-21:34 - Palju tühja juttu</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>374</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Iiob.png"/>
+			<itunes:duration>1756</itunes:duration>
+			<guid>374</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/18_Ii/PKK_0688_281008.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ii 22:1-23:17 - Õige ravi valele inimesele</title>
+			<description>Vana Testament, Iiob, 22:1-23:17 salm</description>
+			<pubDate>Mon, 18 Mar 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ii 22:1-23:17 - Õige ravi valele inimesele</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>375</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Iiob.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>375</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/18_Ii/PKK_0689_291008.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ii 24:1-27:6 - Jumal mäletab väiksemaidki</title>
+			<description>Vana Testament, Iiob, 24:1-27:6 salm</description>
+			<pubDate>Tue, 19 Mar 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ii 24:1-27:6 - Jumal mäletab väiksemaidki</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>376</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Iiob.png"/>
+			<itunes:duration>1802</itunes:duration>
+			<guid>376</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/18_Ii/PKK_0690_301008.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ii 27:7-28:28 - Tarkus paistab elust</title>
+			<description>Vana Testament, Iiob, 27:7-28:28 salm</description>
+			<pubDate>Wed, 20 Mar 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ii 27:7-28:28 - Tarkus paistab elust</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>377</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Iiob.png"/>
+			<itunes:duration>1801</itunes:duration>
+			<guid>377</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/18_Ii/PKK_0691_311008.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ii 29:1-31:40 - Viimane apellatsioon</title>
+			<description>Vana Testament, Iiob, 29:1-31:40 salm</description>
+			<pubDate>Thu, 21 Mar 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ii 29:1-31:40 - Viimane apellatsioon</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>378</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Iiob.png"/>
+			<itunes:duration>1802</itunes:duration>
+			<guid>378</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/18_Ii/PKK_0692_031108.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ii 32:1-33:33 - Noor Eliihu astub ette</title>
+			<description>Vana Testament, Iiob, 32:1-33:33 salm</description>
+			<pubDate>Fri, 22 Mar 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ii 32:1-33:33 - Noor Eliihu astub ette</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>379</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Iiob.png"/>
+			<itunes:duration>1802</itunes:duration>
+			<guid>379</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/18_Ii/PKK_0693_041108.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ii 34:1-36:15 - Jumal teeb vahet</title>
+			<description>Vana Testament, Iiob, 34:1-36:15 salm</description>
+			<pubDate>Sat, 23 Mar 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ii 34:1-36:15 - Jumal teeb vahet</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>380</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Iiob.png"/>
+			<itunes:duration>1802</itunes:duration>
+			<guid>380</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/18_Ii/PKK_0694_051108.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ii 36:16-38:15 - Uuri Jumala imesid</title>
+			<description>Vana Testament, Iiob, 36:16-38:15 salm</description>
+			<pubDate>Sun, 24 Mar 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ii 36:16-38:15 - Uuri Jumala imesid</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>381</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Iiob.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>381</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/18_Ii/PKK_0695_061108.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ii 38:16-40:14 - Jumala käsivars on jämedam</title>
+			<description>Vana Testament, Iiob, 38:16-40:14 salm</description>
+			<pubDate>Mon, 25 Mar 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ii 38:16-40:14 - Jumala käsivars on jämedam</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>382</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Iiob.png"/>
+			<itunes:duration>1754</itunes:duration>
+			<guid>382</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/18_Ii/PKK_0696_071108.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ii 40:15-42:17 - Nagu surnuist tõusnud</title>
+			<description>Vana Testament, Iiob, 40:15-42:17 salm</description>
+			<pubDate>Tue, 26 Mar 2002 10:29:47 GMT</pubDate>
+			<itunes:title>Ii 40:15-42:17 - Nagu surnuist tõusnud</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>383</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Iiob.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>383</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/18_Ii/PKK_0697_101108.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+	</channel>
+</rss>

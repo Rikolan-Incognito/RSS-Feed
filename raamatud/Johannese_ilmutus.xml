@@ -1,0 +1,875 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+	<channel>
+		<title>Johannese ilmutus</title>
+		<description>Piibliõppesarjas &quot;Piibel kaanest kaaneni&quot; loeb ja seletab õpetaja Aare Kimmel (EELK) salm-salmi kaupa ära terve Piibli, nii Vana kui Uue Testamendi raamatud, sidudes loetut tänapäevaga.</description>
+		<link>http://www.pereraadio.ee</link>
+		<language>es</language>
+		<image>
+			<url>https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_ilmutus.png</url>
+			<title>Piibel kaanest kaaneni</title>
+			<link>http://www.pereraadio.ee</link>
+		</image>
+		<itunes:type>episodic</itunes:type>
+		<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+		<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_ilmutus.png"/>
+		<itunes:category text="Education">
+		</itunes:category>
+
+		<item>
+			<title>Sissejuhatus Ilmutuse raamatusse</title>
+			<description>Uus Testament, Johannese ilmutus, Ilmutuse salm</description>
+			<pubDate>Wed, 01 Dec 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Sissejuhatus Ilmutuse raamatusse</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1366</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_ilmutus.png"/>
+			<itunes:duration>1783</itunes:duration>
+			<guid>1366</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/66_Ilm/PKK_1364_201211.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ilm 1:1 - Tegemist on ilmutusega</title>
+			<description>Uus Testament, Johannese ilmutus, 1:1 salm</description>
+			<pubDate>Thu, 02 Dec 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Ilm 1:1 - Tegemist on ilmutusega</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1367</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_ilmutus.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>1367</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/66_Ilm/PKK_1365_211211.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ilm 1:2-6 - Armu ja rahu</title>
+			<description>Uus Testament, Johannese ilmutus, 1:2-6 salm</description>
+			<pubDate>Fri, 03 Dec 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Ilm 1:2-6 - Armu ja rahu</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1368</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_ilmutus.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1368</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/66_Ilm/PKK_1366_221211.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ilm 1:7-11 - Alfa ja Omega</title>
+			<description>Uus Testament, Johannese ilmutus, 1:7-11 salm</description>
+			<pubDate>Sat, 04 Dec 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Ilm 1:7-11 - Alfa ja Omega</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1369</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_ilmutus.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1369</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/66_Ilm/PKK_1367_231211.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ilm 1:12-16 - Nägemus Kristusest</title>
+			<description>Uus Testament, Johannese ilmutus, 1:12-16 salm</description>
+			<pubDate>Sun, 05 Dec 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Ilm 1:12-16 - Nägemus Kristusest</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1370</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_ilmutus.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>1370</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/66_Ilm/PKK_1368_090112.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ilm 1:17-20 - Tähed Jeesuse käes</title>
+			<description>Uus Testament, Johannese ilmutus, 1:17-20 salm</description>
+			<pubDate>Mon, 06 Dec 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Ilm 1:17-20 - Tähed Jeesuse käes</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1371</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_ilmutus.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1371</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/66_Ilm/PKK_1369_100112.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ilm 2:1-3 - Kiri algab tunnustusega</title>
+			<description>Uus Testament, Johannese ilmutus, 2:1-3 salm</description>
+			<pubDate>Tue, 07 Dec 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Ilm 2:1-3 - Kiri algab tunnustusega</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1372</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_ilmutus.png"/>
+			<itunes:duration>1776</itunes:duration>
+			<guid>1372</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/66_Ilm/PKK_1370_110112.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ilm 2:4-7 - Kuidas on lood armastusega?</title>
+			<description>Uus Testament, Johannese ilmutus, 2:4-7 salm</description>
+			<pubDate>Wed, 08 Dec 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Ilm 2:4-7 - Kuidas on lood armastusega?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1373</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_ilmutus.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>1373</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/66_Ilm/PKK_1371_120112.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ilm 2:8-11 - Elulootus</title>
+			<description>Uus Testament, Johannese ilmutus, 2:8-11 salm</description>
+			<pubDate>Thu, 09 Dec 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Ilm 2:8-11 - Elulootus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1374</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_ilmutus.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1374</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/66_Ilm/PKK_1372_130112.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ilm 2:12-17 - Nimi valgel kivil</title>
+			<description>Uus Testament, Johannese ilmutus, 2:12-17 salm</description>
+			<pubDate>Fri, 10 Dec 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Ilm 2:12-17 - Nimi valgel kivil</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1375</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_ilmutus.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1375</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/66_Ilm/PKK_1373_160112.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ilm 2:18-29 - Hoia Iisebeli eest</title>
+			<description>Uus Testament, Johannese ilmutus, 2:18-29 salm</description>
+			<pubDate>Sat, 11 Dec 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Ilm 2:18-29 - Hoia Iisebeli eest</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1376</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_ilmutus.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1376</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/66_Ilm/PKK_1374_170112.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ilm 3:1-4 - Kaks halba üllatust</title>
+			<description>Uus Testament, Johannese ilmutus, 3:1-4 salm</description>
+			<pubDate>Sun, 12 Dec 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Ilm 3:1-4 - Kaks halba üllatust</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1377</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_ilmutus.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1377</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/66_Ilm/PKK_1375_180112.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ilm 3:5-7 - See: kellel on Taaveti võti</title>
+			<description>Uus Testament, Johannese ilmutus, 3:5-7 salm</description>
+			<pubDate>Mon, 13 Dec 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Ilm 3:5-7 - See: kellel on Taaveti võti</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1378</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_ilmutus.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1378</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/66_Ilm/PKK_1376_190112.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ilm 3:8-13 - Sambaks templis</title>
+			<description>Uus Testament, Johannese ilmutus, 3:8-13 salm</description>
+			<pubDate>Tue, 14 Dec 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Ilm 3:8-13 - Sambaks templis</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1379</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_ilmutus.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1379</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/66_Ilm/PKK_1377_200112.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ilm 3:14-16 - Leigus - kas oled või ei ole?</title>
+			<description>Uus Testament, Johannese ilmutus, 3:14-16 salm</description>
+			<pubDate>Wed, 15 Dec 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Ilm 3:14-16 - Leigus - kas oled või ei ole?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1380</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_ilmutus.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1380</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/66_Ilm/PKK_1378_230112.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ilm 3:17-22 - Kas olen Laodikeia kogudusest?</title>
+			<description>Uus Testament, Johannese ilmutus, 3:17-22 salm</description>
+			<pubDate>Thu, 16 Dec 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Ilm 3:17-22 - Kas olen Laodikeia kogudusest?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1381</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_ilmutus.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>1381</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/66_Ilm/PKK_1379_240112.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ilm 4:1-3 - Uks taevasse on lahti</title>
+			<description>Uus Testament, Johannese ilmutus, 4:1-3 salm</description>
+			<pubDate>Fri, 17 Dec 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Ilm 4:1-3 - Uks taevasse on lahti</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1382</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_ilmutus.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1382</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/66_Ilm/PKK_1380_250112.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ilm 4:4-11 - Taevased ülistajad</title>
+			<description>Uus Testament, Johannese ilmutus, 4:4-11 salm</description>
+			<pubDate>Sat, 18 Dec 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Ilm 4:4-11 - Taevased ülistajad</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1383</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_ilmutus.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>1383</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/66_Ilm/PKK_1381_260112.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ilm 5:1-6 - Lõvi ja Tall</title>
+			<description>Uus Testament, Johannese ilmutus, 5:1-6 salm</description>
+			<pubDate>Sun, 19 Dec 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Ilm 5:1-6 - Lõvi ja Tall</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1384</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_ilmutus.png"/>
+			<itunes:duration>1780</itunes:duration>
+			<guid>1384</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/66_Ilm/PKK_1382_270112.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ilm 5:7-14 - Vaata: keda sa kummardad</title>
+			<description>Uus Testament, Johannese ilmutus, 5:7-14 salm</description>
+			<pubDate>Mon, 20 Dec 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Ilm 5:7-14 - Vaata: keda sa kummardad</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1385</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_ilmutus.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>1385</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/66_Ilm/PKK_1383_300112.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ilm 6:1-8 - Neli ratsanikku</title>
+			<description>Uus Testament, Johannese ilmutus, 6:1-8 salm</description>
+			<pubDate>Tue, 21 Dec 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Ilm 6:1-8 - Neli ratsanikku</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1386</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_ilmutus.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1386</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/66_Ilm/PKK_1384_310112.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ilm 6:9-17 - Kui kaua veel?</title>
+			<description>Uus Testament, Johannese ilmutus, 6:9-17 salm</description>
+			<pubDate>Wed, 22 Dec 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Ilm 6:9-17 - Kui kaua veel?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1387</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_ilmutus.png"/>
+			<itunes:duration>1791</itunes:duration>
+			<guid>1387</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/66_Ilm/PKK_1385_010212.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ilm 7:1-8 - Jumala pitser kaitseb</title>
+			<description>Uus Testament, Johannese ilmutus, 7:1-8 salm</description>
+			<pubDate>Thu, 23 Dec 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Ilm 7:1-8 - Jumala pitser kaitseb</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1388</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_ilmutus.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1388</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/66_Ilm/PKK_1386_020212.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ilm 7:9-17 - Jumal pühib pisaraid</title>
+			<description>Uus Testament, Johannese ilmutus, 7:9-17 salm</description>
+			<pubDate>Fri, 24 Dec 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Ilm 7:9-17 - Jumal pühib pisaraid</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1389</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_ilmutus.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1389</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/66_Ilm/PKK_1387_030212.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ilm 8:1-5 - Suitsutusrohu sõnum</title>
+			<description>Uus Testament, Johannese ilmutus, 8:1-5 salm</description>
+			<pubDate>Sat, 25 Dec 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Ilm 8:1-5 - Suitsutusrohu sõnum</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1390</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_ilmutus.png"/>
+			<itunes:duration>1779</itunes:duration>
+			<guid>1390</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/66_Ilm/PKK_1388_060212.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ilm 8:6-13 - Neli pasunapuhumist</title>
+			<description>Uus Testament, Johannese ilmutus, 8:6-13 salm</description>
+			<pubDate>Sun, 26 Dec 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Ilm 8:6-13 - Neli pasunapuhumist</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1391</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_ilmutus.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>1391</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/66_Ilm/PKK_1389_070212.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ilm 9:1-4 - Sügavuse kaev avatakse</title>
+			<description>Uus Testament, Johannese ilmutus, 9:1-4 salm</description>
+			<pubDate>Mon, 27 Dec 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Ilm 9:1-4 - Sügavuse kaev avatakse</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1392</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_ilmutus.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>1392</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/66_Ilm/PKK_1390_080212.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ilm 9:5-12 - Sügavikust tuleb piin</title>
+			<description>Uus Testament, Johannese ilmutus, 9:5-12 salm</description>
+			<pubDate>Tue, 28 Dec 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Ilm 9:5-12 - Sügavikust tuleb piin</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1393</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_ilmutus.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1393</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/66_Ilm/PKK_1391_090212.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ilm 9:13-21 - Tuli: suits ja väävel</title>
+			<description>Uus Testament, Johannese ilmutus, 9:13-21 salm</description>
+			<pubDate>Wed, 29 Dec 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Ilm 9:13-21 - Tuli: suits ja väävel</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1394</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_ilmutus.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>1394</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/66_Ilm/PKK_1392_100212.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ilm 10 - Kas Sõna tuleb süüa?</title>
+			<description>Uus Testament, Johannese ilmutus, 10 salm</description>
+			<pubDate>Thu, 30 Dec 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Ilm 10 - Kas Sõna tuleb süüa?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1395</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_ilmutus.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1395</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/66_Ilm/PKK_1393_130212.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ilm 11:1-2 - Mõõdumees templis</title>
+			<description>Uus Testament, Johannese ilmutus, 11:1-2 salm</description>
+			<pubDate>Fri, 31 Dec 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Ilm 11:1-2 - Mõõdumees templis</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1396</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_ilmutus.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1396</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/66_Ilm/PKK_1394_140212.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ilm 11:3-6 - Kaks tunnistajat</title>
+			<description>Uus Testament, Johannese ilmutus, 11:3-6 salm</description>
+			<pubDate>Sat, 01 Jan 2005 10:29:47 GMT</pubDate>
+			<itunes:title>Ilm 11:3-6 - Kaks tunnistajat</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1397</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_ilmutus.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1397</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/66_Ilm/PKK_1395_150212.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ilm 11:7-14 - Tunnistajate palk</title>
+			<description>Uus Testament, Johannese ilmutus, 11:7-14 salm</description>
+			<pubDate>Sun, 02 Jan 2005 10:29:47 GMT</pubDate>
+			<itunes:title>Ilm 11:7-14 - Tunnistajate palk</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1398</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_ilmutus.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1398</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/66_Ilm/PKK_1396_160212.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ilm 11:15-12:2 - Seitsmes pasun</title>
+			<description>Uus Testament, Johannese ilmutus, 11:15-12:2 salm</description>
+			<pubDate>Mon, 03 Jan 2005 10:29:47 GMT</pubDate>
+			<itunes:title>Ilm 11:15-12:2 - Seitsmes pasun</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1399</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_ilmutus.png"/>
+			<itunes:duration>1773</itunes:duration>
+			<guid>1399</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/66_Ilm/PKK_1397_170212.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ilm 12:3-9 - Taevas tõusis sõda</title>
+			<description>Uus Testament, Johannese ilmutus, 12:3-9 salm</description>
+			<pubDate>Tue, 04 Jan 2005 10:29:47 GMT</pubDate>
+			<itunes:title>Ilm 12:3-9 - Taevas tõusis sõda</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1400</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_ilmutus.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>1400</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/66_Ilm/PKK_1398_200212.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ilm 12:10-18 - Talle vere vägi</title>
+			<description>Uus Testament, Johannese ilmutus, 12:10-18 salm</description>
+			<pubDate>Wed, 05 Jan 2005 10:29:47 GMT</pubDate>
+			<itunes:title>Ilm 12:10-18 - Talle vere vägi</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1401</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_ilmutus.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1401</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/66_Ilm/PKK_1399_210212.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ilm 13:1-6 - Metsaline tõuseb merest</title>
+			<description>Uus Testament, Johannese ilmutus, 13:1-6 salm</description>
+			<pubDate>Thu, 06 Jan 2005 10:29:47 GMT</pubDate>
+			<itunes:title>Ilm 13:1-6 - Metsaline tõuseb merest</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1402</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_ilmutus.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>1402</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/66_Ilm/PKK_1400_220212.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ilm 13:7-13 - Talle sarnane metsaline</title>
+			<description>Uus Testament, Johannese ilmutus, 13:7-13 salm</description>
+			<pubDate>Fri, 07 Jan 2005 10:29:47 GMT</pubDate>
+			<itunes:title>Ilm 13:7-13 - Talle sarnane metsaline</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1403</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_ilmutus.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1403</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/66_Ilm/PKK_1401_230212.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ilm 13:14-18 - Märk näitab omanikku</title>
+			<description>Uus Testament, Johannese ilmutus, 13:14-18 salm</description>
+			<pubDate>Sat, 08 Jan 2005 10:29:47 GMT</pubDate>
+			<itunes:title>Ilm 13:14-18 - Märk näitab omanikku</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1404</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_ilmutus.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>1404</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/66_Ilm/PKK_1402_240212.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ilm 14:1-5 - Jumala omadeks märgitud</title>
+			<description>Uus Testament, Johannese ilmutus, 14:1-5 salm</description>
+			<pubDate>Sun, 09 Jan 2005 10:29:47 GMT</pubDate>
+			<itunes:title>Ilm 14:1-5 - Jumala omadeks märgitud</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1405</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_ilmutus.png"/>
+			<itunes:duration>1786</itunes:duration>
+			<guid>1405</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/66_Ilm/PKK_1403_270212.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ilm 14:6-13 - Hukatuse eest on hoiatatud</title>
+			<description>Uus Testament, Johannese ilmutus, 14:6-13 salm</description>
+			<pubDate>Mon, 10 Jan 2005 10:29:47 GMT</pubDate>
+			<itunes:title>Ilm 14:6-13 - Hukatuse eest on hoiatatud</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1406</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_ilmutus.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>1406</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/66_Ilm/PKK_1404_280212.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ilm 14:14-20 - Lõikusaeg</title>
+			<description>Uus Testament, Johannese ilmutus, 14:14-20 salm</description>
+			<pubDate>Tue, 11 Jan 2005 10:29:47 GMT</pubDate>
+			<itunes:title>Ilm 14:14-20 - Lõikusaeg</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1407</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_ilmutus.png"/>
+			<itunes:duration>1791</itunes:duration>
+			<guid>1407</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/66_Ilm/PKK_1405_290212.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ilm 15-16:1 - Moosese ja Talle laul</title>
+			<description>Uus Testament, Johannese ilmutus, 15-16:1 salm</description>
+			<pubDate>Wed, 12 Jan 2005 10:29:47 GMT</pubDate>
+			<itunes:title>Ilm 15-16:1 - Moosese ja Talle laul</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1408</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_ilmutus.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1408</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/66_Ilm/PKK_1406_010312.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ilm 16:2-7 - Kuhu lähed inimene?</title>
+			<description>Uus Testament, Johannese ilmutus, 16:2-7 salm</description>
+			<pubDate>Thu, 13 Jan 2005 10:29:47 GMT</pubDate>
+			<itunes:title>Ilm 16:2-7 - Kuhu lähed inimene?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1409</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_ilmutus.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1409</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/66_Ilm/PKK_1407_020312.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ilm 16:8-14 - Kas armastan pimedust?</title>
+			<description>Uus Testament, Johannese ilmutus, 16:8-14 salm</description>
+			<pubDate>Fri, 14 Jan 2005 10:29:47 GMT</pubDate>
+			<itunes:title>Ilm 16:8-14 - Kas armastan pimedust?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1410</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_ilmutus.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1410</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/66_Ilm/PKK_1408_050312.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ilm 16:15-21 - Hoia oma riietust</title>
+			<description>Uus Testament, Johannese ilmutus, 16:15-21 salm</description>
+			<pubDate>Sat, 15 Jan 2005 10:29:47 GMT</pubDate>
+			<itunes:title>Ilm 16:15-21 - Hoia oma riietust</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1411</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_ilmutus.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>1411</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/66_Ilm/PKK_1409_060312.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ilm 17:1-6 - Naine metsalise seljas</title>
+			<description>Uus Testament, Johannese ilmutus, 17:1-6 salm</description>
+			<pubDate>Sun, 16 Jan 2005 10:29:47 GMT</pubDate>
+			<itunes:title>Ilm 17:1-6 - Naine metsalise seljas</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1412</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_ilmutus.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1412</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/66_Ilm/PKK_1410_070312.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ilm 17:7-18 - Pea meeles: kes on Isandate Issand</title>
+			<description>Uus Testament, Johannese ilmutus, 17:7-18 salm</description>
+			<pubDate>Mon, 17 Jan 2005 10:29:47 GMT</pubDate>
+			<itunes:title>Ilm 17:7-18 - Pea meeles: kes on Isandate Issand</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1413</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_ilmutus.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1413</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/66_Ilm/PKK_1411_080311.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ilm 18:1-20 - Paabeli häving</title>
+			<description>Uus Testament, Johannese ilmutus, 18:1-20 salm</description>
+			<pubDate>Tue, 18 Jan 2005 10:29:47 GMT</pubDate>
+			<itunes:title>Ilm 18:1-20 - Paabeli häving</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1414</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_ilmutus.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1414</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/66_Ilm/PKK_1412_090312.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ilm 18:21-19:8 - Halleluuja</title>
+			<description>Uus Testament, Johannese ilmutus, 18:21-19:8 salm</description>
+			<pubDate>Wed, 19 Jan 2005 10:29:47 GMT</pubDate>
+			<itunes:title>Ilm 18:21-19:8 - Halleluuja</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1415</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_ilmutus.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>1415</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/66_Ilm/PKK_1413_120312.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ilm 19:9-10 - Pruut ja hoor</title>
+			<description>Uus Testament, Johannese ilmutus, 19:9-10 salm</description>
+			<pubDate>Thu, 20 Jan 2005 10:29:47 GMT</pubDate>
+			<itunes:title>Ilm 19:9-10 - Pruut ja hoor</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1416</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_ilmutus.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1416</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/66_Ilm/PKK_1414_130312.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ilm 19:11-21 - Võit ja ratsanik</title>
+			<description>Uus Testament, Johannese ilmutus, 19:11-21 salm</description>
+			<pubDate>Fri, 21 Jan 2005 10:29:47 GMT</pubDate>
+			<itunes:title>Ilm 19:11-21 - Võit ja ratsanik</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1417</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_ilmutus.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1417</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/66_Ilm/PKK_1415_140312.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ilm 20:1-6 - Jumal päästab kurjaks</title>
+			<description>Uus Testament, Johannese ilmutus, 20:1-6 salm</description>
+			<pubDate>Sat, 22 Jan 2005 10:29:47 GMT</pubDate>
+			<itunes:title>Ilm 20:1-6 - Jumal päästab kurjaks</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1418</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_ilmutus.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1418</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/66_Ilm/PKK_1416_150312.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ilm 20:7-10 - Kuradi viimane rünnak</title>
+			<description>Uus Testament, Johannese ilmutus, 20:7-10 salm</description>
+			<pubDate>Sun, 23 Jan 2005 10:29:47 GMT</pubDate>
+			<itunes:title>Ilm 20:7-10 - Kuradi viimane rünnak</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1419</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_ilmutus.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1419</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/66_Ilm/PKK_1417_160312.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ilm 20:11-15 - Viimne kohus</title>
+			<description>Uus Testament, Johannese ilmutus, 20:11-15 salm</description>
+			<pubDate>Mon, 24 Jan 2005 10:29:47 GMT</pubDate>
+			<itunes:title>Ilm 20:11-15 - Viimne kohus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1420</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_ilmutus.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1420</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/66_Ilm/PKK_1418_190312.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ilm 21:1-5 - Uuus taevas ja uus maa</title>
+			<description>Uus Testament, Johannese ilmutus, 21:1-5 salm</description>
+			<pubDate>Tue, 25 Jan 2005 10:29:47 GMT</pubDate>
+			<itunes:title>Ilm 21:1-5 - Uuus taevas ja uus maa</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1421</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_ilmutus.png"/>
+			<itunes:duration>1788</itunes:duration>
+			<guid>1421</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/66_Ilm/PKK_1419_200312.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ilm 21:6-10 - Võitjate tasu</title>
+			<description>Uus Testament, Johannese ilmutus, 21:6-10 salm</description>
+			<pubDate>Wed, 26 Jan 2005 10:29:47 GMT</pubDate>
+			<itunes:title>Ilm 21:6-10 - Võitjate tasu</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1422</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_ilmutus.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1422</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/66_Ilm/PKK_1420_210312.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ilm 21:11-14 - Vaata ja imetle</title>
+			<description>Uus Testament, Johannese ilmutus, 21:11-14 salm</description>
+			<pubDate>Thu, 27 Jan 2005 10:29:47 GMT</pubDate>
+			<itunes:title>Ilm 21:11-14 - Vaata ja imetle</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1423</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_ilmutus.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1423</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/66_Ilm/PKK_1421_220312.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ilm 21:15-27 - Igavese rõõmu osalised</title>
+			<description>Uus Testament, Johannese ilmutus, 21:15-27 salm</description>
+			<pubDate>Fri, 28 Jan 2005 10:29:47 GMT</pubDate>
+			<itunes:title>Ilm 21:15-27 - Igavese rõõmu osalised</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1424</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_ilmutus.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1424</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/66_Ilm/PKK_1422_230312.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ilm 22:1-11 - Eluvee jõgi</title>
+			<description>Uus Testament, Johannese ilmutus, 22:1-11 salm</description>
+			<pubDate>Sat, 29 Jan 2005 10:29:47 GMT</pubDate>
+			<itunes:title>Ilm 22:1-11 - Eluvee jõgi</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1425</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_ilmutus.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>1425</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/66_Ilm/PKK_1423_260312.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ilm 22:12-21 - Issanda Jeesuse arm olgu Sinuga</title>
+			<description>Uus Testament, Johannese ilmutus, 22:12-21 salm</description>
+			<pubDate>Sun, 30 Jan 2005 10:29:47 GMT</pubDate>
+			<itunes:title>Ilm 22:12-21 - Issanda Jeesuse arm olgu Sinuga</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1426</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Johannese_ilmutus.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1426</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/66_Ilm/PKK_1424_270312.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+	</channel>
+</rss>

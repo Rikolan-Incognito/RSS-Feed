@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+	<channel>
+		<title>Neljas Moosese raamat</title>
+		<description>Piibliõppesarjas &quot;Piibel kaanest kaaneni&quot; loeb ja seletab õpetaja Aare Kimmel (EELK) salm-salmi kaupa ära terve Piibli, nii Vana kui Uue Testamendi raamatud, sidudes loetut tänapäevaga.</description>
+		<link>http://www.pereraadio.ee</link>
+		<language>es</language>
+		<image>
+			<url>https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Neljas_Moosese_raamat.png</url>
+			<title>Piibel kaanest kaaneni</title>
+			<link>http://www.pereraadio.ee</link>
+		</image>
+		<itunes:type>episodic</itunes:type>
+		<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+		<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Neljas_Moosese_raamat.png"/>
+		<itunes:category text="Education">
+		</itunes:category>
+
+		<item>
+			<title>4Ms 1:1-54 - Kas kõik on kohal</title>
+			<description>Vana Testament, Neljas Moosese raamat, 1:1-54 salm</description>
+			<pubDate>Sat, 04 Aug 2001 10:29:47 GMT</pubDate>
+			<itunes:title>4Ms 1:1-54 - Kas kõik on kohal</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>149</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Neljas_Moosese_raamat.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>149</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/04_4Ms/PKK_0297_200207.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>4Ms 2:1-3:13 - Jumal inimeste keskel</title>
+			<description>Vana Testament, Neljas Moosese raamat, 2:1-3:13 salm</description>
+			<pubDate>Sun, 05 Aug 2001 10:29:47 GMT</pubDate>
+			<itunes:title>4Ms 2:1-3:13 - Jumal inimeste keskel</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>150</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Neljas_Moosese_raamat.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>150</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/04_4Ms/PKK_0298_210207.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>4Ms 3:14-4:49 - Sa pole üleliigne</title>
+			<description>Vana Testament, Neljas Moosese raamat, 3:14-4:49 salm</description>
+			<pubDate>Mon, 06 Aug 2001 10:29:47 GMT</pubDate>
+			<itunes:title>4Ms 3:14-4:49 - Sa pole üleliigne</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>151</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Neljas_Moosese_raamat.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>151</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/04_4Ms/PKK_0299_220207.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>4Ms 5:1-6:4 - Kui mees on armukade</title>
+			<description>Vana Testament, Neljas Moosese raamat, 5:1-6:4 salm</description>
+			<pubDate>Tue, 07 Aug 2001 10:29:47 GMT</pubDate>
+			<itunes:title>4Ms 5:1-6:4 - Kui mees on armukade</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>152</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Neljas_Moosese_raamat.png"/>
+			<itunes:duration>1773</itunes:duration>
+			<guid>152</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/04_4Ms/PKK_0300_230207.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>4Ms 6:5-7:88 - Nasiir on Jumalale eraldatud</title>
+			<description>Vana Testament, Neljas Moosese raamat, 6:5-7:88 salm</description>
+			<pubDate>Wed, 08 Aug 2001 10:29:47 GMT</pubDate>
+			<itunes:title>4Ms 6:5-7:88 - Nasiir on Jumalale eraldatud</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>153</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Neljas_Moosese_raamat.png"/>
+			<itunes:duration>1772</itunes:duration>
+			<guid>153</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/04_4Ms/PKK_0301_260207.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>4Ms 7:89-9:23 - Paasatoit on kõigile</title>
+			<description>Vana Testament, Neljas Moosese raamat, 7:89-9:23 salm</description>
+			<pubDate>Thu, 09 Aug 2001 10:29:47 GMT</pubDate>
+			<itunes:title>4Ms 7:89-9:23 - Paasatoit on kõigile</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>154</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Neljas_Moosese_raamat.png"/>
+			<itunes:duration>1791</itunes:duration>
+			<guid>154</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/04_4Ms/PKK_0302_270207.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>4Ms 10:1-11:9 - Manna või Egiptuse küllus</title>
+			<description>Vana Testament, Neljas Moosese raamat, 10:1-11:9 salm</description>
+			<pubDate>Fri, 10 Aug 2001 10:29:47 GMT</pubDate>
+			<itunes:title>4Ms 10:1-11:9 - Manna või Egiptuse küllus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>155</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Neljas_Moosese_raamat.png"/>
+			<itunes:duration>1782</itunes:duration>
+			<guid>155</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/04_4Ms/PKK_0303_280207.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>4Ms 11:10-12:16 - Mooses oli alandlik</title>
+			<description>Vana Testament, Neljas Moosese raamat, 11:10-12:16 salm</description>
+			<pubDate>Sat, 11 Aug 2001 10:29:47 GMT</pubDate>
+			<itunes:title>4Ms 11:10-12:16 - Mooses oli alandlik</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>156</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Neljas_Moosese_raamat.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>156</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/04_4Ms/PKK_0304_010307.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>4Ms 13:1-14:4 - Waterloo</title>
+			<description>Vana Testament, Neljas Moosese raamat, 13:1-14:4 salm</description>
+			<pubDate>Sun, 12 Aug 2001 10:29:47 GMT</pubDate>
+			<itunes:title>4Ms 13:1-14:4 - Waterloo</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>157</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Neljas_Moosese_raamat.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>157</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/04_4Ms/PKK_0305_020307.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>4Ms 14:5-38 - Surma sõnad</title>
+			<description>Vana Testament, Neljas Moosese raamat, 14:5-38 salm</description>
+			<pubDate>Mon, 13 Aug 2001 10:29:47 GMT</pubDate>
+			<itunes:title>4Ms 14:5-38 - Surma sõnad</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>158</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Neljas_Moosese_raamat.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>158</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/04_4Ms/PKK_0306_050307.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>4Ms 14:39-15:41 - Mis nüüd saab</title>
+			<description>Vana Testament, Neljas Moosese raamat, 14:39-15:41 salm</description>
+			<pubDate>Tue, 14 Aug 2001 10:29:47 GMT</pubDate>
+			<itunes:title>4Ms 14:39-15:41 - Mis nüüd saab</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>159</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Neljas_Moosese_raamat.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>159</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/04_4Ms/PKK_0307_060307.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>4Ms 16:1-17:15 - Mässamine on hukatuslik</title>
+			<description>Vana Testament, Neljas Moosese raamat, 16:1-17:15 salm</description>
+			<pubDate>Wed, 15 Aug 2001 10:29:47 GMT</pubDate>
+			<itunes:title>4Ms 16:1-17:15 - Mässamine on hukatuslik</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>160</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Neljas_Moosese_raamat.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>160</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/04_4Ms/PKK_0308_070307.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>4Ms 17:16-18:32 - Surnu ärkab ellu</title>
+			<description>Vana Testament, Neljas Moosese raamat, 17:16-18:32 salm</description>
+			<pubDate>Thu, 16 Aug 2001 10:29:47 GMT</pubDate>
+			<itunes:title>4Ms 17:16-18:32 - Surnu ärkab ellu</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>161</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Neljas_Moosese_raamat.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>161</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/04_4Ms/PKK_0309_080307.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>4Ms 19:1-22 - Punase lehma sõnum</title>
+			<description>Vana Testament, Neljas Moosese raamat, 19:1-22 salm</description>
+			<pubDate>Fri, 17 Aug 2001 10:29:47 GMT</pubDate>
+			<itunes:title>4Ms 19:1-22 - Punase lehma sõnum</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>162</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Neljas_Moosese_raamat.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>162</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/04_4Ms/PKK_0310_090307.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>4Ms 20:1-21 - Kurtmiste tee</title>
+			<description>Vana Testament, Neljas Moosese raamat, 20:1-21 salm</description>
+			<pubDate>Sat, 18 Aug 2001 10:29:47 GMT</pubDate>
+			<itunes:title>4Ms 20:1-21 - Kurtmiste tee</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>163</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Neljas_Moosese_raamat.png"/>
+			<itunes:duration>1769</itunes:duration>
+			<guid>163</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/04_4Ms/PKK_0311_120307.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>4Ms 20:22-21:9 - Vaata ja ela</title>
+			<description>Vana Testament, Neljas Moosese raamat, 20:22-21:9 salm</description>
+			<pubDate>Sun, 19 Aug 2001 10:29:47 GMT</pubDate>
+			<itunes:title>4Ms 20:22-21:9 - Vaata ja ela</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>164</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Neljas_Moosese_raamat.png"/>
+			<itunes:duration>1768</itunes:duration>
+			<guid>164</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/04_4Ms/PKK_0312_130307.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>4Ms 21:10-22:6 - Rõõmus kaevulaul</title>
+			<description>Vana Testament, Neljas Moosese raamat, 21:10-22:6 salm</description>
+			<pubDate>Mon, 20 Aug 2001 10:29:47 GMT</pubDate>
+			<itunes:title>4Ms 21:10-22:6 - Rõõmus kaevulaul</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>165</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Neljas_Moosese_raamat.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>165</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/04_4Ms/PKK_0313_140307.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>4Ms 22:7-35 - Eesli jutlus</title>
+			<description>Vana Testament, Neljas Moosese raamat, 22:7-35 salm</description>
+			<pubDate>Tue, 21 Aug 2001 10:29:47 GMT</pubDate>
+			<itunes:title>4Ms 22:7-35 - Eesli jutlus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>166</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Neljas_Moosese_raamat.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>166</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/04_4Ms/PKK_0314_150307.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>4Ms 22:36-24:14 - Bileam õnnistab Iisraeli</title>
+			<description>Vana Testament, Neljas Moosese raamat, 22:36-24:14 salm</description>
+			<pubDate>Wed, 22 Aug 2001 10:29:47 GMT</pubDate>
+			<itunes:title>4Ms 22:36-24:14 - Bileam õnnistab Iisraeli</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>167</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Neljas_Moosese_raamat.png"/>
+			<itunes:duration>1794</itunes:duration>
+			<guid>167</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/04_4Ms/PKK_0315_160307.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>4Ms 24:15-25:18 - Nägija näeb Päästjat</title>
+			<description>Vana Testament, Neljas Moosese raamat, 24:15-25:18 salm</description>
+			<pubDate>Thu, 23 Aug 2001 10:29:47 GMT</pubDate>
+			<itunes:title>4Ms 24:15-25:18 - Nägija näeb Päästjat</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>168</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Neljas_Moosese_raamat.png"/>
+			<itunes:duration>1758</itunes:duration>
+			<guid>168</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/04_4Ms/PKK_0316_190307.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>4Ms 26:1-27:11 - Issand naiste õiguste eest</title>
+			<description>Vana Testament, Neljas Moosese raamat, 26:1-27:11 salm</description>
+			<pubDate>Fri, 24 Aug 2001 10:29:47 GMT</pubDate>
+			<itunes:title>4Ms 26:1-27:11 - Issand naiste õiguste eest</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>169</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Neljas_Moosese_raamat.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>169</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/04_4Ms/PKK_0317_200307.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>4Ms 27:12-29:36 - Täiuslikkuse püha</title>
+			<description>Vana Testament, Neljas Moosese raamat, 27:12-29:36 salm</description>
+			<pubDate>Sat, 25 Aug 2001 10:29:47 GMT</pubDate>
+			<itunes:title>4Ms 27:12-29:36 - Täiuslikkuse püha</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>170</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Neljas_Moosese_raamat.png"/>
+			<itunes:duration>1771</itunes:duration>
+			<guid>170</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/04_4Ms/PKK_0318_210307.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>4Ms 30:1-31:12 - Täida oma lubadused</title>
+			<description>Vana Testament, Neljas Moosese raamat, 30:1-31:12 salm</description>
+			<pubDate>Sun, 26 Aug 2001 10:29:47 GMT</pubDate>
+			<itunes:title>4Ms 30:1-31:12 - Täida oma lubadused</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>171</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Neljas_Moosese_raamat.png"/>
+			<itunes:duration>1779</itunes:duration>
+			<guid>171</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/04_4Ms/PKK_0319_220307.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>4Ms 31:13-32:15 - Üks silmapilk viha</title>
+			<description>Vana Testament, Neljas Moosese raamat, 31:13-32:15 salm</description>
+			<pubDate>Mon, 27 Aug 2001 10:29:47 GMT</pubDate>
+			<itunes:title>4Ms 31:13-32:15 - Üks silmapilk viha</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>172</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Neljas_Moosese_raamat.png"/>
+			<itunes:duration>1797</itunes:duration>
+			<guid>172</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/04_4Ms/PKK_0320_230307.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>4Ms 32:16-33:49 - Libnasse siis Rissasse</title>
+			<description>Vana Testament, Neljas Moosese raamat, 32:16-33:49 salm</description>
+			<pubDate>Tue, 28 Aug 2001 10:29:47 GMT</pubDate>
+			<itunes:title>4Ms 32:16-33:49 - Libnasse siis Rissasse</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>173</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Neljas_Moosese_raamat.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>173</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/04_4Ms/PKK_0321_260307.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>4Ms 33:50-36:13 - Mine turvapaika</title>
+			<description>Vana Testament, Neljas Moosese raamat, 33:50-36:13 salm</description>
+			<pubDate>Wed, 29 Aug 2001 10:29:47 GMT</pubDate>
+			<itunes:title>4Ms 33:50-36:13 - Mine turvapaika</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>174</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Neljas_Moosese_raamat.png"/>
+			<itunes:duration>1774</itunes:duration>
+			<guid>174</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/04_4Ms/PKK_0322_270307.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+	</channel>
+</rss>

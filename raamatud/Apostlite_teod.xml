@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+	<channel>
+		<title>Apostlite teod</title>
+		<description>Piibliõppesarjas &quot;Piibel kaanest kaaneni&quot; loeb ja seletab õpetaja Aare Kimmel (EELK) salm-salmi kaupa ära terve Piibli, nii Vana kui Uue Testamendi raamatud, sidudes loetut tänapäevaga.</description>
+		<link>http://www.pereraadio.ee</link>
+		<language>es</language>
+		<image>
+			<url>https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Apostlite_teod.png</url>
+			<title>Piibel kaanest kaaneni</title>
+			<link>http://www.pereraadio.ee</link>
+		</image>
+		<itunes:type>episodic</itunes:type>
+		<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+		<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Apostlite_teod.png"/>
+		<itunes:category text="Education">
+		</itunes:category>
+
+		<item>
+			<title>Ap 1:1-8 - Apostlite teod</title>
+			<description>Uus Testament, Apostlite teod, 1:1-8 salm</description>
+			<pubDate>Sun, 23 Nov 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ap 1:1-8 - Apostlite teod</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>991</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Apostlite_teod.png"/>
+			<itunes:duration>1785</itunes:duration>
+			<guid>991</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/44_Ap/PKK_0412_050907.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ap 1:9-2:1 - Uues apostli valimine</title>
+			<description>Uus Testament, Apostlite teod, 1:9-2:1 salm</description>
+			<pubDate>Mon, 24 Nov 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ap 1:9-2:1 - Uues apostli valimine</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>992</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Apostlite_teod.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>992</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/44_Ap/PKK_0413_060907.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ap 2:2-21 - Kogudus sünnib</title>
+			<description>Uus Testament, Apostlite teod, 2:2-21 salm</description>
+			<pubDate>Tue, 25 Nov 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ap 2:2-21 - Kogudus sünnib</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>993</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Apostlite_teod.png"/>
+			<itunes:duration>1755</itunes:duration>
+			<guid>993</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/44_Ap/PKK_0414_070907.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ap 2:22-41 - Peetrus kuulutab Jeesust</title>
+			<description>Uus Testament, Apostlite teod, 2:22-41 salm</description>
+			<pubDate>Wed, 26 Nov 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ap 2:22-41 - Peetrus kuulutab Jeesust</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>994</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Apostlite_teod.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>994</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/44_Ap/PKK_0415_100907.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ap 2:42-3:26 - Elust algkoguduses</title>
+			<description>Uus Testament, Apostlite teod, 2:42-3:26 salm</description>
+			<pubDate>Thu, 27 Nov 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ap 2:42-3:26 - Elust algkoguduses</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>995</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Apostlite_teod.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>995</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/44_Ap/PKK_0416_110907.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ap 4:1-31 - Esimene tagakius</title>
+			<description>Uus Testament, Apostlite teod, 4:1-31 salm</description>
+			<pubDate>Fri, 28 Nov 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ap 4:1-31 - Esimene tagakius</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>996</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Apostlite_teod.png"/>
+			<itunes:duration>1797</itunes:duration>
+			<guid>996</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/44_Ap/PKK_0417_120907.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ap 4:32-5:42 - Valel on lühikesed jalad</title>
+			<description>Uus Testament, Apostlite teod, 4:32-5:42 salm</description>
+			<pubDate>Sat, 29 Nov 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ap 4:32-5:42 - Valel on lühikesed jalad</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>997</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Apostlite_teod.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>997</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/44_Ap/PKK_0418_130907.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ap 6:1-7:16 - Vastutust maksab jagada</title>
+			<description>Uus Testament, Apostlite teod, 6:1-7:16 salm</description>
+			<pubDate>Sun, 30 Nov 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ap 6:1-7:16 - Vastutust maksab jagada</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>998</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Apostlite_teod.png"/>
+			<itunes:duration>1797</itunes:duration>
+			<guid>998</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/44_Ap/PKK_0419_140907.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ap 7:17-60 - Esimene kristlasest märter</title>
+			<description>Uus Testament, Apostlite teod, 7:17-60 salm</description>
+			<pubDate>Mon, 01 Dec 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ap 7:17-60 - Esimene kristlasest märter</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>999</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Apostlite_teod.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>999</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/44_Ap/PKK_0420_170907.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ap 8:1:25 - Ärkamine Samaarias</title>
+			<description>Uus Testament, Apostlite teod, 8:1:25 salm</description>
+			<pubDate>Tue, 02 Dec 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ap 8:1:25 - Ärkamine Samaarias</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1000</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Apostlite_teod.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>1000</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/44_Ap/PKK_0421_180907.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ap 8:26-9:9 - Filippus ja Saulus</title>
+			<description>Uus Testament, Apostlite teod, 8:26-9:9 salm</description>
+			<pubDate>Wed, 03 Dec 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ap 8:26-9:9 - Filippus ja Saulus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1001</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Apostlite_teod.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1001</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/44_Ap/PKK_0422_190907.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ap 9:10-31 - Tagakiusajast tagakiusatuks</title>
+			<description>Uus Testament, Apostlite teod, 9:10-31 salm</description>
+			<pubDate>Thu, 04 Dec 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ap 9:10-31 - Tagakiusajast tagakiusatuks</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1002</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Apostlite_teod.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1002</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/44_Ap/PKK_0423_200907.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ap 9:32-10:22 - Peetruse vapustus</title>
+			<description>Uus Testament, Apostlite teod, 9:32-10:22 salm</description>
+			<pubDate>Fri, 05 Dec 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ap 9:32-10:22 - Peetruse vapustus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1003</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Apostlite_teod.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>1003</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/44_Ap/PKK_0424_210907.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ap 10:23-48 - Kui tükid läksid paika</title>
+			<description>Uus Testament, Apostlite teod, 10:23-48 salm</description>
+			<pubDate>Sat, 06 Dec 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ap 10:23-48 - Kui tükid läksid paika</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1004</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Apostlite_teod.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1004</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/44_Ap/PKK_0425_240907.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ap 11:1-30 - Ärkamine Antiookias</title>
+			<description>Uus Testament, Apostlite teod, 11:1-30 salm</description>
+			<pubDate>Sun, 07 Dec 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ap 11:1-30 - Ärkamine Antiookias</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1005</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Apostlite_teod.png"/>
+			<itunes:duration>1766</itunes:duration>
+			<guid>1005</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/44_Ap/PKK_0426_250907.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ap 12:1-25 - Tagakiusud jätkuvad</title>
+			<description>Uus Testament, Apostlite teod, 12:1-25 salm</description>
+			<pubDate>Mon, 08 Dec 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ap 12:1-25 - Tagakiusud jätkuvad</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1006</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Apostlite_teod.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1006</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/44_Ap/PKK_0427_260907.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ap 13:1-13 - Saadikuteks õnnistatud</title>
+			<description>Uus Testament, Apostlite teod, 13:1-13 salm</description>
+			<pubDate>Tue, 09 Dec 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ap 13:1-13 - Saadikuteks õnnistatud</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1007</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Apostlite_teod.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>1007</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/44_Ap/PKK_0428_270907.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ap 13:14-52 - Sõna äratab viha ja rõõmu</title>
+			<description>Uus Testament, Apostlite teod, 13:14-52 salm</description>
+			<pubDate>Wed, 10 Dec 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ap 13:14-52 - Sõna äratab viha ja rõõmu</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1008</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Apostlite_teod.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>1008</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/44_Ap/PKK_0429_280907.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ap 14:1-28 - Kividega peaaegu surnuks visatud</title>
+			<description>Uus Testament, Apostlite teod, 14:1-28 salm</description>
+			<pubDate>Thu, 11 Dec 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ap 14:1-28 - Kividega peaaegu surnuks visatud</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1009</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Apostlite_teod.png"/>
+			<itunes:duration>1796</itunes:duration>
+			<guid>1009</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/44_Ap/PKK_0430_011007.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ap 15:1-21 - Esimene kirikukogu</title>
+			<description>Uus Testament, Apostlite teod, 15:1-21 salm</description>
+			<pubDate>Fri, 12 Dec 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ap 15:1-21 - Esimene kirikukogu</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1010</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Apostlite_teod.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1010</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/44_Ap/PKK_0431_021007.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ap 15:22-16:8 - Jeruusalemmast Troasse</title>
+			<description>Uus Testament, Apostlite teod, 15:22-16:8 salm</description>
+			<pubDate>Sat, 13 Dec 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ap 15:22-16:8 - Jeruusalemmast Troasse</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1011</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Apostlite_teod.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1011</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/44_Ap/PKK_0432_031007.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ap 16:9-40 - Evangeelium jõuab Euroopasse</title>
+			<description>Uus Testament, Apostlite teod, 16:9-40 salm</description>
+			<pubDate>Sun, 14 Dec 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ap 16:9-40 - Evangeelium jõuab Euroopasse</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1012</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Apostlite_teod.png"/>
+			<itunes:duration>1789</itunes:duration>
+			<guid>1012</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/44_Ap/PKK_0433_041007.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ap 17:1-21 - Kogu maailma hullutajad</title>
+			<description>Uus Testament, Apostlite teod, 17:1-21 salm</description>
+			<pubDate>Mon, 15 Dec 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ap 17:1-21 - Kogu maailma hullutajad</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1013</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Apostlite_teod.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1013</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/44_Ap/PKK_0434_051007.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ap 17:23-18:1 - Kas Jumal on tundmatu</title>
+			<description>Uus Testament, Apostlite teod, 17:23-18:1 salm</description>
+			<pubDate>Tue, 16 Dec 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ap 17:23-18:1 - Kas Jumal on tundmatu</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1014</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Apostlite_teod.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>1014</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/44_Ap/PKK_0435_081007.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ap 18:2-23 - Paulus Korintoses</title>
+			<description>Uus Testament, Apostlite teod, 18:2-23 salm</description>
+			<pubDate>Wed, 17 Dec 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ap 18:2-23 - Paulus Korintoses</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1015</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Apostlite_teod.png"/>
+			<itunes:duration>1777</itunes:duration>
+			<guid>1015</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/44_Ap/PKK_0436_091007.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ap 18:24-19:20 - Miljonite eurode tuleriit</title>
+			<description>Uus Testament, Apostlite teod, 18:24-19:20 salm</description>
+			<pubDate>Thu, 18 Dec 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ap 18:24-19:20 - Miljonite eurode tuleriit</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1016</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Apostlite_teod.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1016</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/44_Ap/PKK_0437_101007.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ap 19:21-20:12 - Õnnelik noormees</title>
+			<description>Uus Testament, Apostlite teod, 19:21-20:12 salm</description>
+			<pubDate>Fri, 19 Dec 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ap 19:21-20:12 - Õnnelik noormees</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1017</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Apostlite_teod.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1017</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/44_Ap/PKK_0438_111007.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ap 20:13-21:9 - Hüvastijätuaeg</title>
+			<description>Uus Testament, Apostlite teod, 20:13-21:9 salm</description>
+			<pubDate>Sat, 20 Dec 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ap 20:13-21:9 - Hüvastijätuaeg</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1018</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Apostlite_teod.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1018</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/44_Ap/PKK_0439_121007.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ap 21:10-40 - Möll Jeruusalemmas</title>
+			<description>Uus Testament, Apostlite teod, 21:10-40 salm</description>
+			<pubDate>Sun, 21 Dec 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ap 21:10-40 - Möll Jeruusalemmas</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1019</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Apostlite_teod.png"/>
+			<itunes:duration>1772</itunes:duration>
+			<guid>1019</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/44_Ap/PKK_0440_151007.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ap 22:1-23:5 - Sünnikohtki pole juhus</title>
+			<description>Uus Testament, Apostlite teod, 22:1-23:5 salm</description>
+			<pubDate>Mon, 22 Dec 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ap 22:1-23:5 - Sünnikohtki pole juhus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1020</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Apostlite_teod.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1020</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/44_Ap/PKK_0441_161007.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ap 23:6-24:9 - Vandenõu tuli ilmsiks</title>
+			<description>Uus Testament, Apostlite teod, 23:6-24:9 salm</description>
+			<pubDate>Tue, 23 Dec 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ap 23:6-24:9 - Vandenõu tuli ilmsiks</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1021</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Apostlite_teod.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1021</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/44_Ap/PKK_0442_171007.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ap 24:10-25:22 - Paulus poliitiliselt kuum kartul</title>
+			<description>Uus Testament, Apostlite teod, 24:10-25:22 salm</description>
+			<pubDate>Wed, 24 Dec 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ap 24:10-25:22 - Paulus poliitiliselt kuum kartul</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1022</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Apostlite_teod.png"/>
+			<itunes:duration>1787</itunes:duration>
+			<guid>1022</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/44_Ap/PKK_0443_181007.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ap 25:23-26:32 - Jutlus kuningale</title>
+			<description>Uus Testament, Apostlite teod, 25:23-26:32 salm</description>
+			<pubDate>Thu, 25 Dec 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ap 25:23-26:32 - Jutlus kuningale</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1023</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Apostlite_teod.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1023</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/44_Ap/PKK_0444_191007.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ap 27:1-44 - Hirmsa tormi ja pimeduse haardes</title>
+			<description>Uus Testament, Apostlite teod, 27:1-44 salm</description>
+			<pubDate>Fri, 26 Dec 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ap 27:1-44 - Hirmsa tormi ja pimeduse haardes</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1024</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Apostlite_teod.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>1024</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/44_Ap/PKK_0445_221007.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Ap 28:1-31 - Lõpuks ometi Roomas</title>
+			<description>Uus Testament, Apostlite teod, 28:1-31 salm</description>
+			<pubDate>Sat, 27 Dec 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Ap 28:1-31 - Lõpuks ometi Roomas</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1025</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Apostlite_teod.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1025</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/44_Ap/PKK_0446_231007.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+	</channel>
+</rss>

@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+	<channel>
+		<title>Pauluse kiri koloslastele</title>
+		<description>Piibliõppesarjas &quot;Piibel kaanest kaaneni&quot; loeb ja seletab õpetaja Aare Kimmel (EELK) salm-salmi kaupa ära terve Piibli, nii Vana kui Uue Testamendi raamatud, sidudes loetut tänapäevaga.</description>
+		<link>http://www.pereraadio.ee</link>
+		<language>es</language>
+		<image>
+			<url>https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_koloslastele.png</url>
+			<title>Piibel kaanest kaaneni</title>
+			<link>http://www.pereraadio.ee</link>
+		</image>
+		<itunes:type>episodic</itunes:type>
+		<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+		<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_koloslastele.png"/>
+		<itunes:category text="Education">
+		</itunes:category>
+
+		<item>
+			<title>Kl 1:1-2 - Sissejuhatus Kolossa kirja</title>
+			<description>Uus Testament, Pauluse kiri koloslastele, 1:1-2 salm</description>
+			<pubDate>Sat, 29 May 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Kl 1:1-2 - Sissejuhatus Kolossa kirja</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1179</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_koloslastele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1179</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/51_Kl/PKK_0891_121009.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Kl 1:3-8 - Usk: armastus ja lootus</title>
+			<description>Uus Testament, Pauluse kiri koloslastele, 1:3-8 salm</description>
+			<pubDate>Sun, 30 May 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Kl 1:3-8 - Usk: armastus ja lootus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1180</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_koloslastele.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>1180</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/51_Kl/PKK_0892_131009.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Kl 1:9-15 - Jeesus Kristus on Jumal</title>
+			<description>Uus Testament, Pauluse kiri koloslastele, 1:9-15 salm</description>
+			<pubDate>Mon, 31 May 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Kl 1:9-15 - Jeesus Kristus on Jumal</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1181</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_koloslastele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1181</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/51_Kl/PKK_0893_141009.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Kl 1:16-20 - Võimas Kristus</title>
+			<description>Uus Testament, Pauluse kiri koloslastele, 1:16-20 salm</description>
+			<pubDate>Tue, 01 Jun 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Kl 1:16-20 - Võimas Kristus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1182</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_koloslastele.png"/>
+			<itunes:duration>1779</itunes:duration>
+			<guid>1182</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/51_Kl/PKK_0894_151009.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Kl 1:21-24 - Kannatuste osalised</title>
+			<description>Uus Testament, Pauluse kiri koloslastele, 1:21-24 salm</description>
+			<pubDate>Wed, 02 Jun 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Kl 1:21-24 - Kannatuste osalised</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1183</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_koloslastele.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>1183</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/51_Kl/PKK_0895_161009.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Kl 1:25-2:1 - Kristus on Jumala saladus</title>
+			<description>Uus Testament, Pauluse kiri koloslastele, 1:25-2:1 salm</description>
+			<pubDate>Thu, 03 Jun 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Kl 1:25-2:1 - Kristus on Jumala saladus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1184</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_koloslastele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1184</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/51_Kl/PKK_0896_191009.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Kl 2:2-7 - Tunnetuse aarded on Kristuses</title>
+			<description>Uus Testament, Pauluse kiri koloslastele, 2:2-7 salm</description>
+			<pubDate>Fri, 04 Jun 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Kl 2:2-7 - Tunnetuse aarded on Kristuses</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1185</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_koloslastele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1185</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/51_Kl/PKK_0897_201009.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Kl 2:8-13 - Jumal ei areta liha</title>
+			<description>Uus Testament, Pauluse kiri koloslastele, 2:8-13 salm</description>
+			<pubDate>Sat, 05 Jun 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Kl 2:8-13 - Jumal ei areta liha</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1186</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_koloslastele.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>1186</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/51_Kl/PKK_0898_211009.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Kl 2:13-19 - Häbistatud jõud</title>
+			<description>Uus Testament, Pauluse kiri koloslastele, 2:13-19 salm</description>
+			<pubDate>Sun, 06 Jun 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Kl 2:13-19 - Häbistatud jõud</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1187</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_koloslastele.png"/>
+			<itunes:duration>1776</itunes:duration>
+			<guid>1187</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/51_Kl/PKK_0899_221009.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Kl 2:20-3:4 - Pea meeles Kristus on Päästja</title>
+			<description>Uus Testament, Pauluse kiri koloslastele, 2:20-3:4 salm</description>
+			<pubDate>Mon, 07 Jun 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Kl 2:20-3:4 - Pea meeles Kristus on Päästja</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1188</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_koloslastele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1188</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/51_Kl/PKK_0900_231009.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Kl 3:5-8 - Karjuv ebakõla</title>
+			<description>Uus Testament, Pauluse kiri koloslastele, 3:5-8 salm</description>
+			<pubDate>Tue, 08 Jun 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Kl 3:5-8 - Karjuv ebakõla</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1189</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_koloslastele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1189</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/51_Kl/PKK_0901_261009.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Kl 3:9-15 - Eraldavad aiad langevad</title>
+			<description>Uus Testament, Pauluse kiri koloslastele, 3:9-15 salm</description>
+			<pubDate>Wed, 09 Jun 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Kl 3:9-15 - Eraldavad aiad langevad</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1190</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_koloslastele.png"/>
+			<itunes:duration>1739</itunes:duration>
+			<guid>1190</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/51_Kl/PKK_0902_271009.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Kl 3:16-21 - Ära riku last</title>
+			<description>Uus Testament, Pauluse kiri koloslastele, 3:16-21 salm</description>
+			<pubDate>Thu, 10 Jun 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Kl 3:16-21 - Ära riku last</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1191</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_koloslastele.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>1191</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/51_Kl/PKK_0903_281009.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Kl 3:22-4:6 - Tee kõike nagu Issandale</title>
+			<description>Uus Testament, Pauluse kiri koloslastele, 3:22-4:6 salm</description>
+			<pubDate>Fri, 11 Jun 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Kl 3:22-4:6 - Tee kõike nagu Issandale</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1192</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_koloslastele.png"/>
+			<itunes:duration>1780</itunes:duration>
+			<guid>1192</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/51_Kl/PKK_0904_291009.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Kl 4:7-18 - Arm olgu sinuga</title>
+			<description>Uus Testament, Pauluse kiri koloslastele, 4:7-18 salm</description>
+			<pubDate>Sat, 12 Jun 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Kl 4:7-18 - Arm olgu sinuga</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1193</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_koloslastele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1193</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/51_Kl/PKK_0905_301009.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+	</channel>
+</rss>

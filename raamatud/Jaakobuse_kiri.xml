@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+	<channel>
+		<title>Jaakobuse kiri</title>
+		<description>Piibliõppesarjas &quot;Piibel kaanest kaaneni&quot; loeb ja seletab õpetaja Aare Kimmel (EELK) salm-salmi kaupa ära terve Piibli, nii Vana kui Uue Testamendi raamatud, sidudes loetut tänapäevaga.</description>
+		<link>http://www.pereraadio.ee</link>
+		<language>es</language>
+		<image>
+			<url>https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jaakobuse_kiri.png</url>
+			<title>Piibel kaanest kaaneni</title>
+			<link>http://www.pereraadio.ee</link>
+		</image>
+		<itunes:type>episodic</itunes:type>
+		<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+		<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jaakobuse_kiri.png"/>
+		<itunes:category text="Education">
+		</itunes:category>
+
+		<item>
+			<title>Sissejuhatus Jaakobuse kirja</title>
+			<description>Uus Testament, Jaakobuse kiri, Jaakobuse salm</description>
+			<pubDate>Tue, 07 Sep 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Sissejuhatus Jaakobuse kirja</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1280</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jaakobuse_kiri.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>1280</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/59_Jk/PKK_1157_070111.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jk 1:1 - Mis mees oli Jaakobus?</title>
+			<description>Uus Testament, Jaakobuse kiri, 1:1 salm</description>
+			<pubDate>Wed, 08 Sep 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Jk 1:1 - Mis mees oli Jaakobus?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1281</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jaakobuse_kiri.png"/>
+			<itunes:duration>1797</itunes:duration>
+			<guid>1281</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/59_Jk/PKK_1158_100111.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jk 1:2-4 - Katsumuste koolis</title>
+			<description>Uus Testament, Jaakobuse kiri, 1:2-4 salm</description>
+			<pubDate>Thu, 09 Sep 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Jk 1:2-4 - Katsumuste koolis</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1282</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jaakobuse_kiri.png"/>
+			<itunes:duration>1769</itunes:duration>
+			<guid>1282</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/59_Jk/PKK_1159_110111.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jk 1:4-11 - Tarkus näeb kaugemale</title>
+			<description>Uus Testament, Jaakobuse kiri, 1:4-11 salm</description>
+			<pubDate>Fri, 10 Sep 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Jk 1:4-11 - Tarkus näeb kaugemale</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1283</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jaakobuse_kiri.png"/>
+			<itunes:duration>1797</itunes:duration>
+			<guid>1283</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/59_Jk/PKK_1160_120111.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jk 1:12-15 - Himu laps</title>
+			<description>Uus Testament, Jaakobuse kiri, 1:12-15 salm</description>
+			<pubDate>Sat, 11 Sep 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Jk 1:12-15 - Himu laps</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1284</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jaakobuse_kiri.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>1284</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/59_Jk/PKK_1161_130111.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jk 1:16-19 - Jumal ei muutu</title>
+			<description>Uus Testament, Jaakobuse kiri, 1:16-19 salm</description>
+			<pubDate>Sun, 12 Sep 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Jk 1:16-19 - Jumal ei muutu</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1285</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jaakobuse_kiri.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>1285</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/59_Jk/PKK_1162_140111.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jk 1:19-22 - Üks suu ja kaks kõrva</title>
+			<description>Uus Testament, Jaakobuse kiri, 1:19-22 salm</description>
+			<pubDate>Mon, 13 Sep 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Jk 1:19-22 - Üks suu ja kaks kõrva</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1286</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jaakobuse_kiri.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1286</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/59_Jk/PKK_1163_170111.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jk 1:22-2:1 - Mida peegel räägib?</title>
+			<description>Uus Testament, Jaakobuse kiri, 1:22-2:1 salm</description>
+			<pubDate>Tue, 14 Sep 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Jk 1:22-2:1 - Mida peegel räägib?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1287</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jaakobuse_kiri.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1287</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/59_Jk/PKK_1164_180111.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jk 2:1-7 - Ära tee inimeste vahel vahet</title>
+			<description>Uus Testament, Jaakobuse kiri, 2:1-7 salm</description>
+			<pubDate>Wed, 15 Sep 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Jk 2:1-7 - Ära tee inimeste vahel vahet</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1288</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jaakobuse_kiri.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>1288</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/59_Jk/PKK_1165_190111.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jk 2:8-13 - Aeg ennast läbi katsuda</title>
+			<description>Uus Testament, Jaakobuse kiri, 2:8-13 salm</description>
+			<pubDate>Thu, 16 Sep 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Jk 2:8-13 - Aeg ennast läbi katsuda</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1289</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jaakobuse_kiri.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>1289</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/59_Jk/PKK_1166_200111.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jk 2:14-26 - Usk ja teod</title>
+			<description>Uus Testament, Jaakobuse kiri, 2:14-26 salm</description>
+			<pubDate>Fri, 17 Sep 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Jk 2:14-26 - Usk ja teod</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1290</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jaakobuse_kiri.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1290</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/59_Jk/PKK_1167_210111.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jk 3:1-6 - Kes suudab taltsutada keelt?</title>
+			<description>Uus Testament, Jaakobuse kiri, 3:1-6 salm</description>
+			<pubDate>Sat, 18 Sep 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Jk 3:1-6 - Kes suudab taltsutada keelt?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1291</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jaakobuse_kiri.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1291</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/59_Jk/PKK_1168_240111.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jk 3:7-18 - Kas jagan mürki või elu?</title>
+			<description>Uus Testament, Jaakobuse kiri, 3:7-18 salm</description>
+			<pubDate>Sun, 19 Sep 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Jk 3:7-18 - Kas jagan mürki või elu?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1292</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jaakobuse_kiri.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>1292</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/59_Jk/PKK_1169_250111.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jk 4:1-4 - Mis on maailmalikkus</title>
+			<description>Uus Testament, Jaakobuse kiri, 4:1-4 salm</description>
+			<pubDate>Mon, 20 Sep 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Jk 4:1-4 - Mis on maailmalikkus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1293</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jaakobuse_kiri.png"/>
+			<itunes:duration>1782</itunes:duration>
+			<guid>1293</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/59_Jk/PKK_1170_260111.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jk 4:5-17 - Kas ülendan ennast?</title>
+			<description>Uus Testament, Jaakobuse kiri, 4:5-17 salm</description>
+			<pubDate>Tue, 21 Sep 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Jk 4:5-17 - Kas ülendan ennast?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1294</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jaakobuse_kiri.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1294</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/59_Jk/PKK_1171_270111.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jk 5:1-12 - Rikkuse ohud</title>
+			<description>Uus Testament, Jaakobuse kiri, 5:1-12 salm</description>
+			<pubDate>Wed, 22 Sep 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Jk 5:1-12 - Rikkuse ohud</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1295</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jaakobuse_kiri.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>1295</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/59_Jk/PKK_1172_280111.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jk 5:13-20 - Palveta julgesti</title>
+			<description>Uus Testament, Jaakobuse kiri, 5:13-20 salm</description>
+			<pubDate>Thu, 23 Sep 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Jk 5:13-20 - Palveta julgesti</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1296</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Jaakobuse_kiri.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1296</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/59_Jk/PKK_1173_310111.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+	</channel>
+</rss>

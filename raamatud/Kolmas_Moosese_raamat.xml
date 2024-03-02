@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+	<channel>
+		<title>Kolmas Moosese raamat</title>
+		<description>Piibliõppesarjas &quot;Piibel kaanest kaaneni&quot; loeb ja seletab õpetaja Aare Kimmel (EELK) salm-salmi kaupa ära terve Piibli, nii Vana kui Uue Testamendi raamatud, sidudes loetut tänapäevaga.</description>
+		<link>http://www.pereraadio.ee</link>
+		<language>es</language>
+		<image>
+			<url>https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kolmas_Moosese_raamat.png</url>
+			<title>Piibel kaanest kaaneni</title>
+			<link>http://www.pereraadio.ee</link>
+		</image>
+		<itunes:type>episodic</itunes:type>
+		<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+		<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kolmas_Moosese_raamat.png"/>
+		<itunes:category text="Education">
+		</itunes:category>
+
+		<item>
+			<title>3Ms 1:1-4 - Sissejuhatus 3. Moosese kirja / Tegemist on pühadusega</title>
+			<description>Vana Testament, Kolmas Moosese raamat, 1:1-4 salm</description>
+			<pubDate>Thu, 05 Jul 2001 10:29:47 GMT</pubDate>
+			<itunes:title>3Ms 1:1-4 - Sissejuhatus 3. Moosese kirja / Tegemist on pühadusega</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>119</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kolmas_Moosese_raamat.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>119</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/03_3Ms/PKK_0221_061106.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>3Ms 1:5-2:10 - Puhtad jahud</title>
+			<description>Vana Testament, Kolmas Moosese raamat, 1:5-2:10 salm</description>
+			<pubDate>Fri, 06 Jul 2001 10:29:47 GMT</pubDate>
+			<itunes:title>3Ms 1:5-2:10 - Puhtad jahud</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>120</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kolmas_Moosese_raamat.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>120</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/03_3Ms/PKK_0222_071106.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>3Ms 2:11-3:17 - Parim kuulub Jumalale</title>
+			<description>Vana Testament, Kolmas Moosese raamat, 2:11-3:17 salm</description>
+			<pubDate>Sat, 07 Jul 2001 10:29:47 GMT</pubDate>
+			<itunes:title>3Ms 2:11-3:17 - Parim kuulub Jumalale</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>121</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kolmas_Moosese_raamat.png"/>
+			<itunes:duration>1775</itunes:duration>
+			<guid>121</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/03_3Ms/PKK_0223_081106.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>3Ms 4:1-15 - Kas on tahtmatuid patte?</title>
+			<description>Vana Testament, Kolmas Moosese raamat, 4:1-15 salm</description>
+			<pubDate>Sun, 08 Jul 2001 10:29:47 GMT</pubDate>
+			<itunes:title>3Ms 4:1-15 - Kas on tahtmatuid patte?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>122</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kolmas_Moosese_raamat.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>122</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/03_3Ms/PKK_0224_091106.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>3Ms 4:22-5:13 - Ka vaene saab andeks</title>
+			<description>Vana Testament, Kolmas Moosese raamat, 4:22-5:13 salm</description>
+			<pubDate>Mon, 09 Jul 2001 10:29:47 GMT</pubDate>
+			<itunes:title>3Ms 4:22-5:13 - Ka vaene saab andeks</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>123</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kolmas_Moosese_raamat.png"/>
+			<itunes:duration>1773</itunes:duration>
+			<guid>123</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/03_3Ms/PKK_0225_101106.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>3Ms 5:14-6:11 - Ka rumal saab andeks</title>
+			<description>Vana Testament, Kolmas Moosese raamat, 5:14-6:11 salm</description>
+			<pubDate>Tue, 10 Jul 2001 10:29:47 GMT</pubDate>
+			<itunes:title>3Ms 5:14-6:11 - Ka rumal saab andeks</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>124</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kolmas_Moosese_raamat.png"/>
+			<itunes:duration>1796</itunes:duration>
+			<guid>124</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/03_3Ms/PKK_0226_131106.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>3Ms 6:12-7:21 - Puudustega kuid täiuslik</title>
+			<description>Vana Testament, Kolmas Moosese raamat, 6:12-7:21 salm</description>
+			<pubDate>Wed, 11 Jul 2001 10:29:47 GMT</pubDate>
+			<itunes:title>3Ms 6:12-7:21 - Puudustega kuid täiuslik</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>125</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kolmas_Moosese_raamat.png"/>
+			<itunes:duration>1793</itunes:duration>
+			<guid>125</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/03_3Ms/PKK_0227_141106.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>3Ms 7:22-8:6 - Üllatav ristimärk</title>
+			<description>Vana Testament, Kolmas Moosese raamat, 7:22-8:6 salm</description>
+			<pubDate>Thu, 12 Jul 2001 10:29:47 GMT</pubDate>
+			<itunes:title>3Ms 7:22-8:6 - Üllatav ristimärk</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>126</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kolmas_Moosese_raamat.png"/>
+			<itunes:duration>1797</itunes:duration>
+			<guid>126</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/03_3Ms/PKK_0228_151106.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>3Ms 8:7-36 - Aaron pühitsetakse ülempreestriks</title>
+			<description>Vana Testament, Kolmas Moosese raamat, 8:7-36 salm</description>
+			<pubDate>Fri, 13 Jul 2001 10:29:47 GMT</pubDate>
+			<itunes:title>3Ms 8:7-36 - Aaron pühitsetakse ülempreestriks</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>127</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kolmas_Moosese_raamat.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>127</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/03_3Ms/PKK_0229_161106.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>3Ms 9:1-24 - Tühjad käed</title>
+			<description>Vana Testament, Kolmas Moosese raamat, 9:1-24 salm</description>
+			<pubDate>Sat, 14 Jul 2001 10:29:47 GMT</pubDate>
+			<itunes:title>3Ms 9:1-24 - Tühjad käed</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>128</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kolmas_Moosese_raamat.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>128</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/03_3Ms/PKK_0230_171106.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>3Ms 10:1-20 - Preestriameti kurb algus</title>
+			<description>Vana Testament, Kolmas Moosese raamat, 10:1-20 salm</description>
+			<pubDate>Sun, 15 Jul 2001 10:29:47 GMT</pubDate>
+			<itunes:title>3Ms 10:1-20 - Preestriameti kurb algus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>129</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kolmas_Moosese_raamat.png"/>
+			<itunes:duration>1777</itunes:duration>
+			<guid>129</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/03_3Ms/PKK_0231_201106.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>3Ms 11:1-23 - Mis täna toiduks on?</title>
+			<description>Vana Testament, Kolmas Moosese raamat, 11:1-23 salm</description>
+			<pubDate>Mon, 16 Jul 2001 10:29:47 GMT</pubDate>
+			<itunes:title>3Ms 11:1-23 - Mis täna toiduks on?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>130</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kolmas_Moosese_raamat.png"/>
+			<itunes:duration>1785</itunes:duration>
+			<guid>130</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/03_3Ms/PKK_0232_211106.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>3Ms 11:24-47 - Kas kohvi kõrvale geko?</title>
+			<description>Vana Testament, Kolmas Moosese raamat, 11:24-47 salm</description>
+			<pubDate>Tue, 17 Jul 2001 10:29:47 GMT</pubDate>
+			<itunes:title>3Ms 11:24-47 - Kas kohvi kõrvale geko?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>131</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kolmas_Moosese_raamat.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>131</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/03_3Ms/PKK_0233_221106.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>3Ms 12:1-8 - Kahe elu märk</title>
+			<description>Vana Testament, Kolmas Moosese raamat, 12:1-8 salm</description>
+			<pubDate>Wed, 18 Jul 2001 10:29:47 GMT</pubDate>
+			<itunes:title>3Ms 12:1-8 - Kahe elu märk</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>132</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kolmas_Moosese_raamat.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>132</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/03_3Ms/PKK_0234_231106.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>3Ms 13:1-28 - Pidalitõve sõnum</title>
+			<description>Vana Testament, Kolmas Moosese raamat, 13:1-28 salm</description>
+			<pubDate>Thu, 19 Jul 2001 10:29:47 GMT</pubDate>
+			<itunes:title>3Ms 13:1-28 - Pidalitõve sõnum</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>133</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kolmas_Moosese_raamat.png"/>
+			<itunes:duration>1797</itunes:duration>
+			<guid>133</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/03_3Ms/PKK_0235_241106.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>3Ms 13:29-14:7 - Pidalitõbise õudne saatus</title>
+			<description>Vana Testament, Kolmas Moosese raamat, 13:29-14:7 salm</description>
+			<pubDate>Fri, 20 Jul 2001 10:29:47 GMT</pubDate>
+			<itunes:title>3Ms 13:29-14:7 - Pidalitõbise õudne saatus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>134</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kolmas_Moosese_raamat.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>134</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/03_3Ms/PKK_0236_271106.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>3Ms 14:8-57 - Tagasi ellu</title>
+			<description>Vana Testament, Kolmas Moosese raamat, 14:8-57 salm</description>
+			<pubDate>Sat, 21 Jul 2001 10:29:47 GMT</pubDate>
+			<itunes:title>3Ms 14:8-57 - Tagasi ellu</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>135</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kolmas_Moosese_raamat.png"/>
+			<itunes:duration>1780</itunes:duration>
+			<guid>135</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/03_3Ms/PKK_0237_281106.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>3Ms 15:1-33 - Kui sisemus saab avalikuks</title>
+			<description>Vana Testament, Kolmas Moosese raamat, 15:1-33 salm</description>
+			<pubDate>Sun, 22 Jul 2001 10:29:47 GMT</pubDate>
+			<itunes:title>3Ms 15:1-33 - Kui sisemus saab avalikuks</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>136</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kolmas_Moosese_raamat.png"/>
+			<itunes:duration>1797</itunes:duration>
+			<guid>136</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/03_3Ms/PKK_0238_291106.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>3Ms 16:1-22 - Suur lepituspäev</title>
+			<description>Vana Testament, Kolmas Moosese raamat, 16:1-22 salm</description>
+			<pubDate>Mon, 23 Jul 2001 10:29:47 GMT</pubDate>
+			<itunes:title>3Ms 16:1-22 - Suur lepituspäev</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>137</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kolmas_Moosese_raamat.png"/>
+			<itunes:duration>1773</itunes:duration>
+			<guid>137</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/03_3Ms/PKK_0239_301106.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>3Ms 16:23-17:16 - Vere sõnum</title>
+			<description>Vana Testament, Kolmas Moosese raamat, 16:23-17:16 salm</description>
+			<pubDate>Tue, 24 Jul 2001 10:29:47 GMT</pubDate>
+			<itunes:title>3Ms 16:23-17:16 - Vere sõnum</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>138</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kolmas_Moosese_raamat.png"/>
+			<itunes:duration>1792</itunes:duration>
+			<guid>138</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/03_3Ms/PKK_0240_011206.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>3Ms 18:1-30 - Keelatus seksuaalsuhted</title>
+			<description>Vana Testament, Kolmas Moosese raamat, 18:1-30 salm</description>
+			<pubDate>Wed, 25 Jul 2001 10:29:47 GMT</pubDate>
+			<itunes:title>3Ms 18:1-30 - Keelatus seksuaalsuhted</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>139</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kolmas_Moosese_raamat.png"/>
+			<itunes:duration>1779</itunes:duration>
+			<guid>139</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/03_3Ms/PKK_0241_041206.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>3Ms 19:1-37 - Kas koosmäng sujub</title>
+			<description>Vana Testament, Kolmas Moosese raamat, 19:1-37 salm</description>
+			<pubDate>Thu, 26 Jul 2001 10:29:47 GMT</pubDate>
+			<itunes:title>3Ms 19:1-37 - Kas koosmäng sujub</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>140</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kolmas_Moosese_raamat.png"/>
+			<itunes:duration>1773</itunes:duration>
+			<guid>140</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/03_3Ms/PKK_0242_051206.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>3Ms 20:1-27 - Karistusseadused</title>
+			<description>Vana Testament, Kolmas Moosese raamat, 20:1-27 salm</description>
+			<pubDate>Fri, 27 Jul 2001 10:29:47 GMT</pubDate>
+			<itunes:title>3Ms 20:1-27 - Karistusseadused</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>141</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kolmas_Moosese_raamat.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>141</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/03_3Ms/PKK_0243_061206.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>3Ms 21:1-24 - Preester ei või teha mida tahes</title>
+			<description>Vana Testament, Kolmas Moosese raamat, 21:1-24 salm</description>
+			<pubDate>Sat, 28 Jul 2001 10:29:47 GMT</pubDate>
+			<itunes:title>3Ms 21:1-24 - Preester ei või teha mida tahes</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>142</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kolmas_Moosese_raamat.png"/>
+			<itunes:duration>1796</itunes:duration>
+			<guid>142</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/03_3Ms/PKK_0244_071206.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>3Ms 22:1-33 - Kas pühadus on rõõmustav asi</title>
+			<description>Vana Testament, Kolmas Moosese raamat, 22:1-33 salm</description>
+			<pubDate>Sun, 29 Jul 2001 10:29:47 GMT</pubDate>
+			<itunes:title>3Ms 22:1-33 - Kas pühadus on rõõmustav asi</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>143</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kolmas_Moosese_raamat.png"/>
+			<itunes:duration>1776</itunes:duration>
+			<guid>143</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/03_3Ms/PKK_0245_081206.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>3Ms 23:1-25 - seitse seitse seitse</title>
+			<description>Vana Testament, Kolmas Moosese raamat, 23:1-25 salm</description>
+			<pubDate>Mon, 30 Jul 2001 10:29:47 GMT</pubDate>
+			<itunes:title>3Ms 23:1-25 - seitse seitse seitse</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>144</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kolmas_Moosese_raamat.png"/>
+			<itunes:duration>1796</itunes:duration>
+			<guid>144</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/03_3Ms/PKK_0246_111206.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>3Ms 23:26-24:23 - Alandus keset rõõmu</title>
+			<description>Vana Testament, Kolmas Moosese raamat, 23:26-24:23 salm</description>
+			<pubDate>Tue, 31 Jul 2001 10:29:47 GMT</pubDate>
+			<itunes:title>3Ms 23:26-24:23 - Alandus keset rõõmu</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>145</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kolmas_Moosese_raamat.png"/>
+			<itunes:duration>1785</itunes:duration>
+			<guid>145</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/03_3Ms/PKK_0247_121206.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>3Ms 25:1-55 - Vabadus ja lunastus</title>
+			<description>Vana Testament, Kolmas Moosese raamat, 25:1-55 salm</description>
+			<pubDate>Wed, 01 Aug 2001 10:29:47 GMT</pubDate>
+			<itunes:title>3Ms 25:1-55 - Vabadus ja lunastus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>146</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kolmas_Moosese_raamat.png"/>
+			<itunes:duration>1775</itunes:duration>
+			<guid>146</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/03_3Ms/PKK_0248_131206.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>3Ms 26:1-46 - Head ja halvad võimalused</title>
+			<description>Vana Testament, Kolmas Moosese raamat, 26:1-46 salm</description>
+			<pubDate>Thu, 02 Aug 2001 10:29:47 GMT</pubDate>
+			<itunes:title>3Ms 26:1-46 - Head ja halvad võimalused</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>147</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kolmas_Moosese_raamat.png"/>
+			<itunes:duration>1796</itunes:duration>
+			<guid>147</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/03_3Ms/PKK_0249_141206.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>3Ms 27:1-34 - Lunamaks</title>
+			<description>Vana Testament, Kolmas Moosese raamat, 27:1-34 salm</description>
+			<pubDate>Fri, 03 Aug 2001 10:29:47 GMT</pubDate>
+			<itunes:title>3Ms 27:1-34 - Lunamaks</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>148</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Kolmas_Moosese_raamat.png"/>
+			<itunes:duration>1774</itunes:duration>
+			<guid>148</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/03_3Ms/PKK_0250_151206.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+	</channel>
+</rss>

@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+	<channel>
+		<title>Pauluse kiri roomlastele</title>
+		<description>Piibliõppesarjas &quot;Piibel kaanest kaaneni&quot; loeb ja seletab õpetaja Aare Kimmel (EELK) salm-salmi kaupa ära terve Piibli, nii Vana kui Uue Testamendi raamatud, sidudes loetut tänapäevaga.</description>
+		<link>http://www.pereraadio.ee</link>
+		<language>es</language>
+		<image>
+			<url>https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_roomlastele.png</url>
+			<title>Piibel kaanest kaaneni</title>
+			<link>http://www.pereraadio.ee</link>
+		</image>
+		<itunes:type>episodic</itunes:type>
+		<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+		<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_roomlastele.png"/>
+		<itunes:category text="Education">
+		</itunes:category>
+
+		<item>
+			<title>Kiri Roomlastele - sissejuhatus</title>
+			<description>Uus Testament, Pauluse kiri roomlastele, Roomlastele salm</description>
+			<pubDate>Sun, 28 Dec 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Kiri Roomlastele - sissejuhatus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1026</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_roomlastele.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>1026</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/45_Rm/PKK_0519_010208.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Rm 1:1-4 - Horisont paika</title>
+			<description>Uus Testament, Pauluse kiri roomlastele, 1:1-4 salm</description>
+			<pubDate>Mon, 29 Dec 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Rm 1:1-4 - Horisont paika</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1027</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_roomlastele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1027</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/45_Rm/PKK_0520_040208.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Rm 1:2-15 - Olen kõigi võlglane</title>
+			<description>Uus Testament, Pauluse kiri roomlastele, 1:2-15 salm</description>
+			<pubDate>Tue, 30 Dec 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Rm 1:2-15 - Olen kõigi võlglane</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1028</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_roomlastele.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>1028</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/45_Rm/PKK_0521_050208.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Rm 1:16-18 - Dünamiidi aeg</title>
+			<description>Uus Testament, Pauluse kiri roomlastele, 1:16-18 salm</description>
+			<pubDate>Wed, 31 Dec 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Rm 1:16-18 - Dünamiidi aeg</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1029</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_roomlastele.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>1029</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/45_Rm/PKK_0522_060208.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Rm 1:19-32 - Kas igatsed vabadust</title>
+			<description>Uus Testament, Pauluse kiri roomlastele, 1:19-32 salm</description>
+			<pubDate>Thu, 01 Jan 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Rm 1:19-32 - Kas igatsed vabadust</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1030</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_roomlastele.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>1030</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/45_Rm/PKK_0523_070208.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Rm 2:1-16 - Kas vargalt võib varastada</title>
+			<description>Uus Testament, Pauluse kiri roomlastele, 2:1-16 salm</description>
+			<pubDate>Fri, 02 Jan 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Rm 2:1-16 - Kas vargalt võib varastada</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1031</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_roomlastele.png"/>
+			<itunes:duration>1797</itunes:duration>
+			<guid>1031</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/45_Rm/PKK_0524_080208.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Rm 2:17-3:4 - Kas oled tõeline juut</title>
+			<description>Uus Testament, Pauluse kiri roomlastele, 2:17-3:4 salm</description>
+			<pubDate>Sat, 03 Jan 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Rm 2:17-3:4 - Kas oled tõeline juut</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1032</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_roomlastele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1032</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/45_Rm/PKK_0525_110208.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Rm 3:5-20 - Mis on sõnade taga</title>
+			<description>Uus Testament, Pauluse kiri roomlastele, 3:5-20 salm</description>
+			<pubDate>Sun, 04 Jan 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Rm 3:5-20 - Mis on sõnade taga</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1033</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_roomlastele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1033</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/45_Rm/PKK_0526_120208.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Rm 3:21-30 - Uus tee</title>
+			<description>Uus Testament, Pauluse kiri roomlastele, 3:21-30 salm</description>
+			<pubDate>Mon, 05 Jan 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Rm 3:21-30 - Uus tee</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1034</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_roomlastele.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>1034</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/45_Rm/PKK_0527_130208.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Rm 3:31-4:8 - Kes kõlbab Jumalale</title>
+			<description>Uus Testament, Pauluse kiri roomlastele, 3:31-4:8 salm</description>
+			<pubDate>Tue, 06 Jan 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Rm 3:31-4:8 - Kes kõlbab Jumalale</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1035</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_roomlastele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1035</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/45_Rm/PKK_0528_140208.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Rm 4:9-5:1 - Lootus seal kus pole lootust</title>
+			<description>Uus Testament, Pauluse kiri roomlastele, 4:9-5:1 salm</description>
+			<pubDate>Wed, 07 Jan 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Rm 4:9-5:1 - Lootus seal kus pole lootust</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1036</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_roomlastele.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>1036</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/45_Rm/PKK_0529_150208.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Rm 5:2-11 - Päästmise tagajärjed</title>
+			<description>Uus Testament, Pauluse kiri roomlastele, 5:2-11 salm</description>
+			<pubDate>Thu, 08 Jan 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Rm 5:2-11 - Päästmise tagajärjed</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1037</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_roomlastele.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>1037</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/45_Rm/PKK_0530_180208.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Rm 5:12-6:2 - Aadam ja Jeesus Kristus</title>
+			<description>Uus Testament, Pauluse kiri roomlastele, 5:12-6:2 salm</description>
+			<pubDate>Fri, 09 Jan 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Rm 5:12-6:2 - Aadam ja Jeesus Kristus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1038</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_roomlastele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1038</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/45_Rm/PKK_0531_190208.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Rm 6:1-14 - Ristitud surmasse</title>
+			<description>Uus Testament, Pauluse kiri roomlastele, 6:1-14 salm</description>
+			<pubDate>Sat, 10 Jan 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Rm 6:1-14 - Ristitud surmasse</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1039</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_roomlastele.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>1039</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/45_Rm/PKK_0532_200208.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Rm 6:15-23 - Õppetund pühitsusest</title>
+			<description>Uus Testament, Pauluse kiri roomlastele, 6:15-23 salm</description>
+			<pubDate>Sun, 11 Jan 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Rm 6:15-23 - Õppetund pühitsusest</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1040</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_roomlastele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1040</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/45_Rm/PKK_0533_210208.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Rm 7:1-13 - Milleks seadust vaja on</title>
+			<description>Uus Testament, Pauluse kiri roomlastele, 7:1-13 salm</description>
+			<pubDate>Mon, 12 Jan 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Rm 7:1-13 - Milleks seadust vaja on</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1041</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_roomlastele.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>1041</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/45_Rm/PKK_0534_220208.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Rm 7:14-25 - Jumal ei ole lihaaretaja</title>
+			<description>Uus Testament, Pauluse kiri roomlastele, 7:14-25 salm</description>
+			<pubDate>Tue, 13 Jan 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Rm 7:14-25 - Jumal ei ole lihaaretaja</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1042</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_roomlastele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1042</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/45_Rm/PKK_0535_250208.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Rm 8:1-8 - Surmast ellu</title>
+			<description>Uus Testament, Pauluse kiri roomlastele, 8:1-8 salm</description>
+			<pubDate>Wed, 14 Jan 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Rm 8:1-8 - Surmast ellu</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1043</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_roomlastele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1043</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/45_Rm/PKK_0536_260208.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Rm 8:9-17 - Pühitsus ulatub üle surma</title>
+			<description>Uus Testament, Pauluse kiri roomlastele, 8:9-17 salm</description>
+			<pubDate>Thu, 15 Jan 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Rm 8:9-17 - Pühitsus ulatub üle surma</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1044</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_roomlastele.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>1044</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/45_Rm/PKK_0537_270208.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Rm 8:18-28 - Patusus on piinav</title>
+			<description>Uus Testament, Pauluse kiri roomlastele, 8:18-28 salm</description>
+			<pubDate>Fri, 16 Jan 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Rm 8:18-28 - Patusus on piinav</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1045</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_roomlastele.png"/>
+			<itunes:duration>1791</itunes:duration>
+			<guid>1045</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/45_Rm/PKK_0538_280208.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Rm 8:28-39 - Päästekindlus</title>
+			<description>Uus Testament, Pauluse kiri roomlastele, 8:28-39 salm</description>
+			<pubDate>Sat, 17 Jan 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Rm 8:28-39 - Päästekindlus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1046</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_roomlastele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1046</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/45_Rm/PKK_0539_290208.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Rm 9:1-4 - Jumala valik ja Iisrael</title>
+			<description>Uus Testament, Pauluse kiri roomlastele, 9:1-4 salm</description>
+			<pubDate>Sun, 18 Jan 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Rm 9:1-4 - Jumala valik ja Iisrael</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1047</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_roomlastele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1047</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/45_Rm/PKK_0540_030308.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Rm 9:5-13 - Eesavit ma vihkasin</title>
+			<description>Uus Testament, Pauluse kiri roomlastele, 9:5-13 salm</description>
+			<pubDate>Mon, 19 Jan 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Rm 9:5-13 - Eesavit ma vihkasin</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1048</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_roomlastele.png"/>
+			<itunes:duration>1744</itunes:duration>
+			<guid>1048</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/45_Rm/PKK_0541_040308.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Rm 9:14-33 - Pea meeles: et sa oled savi</title>
+			<description>Uus Testament, Pauluse kiri roomlastele, 9:14-33 salm</description>
+			<pubDate>Tue, 20 Jan 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Rm 9:14-33 - Pea meeles: et sa oled savi</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1049</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_roomlastele.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>1049</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/45_Rm/PKK_0542_050308.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Rm 10:1-12 - Kas räägib suu: mis südames</title>
+			<description>Uus Testament, Pauluse kiri roomlastele, 10:1-12 salm</description>
+			<pubDate>Wed, 21 Jan 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Rm 10:1-12 - Kas räägib suu: mis südames</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1050</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_roomlastele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1050</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/45_Rm/PKK_0543_060308.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Rm 10:13-21 - Kuulutamise ilu ja raskus</title>
+			<description>Uus Testament, Pauluse kiri roomlastele, 10:13-21 salm</description>
+			<pubDate>Thu, 22 Jan 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Rm 10:13-21 - Kuulutamise ilu ja raskus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1051</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_roomlastele.png"/>
+			<itunes:duration>1771</itunes:duration>
+			<guid>1051</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/45_Rm/PKK_0544_070308.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Rm 11:1-15 - Mõneks ajaks hüljatud</title>
+			<description>Uus Testament, Pauluse kiri roomlastele, 11:1-15 salm</description>
+			<pubDate>Fri, 23 Jan 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Rm 11:1-15 - Mõneks ajaks hüljatud</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1052</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_roomlastele.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>1052</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/45_Rm/PKK_0545_100308.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Rm 11:16-36 - Iisraeli tulevane saatus</title>
+			<description>Uus Testament, Pauluse kiri roomlastele, 11:16-36 salm</description>
+			<pubDate>Sat, 24 Jan 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Rm 11:16-36 - Iisraeli tulevane saatus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1053</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_roomlastele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1053</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/45_Rm/PKK_0546_110308.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Rm 12:1-8 - Usk argielus</title>
+			<description>Uus Testament, Pauluse kiri roomlastele, 12:1-8 salm</description>
+			<pubDate>Sun, 25 Jan 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Rm 12:1-8 - Usk argielus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1054</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_roomlastele.png"/>
+			<itunes:duration>1773</itunes:duration>
+			<guid>1054</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/45_Rm/PKK_0547_120308.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Rm 12:9-21 - Kumb võidab</title>
+			<description>Uus Testament, Pauluse kiri roomlastele, 12:9-21 salm</description>
+			<pubDate>Mon, 26 Jan 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Rm 12:9-21 - Kumb võidab</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1055</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_roomlastele.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>1055</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/45_Rm/PKK_0548_130308.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Rm 13:1-14 - Kelle sõna kuulata</title>
+			<description>Uus Testament, Pauluse kiri roomlastele, 13:1-14 salm</description>
+			<pubDate>Tue, 27 Jan 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Rm 13:1-14 - Kelle sõna kuulata</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1056</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_roomlastele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1056</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/45_Rm/PKK_0549_140308.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Rm 14:1-12 - Nõrgad ja tugevad</title>
+			<description>Uus Testament, Pauluse kiri roomlastele, 14:1-12 salm</description>
+			<pubDate>Wed, 28 Jan 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Rm 14:1-12 - Nõrgad ja tugevad</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1057</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_roomlastele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1057</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/45_Rm/PKK_0550_170308.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Rm 14:13-15:3 - Kaasinimese kandjad</title>
+			<description>Uus Testament, Pauluse kiri roomlastele, 14:13-15:3 salm</description>
+			<pubDate>Thu, 29 Jan 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Rm 14:13-15:3 - Kaasinimese kandjad</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1058</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_roomlastele.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>1058</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/45_Rm/PKK_0551_180308.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Rm 15:4-13 - Umbteelt avarusse</title>
+			<description>Uus Testament, Pauluse kiri roomlastele, 15:4-13 salm</description>
+			<pubDate>Fri, 30 Jan 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Rm 15:4-13 - Umbteelt avarusse</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1059</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_roomlastele.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>1059</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/45_Rm/PKK_0552_190308.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Rm 15:14-28 - Apostli reisiplaanid</title>
+			<description>Uus Testament, Pauluse kiri roomlastele, 15:14-28 salm</description>
+			<pubDate>Sat, 31 Jan 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Rm 15:14-28 - Apostli reisiplaanid</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1060</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_roomlastele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1060</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/45_Rm/PKK_0553_200308.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Rm 15:29-16:12 - Sõbrad on tähtsad</title>
+			<description>Uus Testament, Pauluse kiri roomlastele, 15:29-16:12 salm</description>
+			<pubDate>Sun, 01 Feb 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Rm 15:29-16:12 - Sõbrad on tähtsad</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1061</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_roomlastele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1061</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/45_Rm/PKK_0554_210308.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Rm 16:13-27 - Sa pole üksinda</title>
+			<description>Uus Testament, Pauluse kiri roomlastele, 16:13-27 salm</description>
+			<pubDate>Mon, 02 Feb 2004 10:29:47 GMT</pubDate>
+			<itunes:title>Rm 16:13-27 - Sa pole üksinda</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1062</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Pauluse_kiri_roomlastele.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>1062</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/45_Rm/PKK_0555_240308.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+	</channel>
+</rss>

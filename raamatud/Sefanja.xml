@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+	<channel>
+		<title>Sefanja</title>
+		<description>Piibliõppesarjas &quot;Piibel kaanest kaaneni&quot; loeb ja seletab õpetaja Aare Kimmel (EELK) salm-salmi kaupa ära terve Piibli, nii Vana kui Uue Testamendi raamatud, sidudes loetut tänapäevaga.</description>
+		<link>http://www.pereraadio.ee</link>
+		<language>es</language>
+		<image>
+			<url>https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Sefanja.png</url>
+			<title>Piibel kaanest kaaneni</title>
+			<link>http://www.pereraadio.ee</link>
+		</image>
+		<itunes:type>episodic</itunes:type>
+		<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+		<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Sefanja.png"/>
+		<itunes:category text="Education">
+		</itunes:category>
+
+		<item>
+			<title>Sissejuhatus Sefanja raamatusse</title>
+			<description>Vana Testament, Sefanja, Sefanja salm</description>
+			<pubDate>Mon, 24 Mar 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Sissejuhatus Sefanja raamatusse</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>747</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Sefanja.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>747</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/36_Sf/PKK_1299_200911.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Sf 1:1-6 - Ära peta ennast</title>
+			<description>Vana Testament, Sefanja, 1:1-6 salm</description>
+			<pubDate>Tue, 25 Mar 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Sf 1:1-6 - Ära peta ennast</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>748</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Sefanja.png"/>
+			<itunes:duration>1782</itunes:duration>
+			<guid>748</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/36_Sf/PKK_1300_210911.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Sf 1:7-12 - Millest kõneleb põhjapärm?</title>
+			<description>Vana Testament, Sefanja, 1:7-12 salm</description>
+			<pubDate>Wed, 26 Mar 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Sf 1:7-12 - Millest kõneleb põhjapärm?</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>749</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Sefanja.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>749</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/36_Sf/PKK_1301_220911.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Sf 1:13-2:3 - Kuuekordne päev</title>
+			<description>Vana Testament, Sefanja, 1:13-2:3 salm</description>
+			<pubDate>Thu, 27 Mar 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Sf 1:13-2:3 - Kuuekordne päev</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>750</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Sefanja.png"/>
+			<itunes:duration>1800</itunes:duration>
+			<guid>750</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/36_Sf/PKK_1302_230911.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Sf 2:4-15 - Uhkus ei tasu ära</title>
+			<description>Vana Testament, Sefanja, 2:4-15 salm</description>
+			<pubDate>Fri, 28 Mar 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Sf 2:4-15 - Uhkus ei tasu ära</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>751</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Sefanja.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>751</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/36_Sf/PKK_1303_260911.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Sf 3:1-8 - Petliku kõne eksitus</title>
+			<description>Vana Testament, Sefanja, 3:1-8 salm</description>
+			<pubDate>Sat, 29 Mar 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Sf 3:1-8 - Petliku kõne eksitus</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>752</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Sefanja.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>752</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/36_Sf/PKK_1304_270911.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Sf 3:9-20 - Tule tormi eest varju</title>
+			<description>Vana Testament, Sefanja, 3:9-20 salm</description>
+			<pubDate>Sun, 30 Mar 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Sf 3:9-20 - Tule tormi eest varju</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>753</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Sefanja.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>753</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/36_Sf/PKK_1305_280911.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+	</channel>
+</rss>

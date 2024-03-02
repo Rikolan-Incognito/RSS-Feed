@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+	<channel>
+		<title>Joel</title>
+		<description>Piibliõppesarjas &quot;Piibel kaanest kaaneni&quot; loeb ja seletab õpetaja Aare Kimmel (EELK) salm-salmi kaupa ära terve Piibli, nii Vana kui Uue Testamendi raamatud, sidudes loetut tänapäevaga.</description>
+		<link>http://www.pereraadio.ee</link>
+		<language>es</language>
+		<image>
+			<url>https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Joel.png</url>
+			<title>Piibel kaanest kaaneni</title>
+			<link>http://www.pereraadio.ee</link>
+		</image>
+		<itunes:type>episodic</itunes:type>
+		<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+		<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Joel.png"/>
+		<itunes:category text="Education">
+		</itunes:category>
+
+		<item>
+			<title>Jl 1:1-9 - Sissejuhatus Joeli raamatusse</title>
+			<description>Vana Testament, Joel, 1:1-9 salm</description>
+			<pubDate>Thu, 16 Jan 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Jl 1:1-9 - Sissejuhatus Joeli raamatusse</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>680</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Joel.png"/>
+			<itunes:duration>1795</itunes:duration>
+			<guid>680</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/29_Jl/PKK_1174_010211.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jl 1:1-14 - Rõõm on kadunud</title>
+			<description>Vana Testament, Joel, 1:1-14 salm</description>
+			<pubDate>Fri, 17 Jan 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Jl 1:1-14 - Rõõm on kadunud</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>681</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Joel.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>681</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/29_Jl/PKK_1175_020211.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jl 1:15-2:11 - Issanda päev on lähedal</title>
+			<description>Vana Testament, Joel, 1:15-2:11 salm</description>
+			<pubDate>Sat, 18 Jan 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Jl 1:15-2:11 - Issanda päev on lähedal</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>682</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Joel.png"/>
+			<itunes:duration>1778</itunes:duration>
+			<guid>682</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/29_Jl/PKK_1176_030211.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jl 2:12-17 - Rebige lõhki oma süda</title>
+			<description>Vana Testament, Joel, 2:12-17 salm</description>
+			<pubDate>Sun, 19 Jan 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Jl 2:12-17 - Rebige lõhki oma süda</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>683</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Joel.png"/>
+			<itunes:duration>1770</itunes:duration>
+			<guid>683</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/29_Jl/PKK_1177_040211.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jl 2:18- 3 - Õnnistuse vihmad</title>
+			<description>Vana Testament, Joel, 2:18- salm</description>
+			<pubDate>Mon, 20 Jan 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Jl 2:18- 3 - Õnnistuse vihmad</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>684</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Joel.png"/>
+			<itunes:duration>1798</itunes:duration>
+			<guid>684</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/29_Jl/PKK_1178_070211.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+		<item>
+			<title>Jl 4 - Issand mõistab rahvaste üle kohut</title>
+			<description>Vana Testament, Joel, 4 salm</description>
+			<pubDate>Tue, 21 Jan 2003 10:29:47 GMT</pubDate>
+			<itunes:title>Jl 4 - Issand mõistab rahvaste üle kohut</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>685</itunes:episode>
+			<itunes:author>Aare Kimmel ja Gea Talts</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/Rikolan-Incognito/RSS-Feed/main/pkk_img/Joel.png"/>
+			<itunes:duration>1799</itunes:duration>
+			<guid>685</guid>
+			<enclosure url="http://www.pereraadio.ee/uus/mp3/piibel_kaanest_kaaneni/29_Jl/PKK_1179_080211.mp3" length="0" type="audio/mpeg" />
+		</item>
+
+	</channel>
+</rss>
